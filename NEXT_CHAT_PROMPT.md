@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part002 whole-Part English glossary reconciliation
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part002 English editorial review
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -23,19 +23,23 @@ Do not reopen Part001 canonical Tamil, assembled Tamil or maintained English mer
 - outgoing **53→54 = PENDING direct audit / source-limited**
 - Part003 canonical records — **0**
 
-## Part002 English state
+## Part002 English durable state
 
 - planning/setup — **COMPLETE / PASS**
 - reserved batches — **E5–E8**
-- maintained English files — **4/4**
+- maintained Part002 English files — **4/4**
 - E5 — **SOURCE-CHECKED / COMPLETE — scans27–30**
 - E6 — **SOURCE-CHECKED / COMPLETE — scans31–38**
 - E7 — **SOURCE-CHECKED / COMPLETE — scans39–44**
 - E8 — **SOURCE-CHECKED / COMPLETE — scans45–53**
 - translated/source-checked — **4/4 / 4/4**
 - Tamil / English structural block coverage — **146/146**
-- internal source-boundary comments — **23/23 retained**
-- unresolved English source-check holds — **0**
+- unresolved source-check holds — **0**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English files changed by reconciliation — **1/4**
+- terminology occurrences corrected — **9**
+- reconciled distinction — **`வாளுக்கு வேலி` → Vaalukku Veli / `வாளுக்குவேலி` → Vaalukkuveli**
+- unresolved glossary holds — **0**
 - canonical / assembled Tamil edits caused by English — **0 / 0**
 - frozen Part001 English edits — **0**
 - Part003 leakage — **0**
@@ -46,6 +50,7 @@ Durable controls:
 - `translations/en/PART_002_TRANSLATION_PLAN.md`
 - `translations/en/PART_002_GLOSSARY.md`
 - `translations/en/PART_002_PROGRESS.md`
+- `translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
 - `translations/en/E5_SOURCE_CHECK.md`
 - `translations/en/E6_SOURCE_CHECK.md`
 - `translations/en/E7_SOURCE_CHECK.md`
@@ -61,47 +66,52 @@ Maintained Part002 English files:
 ## Read first
 
 1. `HANDOVER.md`
-2. `works/thenpandi-singam/translations/en/PART_002_GLOSSARY.md`
-3. `works/thenpandi-singam/translations/en/PART_002_PROGRESS.md`
-4. `works/thenpandi-singam/translations/en/PART_002_TRANSLATION_PLAN.md`
+2. `works/thenpandi-singam/translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
+3. `works/thenpandi-singam/translations/en/PART_002_GLOSSARY.md`
+4. `works/thenpandi-singam/translations/en/PART_002_PROGRESS.md`
 5. E5–E8 source-check records
 6. all four maintained Part002 English files
 7. their four verified assembled Tamil authorities
-8. Part001 reconciled glossary only for already locked carry-forward terms
+8. `works/thenpandi-singam/translations/en/TRANSLATION_REVIEW.md` only as the Part001 editorial-method precedent; do not reopen Part001
 
 ## Exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation across E5–E8**.
+Perform **Part002 English editorial review across all 4 maintained English files / scans27–53**.
 
-Reconcile all four English files together against the active Part002 glossary and verified Tamil evidence.
+This is an English-only editorial gate after source-check and glossary reconciliation.
 
-Check in particular:
+Review for:
 
-- Vaalukku Veli / Vaalukkuveli occurrence-sensitive handling;
-- Karutha Adappan, Vallatharayan, Vairamuthan, Vellai Ayyar, Urangaappuli, Veerammal, Kalyani Nachiyar, Meganathan;
-- Paganeri / Pattamangalam / Tirukkottiyur;
-- Ambalakkarar;
-- Adi Dravida;
-- thali;
-- chavukkai / chavadi source-sensitive handling;
-- `kal` retained without unsupported conversion;
-- Kaadai / Kolathari;
-- source register forms retained in dialogue;
-- chapter numerals and source-boundary provenance;
-- no accidental import of Part001 variant choices where Part002 Tamil visibly differs.
+- awkward or mechanically literal English;
+- grammar, article use, sentence flow and punctuation;
+- dialogue readability and speaker clarity;
+- unnecessary repetition introduced by English rather than present in Tamil;
+- over-expansion or under-translation;
+- preservation of source rhetoric, agency, chronology and information-release order;
+- preservation of deliberate source variants and all glossary locks;
+- preservation of source-facing names, offices, social labels and ritual terms;
+- no external historical, political, religious, caste/community or biographical explanation;
+- no modernizing or fact-correcting of source narration;
+- no alteration of non-rendering source-boundary provenance;
+- E8 must remain source-limited at scan53 and must not semantically complete scan54.
 
-Reconciliation may modify English only. Require:
+Editorial changes may affect English only.
 
+Require for closure:
+
+- files reviewed — **4/4**
+- unresolved editorial holds — **0**
 - canonical Tamil edits — **0**
 - assembled Tamil edits — **0**
 - frozen Part001 English edits — **0**
+- glossary locks altered — **0**
 - Part003 leakage — **0**
-- unresolved glossary holds — **0** for closure
-- outgoing **53→54 PENDING direct audit / source-limited** preserved
-- E8 terminal English must remain source-limited and must not semantically complete scan54.
+- outgoing **53→54 PENDING direct audit / source-limited** preserved.
 
-If reconciliation closes **RECONCILED / PASS**, the exact next gate is:
+Create a Part002-specific editorial review record; do not overwrite the existing Part001 `TRANSLATION_REVIEW.md`.
 
-**Part002 English editorial review across all 4 maintained English files / scans27–53.**
+If editorial review closes **PASS / CLOSED**, the exact next gate is:
 
-Do not begin editorial review in the same activity unless explicitly requested.
+**Part002 whole-Part bilingual review across Tamil + English / scans27–53.**
+
+Do not begin bilingual review in the same activity unless explicitly requested.
