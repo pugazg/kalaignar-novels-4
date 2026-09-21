@@ -230,3 +230,20 @@ was changed by this gate.
 Editorial review may improve English readability only where source meaning, agency, chronology, rhetoric, deliberate source variants, terminology locks, and the pending 26→27 boundary remain unchanged.
 
 Do not begin whole-Part bilingual review until editorial review closes.
+
+
+## Post-reconciliation editorial state
+
+English editorial review is now **PASS / CLOSED**.
+
+- files reviewed — **10/10**
+- files with English-only edits — **9/10**
+- English-only editorial corrections — **24**
+- glossary locks altered — **0**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+
+Durable record: `TRANSLATION_REVIEW.md`.
+
+Exact next gate: **whole-Part bilingual review across Tamil + English / scans1–26**.
