@@ -6,7 +6,7 @@ This ledger records the user's **18 split source PDFs**.
 
 | Part | Exact source filename | Local physical pages | Global scan range | File size (bytes) | SHA-256 | Source intake | Final state |
 |---:|---|---:|---|---:|---|---|---|
-| 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | Tamil/assembled closed; English source-checked + glossary + editorial + bilingual closed; release/readiness next |
+| 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | Part001 release/readiness closed; release-ready synchronization next |
 | 002 | pending | pending | pending | pending | pending | pending attachment | not started |
 | 003 | pending | pending | pending | pending | pending | blocked | not started |
 | 004 | pending | pending | pending | pending | pending | blocked | not started |
@@ -82,5 +82,8 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - whole-Part bilingual review: **PASS / CLOSED**
 - bilingual English-only corrections: **1**
 - unresolved bilingual holds: **0**
+- release/readiness: **PASS / CLOSED**
+- unresolved release/readiness blockers: **0**
+- release-ready synchronization: **NOT STARTED / NEXT**
 - translated/source-checked: **10/10 / 10/10**
-- exact next gate: **Part001 release/readiness report**
+- exact next gate: **Part001 release-ready synchronization, then final closure**
