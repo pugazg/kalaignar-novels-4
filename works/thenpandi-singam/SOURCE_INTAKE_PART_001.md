@@ -19,7 +19,7 @@ Source: `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம
 - author: **கலைஞர் மு. கருணாநிதி**
 - publisher visible on title/publication matter: **திருமகள் நிலையம்**
 - source-visible edition: **பதிமூன்றாம் பதிப்பு**
-- source-visible edition month/year: **ஆகஸ்ட் 2021**
+- source-visible edition month/year: **ஆகஸ்ட்,, 2021**
 - source-visible publication-page extent: **480 pages**
 - Part001 local page 1 = overall scan **1**
 - Part001 local page 26 = overall scan **26**
@@ -80,8 +80,8 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 
 - source intake: **COMPLETE / PASS**
 - Pass1: **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
-- Pass2A: **NOT STARTED / NEXT**
-- Pass2B: **BLOCKED**
+- Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
+- Pass2B: **NOT STARTED / NEXT**
 - Pass3: **BLOCKED**
 - Part audit: **BLOCKED**
 - final status sync: **BLOCKED**
@@ -93,8 +93,6 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 
 ## Exact next activity
 
-Begin **Part001 Pass2A — direct textual verification of scans1–26**.
+Begin **Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–26**.
 
-Create canonical page records from rendered source pixels only. Keep every new record at `status: "needs-review"` and `visual_fidelity: "needs-review"`.
-
-scans1–26 are text-complete; Pass1 is closed. Pass1 is complete. Pass2A is the next gate. Keep **26→27** pending until Part002 is supplied and directly checked.
+Canonical page records already cover all 26 scans. Keep every record at `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass1 and Pass2A are complete. Keep **26→27** pending until Part002 is supplied and directly checked.
