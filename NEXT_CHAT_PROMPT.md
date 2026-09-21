@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part002 Pass3 scans27–36
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part002 whole-Part audit
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -7,20 +7,6 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 Part001 is **FINAL CLOSED / FROZEN**.
 
 Do not reopen Part001 canonical Tamil, assembled Tamil or maintained English merely for stylistic polishing.
-
-Part001 final state:
-
-- source scans — **1–26**
-- Tamil canonical pages — **26/26 verified**
-- visual fidelity — **26/26 verified**
-- assembled Tamil — **10/10 VERIFIED / PASS / CLOSED**
-- English maintained/source-checked — **10/10 / 10/10**
-- glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- whole-Part bilingual review — **PASS / CLOSED**
-- release/readiness — **PASS / CLOSED**
-- final closure — **PASS / CLOSED / FROZEN**
-- outgoing **26→27 = GENUINE CONTINUATION / AUDITED**
 
 ## Active Part002 source
 
@@ -33,107 +19,71 @@ Part001 final state:
 - outgoing **53→54 = PENDING direct audit / source-limited**
 - Part003 is not registered and must not be reconstructed or inferred.
 
-The source PDF is not committed to Git. Ensure the Part002 PDF is available in the new chat before direct source verification.
-
-## Part002 durable state
+## Part002 durable gate state
 
 - source intake — **COMPLETE / PASS**
 - canonical page records — **27/27**
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
-- Pass2A source-text corrections — **1**
-- Pass2A unresolved textual questions — **0**
-- Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
-- Pass2B lexical / spacing / punctuation correction occurrences — **5**
-- Pass2B affected scans — **28, 33, 42, 50**
-- Pass2B historical-glyph corrections — **0**
-- Pass2B unresolved lexical / historical-glyph questions — **0**
+- Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**
+- Pass2B — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
+- Pass3 — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - verified Part002 pages — **0**
 - all Part002 records remain `status: "needs-review"`
 - all Part002 records remain `visual_fidelity: "needs-review"`
 
-### Pass2A correction ledger
+## Pass2 correction ledger
 
-- scan **50** / printed p.**38**:
-  - before — `விம்மியமுதாள்`
-  - source-confirmed — `விம்மியழுதாள்`
+Pass2A:
+- scan50 / printed38 — `விம்மியமுதாள்` → `விம்மியழுதாள்`
 
-### Pass2B correction ledger
+Pass2B:
+- scan28 / printed16 — `உணர்த்த முடியுமல்லவா?` → `உணர்த்த முடியும் அல்லவா?`
+- scan33 / printed21 — `நரம்பை முறித்துக் கொண்டு` → `நரம்பை முறித்துக் கொண்டும்`
+- scan33 / printed21 — `எலும்பை உடைத்துக் கொண்டு` → `எலும்பை உடைத்துக் கொண்டும்`
+- scan42 / printed30 — `இடத்திலும் - கோயில் மண்டபத்திலும்` → `இடத்திலும் -கோயில் மண்டபத்திலும்`
+- scan50 / printed38 — `கதறிவிட்டாள்!` → `கக்குரலிட்டாள்!`
 
-- scan **28** / printed p.**16**:
-  - before — `உணர்த்த முடியுமல்லவா?`
-  - source-confirmed — `உணர்த்த முடியும் அல்லவா?`
-- scan **33** / printed p.**21**:
-  - before — `நரம்பை முறித்துக் கொண்டு`
-  - source-confirmed — `நரம்பை முறித்துக் கொண்டும்`
-- scan **33** / printed p.**21**:
-  - before — `எலும்பை உடைத்துக் கொண்டு`
-  - source-confirmed — `எலும்பை உடைத்துக் கொண்டும்`
-- scan **42** / printed p.**30**:
-  - before — `இடத்திலும் - கோயில் மண்டபத்திலும்`
-  - source-confirmed — `இடத்திலும் -கோயில் மண்டபத்திலும்`
-- scan **50** / printed p.**38**:
-  - before — `கதறிவிட்டாள்!`
-  - source-confirmed — `கக்குரலிட்டாள்!`
+## Pass3 structural closure
 
-## Mandatory Part lock
-
-Finish the complete maintained workflow for **Part002** before beginning canonical transcription of Part003.
-
-Part003 may only be inspected later as an adjacent boundary witness for **53→54**. Do not create Part003 canonical body text until Part002 is fully closed/frozen.
+- illustrated chapter openings — **scans31, 39, 45**
+- chapter-closing ornament / blank-lower-field pages — **scans30, 38, 44**
+- split word — **45→46: `விவகாரங் / களையும்`**
+- split phrase — **50→51: `குமுறிக் / கொண்டிருந்த`**
+- terminal source fragment — scan53 ends **`என்ற அசைக்க`**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
 
 ## Read first
 
 1. `HANDOVER.md`
 2. `works/thenpandi-singam/THENPANDI_SINGAM_ARCHIVAL_GUIDELINES.md`
 3. `works/thenpandi-singam/WORKFLOW_STATUS.md`
-4. `works/thenpandi-singam/PART_002_PASS2B_PROGRESS.md`
-5. `works/thenpandi-singam/indexes/page-map.md`
-6. canonical page records for scans **27–36**
-7. `works/thenpandi-singam/PART_001_PASS3_PROGRESS.md` as the maintained Pass3 method precedent
+4. `works/thenpandi-singam/PART_002_PASS3_PROGRESS.md`
+5. `works/thenpandi-singam/PART_002_PASS2B_PROGRESS.md`
+6. `works/thenpandi-singam/indexes/page-map.md`
+7. `works/thenpandi-singam/PART_001_AUDIT.md` as the maintained audit precedent
 
 ## Exact next activity
 
-Perform **Part002 Pass3 — scans27–36 / local pages1–10**.
+Perform the **Part002 whole-Part audit — scans27–53 / local pages1–27**.
 
-This is the **visual / structural verification gate**. Compare each complete rendered source page against its canonical record and verify:
+Audit directly from live `main`:
 
-- displayed-text hierarchy;
-- paragraph/dialogue block structure;
-- source-visible headings;
-- printed pagination and recurring page furniture;
-- chapter openings and closings;
-- illustrations and other non-body matter;
-- intentional blank lower fields;
-- meaningful reading order;
-- physical continuation states across adjacent scans;
-- any visual evidence that requires a canonical Tamil correction.
+- canonical records present — **27/27**;
+- global scan coverage continuous **27–53** with duplicates/omissions = **0**;
+- `part: 2`, `part_page: 1–27`, source filename and printed-page mapping are internally consistent;
+- Pass2A evidence complete **27/27**;
+- Pass2B evidence complete **27/27**;
+- Pass3 evidence complete **27/27**;
+- correction ledgers reconcile exactly to the canonical records;
+- chapter/structural inventory agrees with Pass3;
+- physical continuation states are represented without duplicated, omitted or silently reconstructed Tamil;
+- incoming 26→27 remains **GENUINE CONTINUATION / AUDITED**;
+- outgoing 53→54 remains an explicit **PENDING direct audit / source-limited** condition and is not treated as a Tamil/glyph/visual defect in scans27–53;
+- Part003 canonical leakage remains **0**.
 
-Pass3 is not another normalization pass. Change canonical Tamil only where direct full-page source evidence proves a discrepancy.
+Do **not** promote `status` or `visual_fidelity` during the audit itself.
 
-For every reviewed page:
+If the whole-Part audit passes with 0 unresolved Tamil/glyph/visual/structural questions, the exact next gate is **Part002 final metadata/status synchronization — promote only status and visual_fidelity to verified across scans27–53**.
 
-- append/update formal Part002 Pass3 review evidence;
-- keep `status: "needs-review"`;
-- keep `visual_fidelity: "needs-review"`;
-- count any Pass3 textual corrections explicitly;
-- record unresolved visual / structural questions explicitly.
-
-After the batch, create/update the Part002 Pass3 progress control and synchronize the relevant repository controls.
-
-## Gate discipline
-
-- Do **not** promote Part002 pages to `verified` during Pass3.
-- Do **not** begin the whole-Part audit until Pass3 closes **COMPLETE / PASS**.
-- Keep **53→54 PENDING direct audit / source-limited**.
-- Keep Part001 **FINAL CLOSED / FROZEN**.
-- Keep Part003 canonical leakage at **0**.
-
-## Expected frontier after this activity
-
-If scans27–36 are fully reviewed with no unresolved blocker:
-
-- Part002 Pass3 — **IN PROGRESS — 10/27 REVIEWED**
-- exact next activity — **Part002 Pass3 scans37–46 / local pages11–20**
-
-If source evidence produces corrections or an unresolved visual/structural reading, record the exact evidence and let live `main` govern the next action.
+Keep Part001 **FINAL CLOSED / FROZEN**.
