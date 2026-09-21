@@ -7,7 +7,7 @@ This ledger records the user's **18 split source PDFs**.
 | Part | Exact source filename | Local physical pages | Global scan range | File size (bytes) | SHA-256 | Source intake | Final state |
 |---:|---|---:|---|---:|---|---|---|
 | 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 002 | pending | pending | pending | pending | pending | **NEXT / awaiting attachment** | not started |
+| 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **ACTIVE / Pass1 next** |
 | 003 | pending | pending | pending | pending | pending | blocked | not started |
 | 004 | pending | pending | pending | pending | pending | blocked | not started |
 | 005 | pending | pending | pending | pending | pending | blocked | not started |
@@ -36,6 +36,20 @@ This ledger records the user's **18 split source PDFs**.
 - incoming boundary: **NONE**
 - outgoing 26→27: **PENDING Part002 direct witness**
 
+## Part002 registered source facts
+
+- source family / archive identifier: **TVA_BOK_0065559**
+- local pages — **27**
+- global scans — **27–53**
+- no usable embedded/parsed text layer
+- rendered source page images are controlling
+- first scan — printed page **15**, chapter3 continuation
+- last scan — printed page **41**, chapter6 open continuation
+- incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- canonical Part002 page records — **0/27**
+- exact intake record — `SOURCE_INTAKE_PART_002.md`
+
 ## Registration rules
 
 For each Part, record:
@@ -54,11 +68,11 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 
 ## Current totals
 
-- registered Parts: **1 / 18**
-- registered physical scans: **26**
+- registered Parts: **2 / 18**
+- registered physical scans: **53**
 - canonical page records: **26**
 - final-closed Parts: **1**
-- active transcription Part: **none pending Part002 source intake**
+- active transcription Part: **Part002**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
 - Part001 Pass2B: **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part001 Pass3: **COMPLETE / PASS — 26/26 REVIEWED — 0 corrections / 0 unresolved**
@@ -85,8 +99,8 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - release/readiness: **PASS / CLOSED**
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
-- Part002 state: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
-- Part002 canonical records: **0**
+- Part002 state: **SOURCE INTAKE COMPLETE / PASS — Pass1 NEXT**
+- Part002 canonical records: **0/27**
 - final closure: **PASS / CLOSED / FROZEN**
 - translated/source-checked: **10/10 / 10/10**
-- exact next gate: **Part002 source intake when supplied**
+- exact next gate: **Part002 Pass1 scans27–36 / local pages1–10**
