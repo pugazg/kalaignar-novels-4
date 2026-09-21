@@ -1,0 +1,115 @@
+# Part 001 — English Translation Progress — தென்பாண்டிச் சிங்கம்
+
+## Overall state
+
+**PART001 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
+
+Tamil authority is closed through assembled Tamil:
+
+- canonical Tamil — **26/26 verified**
+- visual fidelity — **26/26 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **10/10 VERIFIED / PASS / CLOSED**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+- Part002 canonical records — **0**
+
+## Planned batches
+
+| Batch | Tamil assembled coverage | Scans | Planned English files | Status |
+|---|---|---:|---:|---|
+| **E1** | sections00–06 — front matter + prefaces/praise | 1–12 | 7 | **NOT STARTED / NEXT** |
+| **E2** | section07 — chapter1 | 13–16 | 1 | **BLOCKED pending E1** |
+| **E3** | section08 — chapter2 | 17–23 | 1 | **BLOCKED pending E2** |
+| **E4** | section09 — chapter3 Part001 portion | 24–26 | 1 | **BLOCKED pending E3** |
+| Glossary reconciliation | Part001 whole-Part | 1–26 | — | **BLOCKED pending E4** |
+| Editorial review | Part001 whole-Part English | 1–26 | — | **BLOCKED** |
+| Bilingual review | Part001 whole-Part | 1–26 | — | **BLOCKED** |
+| Release/readiness | Part001 | 1–26 | — | **BLOCKED** |
+| Release-ready sync | Part001 | 1–26 | — | **BLOCKED** |
+| Final closure | Part001 | 1–26 | — | **BLOCKED** |
+
+## Current counts
+
+- reserved English batches — **E1–E4 / 4**
+- planned maintained English files — **10**
+- translated files — **0/10**
+- source-checked files — **0/10**
+- unresolved English planning holds — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- Part002 leakage — **0**
+- English literary prose drafted in planning gate — **0**
+
+## Planned English file inventory
+
+### E1 — scans1–12
+
+1. `sections/00-front-matter.md`
+2. `sections/01-how-the-story-was-born.md`
+3. `sections/02-publishers-note.md`
+4. `sections/03-v-suba-manickam-appreciation.md`
+5. `sections/04-dr-balasubramaniyam-tribute.md`
+6. `sections/05-thirukkuralmani-thirunavukkarasu-appreciation.md`
+7. `sections/06-professor-anbazhagan-appreciation.md`
+
+### E2 — scans13–16
+
+8. `sections/07-chapter-01.md`
+
+### E3 — scans17–23
+
+9. `sections/08-chapter-02.md`
+
+### E4 — scans24–26
+
+10. `sections/09-chapter-03-part001.md`
+
+## Batch-number lock
+
+Pre-setup English workspace inventory:
+- files present — **README.md only**
+- existing E-batch controls — **0**
+- existing English literary section files — **0**
+- E1–E4 collisions — **0**
+
+Therefore **E1–E4** is reserved for Part001.
+
+## Batch discipline
+
+E1 must close **draft + source-check** before E2 begins.  
+E2 must close before E3.  
+E3 must close before E4.
+
+After E4:
+- Part001 whole-Part glossary reconciliation;
+- English editorial review;
+- whole-Part bilingual review;
+- release/readiness;
+- release-ready synchronization;
+- final closure.
+
+Part002 canonical transcription remains blocked until Part001 final closure.
+
+## Boundary lock
+
+- Part001 terminal scan — **26 / printed14**
+- chapter3 remains open;
+- **26→27 = PENDING direct audit / source-limited**
+- E4 stops at scan26;
+- Part002 wording imported into English — **0**
+- unsupported semantic completion — **0**
+
+## Planning gate completed
+
+Created:
+- `PART_001_TRANSLATION_PLAN.md`
+- `PART_001_GLOSSARY.md`
+- `PART_001_PROGRESS.md`
+
+No English literary prose is drafted in this planning gate.
+
+## Exact next activity
+
+**E1 draft + source-check — sections00–06 / scans1–12.**
+
+Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**.
