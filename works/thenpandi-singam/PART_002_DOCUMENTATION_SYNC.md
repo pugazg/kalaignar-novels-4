@@ -113,3 +113,14 @@ Do not begin assembled Tamil construction until the checkpoint closes. Do not be
 - unresolved planning holds — **0**
 - Part003 leakage — **0**
 - exact next gate — **E5 draft + source-check — section10 / scans27–30**
+
+
+## Downstream E5–E8 English state
+
+- Part002 English E5–E8 — **SOURCE-CHECKED / COMPLETE**
+- translated/source-checked — **4/4 / 4/4**
+- structural block coverage — **146/146**
+- unresolved source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- Part003 leakage — **0**
+- exact next gate — **Part002 whole-Part English glossary reconciliation across E5–E8**
