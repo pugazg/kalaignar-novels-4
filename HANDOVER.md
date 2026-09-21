@@ -63,7 +63,11 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 Pass2B lexical / spacing / punctuation corrections — **5**
 - Part001 Pass2B historical-glyph corrections — **0**
 - Part001 Pass2B unresolved lexical / historical-glyph questions — **0**
-- verified pages — **0**
+- Part001 Pass3 — **COMPLETE / PASS — 26/26 REVIEWED — 0 textual corrections / 0 unresolved**
+- Part001 Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- verified Tamil pages — **26/26**
+- verified visual-fidelity pages — **26/26**
 - assembled Tamil — **NOT STARTED**
 - English — **BLOCKED pending Tamil closure**
 - Parts002–018 — **not registered**
@@ -72,6 +76,6 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Begin **Part001 Pass3 — direct full-page visual / structural verification of scans1–26**.
+Perform **Part001 Tamil archival-ready checkpoint** after documentation synchronization.
 
-All 26 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass1, Pass2A and Pass2B are complete; Pass3 is the next gate. Keep **26→27** pending until Part002 is supplied.
+Part001 scans1–26 are verified. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied. Do not begin English.
