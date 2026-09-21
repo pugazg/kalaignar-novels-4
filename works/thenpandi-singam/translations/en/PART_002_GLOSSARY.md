@@ -130,11 +130,9 @@ Outgoing:
 - English literary prose created by glossary setup — **0**
 - Part003 leakage — **0**
 
-## Exact next gate
+## Planning handoff target
 
-**E5 draft + source-check — section10 / scans27–30.**
-
-Do not begin E6 until E5 is **SOURCE-CHECKED / COMPLETE**.
+The planning handoff target was **E5 draft + source-check — section10 / scans27–30**. E5–E8 are now source-checked and complete.
 
 
 ## Post-source-check state
