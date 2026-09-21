@@ -75,7 +75,7 @@ A figure approached with a broad smile and came to stand beside the Ambalakkarar
 
 Instead of making lines of happiness flash across Vallatharayan's face, the news of victory and the award ceremony brought by Vellai Ayyar made his face look like a sky gathering rain clouds. Yet he tried to master himself and said, “Oh! Is that so! Splendid! Splendid!”—trying, unsuccessfully, to summon happiness.
 
-Throughout the southern Pandya country everyone called Vellai Ayyar “Madurai Vellai Ayyar.” He followed the white men's mode of dress by wearing coat and suit, yet, as proof that he had not abandoned old custom either, he wore a turban as well,
+Throughout the southern Pandya country everyone called Vellai Ayyar “Madurai Vellai Ayyar.” He followed the white men's mode of dress by wearing a coat and suit, yet, as proof that he had not abandoned old custom either, he wore a turban as well,
 
 <!-- source boundary: scan 21 → scan 22 -->
 
@@ -85,7 +85,7 @@ At a time when the dominance of the white rulers was gradually spreading, when t
 
 To support the ascendancy of the white rulers, he took the word “Vellai”; in the name of preserving old customs, he joined to it the word “Ayyar”; thus he became Vellai Ayyar! But he was no venomous creature!
 
-The news that Vaalukku Veli's younger brother Karutha Adappan had planted the flag of victory in the wrestling contest conducted by the Madurai Nayak king and received an award made Vallatharayan angry even with Vellai Ayyar.
+The news that Vaalukku Veli's younger brother Karutha Adappan had planted the flag of victory in the wrestling contest conducted by the Madurai Nayak king and received an award made Vallatharayan angry even at Vellai Ayyar.
 
 Somehow, without even fully knowing why, he could not rid himself of the hostility that had arisen in him toward Paganeri Ambalakkarar Vaalukku Veli and Karutha Adappan. He could win the affection of the people of Pattamangalam. He could stand as a symbol of brotherly love. Yet some kind of resentment toward Vaalukku Veli and Karutha Adappan had taken root in him.
 
@@ -93,6 +93,6 @@ Somehow, without even fully knowing why, he could not rid himself of the hostili
 
 Do they not say that, sometimes, even without any reason, the fire of jealousy scorches the heart? Perhaps that was Vallatharayan's condition! Or perhaps an inherited feud between the Paganeri Ambalakkarar family and the Pattamangalam Ambalakkarar family, long lying as a sprout, had now put out branches—who could say?
 
-Realising that the news brought by Vellai Ayyar had somehow taken the shine off the *mulaippari* festival at Pattamangalam, Vairamuthan, Veerammal, Urangaappuli, and the others maintained silence while watching Vallatharayan's face.
+Realising that the news brought by Vellai Ayyar had somehow taken the shine off the *mulaippari* festival at Pattamangalam, Vairamuthan, Veerammal, Urangaappuli, and the others remained silent, watching Vallatharayan's face.
 
-Then, breaking that silence, came the sound of a horse's hooves approaching at speed. Every person turned toward the sound. Karutha Adappan, younger brother of Vaalukku Veli, pulled the reins of the fast-approaching horse and brought it to a halt. He dismounted at the entrance of the Pattamangalam Pillaiyar temple, patted the horse, and walked toward Vallatharayan's family.
+Then, breaking that silence, came the sound of a horse's hooves approaching at speed. Everyone turned toward the sound. Karutha Adappan, younger brother of Vaalukku Veli, pulled the reins of the fast-approaching horse and brought it to a halt. He dismounted at the entrance of the Pattamangalam Pillaiyar temple, patted the horse, and walked toward Vallatharayan's family.
