@@ -88,3 +88,15 @@ All Part002 scans are now represented canonically. Pass1 does not upgrade textua
 Begin **Part002 Pass2A — direct textual verification of scans27–53**.
 
 Keep all records `needs-review` during Pass2A. Do not begin Pass2B until Pass2A closes **COMPLETE / PASS**.
+
+## Downstream Pass2A state
+
+- Pass2A — **IN PROGRESS — 22/27 REVIEWED**
+- reviewed scans — **27–48**
+- source-text corrections — **0**
+- unresolved textual questions — **0**
+- status promotions — **0**
+- remaining Pass2A scope — **scans49–53**
+- exact next activity — **complete Part002 Pass2A scans49–53**
+
+Pass1 remains **COMPLETE / PASS — 27/27 TEXT-COMPLETE**.
