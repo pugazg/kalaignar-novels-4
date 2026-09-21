@@ -69,7 +69,7 @@
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **1**
-- Part002: **ACTIVE / PART AUDIT NEXT**
+- Part002: **ACTIVE / DOCUMENTATION SYNC NEXT**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
@@ -83,6 +83,10 @@
 - Part002 Pass2A: **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**
 - Part002 Pass2B: **COMPLETE / PASS — 27/27 REVIEWED — scans27–53 — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 Pass3: **COMPLETE / PASS — 27/27 REVIEWED — scans27–53 — 0 textual corrections / 0 unresolved visual-structural questions**
+- Part002 Part audit: **PASS / COMPLETE**
+- Part002 Tamil status: **27/27 verified**
+- Part002 visual fidelity: **27/27 verified**
+- Part002 final metadata/status synchronization: **PASS / CLOSED**
 
 ## Workflow baseline
 
@@ -125,8 +129,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Perform the **Part002 whole-Part audit — scans27–53 / local pages1–27**.
+Perform **Part002 documentation synchronization**.
 
-Pass3 is **COMPLETE / PASS — 27/27 REVIEWED** with **0 textual corrections / 0 unresolved visual-structural questions**. Keep all records `needs-review` during the audit. Final metadata/status synchronization follows only after the audit passes. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+The Part002 audit is **PASS / COMPLETE** and final metadata/status synchronization is **PASS / CLOSED — 27/27 verified Tamil + visual**. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
