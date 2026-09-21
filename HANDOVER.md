@@ -85,13 +85,17 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - English E4 — **SOURCE-CHECKED / COMPLETE**
 - English source coverage — **scans1–26 / all 26 supplied pages**
 - unresolved English source-check holds — **0**
-- English glossary reconciliation — **NOT STARTED / NEXT**
+- English glossary reconciliation — **RECONCILED / PASS**
+- glossary reconciliation English files changed — **4/10**
+- glossary terminology occurrences corrected — **7**
+- unresolved glossary holds — **0**
+- English editorial review — **NOT STARTED / NEXT**
 - Parts002–018 — **not registered**
 - Part002 canonical records — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Exact next activity
 
-Perform **Part001 whole-Part English glossary reconciliation across E1–E4 / scans1–26**.
+Perform **Part001 English editorial review across all 10 maintained English files / scans1–26**.
 
-Do not begin editorial review until glossary reconciliation closes. Part002 canonical transcription remains blocked. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
+Do not begin whole-Part bilingual review until editorial review closes. Part002 canonical transcription remains blocked. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
