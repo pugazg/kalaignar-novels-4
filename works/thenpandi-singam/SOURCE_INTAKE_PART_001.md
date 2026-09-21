@@ -96,11 +96,15 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 - whole-Part bilingual review: **PASS / CLOSED — 10/10 pairs / 1 English-only correction / 0 unresolved**
 - release/readiness: **PASS / CLOSED — 0 blockers**
 - release-ready synchronization: **PASS / CLOSED**
-- final closure: **NOT STARTED / NEXT**
+- final closure: **PASS / CLOSED / FROZEN**
+- Part002 activation: **NEXT / AWAITING SOURCE INTAKE**
+- Part002 canonical records: **0**
 - final closure: **BLOCKED**
 
 ## Exact next activity
 
-Perform **Part001 final closure — PASS / CLOSED / FROZEN**.
+**Part002 source intake when supplied.**
 
-Part002 canonical transcription remains blocked until closure. Keep **26→27 PENDING direct audit / source-limited**.
+Use Part002's first physical scan as the direct boundary witness for **26→27**. Do not alter frozen Part001 body text during that boundary evidence completion.
+
+Part001 remains **FINAL CLOSED / FROZEN**.
