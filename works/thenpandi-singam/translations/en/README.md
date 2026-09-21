@@ -249,7 +249,7 @@ Planning result:
 | E7 | section12 — chapter5 | 39–44 | `sections/12-chapter-05.md` | **PLANNED / NOT STARTED** |
 | E8 | section13 — chapter6 Part002 portion | 45–53 | `sections/13-chapter-06-part002.md` | **PLANNED / NOT STARTED** |
 
-Exact next gate: **E5 draft + source-check — section10 / scans27–30**.
+Planning handoff target was **E5 draft + source-check — section10 / scans27–30**; E5–E8 are now complete.
 
 Do not begin E6 until E5 closes **SOURCE-CHECKED / COMPLETE**.
 
