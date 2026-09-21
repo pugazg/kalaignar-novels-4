@@ -16,16 +16,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 001 | 8 | 8 | — | `டாக்டர் பாலசுப்பிரமணியம் புகழாரம்`; Pass1 text-complete | needs-review | `pages/0008-balasubramaniyam-pugazhaaram.md` |
 | 001 | 9 | 9 | — | `திருக்குறள்மணி திருநாவுக்கரசு பாராட்டு!`; Pass1 text-complete | needs-review | `pages/0009-thirukkuralmani-thirunavukkarasu-paarattu.md` |
 | 001 | 10 | 10 | — | same commendatory section continuation/close; intentional blank lower field; Pass1 text-complete | needs-review | `pages/0010-thirukkuralmani-thirunavukkarasu-paarattu-cont.md` |
-| 001 | 11 | 11 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 12 | 12 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 13 | 13 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 14 | 14 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 15 | 15 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 16 | 16 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 17 | 17 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 18 | 18 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 19 | 19 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 20 | 20 | — | unclassified — Pass1 direct source review pending | not-started | — |
+| 001 | 11 | 11 | — | Anbazhagan commendatory note; Pass1 text-complete | needs-review | `pages/0011-anbazhaganar-paarattu.md` |
+| 001 | 12 | 12 | — | commendatory continuation/close; Pass1 text-complete | needs-review | `pages/0012-anbazhaganar-paarattu-cont.md` |
+| 001 | 13 | 13 | 1 | chapter 1 opening; illustrated; Pass1 text-complete | needs-review | `pages/0013-chapter-01.md` |
+| 001 | 14 | 14 | 2 | chapter 1 continuation; Pass1 text-complete | needs-review | `pages/0014-chapter-01.md` |
+| 001 | 15 | 15 | 3 | chapter 1 continuation; open quotation to scan16; Pass1 text-complete | needs-review | `pages/0015-chapter-01.md` |
+| 001 | 16 | 16 | 4 | chapter 1 close; ornamental ending / blank lower field; Pass1 text-complete | needs-review | `pages/0016-chapter-01.md` |
+| 001 | 17 | 17 | 5 | chapter 2 opening; illustrated; Pass1 text-complete | needs-review | `pages/0017-chapter-02.md` |
+| 001 | 18 | 18 | 6 | chapter 2 continuation; sentence continues to scan19; Pass1 text-complete | needs-review | `pages/0018-chapter-02.md` |
+| 001 | 19 | 19 | 7 | chapter 2 continuation; quotation continues to scan20; Pass1 text-complete | needs-review | `pages/0019-chapter-02.md` |
+| 001 | 20 | 20 | 8 | chapter 2 continuation; Pass1 text-complete | needs-review | `pages/0020-chapter-02.md` |
 | 001 | 21 | 21 | — | unclassified — Pass1 direct source review pending | not-started | — |
 | 001 | 22 | 22 | — | unclassified — Pass1 direct source review pending | not-started | — |
 | 001 | 23 | 23 | — | unclassified — Pass1 direct source review pending | not-started | — |
@@ -51,7 +51,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 
 - registered Parts: **1/18**
 - registered physical scan rows: **26**
-- canonical page records: **10**
-- Part001 Pass1: **IN PROGRESS — 10/26 TEXT-COMPLETE**
+- canonical page records: **20**
+- Part001 Pass1: **IN PROGRESS — 20/26 TEXT-COMPLETE**
 - outgoing Part001 boundary 26→27: **PENDING Part002 witness**
-- exact next activity: **Part001 Pass1 scans11–20 / local pages11–20**
+- exact next activity: **Part001 Pass1 scans21–26 / local pages21–26**
