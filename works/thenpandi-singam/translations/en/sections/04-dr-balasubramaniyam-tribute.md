@@ -15,9 +15,9 @@ status: "source-checked"
 
 This novel begins with a description of Vaalukku Veli, whose figure can still be seen in the village of Kathapattu. It ends with him, even in death, holding in his hand the *thali* that would restore the life of the sister he loved so deeply. That is one great distinction.
 
-There is another distinction; I would praise this novel in three words. First, labour; second, feeling; third, elevation.
+There is another distinction: I would praise this novel in three words. First, labour; second, feeling; third, elevation.
 
-If we take labour in this novel, I can see, as one who evaluates researchers, that no less effort has been expended here than one of our university students would spend gathering material for a doctoral degree.
+As for the labour behind this novel, I can see—as one who evaluates researchers—that no less effort has been expended here than one of our university students would spend gathering material for a doctoral degree.
 
 When it comes to feeling, throughout this book we can see a feeling for Tamil, a feeling for the Tamil people, and a feeling for the Tamil land.
 
