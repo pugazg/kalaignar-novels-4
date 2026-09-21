@@ -29,7 +29,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 
 - chapter 2 continuation; printed page **10**;
 - opens by completing scan21's sentence;
-- source-visible forms including `கட்டபொம்மன்களாக்கப்பட்டும்`, `அய்யர்மீதேகூட`, and `வாளுக்கு வேலியிடத்தும்` are retained;
+- source-visible forms including `கட்டபொம்மன்களாக்கப் பட்டும்`, `அய்யர்மீதேகூட`, and `வாளுக்கு வேலியிடத்தும்` are retained;
 - recurring author header is non-body page furniture;
 - Pass1 result: **TEXT-COMPLETE / needs-review**;
 - Pass2A result: **REVIEWED / PASS**; Pass2B result: **REVIEWED / PASS**; Pass3 is not started.
