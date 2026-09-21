@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf"
-transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
+transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A + Pass 2B reviewed"
 ---
 
 ## Source transcription
 
 கொண்டு நெற்றி நிறையத் திருநீறும் பூசிக்கொண்டு காட்சியளிக்கும் கனவான்தான் அவர்!
 
-வெள்ளையர் ஆதிக்கம் மெல்ல மெல்லப் பரவி, அவர்களை எதிர்த்தோர் கட்டபொம்மன்களாக்கப்பட்டும், ஆதரித்தோர் எட்டப்பன்களாகச் சிம்மாசனப் பதவி பெற்றும், தமிழகம் அடிமைப் புழுதியில் ஆழ்ந்து கொண்டிருந்த வேளையில் எதிர்காலத்தை அரசியல் ரீதியாக ஆரூடம் கணித்துப் பார்த்த மதுரை வெங்கடரமண அய்யர் அவர்கள், தன்னை வெள்ளை அய்யர் என்ற புனை பெயரால் அழைத்துக்கொண்டு கால வெள்ளத்தைக் கடந்திடும் கலையைச் செம்மையாகக் கற்று அதனைச் செயல்படுத்தி வெற்றியும் பெற ஆரம்பித்தவர்.
+வெள்ளையர் ஆதிக்கம் மெல்ல மெல்லப் பரவி, அவர்களை எதிர்த்தோர் கட்டபொம்மன்களாக்கப் பட்டும், ஆதரித்தோர் எட்டப்பன்களாகச் சிம்மாசனப் பதவி பெற்றும், தமிழகம் அடிமைப் புழுதியில் ஆழ்ந்து கொண்டிருந்த வேளையில் எதிர்காலத்தை அரசியல் ரீதியாக ஆரூடம் கணித்துப் பார்த்த மதுரை வெங்கடரமண அய்யர் அவர்கள், தன்னை வெள்ளை அய்யர் என்ற புனை பெயரால் அழைத்துக்கொண்டு கால வெள்ளத்தைக் கடந்திடும் கலையைச் செம்மையாகக் கற்று அதனைச் செயல்படுத்தி வெற்றியும் பெற ஆரம்பித்தவர்.
 
 வெள்ளையர் ஆதிக்கத்திற்கு ஆதரவு தந்திட “வெள்ளை” என்ற சொல்லும், பழைய சம்பிரதாயங்களைப் பாதுகாப்பது என்ற பெயரால் “அய்யர்” என்ற சொல்லும் இணைந்து வெள்ளை அய்யர் ஆனவர் அவர்! ஆனால் விஷப் பிராணி அல்ல!
 
@@ -32,7 +32,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 - source-visible forms including `கட்டபொம்மன்களாக்கப்பட்டும்`, `அய்யர்மீதேகூட`, and `வாளுக்கு வேலியிடத்தும்` are retained;
 - recurring author header is non-body page furniture;
 - Pass1 result: **TEXT-COMPLETE / needs-review**;
-- Pass2A result: **REVIEWED / PASS**; Pass2B / Pass3 are not started.
+- Pass2A result: **REVIEWED / PASS**; Pass2B result: **REVIEWED / PASS**; Pass3 is not started.
 
 
 ## Formal Part001 Pass 2A review
@@ -44,4 +44,15 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass2B, Pass3, Part audit and final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 22; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 10; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part001 Pass 2B review
+
+- independent lexical / word-boundary / punctuation-sensitive and historical-glyph reread completed directly against the attached Part001 source pixels;
+- source-text / lexical / spacing / punctuation corrections: **1**;
+- source word boundary: `கட்டபொம்மன்களாக்கப்பட்டும்` → `கட்டபொம்மன்களாக்கப் பட்டும்`;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass3, Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 22; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 10; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
