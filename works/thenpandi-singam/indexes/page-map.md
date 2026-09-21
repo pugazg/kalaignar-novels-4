@@ -79,6 +79,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - unresolved bilingual holds: **0**
 - release/readiness: **PASS / CLOSED**
 - unresolved release/readiness blockers: **0**
-- release-ready synchronization: **NOT STARTED / NEXT**
+- release-ready synchronization: **PASS / CLOSED**
+- final closure: **NOT STARTED / NEXT**
 - translated/source-checked English files: **10/10 / 10/10**
-- exact next activity: **Part001 release-ready synchronization, then final closure**
+- exact next activity: **Part001 final closure — PASS / CLOSED / FROZEN**
