@@ -113,3 +113,18 @@ Do not begin Part audit in the same activity. Keep **26→27 PENDING direct audi
 - visual fidelity — **26/26 verified**
 - outgoing 26→27 — **PENDING direct audit / source-limited**
 - exact next activity — **documentation synchronization, then Tamil archival-ready checkpoint**
+
+
+## Final downstream state for this activity
+
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **10/10 VERIFIED / PASS / CLOSED**
+- assembled canonical coverage — **26/26**
+- assembly omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part002 body leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+- exact next gate — **Part001 English translation planning/setup**
+- English prose drafted in this activity — **0**
