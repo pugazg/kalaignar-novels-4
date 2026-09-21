@@ -14,7 +14,7 @@
 - supplied-source design: **18 split PDF files**, each <= **50 MB**
 - split basis: **file size; per-Part page counts may vary**
 - source family / archive identifier: **TVA_BOK_0065559**
-- total physical scan count: **pending intake of Parts002–018**
+- total physical scan count: **pending intake of Parts003–018**
 - source PDFs remain outside Git
 
 ## Canonical numbering rule
@@ -46,13 +46,13 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - scan13 begins printed novel page **1**
 - scan26 carries printed page **14**
 - incoming boundary: **NONE**
-- outgoing 26→27: **PENDING Part002 direct witness**
+- outgoing 26→27: **GENUINE CONTINUATION / AUDITED**
 - durable intake: `works/thenpandi-singam/SOURCE_INTAKE_PART_001.md`
 
 ## Current state
 
 - repository controls — **INITIALIZED / SYNCHRONIZED**
-- registered Parts — **1/18**
+- registered Parts — **2/18**
 - Part001 source intake — **COMPLETE / PASS**
 - Part001 canonical page records — **26/26 — scans1–26**
 - Part001 Pass1 — **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
@@ -101,21 +101,24 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - release-ready synchronization — **PASS / CLOSED**
 - final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **1**
-- active transcription Part — **none pending Part002 source intake**
-- Part002 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- active transcription Part — **Part002**
+- Part002 source intake — **COMPLETE / PASS**
+- Part002 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
+- Part002 bytes — **48,679,196**
+- Part002 SHA-256 — `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b`
+- Part002 local pages — **27**
+- Part002 global scans — **27–53**
+- incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- Part002 — **ACTIVE / PASS1 NEXT**
 - Parts002–018 — **not registered**
-- Part002 canonical records — **0**
+- Part002 canonical records — **0/27**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Exact next activity
 
-**Part002 source intake when the user supplies the Part002 PDF.**
+Begin **Part002 Pass1 — global scans27–36 / local pages1–10**.
 
-During intake:
-1. register exact source metadata;
-2. establish Part002 physical extent/global scan range;
-3. inspect scan27 as the direct **26→27** boundary witness;
-4. update frozen Part001 boundary metadata only from direct evidence;
-5. then begin Part002 Pass1.
+Create canonical records from the Part002 rendered source only. Do not begin Pass2A until Pass1 covers all **27/27** scans. Keep **53→54** pending.
 
-Part001 is **FINAL CLOSED / FROZEN**.
+Part001 remains **FINAL CLOSED / FROZEN**.
