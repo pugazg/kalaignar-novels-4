@@ -99,12 +99,22 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 - final closure: **PASS / CLOSED / FROZEN**
 - Part002 activation: **NEXT / AWAITING SOURCE INTAKE**
 - Part002 canonical records: **0**
-- final closure: **BLOCKED**
+
+
+## Post-freeze boundary evidence completion — Part002 intake
+
+Part002 has now been supplied and directly inspected.
+
+- Part002 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
+- Part002 local1 = global scan27 / printed15
+- direct scan26→27 comparison — **GENUINE CONTINUATION / AUDITED**
+- same chapter/scene/dialogue sequence — **PASS**
+- printed pagination — **14→15**
+- reconstructed/missing bridge text — **0**
+- frozen Part001 canonical/assembled/English body changes — **0**
+
+Part001 remains **FINAL CLOSED / FROZEN**. This is boundary/provenance evidence completion only.
 
 ## Exact next activity
 
-**Part002 source intake when supplied.**
-
-Use Part002's first physical scan as the direct boundary witness for **26→27**. Do not alter frozen Part001 body text during that boundary evidence completion.
-
-Part001 remains **FINAL CLOSED / FROZEN**.
+**Part002 Pass1 — global scans27–36 / local pages1–10.**
