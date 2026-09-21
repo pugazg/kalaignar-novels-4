@@ -77,5 +77,8 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - whole-Part bilingual review: **PASS / CLOSED**
 - bilingual English-only corrections: **1**
 - unresolved bilingual holds: **0**
+- release/readiness: **PASS / CLOSED**
+- unresolved release/readiness blockers: **0**
+- release-ready synchronization: **NOT STARTED / NEXT**
 - translated/source-checked English files: **10/10 / 10/10**
-- exact next activity: **Part001 release/readiness report**
+- exact next activity: **Part001 release-ready synchronization, then final closure**
