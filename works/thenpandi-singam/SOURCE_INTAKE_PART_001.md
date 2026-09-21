@@ -82,10 +82,10 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 - Pass1: **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
 - Pass2B: **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
-- Pass3: **NOT STARTED / NEXT**
-- Part audit: **BLOCKED**
-- final status sync: **BLOCKED**
-- documentation sync: **BLOCKED**
+- Pass3: **COMPLETE / PASS — 26/26 REVIEWED — 0 textual corrections / 0 unresolved**
+- Part audit: **PASS / COMPLETE**
+- final status sync: **PASS / CLOSED — 26/26 verified**
+- documentation sync: **IN PROGRESS / NEXT**
 - Tamil archival-ready: **BLOCKED**
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED**
@@ -93,6 +93,6 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 
 ## Exact next activity
 
-Begin **Part001 Pass3 — direct full-page visual / structural verification of scans1–26**.
+Complete **Part001 documentation synchronization**, then perform the **Tamil archival-ready checkpoint**.
 
-Canonical page records already cover all 26 scans. Keep every record at `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass1, Pass2A and Pass2B are complete. Keep **26→27** pending until Part002 is supplied and directly checked.
+All supplied scans1–26 are verified. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
