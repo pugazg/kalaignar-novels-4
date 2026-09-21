@@ -252,3 +252,29 @@ Planning result:
 Exact next gate: **E5 draft + source-check — section10 / scans27–30**.
 
 Do not begin E6 until E5 closes **SOURCE-CHECKED / COMPLETE**.
+
+
+## Part002 E5–E8 source-check closure
+
+**E5–E8 — SOURCE-CHECKED / COMPLETE.**
+
+- maintained Part002 English files — **4/4**
+- translated/source-checked — **4/4 / 4/4**
+- source coverage — **scans27–53 / all 27 supplied pages**
+- Tamil / English content-display block coverage — **146/146**
+- internal source-boundary comments retained — **23/23**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited / preserved**
+
+Durable records:
+- `E5_SOURCE_CHECK.md`
+- `E6_SOURCE_CHECK.md`
+- `E7_SOURCE_CHECK.md`
+- `E8_SOURCE_CHECK.md`
+
+Exact next gate: **Part002 whole-Part English glossary reconciliation across E5–E8**.
+
+Do not begin editorial review until glossary reconciliation closes **RECONCILED / PASS**.
