@@ -117,7 +117,7 @@ Completed:
 - scans37–46 / local11–20 — **10/10**
 - scans47–53 / local21–27 — **7/7**
 
-All 27 canonical Part002 records remain `needs-review` pending Pass2A/Pass2B/Pass3.
+All 27 canonical Part002 records remain `needs-review` pending the whole-Part audit and final metadata/status synchronization.
 
 ## Exact next activity
 
@@ -149,7 +149,7 @@ Pass2A handoff target was **Pass2B scans27–36 / local pages1–10**; that batc
 - historical-glyph corrections — **0**
 - unresolved lexical / historical-glyph questions — **0**
 - all Part002 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
-- exact next activity — **Part002 Pass3 scans27–36 / local pages1–10**
+- Pass2B handoff target was **Part002 Pass3 scans27–36 / local pages1–10**; Pass3 is now complete.
 
 
 ## Downstream Pass3 state
