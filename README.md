@@ -81,7 +81,7 @@
 - Part002 canonical records: **27/27**
 - Part002 Pass1: **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Part002 Pass2A: **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**
-- Part002 Pass2B: **IN PROGRESS — 20/27 REVIEWED — scans27–46 — 4 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
+- Part002 Pass2B: **COMPLETE / PASS — 27/27 REVIEWED — scans27–53 — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 
 ## Workflow baseline
 
@@ -124,8 +124,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Complete **Part002 Pass2B — scans47–53 / local pages21–27**.
+Begin **Part002 Pass3 — scans27–36 / local pages1–10**.
 
-Scans27–46 are **20/20 REVIEWED / PASS** with **4 lexical / spacing / punctuation correction occurrences across scans28, 33 and 42, 0 historical-glyph corrections, 0 unresolved questions**. Keep all records `needs-review`. Close Pass2B only after the final 7 scans are independently reread; do not begin Pass3 in the same activity. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Pass2B is **COMPLETE / PASS — 27/27 REVIEWED** with **5 lexical / spacing / punctuation correction occurrences across scans28, 33, 42 and 50, 0 historical-glyph corrections, 0 unresolved questions**. Keep all records `needs-review` during Pass3. Do not begin the whole-Part audit until Pass3 closes. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
