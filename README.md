@@ -40,6 +40,11 @@
 - Pass2B lexical / spacing / punctuation corrections: **5**
 - Pass2B historical-glyph corrections: **0**
 - Pass2B unresolved lexical / historical-glyph questions: **0**
+- Part001 Pass3: **COMPLETE / PASS — 26/26 REVIEWED — 0 textual corrections / 0 unresolved**
+- Part001 Part audit: **PASS / COMPLETE**
+- Part001 Tamil status: **26/26 verified**
+- Part001 visual fidelity: **26/26 verified**
+- final metadata/status synchronization: **PASS / CLOSED**
 - Part002 canonical records: **0**
 
 ## Workflow baseline
@@ -82,6 +87,6 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Begin **Part001 Pass3 — direct full-page visual / structural verification of scans1–26**.
+Perform **Part001 Tamil archival-ready checkpoint** after documentation synchronization.
 
-Pass1, Pass2A and Pass2B are complete. All 26 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not begin Part audit until Pass3 closes. Keep **26→27** pending until Part002 is supplied.
+The supplied Part001 scans1–26 are **26/26 verified** for Tamil and visual fidelity. The unavailable **26→27** adjacent boundary remains **PENDING direct audit / source-limited** and must remain pending until Part002 is supplied.
