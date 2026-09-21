@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 Pass3 scans27–36**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 whole-Part audit**
 
 ## Work
 
@@ -111,7 +111,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 global scans — **27–53**
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
-- Part002 — **ACTIVE / PASS2B COMPLETE — 27/27 REVIEWED**
+- Part002 — **ACTIVE / PASS3 COMPLETE — 27/27 REVIEWED**
 - Parts003–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -120,21 +120,23 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 Pass2B lexical / spacing / punctuation corrections — **5 occurrences / 4 scans**
 - Part002 Pass2B historical-glyph corrections — **0**
 - Part002 Pass2B unresolved lexical / historical-glyph questions — **0**
+- Part002 Pass3 — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
+- Part002 Pass3 textual corrections / unresolved visual-structural questions — **0 / 0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
-- continuation gate — **Part002 Pass3**
+- continuation gate — **Part002 whole-Part audit**
 - Part002 Pass2B final state — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
-- next Pass3 batch — **scans27–36 / local pages1–10**
+- Part002 Pass3 final state — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part002 source PDF to be available there
 - repository controls must be reread from live `main` before continuing
 
 ## Exact next activity
 
-Begin **Part002 Pass3 — scans27–36 / local pages1–10**.
+Perform the **Part002 whole-Part audit — scans27–53 / local pages1–27**.
 
-Pass2B is **COMPLETE / PASS — 27/27 REVIEWED** with **5 lexical / spacing / punctuation correction occurrences across scans28, 33, 42 and 50, 0 historical-glyph corrections, 0 unresolved**. Keep every Part002 record `needs-review` during Pass3. Do not begin the whole-Part audit until Pass3 closes, and keep **53→54 PENDING direct audit / source-limited**.
+Pass3 is **COMPLETE / PASS — 27/27 REVIEWED** with **0 textual corrections / 0 unresolved visual-structural questions**. Keep every Part002 record `needs-review` during the audit; final metadata/status synchronization is a separate gate. Preserve **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
