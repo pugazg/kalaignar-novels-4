@@ -60,6 +60,9 @@
 - editorial files reviewed / edited: **10 / 9**
 - English-only editorial corrections: **24**
 - unresolved editorial holds: **0**
+- whole-Part bilingual review: **PASS / CLOSED**
+- bilingual English-only corrections: **1**
+- unresolved bilingual holds: **0**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
@@ -105,6 +108,6 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Perform **Part001 whole-Part bilingual review across Tamil + English / scans1–26**.
+Create and complete the **Part001 release/readiness report**.
 
-Do not begin release/readiness until bilingual review closes. Part002 canonical transcription remains blocked. The **26→27** boundary remains **PENDING direct audit / source-limited**.
+Do not begin release-ready synchronization, final Part001 closure or Part002 canonical transcription until release/readiness closes. The **26→27** boundary remains **PENDING direct audit / source-limited**.
