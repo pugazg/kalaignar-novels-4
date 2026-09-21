@@ -79,8 +79,8 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 ## Gate state
 
 - source intake: **COMPLETE / PASS**
-- Pass1: **IN PROGRESS — 20/26 TEXT-COMPLETE**
-- Pass2A: **BLOCKED until Pass1 completes all 26 scans**
+- Pass1: **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
+- Pass2A: **NOT STARTED / NEXT**
 - Pass2B: **BLOCKED**
 - Pass3: **BLOCKED**
 - Part audit: **BLOCKED**
@@ -93,8 +93,8 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 
 ## Exact next activity
 
-Continue **Part001 Pass1 — global scans21–26 / local pages21–26**.
+Begin **Part001 Pass2A — direct textual verification of scans1–26**.
 
 Create canonical page records from rendered source pixels only. Keep every new record at `status: "needs-review"` and `visual_fidelity: "needs-review"`.
 
-scans1–20 are text-complete; scans21–26 remain pending. Do not begin Pass2A until Pass1 covers all **26** Part001 scans. Keep **26→27** pending until Part002 is supplied and directly checked.
+scans1–26 are text-complete; Pass1 is closed. Pass1 is complete. Pass2A is the next gate. Keep **26→27** pending until Part002 is supplied and directly checked.
