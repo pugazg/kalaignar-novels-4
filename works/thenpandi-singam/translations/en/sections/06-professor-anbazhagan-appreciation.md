@@ -20,7 +20,7 @@ Kalaignar's
 
 Professor Anbazhagan:
 
-When I consider how many different currents of thought have been introduced here and there in this story, I find myself eager to keep reading it continuously. I feel that *Thenpandi Singam* is a very fine novel.
+When I consider how many different currents of thought have been introduced here and there in this story, I find myself eager to keep reading. I feel that *Thenpandi Singam* is a very fine novel.
 
 When reading stories, if descriptions become excessive in some stories or novels, one sometimes feels that it is enough simply to turn over a few pages in between.
 
@@ -32,10 +32,10 @@ There are writers who write novels merely to fill pages. Because some readers en
 
 <!-- source boundary: scan 11 → scan 12 -->
 
-Even though Kalaignar is certainly skilled in description, he has described with a sense of measure. At no point does the pace of the story falter; what needs to be conveyed does not grow dim; the circumstances do not lose their shape. He has created this novel by conveying each situation only to the extent required.
+Even though Kalaignar is certainly skilled at description, he has kept his descriptions measured. At no point does the pace of the story falter; what needs to be conveyed does not grow dim; the circumstances do not lose their shape. He has created this novel by conveying each situation only to the extent required.
 
 As far as I know, I do not feel that through *Thenpandi Singam* he has merely recreated scenes from a two-year period some two hundred years ago.
 
 It stands as a novel capable of reflecting the feelings that may have arisen in the hearts of the Tamil people at a time when the dominance of the white man was growing in the South.
 
-Like Vaalukku Veli—and before him, like Kattabomman—and even before them, what kinds of feelings existed among the brave people of Tamil Nadu, among those who were military leaders and those who were kings of small territories: the novel portrays the current of thought among the Tamil people across a century.
+The novel portrays a century-long current of thought among the Tamil people—the feelings held by brave figures like Vaalukku Veli, by Kattabomman before him, and by still earlier military leaders and rulers of small territories.
