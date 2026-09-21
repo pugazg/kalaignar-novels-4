@@ -274,3 +274,25 @@ Durable source-check records:
 Perform **Part001 whole-Part English glossary reconciliation across E1–E4**.
 
 Do not begin editorial review until glossary reconciliation closes.
+
+
+## Whole-Part glossary reconciliation closure
+
+**RECONCILED / PASS**
+
+- English files checked — **10/10**
+- files changed by glossary reconciliation — **4/10**
+- English terminology occurrences corrected — **7**
+- deliberate source variants retained — **PASS**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+- 26→27 pending-boundary integrity — **PASS**
+
+Durable record: `GLOSSARY_RECONCILIATION.md`.
+
+## Current exact next gate
+
+**Part001 English editorial review across all 10 maintained English files / scans1–26.**
+
+Editorial review must preserve the reconciled glossary locks and the pending 26→27 boundary. Do not begin bilingual review until editorial review closes.
