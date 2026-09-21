@@ -116,3 +116,27 @@ Durable record: `TRANSLATION_REVIEW.md`.
 **Part001 whole-Part bilingual review across Tamil + English / scans1–26.**
 
 Do not begin release/readiness until bilingual review closes.
+
+
+## Whole-Part bilingual review
+
+**PASS / CLOSED**
+
+- Tamil/English section pairs — **10/10**
+- source coverage — **scans1–26**
+- structural block coverage — **132/132**
+- glossary corrections rechecked — **7/7 PASS**
+- editorial corrections rechecked — **24/24 PASS**
+- further bilingual English-only corrections — **1**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+- 26→27 remains **PENDING direct audit / source-limited**
+
+Durable record: `BILINGUAL_REVIEW.md`.
+
+## Exact next gate
+
+**Part001 release/readiness report.**
+
+Do not begin release-ready synchronization, final Part001 closure or Part002 transcription until release/readiness closes.
