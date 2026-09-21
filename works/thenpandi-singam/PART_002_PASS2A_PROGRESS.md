@@ -58,7 +58,7 @@ Pass2A source-text corrections — **1**.
 - page status promotions — **0**
 - all scans27–53 remain `status: "needs-review"`
 - all scans27–53 remain `visual_fidelity: "needs-review"`
-- Pass2B — **IN PROGRESS downstream — 20/27 REVIEWED**
+- Pass2B — **COMPLETE / PASS downstream — 27/27 REVIEWED**
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part003 canonical leakage — **0**
 
@@ -80,6 +80,6 @@ The direct textual verification gate is closed. No page is promoted to verified 
 
 ## Exact next activity
 
-Pass2B is now **IN PROGRESS — 20/27 REVIEWED — scans27–46** with **4 lexical / spacing / punctuation corrections / 0 historical-glyph corrections / 0 unresolved**.
+Pass2B is now **COMPLETE / PASS — 27/27 REVIEWED — scans27–53** with **5 lexical / spacing / punctuation corrections / 0 historical-glyph corrections / 0 unresolved**.
 
-Exact next activity: **Part002 Pass2B — scans47–53 / local pages21–27**. Keep all Part002 records `needs-review`, do not begin Pass3 until Pass2B closes, and keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Exact next activity: **Part002 Pass3 — scans27–36 / local pages1–10**. Keep all Part002 records `needs-review`, do not begin Pass3 until Pass2B closes, and keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
