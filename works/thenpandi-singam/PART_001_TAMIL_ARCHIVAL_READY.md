@@ -142,3 +142,16 @@ Do not begin English until assembled Tamil closes.
 - Part002 leakage — **0**
 - outgoing 26→27 — **PENDING direct audit / source-limited**
 - exact next gate — **E1 draft + source-check — sections00–06 / scans1–12**
+
+
+## English E1–E4 downstream state
+
+- planning/setup — **COMPLETE / PASS**
+- E1–E4 — **SOURCE-CHECKED / COMPLETE**
+- maintained English files — **10/10**
+- source coverage — **scans1–26**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+- exact next gate — **Part001 whole-Part English glossary reconciliation**
