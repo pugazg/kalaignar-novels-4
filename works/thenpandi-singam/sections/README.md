@@ -166,6 +166,13 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - visual fidelity — **27/27 verified**
 - scans — **27–53**
 - Part002 assembled files — **4/4 VERIFIED**
+
+Inventory:
+
+1. `10-chapter-03-part002.md` — scans27–30
+2. `11-chapter-04.md` — scans31–38
+3. `12-chapter-05.md` — scans39–44
+4. `13-chapter-06-part002.md` — scans45–53
 - canonical scan coverage — **27/27**
 - omissions / duplicates — **0 / 0**
 - unsupported Tamil body insertion — **0**
