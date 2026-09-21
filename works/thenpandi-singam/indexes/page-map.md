@@ -2,7 +2,7 @@
 
 Global `scan_page` is the physical scan order across all 18 supplied split PDFs and never resets.
 
-Part001 physical mapping is registered from direct source intake. Printed pagination and structural classification are populated only when directly verified during Pass1; they are not inferred merely from sequence.
+Part001 physical mapping and Part002 physical range are registered from direct source intake. Printed pagination and structural classification are populated only when directly verified during Pass1; they are not inferred merely from sequence.
 
 | Part | Part page | Global scan | Printed page | Structural note | Status | Canonical record |
 |---:|---:|---:|---|---|---|---|
@@ -31,7 +31,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 001 | 23 | 23 | 11 | chapter 2 close; ornamental ending / blank lower field; Pass1 + Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0023-chapter-02.md` |
 | 001 | 24 | 24 | 12 | chapter 3 opening; illustrated; Pass1 + Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0024-chapter-03.md` |
 | 001 | 25 | 25 | 13 | chapter 3 continuation; quotation continues to scan26; Pass1 + Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0025-chapter-03.md` |
-| 001 | 26 | 26 | 14 | chapter 3 continuation; Part001 terminal scan; 26→27 pending witness; Pass1 + Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0026-chapter-03.md` |
+| 001 | 26 | 26 | 14 | chapter 3 continuation; Part001 terminal scan; 26→27 **GENUINE CONTINUATION / AUDITED**; Pass1 + Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0026-chapter-03.md` |
 
 ## Intake observations
 
@@ -41,16 +41,24 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - scan17 visibly opens chapter **2** / printed page **5**
 - scan24 visibly opens chapter **3** / printed page **12**
 - scan26 visibly carries printed page **14**
+- Part002 local1 / scan27 visibly carries printed page **15** and directly continues chapter3 from scan26
+- 26→27 — **GENUINE CONTINUATION / AUDITED**
+- Part002 local4 / scan30 visibly carries printed page **18** and closes chapter3
+- Part002 local5 / scan31 opens illustrated chapter4; no visible folio
+- Part002 local13 / scan39 opens illustrated chapter5; no visible folio
+- Part002 local19 / scan45 opens illustrated chapter6; no visible folio
+- Part002 local27 / scan53 visibly carries printed page **41** and ends in an open chapter6 continuation
 
 ## Split accounting
 
 - Part001: local **1–26** → global **1–26** — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf`
-- Part002–Part018: **pending intake; no global ranges assigned**
+- Part002: local **1–27** → global **27–53** — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
+- Part003–Part018: **pending intake; no global ranges assigned**
 
 ## Current state
 
-- registered Parts: **1/18**
-- registered physical scan rows: **26**
+- registered Parts: **2/18**
+- registered physical scan range: **53 scans across Parts001–002**
 - canonical page records: **26**
 - Part001 Pass1: **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
@@ -58,7 +66,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part001 Pass3: **COMPLETE / PASS — 26/26 REVIEWED — 0 textual corrections / 0 unresolved**
 - Part001 audit: **PASS / COMPLETE**
 - Part001 final status sync: **PASS / CLOSED — 26/26 verified Tamil + visual**
-- outgoing Part001 boundary 26→27: **PENDING Part002 witness**
+- outgoing Part001 / incoming Part002 boundary 26→27: **GENUINE CONTINUATION / AUDITED**
 - documentation synchronization: **PASS / COMPLETE**
 - Part001 Tamil archival-ready: **PASS / CLOSED**
 - Part001 assembled Tamil: **10/10 VERIFIED / PASS / CLOSED**
@@ -82,6 +90,9 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - release-ready synchronization: **PASS / CLOSED**
 - final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **1**
-- Part002: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part002 source intake: **COMPLETE / PASS**
+- Part002 canonical rows/records: **0/27**
+- Part002 Pass1: **NOT STARTED / NEXT**
+- outgoing Part002 boundary 53→54: **PENDING direct audit / source-limited**
 - translated/source-checked English files: **10/10 / 10/10**
-- exact next activity: **Part002 source intake when supplied**
+- exact next activity: **Part002 Pass1 scans27–36 / local pages1–10**
