@@ -23,7 +23,7 @@
 - complete-source physical extent: **pending Parts002–018**
 - source family: **TVA_BOK_0065559**
 - Part001 source intake: **COMPLETE / PASS**
-- Part001 canonical page records: **20/26 — scans1–20**
+- Part001 canonical page records: **26/26 — scans1–26**
 - source-visible edition: **பதிமூன்றாம் பதிப்பு — ஆகஸ்ட் 2021**
 - source-visible publication-page extent: **480 pages**
 - outgoing 26→27: **PENDING Part002 direct witness**
@@ -34,8 +34,8 @@
 Part001:
 
 - Source intake — **COMPLETE / PASS**
-- Pass1 — **IN PROGRESS — 20/26 TEXT-COMPLETE**
-- Pass2A — BLOCKED
+- Pass1 — **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
+- Pass2A — **NOT STARTED / NEXT**
 - Pass2B — BLOCKED
 - Pass3 — BLOCKED
 - Part audit — BLOCKED
@@ -50,6 +50,6 @@ Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may lat
 
 ## Exact next action
 
-**Part001 Pass1 — global scans21–26 / local pages21–26.**
+**Part001 Pass2A — direct textual verification of scans1–26.**
 
-scans1–20 are text-complete; scans21–26 remain pending. Keep all new canonical records `needs-review` for both textual and visual status. Do not begin Pass2A until all **26** Part001 scans are text-complete.
+scans1–26 are text-complete; Pass1 is closed. Keep all new canonical records `needs-review` for both textual and visual status. Pass1 is complete. Pass2A is the next gate.
