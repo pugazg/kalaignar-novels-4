@@ -60,4 +60,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part001 final status sync: **PASS / CLOSED — 26/26 verified Tamil + visual**
 - outgoing Part001 boundary 26→27: **PENDING Part002 witness**
 - documentation synchronization: **PASS / COMPLETE**
-- exact next activity: **Part001 Tamil archival-ready checkpoint**
+- Part001 Tamil archival-ready: **PASS / CLOSED**
+- Part001 assembled Tamil: **10/10 VERIFIED / PASS / CLOSED**
+- assembled canonical coverage: **26/26**
+- exact next activity: **Part001 English translation planning/setup**
