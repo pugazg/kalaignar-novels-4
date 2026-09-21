@@ -202,3 +202,27 @@ No file under `works/thenpandi-singam/pages/` or `works/thenpandi-singam/section
 **Part001 whole-Part bilingual review across Tamil + English / scans1–26.**
 
 Do not begin release/readiness, release-ready synchronization, final Part001 closure or Part002 transcription until bilingual review closes.
+
+
+## Post-editorial bilingual state
+
+Whole-Part bilingual review is **PASS / CLOSED**.
+
+All **24/24** editorial corrections were rechecked against verified Tamil and passed.
+
+One further English-only source-alignment correction was required by bilingual review in chapter1:
+- pre-bilingual: `armlets on legs like iron pillars and arms like balls of steel`
+- maintained: **`ornamental bands on legs like iron pillars and on arms like balls of steel`**
+- Tamil basis: `கால்களிலும் ... புஜங்களிலும் காப்புகள்`
+- canonical / assembled Tamil changes — **0 / 0**
+
+Current bilingual accounting:
+- Tamil/English pairs — **10/10 PASS**
+- further bilingual English-only corrections — **1**
+- unresolved bilingual holds — **0**
+- Part002 leakage — **0**
+- 26→27 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `BILINGUAL_REVIEW.md`.
+
+Exact next gate: **Part001 release/readiness report**.
