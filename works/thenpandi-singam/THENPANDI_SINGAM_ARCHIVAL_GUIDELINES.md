@@ -188,8 +188,9 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part001 canonical records — **26/26 — scans1–26**
 - Part001 Pass1 — **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 26/26 REVIEWED — 14 source-text corrections; 0 unresolved**
-- Part001 Pass2B — **NOT STARTED / NEXT**
+- Part001 Pass2B — **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
+- Part001 Pass3 — **NOT STARTED / NEXT**
 - outgoing 26→27 — **PENDING Part002 direct witness**
 - Parts002–018 source metadata — **PENDING**
 - Part002 canonical records — **0**
-- exact next activity — **Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–26**
+- exact next activity — **Part001 Pass3 — direct full-page visual / structural verification of scans1–26**
