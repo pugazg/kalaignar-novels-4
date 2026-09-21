@@ -216,13 +216,17 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part001 release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **1**
-- active transcription Part — **none pending Part002 source intake**
-- Part002 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- active transcription Part — **Part002**
+- Part002 source intake — **COMPLETE / PASS**
+- Part002 global scans — **27–53**
+- Part002 incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
+- Part002 outgoing 53→54 — **PENDING direct audit / source-limited**
+- Part002 Pass1 — **NOT STARTED / NEXT**
 - Part001 unresolved English source-check holds — **0**
 - Part001 translated/source-checked English files — **10/10 / 10/10**
 - Part001 canonical Tamil — **26/26 verified**
 - Part001 visual fidelity — **26/26 verified**
-- outgoing 26→27 — **PENDING Part002 direct witness**
-- Parts002–018 source metadata — **PENDING**
-- Part002 canonical records — **0**
-- exact next activity — **Part002 source intake when supplied**
+- outgoing 26→27 — **GENUINE CONTINUATION / AUDITED**
+- Parts003–018 source metadata — **PENDING**
+- Part002 canonical records — **0/27**
+- exact next activity — **Part002 Pass1 scans27–36 / local pages1–10**
