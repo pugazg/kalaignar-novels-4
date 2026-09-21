@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf"
-transcription_method: "direct source-image transcription; Part001 Pass 1 batch scans1–10"
+transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
 # பதிப்புரை
@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 batch s
 
 தமிழகத்தின் வருங்கால வரலாறுதான் கலைஞரால் எழுதப்படக் காத்து நிற்கிறது என்றால், முன்னே சென்றிட்ட பழம் வரலாறும் இவரால் உயிரூட்டப் பெற்று நம்முன்னே ஒளிவீசும் அற்புதத்தை இங்கே காண்கிறோம்.
 
-வரலாற்றுப் புதினம் என்பது ஒரு இனத்தினுடைய, ஒரு காலகட்டத்தில் நிகழ்ந்த சம்பவங்களைச் சான்றுகளுடனும், கால, புள்ளி விவரங்களுடனும் கூறுவது மட்டும் மாகாது. சரித்திர ஆராய்ச்சியாளர்கள் தருகிற புள்ளி விவரங்களுக்குப் பின்னே ஒளிந்திருக்கிற அந்த இனத்தின் வீழ்ச்சிக்கான தன்மைகளையும், சூழ்நிலைகளையும், எப்படித் தாழ்வுற்றார்கள், எங்ஙனம் உறங்க வைக்கப்பட்டார்கள் என்பதனையும் நிகழ்கால சமூகத்திற்கு எடுத்துக்காட்டி விழிப்படைய வைப்பதே ஒரு நல்ல வரலாற்றுப் புதினம் - அத்தகைய புதினங்களைப் படைப்பது எப்படி என்பதற்குக் கலைஞரவர்கள் இந்நாவலின் மூலம் இலக்கணம் வகுத்துத் தந்திருக்கிறார்கள்.
+வரலாற்றுப் புதினம் என்பது ஒரு இனத்தினுடைய. ஒரு காலகட்டத்தில் நிகழ்ந்த சம்பவங்களைச் சான்றுகளுடனும், கால, புள்ளி விவரங்களுடனும் கூறுவது மட்டும் மாகாது. சரித்திர ஆராய்ச்சியாளர்கள் தருகிற புள்ளி விவரங்களுக்குப் பின்னே ஒளிந்திருக்கிற அந்த இனத்தின் வீழ்ச்சிக்கான தன்மைகளையும், சூழ்நிலைகளையும், எப்படித் தாழ்வுற்றார்கள், எங்ஙனம் உறங்க வைக்கப்பட்டார்கள் என்பதனையும் நிகழ்கால சமூகத்திற்கு எடுத்துக்காட்டி விழிப்படைய வைப்பதே ஒரு நல்ல வரலாற்றுப் புதினம் - அத்தகைய புதினங்களைப் படைப்பது எப்படி என்பதற்குக் கலைஞரவர்கள் இந்நாவலின் மூலம் இலக்கணம் வகுத்துத் தந்திருக்கிறார்கள்.
 
 இத்தகு நாவலைத் தமிழன்னைக்கு அணிவிக்கும் வாய்ப்புத் தந்த கலைஞரவர்களுக்கு எங்களது நன்றியை உரித்தாக்குகிறோம்.
 
@@ -36,6 +36,16 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 batch s
 - no printed page number is visible;
 - the closing சென்னை - is source-visible;
 - Pass1 result: **TEXT-COMPLETE / needs-review**;
-- Pass2A / Pass2B / Pass3 are not started.
+- Pass2A result: **REVIEWED / PASS**; Pass2B / Pass3 are not started.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 6; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 6; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, displayed-text and printed-pagination comparison completed against the attached Part001 source pixels;
+- source-text corrections: **1**;
+- punctuation: comma after `இனத்தினுடைய` → source period;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass2B, Pass3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 6; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 6; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
