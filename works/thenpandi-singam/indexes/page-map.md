@@ -80,6 +80,8 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - release/readiness: **PASS / CLOSED**
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
-- final closure: **NOT STARTED / NEXT**
+- final closure: **PASS / CLOSED / FROZEN**
+- final-closed Parts: **1**
+- Part002: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
 - translated/source-checked English files: **10/10 / 10/10**
-- exact next activity: **Part001 final closure — PASS / CLOSED / FROZEN**
+- exact next activity: **Part002 source intake when supplied**
