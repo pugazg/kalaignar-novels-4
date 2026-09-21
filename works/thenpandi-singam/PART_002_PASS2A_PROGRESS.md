@@ -58,7 +58,7 @@ Pass2A source-text corrections — **1**.
 - page status promotions — **0**
 - all scans27–53 remain `status: "needs-review"`
 - all scans27–53 remain `visual_fidelity: "needs-review"`
-- Pass2B — **UNBLOCKED / NEXT**
+- Pass2B — **IN PROGRESS downstream — 20/27 REVIEWED**
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part003 canonical leakage — **0**
 
