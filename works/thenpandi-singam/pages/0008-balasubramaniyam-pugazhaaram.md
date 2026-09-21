@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf"
-transcription_method: "direct source-image transcription; Part001 Pass 1 batch scans1–10"
+transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
 # டாக்டர் பாலசுப்பிரமணியம் புகழாரம்
@@ -34,6 +34,16 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 batch s
 - a faint circular copy/library stamp is visible in the upper-left background and remains non-body matter;
 - no printed page number is visible;
 - Pass1 result: **TEXT-COMPLETE / needs-review**;
-- Pass2A / Pass2B / Pass3 are not started.
+- Pass2A result: **REVIEWED / PASS**; Pass2B / Pass3 are not started.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 8; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, displayed-text and printed-pagination comparison completed against the attached Part001 source pixels;
+- source-text corrections: **0**;
+- canonical source text required **0 corrections**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass2B, Pass3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 8; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
