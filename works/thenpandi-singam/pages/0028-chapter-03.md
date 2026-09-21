@@ -15,7 +15,7 @@ transcription_method: "direct source-image transcription; Part002 Pass1 batch sc
 
 ## Source transcription
 
-அவர்கள் வேண்டுமென்றே வராமல் இருந்ததாக வைத்துக் கொள்வோம்! இப்போது நாம் பாகனேரித் தேர்த்திருவிழாவுக்குப் போவதின் மூலம் நமது பரந்த உள்ளத்தையும் அவர்களது குறுகிய உள்ளத்தையும் ஊராருக்கு உணர்த்த முடியுமல்லவா? பாகனேரிக்கும் பட்டமங்கலத்திற்கும் தலைவர்களாயிருக்கிற அம்பலக்காரர்கள் வேறு வேறானவர்களே தவிர, இரண்டு நாட்டுக்கும் ஆண்டவன் பொதுவானவர்தானே! அந்த ஆண்டவனைப் பாகனேரியிலும் சென்று வணங்குவோமே!”
+அவர்கள் வேண்டுமென்றே வராமல் இருந்ததாக வைத்துக் கொள்வோம்! இப்போது நாம் பாகனேரித் தேர்த்திருவிழாவுக்குப் போவதின் மூலம் நமது பரந்த உள்ளத்தையும் அவர்களது குறுகிய உள்ளத்தையும் ஊராருக்கு உணர்த்த முடியும் அல்லவா? பாகனேரிக்கும் பட்டமங்கலத்திற்கும் தலைவர்களாயிருக்கிற அம்பலக்காரர்கள் வேறு வேறானவர்களே தவிர, இரண்டு நாட்டுக்கும் ஆண்டவன் பொதுவானவர்தானே! அந்த ஆண்டவனைப் பாகனேரியிலும் சென்று வணங்குவோமே!”
 
 தம்பியின் அறிவுரையைக் கூர்ந்து கேட்டுக் கொண்டு அசைவற்று நின்றான் வல்லத்தரையன்.
 
@@ -41,4 +41,14 @@ transcription_method: "direct source-image transcription; Part002 Pass1 batch sc
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, Part audit and final metadata/status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 28; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 16; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+## Formal Part002 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the rendered Part002 source image;
+- lexical / spacing / punctuation corrections on this scan: **1**;
+- correction: `உணர்த்த முடியுமல்லவா?` → `உணர்த்த முடியும் அல்லவா?` — source-confirmed word-boundary / lexical-form correction;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending remaining Pass2B, Pass3, Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 28; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 16; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
