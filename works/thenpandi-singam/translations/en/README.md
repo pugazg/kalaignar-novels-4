@@ -12,31 +12,60 @@ If English conflicts with Tamil, Tamil governs.
 
 No published, web, remembered or standard English translation is textual authority.
 
-## Start gate
+## Part001 start gate
 
-English for a Part is **BLOCKED** until that Part's assembled Tamil closes **PASS / CLOSED**.
+Tamil prerequisites are closed:
 
-For **Part001**, that start gate is now satisfied:
+- canonical Tamil — **26/26 verified**
+- visual fidelity — **26/26 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **10/10 VERIFIED / PASS / CLOSED**
-- canonical source coverage — **26/26**
 - outgoing 26→27 — **PENDING direct audit / source-limited**
 - Part002 canonical records — **0**
 
-The exact next gate is **Part001 English translation planning/setup**. Planning may create controls only; it must not draft literary English prose.
+## Planning/setup state
 
-Then create:
+**PART001 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
 
-- `PART_NNN_TRANSLATION_PLAN.md`;
-- `PART_NNN_GLOSSARY.md`;
-- `PART_NNN_PROGRESS.md`;
-- sequential non-colliding `EXX_SOURCE_CHECK.md` controls;
-- maintained English section files;
-- glossary reconciliation;
-- editorial review;
-- bilingual review;
-- release/readiness report.
+Created:
 
-Preserve narrator/character attribution, chronology, information-release order, rhetorical force, meaningful paragraph/dialogue/display structure, names/titles/place forms and source-specific variants. Do not import external explanation into the literary translation.
+- `PART_001_TRANSLATION_PLAN.md`
+- `PART_001_GLOSSARY.md`
+- `PART_001_PROGRESS.md`
 
-Current English files: **0**. Part001 English planning/setup has **not started**.
+Planning result:
+
+- reserved batches — **E1–E4 / 4**
+- planned maintained English files — **10**
+- translated files — **0/10**
+- source-checked files — **0/10**
+- unresolved planning holds — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- English literary prose drafted in planning — **0**
+- Part002 leakage — **0**
+
+## Batch map
+
+| Batch | Tamil coverage | Scans | Planned English files | State |
+|---|---|---:|---:|---|
+| E1 | sections00–06 — preliminary matter | 1–12 | 7 | **NOT STARTED / NEXT** |
+| E2 | section07 — chapter1 | 13–16 | 1 | **BLOCKED pending E1** |
+| E3 | section08 — chapter2 | 17–23 | 1 | **BLOCKED pending E2** |
+| E4 | section09 — chapter3 Part001 portion | 24–26 | 1 | **BLOCKED pending E3** |
+
+Each batch must close draft + source-check before the next begins.
+
+## Boundary lock
+
+E4 must stop exactly at verified scan26.
+
+**26→27 remains PENDING direct audit / source-limited.**
+
+Do not import, infer, translate or semantically complete Part002 wording.
+
+## Exact next gate
+
+**E1 draft + source-check — sections00–06 / scans1–12.**
+
+Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**.
