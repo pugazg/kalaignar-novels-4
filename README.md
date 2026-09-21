@@ -31,8 +31,8 @@
 - scan26 carries **printed page14**
 - incoming boundary: **NONE — physical source begins at scan1**
 - outgoing **26→27**: **PENDING direct audit when Part002 is supplied**
-- canonical Part001 page records: **0/26**
-- Part001 Pass1: **NOT STARTED / NEXT**
+- canonical Part001 page records: **10/26 — scans1–10**
+- Part001 Pass1: **IN PROGRESS — 10/26 TEXT-COMPLETE**
 - Part002 canonical records: **0**
 
 ## Workflow baseline
@@ -75,6 +75,6 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Begin **Part001 Pass1 — global scans1–10 / local pages1–10**.
+Continue **Part001 Pass1 — global scans11–20 / local pages11–20**.
 
-Keep every created page record at `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not begin Pass2A until Pass1 covers all **26** Part001 scans. Keep **26→27** pending until Part002 is supplied.
+Scans1–10 are text-complete. Keep every created page record at `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not begin Pass2A until Pass1 covers all **26** Part001 scans. Keep **26→27** pending until Part002 is supplied.
