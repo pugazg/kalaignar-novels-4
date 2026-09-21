@@ -121,9 +121,9 @@ All 27 canonical Part002 records remain `needs-review` pending Pass2A/Pass2B/Pas
 
 ## Exact next activity
 
-Begin **Part002 Pass2B — scans27–36 / local pages1–10**.
+Continue **Part002 Pass2B — scans37–46 / local pages11–20**.
 
-Pass2A is now **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**. Do not upgrade records to verified during Pass2B. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Pass2B scans27–36 are now **10/10 REVIEWED / PASS** with **3 lexical / spacing / punctuation correction occurrences / 0 historical-glyph corrections / 0 unresolved**. Do not upgrade records to verified during Pass2B. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
 ## Downstream Pass2A state
 
@@ -138,3 +138,15 @@ Part002 Pass2A is now **COMPLETE / PASS — 27/27 REVIEWED**.
 - outgoing 53→54 remains **PENDING direct audit / source-limited**
 
 Exact next activity: **begin Pass2B scans27–36 / local pages1–10**.
+
+
+## Downstream Pass2B state
+
+- Pass2B — **IN PROGRESS — 10/27 REVIEWED**
+- reviewed — **scans27–36 / local pages1–10**
+- lexical / spacing / punctuation correction occurrences — **3**
+- affected scans — **28, 33**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- all Part002 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- exact next activity — **Part002 Pass2B scans37–46 / local pages11–20**
