@@ -125,3 +125,15 @@ Scans47–49 and 51–53 required **0** Pass2B canonical text correction.
 Perform the **Part002 whole-Part audit — scans27–53 / local pages1–27**.
 
 Keep all Part002 records `needs-review` during the audit. Final metadata/status synchronization is a separate gate. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+
+
+## Current downstream verified state
+
+- Part002 whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- unresolved Tamil/glyph/visual/structural questions — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next activity — **Part002 documentation synchronization**
