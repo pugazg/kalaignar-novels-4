@@ -30,7 +30,7 @@ This ledger records the user's **18 split source PDFs**.
 - source family / archive identifier: **TVA_BOK_0065559**
 - no usable embedded/parsed text layer
 - rendered source page images are controlling
-- source-visible edition: **பதிமூன்றாம் பதிப்பு — ஆகஸ்ட் 2021**
+- source-visible edition: **பதிமூன்றாம் பதிப்பு — ஆகஸ்ட்,, 2021**
 - source-visible publication-page extent: **480 pages**
 - Part001 body evidence: scan13 = printed page1; scan26 = printed page14
 - incoming boundary: **NONE**
@@ -59,4 +59,5 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - canonical page records: **26**
 - final-closed Parts: **0**
 - active Part: **Part001**
-- exact next gate: **Part001 Pass2A — direct textual verification of scans1–26**
+- Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
+- exact next gate: **Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–26**
