@@ -296,3 +296,25 @@ Durable record: `GLOSSARY_RECONCILIATION.md`.
 **Part001 English editorial review across all 10 maintained English files / scans1–26.**
 
 Editorial review must preserve the reconciled glossary locks and the pending 26→27 boundary. Do not begin bilingual review until editorial review closes.
+
+
+## English editorial review closure
+
+**PASS / CLOSED**
+
+- English files reviewed — **10/10**
+- files edited — **9/10**
+- English-only editorial corrections — **24**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- glossary locks altered — **0**
+- Part002 leakage — **0**
+- 26→27 pending-boundary integrity — **PASS**
+
+Durable record: `TRANSLATION_REVIEW.md`.
+
+## Current exact next gate
+
+**Part001 whole-Part bilingual review across Tamil + English / scans1–26.**
+
+Do not begin release/readiness until bilingual review closes.
