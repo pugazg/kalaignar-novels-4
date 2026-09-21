@@ -53,3 +53,18 @@ The verified state applies to the supplied Part001 scans1–26 only.
 Perform **Part001 documentation synchronization**.
 
 After all maintained controls agree on **26/26 verified Tamil + 26/26 verified visual fidelity**, perform the **Tamil archival-ready checkpoint**. Do not begin assembled Tamil until that checkpoint closes.
+
+
+## Final downstream state for this activity
+
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **10/10 VERIFIED / PASS / CLOSED**
+- assembled canonical coverage — **26/26**
+- assembly omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part002 body leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+- exact next gate — **Part001 English translation planning/setup**
+- English prose drafted in this activity — **0**
