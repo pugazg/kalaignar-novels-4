@@ -281,3 +281,19 @@ Repository controls now consistently record:
 - Part002 canonical records — **0**
 - 26→27 — **PENDING direct audit / source-limited**
 - exact next activity — **Part002 source intake when supplied**
+
+
+## 15. Final consistency checkpoint
+
+Final maintained-control checkpoint before this record update:
+
+- head — `ba2253af92cf4177e578a6b1d9bff61dc4ed4503`
+- tree — `1b8a630f1b33fab232cc090a1263db1c969c94ad`
+- Part001 final state — **FINAL CLOSED / FROZEN**
+- final-closed Parts — **1**
+- Part002 state — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part002 canonical records — **0**
+- 26→27 — **PENDING direct audit / source-limited**
+- canonical / assembled / English body drift caused by post-closure synchronization — **0 / 0 / 0**
+
+The repository frontier is synchronized to **Part002 source intake when supplied**.
