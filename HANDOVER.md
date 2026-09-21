@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 Pass2B scans27–36**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 Pass2B scans37–46**
 
 ## Work
 
@@ -116,20 +116,25 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
 - Part002 Pass2A corrections / unresolved — **1 / 0**
+- Part002 Pass2B — **IN PROGRESS — 10/27 REVIEWED — scans27–36**
+- Part002 Pass2B lexical / spacing / punctuation corrections — **3 occurrences / 2 scans**
+- Part002 Pass2B historical-glyph corrections — **0**
+- Part002 Pass2B unresolved lexical / historical-glyph questions — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
 - continuation gate — **Part002 Pass2B**
-- first Pass2B batch — **scans27–36 / local pages1–10**
+- completed Pass2B batch — **scans27–36 / local pages1–10 — 10/10 REVIEWED / PASS**
+- next Pass2B batch — **scans37–46 / local pages11–20**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part002 source PDF to be available there
 - repository controls must be reread from live `main` before continuing
 
 ## Exact next activity
 
-Begin **Part002 Pass2B — scans27–36 / local pages1–10**.
+Continue **Part002 Pass2B — scans37–46 / local pages11–20**.
 
-Pass2A is **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**. Perform an independent lexical / historical-glyph reread. Keep every Part002 record `needs-review`, do not begin Pass3 until Pass2B closes, and keep **53→54 PENDING direct audit / source-limited**.
+Pass2B scans27–36 are **10/10 REVIEWED / PASS** with **3 lexical / spacing / punctuation correction occurrences across 2 scans, 0 historical-glyph corrections, 0 unresolved**. Keep every Part002 record `needs-review`, do not begin Pass3 until Pass2B closes, and keep **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
