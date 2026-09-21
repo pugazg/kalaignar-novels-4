@@ -67,6 +67,9 @@
 - unresolved release/readiness blockers: **0**
 - non-blocking source-limited boundary condition: **26→27 pending**
 - release-ready synchronization: **PASS / CLOSED**
+- Part001 final closure: **PASS / CLOSED / FROZEN**
+- final-closed Parts: **1**
+- Part002: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
@@ -112,6 +115,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Perform **Part001 final closure — PASS / CLOSED / FROZEN**.
+**Part002 source intake when the user supplies the Part002 PDF.**
 
-Do not begin Part002 canonical transcription inside the final-closure gate.
+Do not guess Part002 filename, page count, scan range, checksum or boundary classification. On intake, inspect the first Part002 scan as the direct **26→27** boundary witness before beginning canonical Part002 transcription.
+
+Part001 is **FINAL CLOSED / FROZEN**.
