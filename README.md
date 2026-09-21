@@ -63,6 +63,9 @@
 - whole-Part bilingual review: **PASS / CLOSED**
 - bilingual English-only corrections: **1**
 - unresolved bilingual holds: **0**
+- release/readiness: **PASS / CLOSED**
+- unresolved release/readiness blockers: **0**
+- non-blocking source-limited boundary condition: **26→27 pending**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
@@ -108,6 +111,6 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Create and complete the **Part001 release/readiness report**.
+Perform **Part001 release-ready synchronization**.
 
-Do not begin release-ready synchronization, final Part001 closure or Part002 canonical transcription until release/readiness closes. The **26→27** boundary remains **PENDING direct audit / source-limited**.
+After synchronization closes, perform **Part001 final closure — PASS / CLOSED / FROZEN**. Do not begin Part002 canonical transcription before final closure.
