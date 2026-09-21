@@ -297,3 +297,29 @@ Final maintained-control checkpoint before this record update:
 - canonical / assembled / English body drift caused by post-closure synchronization — **0 / 0 / 0**
 
 The repository frontier is synchronized to **Part002 source intake when supplied**.
+
+
+## 16. Post-freeze incoming Part002 boundary evidence
+
+Part002 was subsequently supplied and registered as:
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
+- local pages — **27**
+- global scans — **27–53**
+- first scan — **scan27 / printed15**
+
+Direct comparison of frozen Part001 scan26 / printed14 with Part002 scan27 / printed15 establishes:
+
+**26→27 = GENUINE CONTINUATION / AUDITED**
+
+The same chapter3 dialogue continues directly: scan27 answers Vallatharayan's terminal statement on scan26.
+
+Boundary evidence completion introduced:
+- Part001 canonical Tamil body changes — **0**
+- Part001 assembled Tamil body changes — **0**
+- Part001 maintained English body changes — **0**
+- inferred bridge text — **0**
+
+Part001 remains **FINAL CLOSED / FROZEN**.
+
+Part002 is now **SOURCE INTAKE COMPLETE / PASS — Pass1 NEXT**, with outgoing **53→54 PENDING direct audit / source-limited**.
