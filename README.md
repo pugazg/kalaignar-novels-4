@@ -25,7 +25,7 @@
 - SHA-256: `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f`
 - text layer: **absent / no usable parsed text exposed**
 - controlling authority: **rendered source page images**
-- source-visible edition: **பதிமூன்றாம் பதிப்பு — ஆகஸ்ட் 2021**
+- source-visible edition: **பதிமூன்றாம் பதிப்பு — ஆகஸ்ட்,, 2021**
 - source-visible publication-page extent: **480 pages**
 - numbered novel body begins at **scan13 / printed page1**
 - scan26 carries **printed page14**
@@ -33,6 +33,9 @@
 - outgoing **26→27**: **PENDING direct audit when Part002 is supplied**
 - canonical Part001 page records: **26/26 — scans1–26**
 - Part001 Pass1: **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
+- Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED**
+- Pass2A source-text corrections: **14**
+- Pass2A unresolved textual questions: **0**
 - Part002 canonical records: **0**
 
 ## Workflow baseline
@@ -75,6 +78,6 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Begin **Part001 Pass2A — direct textual verification of scans1–26**.
+Begin **Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–26**.
 
-scans1–26 are text-complete. All 26 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass2A is the next gate. Keep **26→27** pending until Part002 is supplied.
+Pass1 and Pass2A are complete. All 26 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not begin Pass3 until Pass2B closes. Keep **26→27** pending until Part002 is supplied.
