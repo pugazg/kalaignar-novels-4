@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 whole-Part English glossary reconciliation**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 English editorial review**
 
 ## Work
 
@@ -142,13 +142,17 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 E8 — **SOURCE-CHECKED / COMPLETE**
 - Part002 English structural block coverage — **146/146**
 - Part002 unresolved English source-check holds — **0**
+- Part002 whole-Part English glossary reconciliation — **RECONCILED / PASS**
+- Part002 English files changed by glossary reconciliation — **1/4**
+- Part002 terminology corrections — **9**
+- Part002 unresolved glossary holds — **0**
 - English literary prose drafted in planning — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
-- continuation gate — **Part002 whole-Part English glossary reconciliation across E5–E8**
+- continuation gate — **Part002 English editorial review across all 4 maintained English files / scans27–53**
 - Part002 Pass2B final state — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 Pass3 final state — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part002 source PDF to be available there
@@ -156,8 +160,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation across E5–E8**.
+Perform **Part002 English editorial review across all 4 maintained English files / scans27–53**.
 
-E5–E8 are **SOURCE-CHECKED / COMPLETE** with **4/4 translated, 4/4 source-checked, 146/146 structural blocks covered, 0 unresolved source-check holds, 0 canonical/assembled Tamil edits, and 0 Part003 leakage**. Preserve frozen Part001 English and outgoing **53→54 PENDING direct audit / source-limited**.
+Part002 whole-Part glossary reconciliation is **RECONCILED / PASS**. One English file changed with **9 occurrence-sensitive Vaalukkuveli corrections**; unresolved glossary holds = **0**. Preserve all terminology locks, frozen Part001 English, and outgoing **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
