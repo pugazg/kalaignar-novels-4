@@ -216,3 +216,39 @@ Part002 is now **SOURCE INTAKE COMPLETE / PASS**.
 - exact next activity — **Part002 Pass1 scans27–36 / local pages1–10**
 
 Part001 remains **FINAL CLOSED / FROZEN**.
+
+
+## Part002 planning/setup state
+
+**PART002 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+Controls:
+- `PART_002_TRANSLATION_PLAN.md`
+- `PART_002_GLOSSARY.md`
+- `PART_002_PROGRESS.md`
+
+Planning result:
+- reserved batches — **E5–E8 / 4**
+- planned maintained Part002 English files — **4**
+- translated files — **0/4**
+- source-checked files — **0/4**
+- unresolved planning holds — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- English literary prose drafted in planning — **0**
+- Part003 leakage — **0**
+- incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+
+### Part002 batch map
+
+| Batch | Tamil coverage | Scans | Planned English file | State |
+|---|---|---:|---|---|
+| E5 | section10 — chapter3 Part002 continuation | 27–30 | `sections/10-chapter-03-part002.md` | **PLANNED / NOT STARTED** |
+| E6 | section11 — chapter4 | 31–38 | `sections/11-chapter-04.md` | **PLANNED / NOT STARTED** |
+| E7 | section12 — chapter5 | 39–44 | `sections/12-chapter-05.md` | **PLANNED / NOT STARTED** |
+| E8 | section13 — chapter6 Part002 portion | 45–53 | `sections/13-chapter-06-part002.md` | **PLANNED / NOT STARTED** |
+
+Exact next gate: **E5 draft + source-check — section10 / scans27–30**.
+
+Do not begin E6 until E5 closes **SOURCE-CHECKED / COMPLETE**.
