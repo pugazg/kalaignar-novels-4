@@ -134,10 +134,10 @@ Part002 Pass2A is now **COMPLETE / PASS — 27/27 REVIEWED**.
 - unresolved textual questions — **0**
 - remaining — **0**
 - all Part002 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
-- Pass2B is **UNBLOCKED / NEXT**
+- Pass2B subsequently began; current state is recorded in **Downstream Pass2B state** below
 - outgoing 53→54 remains **PENDING direct audit / source-limited**
 
-Exact next activity: **begin Pass2B scans27–36 / local pages1–10**.
+Pass2A handoff target was **Pass2B scans27–36 / local pages1–10**; that batch is now complete.
 
 
 ## Downstream Pass2B state
