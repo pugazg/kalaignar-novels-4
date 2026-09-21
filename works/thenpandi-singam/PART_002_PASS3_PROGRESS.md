@@ -80,3 +80,15 @@ No canonical text is duplicated, silently joined across page records, or inferre
 Perform the **Part002 whole-Part audit — scans27–53 / local pages1–27**.
 
 Audit continuous physical coverage, duplicate/omission counts, printed-page mapping, Pass2A/Pass2B/Pass3 evidence, structural inventory, cross-page joins, correction ledgers and the explicit source-limited 53→54 boundary condition. Do not promote page status during the audit itself; final metadata/status synchronization is a separate gate.
+
+
+## Current downstream verified state
+
+- Part002 whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- unresolved Tamil/glyph/visual/structural questions — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next activity — **Part002 documentation synchronization**
