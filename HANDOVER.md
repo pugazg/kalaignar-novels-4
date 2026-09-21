@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 assembled Tamil construction + audit**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 English translation planning/setup**
 
 ## Work
 
@@ -129,12 +129,15 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 needs-review Tamil / visual pages — **0 / 0**
 - Part002 documentation synchronization — **PASS / COMPLETE**
 - Part002 Tamil archival-ready — **PASS / CLOSED**
+- Part002 assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- Part002 assembled canonical coverage — **27/27**
+- Part002 assembled omissions / duplicates / unsupported insertion / audit-note leakage — **0 / 0 / 0 / 0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
-- continuation gate — **Part002 assembled Tamil construction + audit**
+- continuation gate — **Part002 English translation planning/setup**
 - Part002 Pass2B final state — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 Pass3 final state — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part002 source PDF to be available there
@@ -142,8 +145,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Begin **Part002 assembled Tamil construction + audit**.
+Perform **Part002 English translation planning/setup**.
 
-Part002 documentation synchronization is **PASS / COMPLETE** and Tamil archival-ready is **PASS / CLOSED**. Canonical Tamil and visual fidelity are **27/27 verified** with **0 unresolved Tamil/glyph/visual/structural questions**. Assemble only from verified Part002 page records, stop exactly at scan53, and preserve **53→54 PENDING direct audit / source-limited**.
+Part002 assembled Tamil is **4/4 VERIFIED / PASS / CLOSED** with **27/27 canonical scan coverage, 0 omissions, 0 duplicates, 0 unsupported Tamil body insertion, 0 audit-note leakage, and 0 unresolved assembly blockers**. Preserve **53→54 PENDING direct audit / source-limited**. Do not draft English literary prose until planning/setup closes.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
