@@ -201,6 +201,9 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part001 planned English files — **10**
 - Part001 English E1–E4 — **SOURCE-CHECKED / COMPLETE**
 - Part001 English source coverage — **scans1–26**
+- Part001 English glossary reconciliation — **RECONCILED / PASS**
+- Part001 glossary files changed / terminology corrections — **4 / 7**
+- Part001 unresolved glossary holds — **0**
 - Part001 unresolved English source-check holds — **0**
 - Part001 translated/source-checked English files — **10/10 / 10/10**
 - Part001 canonical Tamil — **26/26 verified**
@@ -208,4 +211,4 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - outgoing 26→27 — **PENDING Part002 direct witness**
 - Parts002–018 source metadata — **PENDING**
 - Part002 canonical records — **0**
-- exact next activity — **Part001 whole-Part English glossary reconciliation across E1–E4 / scans1–26**
+- exact next activity — **Part001 English editorial review across all 10 English files / scans1–26**
