@@ -157,3 +157,20 @@ Durable record: `RELEASE_REPORT.md`.
 ## Exact next gate
 
 **Part001 release-ready synchronization**, followed by final closure.
+
+
+## Release-ready synchronization
+
+**PASS / CLOSED**
+
+- canonical Tamil body changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- Part002 leakage — **0**
+- 26→27 remains **PENDING direct audit / source-limited**
+
+Durable record: `../../PART_001_RELEASE_READY_SYNC.md`.
+
+## Exact next gate
+
+**Part001 final closure — PASS / CLOSED / FROZEN**.
