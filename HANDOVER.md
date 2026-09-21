@@ -93,13 +93,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - editorial files reviewed / edited — **10 / 9**
 - English-only editorial corrections — **24**
 - unresolved editorial holds — **0**
-- whole-Part bilingual review — **NOT STARTED / NEXT**
+- whole-Part bilingual review — **PASS / CLOSED**
+- bilingual English-only corrections — **1**
+- unresolved bilingual holds — **0**
+- release/readiness — **NOT STARTED / NEXT**
 - Parts002–018 — **not registered**
 - Part002 canonical records — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Exact next activity
 
-Perform **Part001 whole-Part bilingual review across Tamil + English / scans1–26**.
+Create and complete the **Part001 release/readiness report**.
 
-Do not begin release/readiness until bilingual review closes. Part002 canonical transcription remains blocked. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
+Do not begin release-ready synchronization, final closure or Part002 canonical transcription until release/readiness closes. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
