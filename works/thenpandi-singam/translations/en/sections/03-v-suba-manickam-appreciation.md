@@ -18,6 +18,6 @@ By the tenth page itself, as I began reading this book, I felt a thrill run thro
 
 However many ethnic divisions or class divisions there may be, the Tamil people must live in unity; such divisions must not separate us. Kalaignar has written against that background.
 
-This book, *Thenpandi Singam*, was written by Kalaignar—already renowned in India and Tamil Nadu and destined for still greater fame—pouring into it the whole of his political experience.
+This book, *Thenpandi Singam*, was written by Kalaignar—already renowned in India and Tamilakam and destined for still greater fame—pouring into it the whole of his political experience.
 
-Thinking that the future of Tamil Nadu should not become dark, he has written and left such a book as a great treasure for Tamil Nadu. I believe a time will come when Tamil Nadu will be able to see these observations fulfilled even in his lifetime. The aim of Nattar Ayya is being fulfilled by one of our own, Kalaignar.
+Thinking that the future of Tamilakam should not become dark, he has written and left such a book as a great treasure for Tamilakam. I believe a time will come when Tamilakam will be able to see these observations fulfilled even in his lifetime. The aim of Nattar Ayya is being fulfilled by one of our own, Kalaignar.
