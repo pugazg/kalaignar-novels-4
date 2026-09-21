@@ -124,3 +124,18 @@ Assembly rules:
 **PASS / CLOSED**
 
 Do not begin English until assembled Tamil closes.
+
+
+## Downstream assembled Tamil state
+
+- Part002 assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- canonical scan coverage — **27/27**
+- omissions — **0**
+- duplicates — **0**
+- unsupported Tamil body insertion — **0**
+- audit/review-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part003 body leakage — **0**
+- unresolved assembly blockers — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next gate — **Part002 English translation planning/setup**
