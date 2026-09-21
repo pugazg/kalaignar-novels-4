@@ -33,7 +33,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 
 - chapter 3 continuation; printed page **14**;
 - opens by completing scan25's quotation;
-- source-visible forms including `அனைத்துமறியக்`, `சுருட்டுப் பற்ற`, and `வாய்திறந்தார்` are retained;
+- source-visible forms including `அனைத்துமறியக்`, `சுருட்டுப் பற்ற`, and `வாய் திறந்தார்` are retained;
 - this is the final physical scan of Part001;
 - chapter 3 remains open at the Part001 end;
 - outgoing **26→27** remains **PENDING direct audit** until Part002 is supplied; no continuation text is reconstructed;
