@@ -160,3 +160,17 @@ Planning controls:
 **E1 draft + source-check — sections00–06 / scans1–12.**
 
 Do not begin E2 until E1 closes **SOURCE-CHECKED / COMPLETE**. Part002 canonical transcription remains blocked.
+
+
+## Post-assembly E1–E4 source-check state
+
+- E1 — **SOURCE-CHECKED / COMPLETE**
+- E2 — **SOURCE-CHECKED / COMPLETE**
+- E3 — **SOURCE-CHECKED / COMPLETE**
+- E4 — **SOURCE-CHECKED / COMPLETE**
+- maintained English files — **10/10**
+- scans covered — **1–26 / 26**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- Part002 leakage — **0**
+- exact next gate — **Part001 whole-Part English glossary reconciliation**
