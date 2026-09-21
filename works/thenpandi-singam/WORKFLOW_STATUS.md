@@ -69,9 +69,11 @@ Part002 source intake is **COMPLETE / PASS**:
 - Pass3 — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53 — 0 textual corrections / 0 unresolved visual-structural questions**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status sync — **PASS / CLOSED — 27/27 verified Tamil + visual**
+- documentation sync — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
 
 ## Exact next action
 
-**Part002 documentation synchronization.**
+**Part002 assembled Tamil construction + audit.**
 
-The Part002 audit is **PASS / COMPLETE** and final metadata/status synchronization is **PASS / CLOSED — 27/27 verified Tamil + visual**. Part001 remains frozen; 53→54 remains source-limited pending Part003.
+Part002 documentation synchronization is **PASS / COMPLETE** and Tamil archival-ready is **PASS / CLOSED — 27/27 verified Tamil + visual**. Part001 remains frozen; 53→54 remains source-limited pending Part003.
