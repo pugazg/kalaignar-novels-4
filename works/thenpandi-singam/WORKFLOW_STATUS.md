@@ -45,6 +45,7 @@ Part001:
 - assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED — 27/27 canonical coverage**
 - English planning/setup — **COMPLETE / PASS — E5–E8 reserved / 4 planned files**
 - English E5–E8 — **SOURCE-CHECKED / COMPLETE — 4/4 translated / 4/4 source-checked / 146/146 blocks / 0 holds**
+- Part002 English glossary reconciliation — **RECONCILED / PASS — 1/4 files changed / 9 terminology corrections / 0 holds**
 - assembled Tamil — **PASS / CLOSED — 10/10 VERIFIED — 26/26 canonical coverage**
 - English planning/setup — **COMPLETE / PASS**
 - English E1 — **SOURCE-CHECKED / COMPLETE — scans1–12 / 7 files**
@@ -77,6 +78,6 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part002 whole-Part English glossary reconciliation across E5–E8.**
+**Part002 English editorial review across all 4 maintained English files / scans27–53.**
 
-E5–E8 are **SOURCE-CHECKED / COMPLETE — 4/4 translated / 4/4 source-checked / 146/146 blocks / 0 unresolved holds**. Part001 remains frozen; 53→54 remains source-limited pending Part003.
+Glossary reconciliation is **RECONCILED / PASS — 1/4 files changed / 9 terminology corrections / 0 unresolved holds**. Part001 remains frozen; 53→54 remains source-limited pending Part003.
