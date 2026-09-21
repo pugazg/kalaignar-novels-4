@@ -1,6 +1,6 @@
 # Part 001 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **PLANNING LOCK — COMPLETE / PASS**
+Status: **E1–E4 SOURCE-CHECKED / WHOLE-PART RECONCILIATION NEXT**
 
 This glossary is derived only from verified Part001 Tamil and the closed assembled Tamil reading layer.
 
@@ -167,3 +167,38 @@ Translate only from verified project Tamil.
 **E1 draft + source-check — sections00–06 / scans1–12.**
 
 Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Post-source-check state
+
+E1–E4 are now **10/10 maintained English files SOURCE-CHECKED / COMPLETE**.
+
+Source-check confirmed the active Part001 forms used across the English files, including:
+- **Thenpandi Singam**
+- **Kalaignar M. Karunanidhi**
+- **Vaalukku Veli**
+- **Vallatharayan**
+- **Vairamuthan**
+- **Veerammal**
+- **Urangaap Puli / Urangaappuli** occurrence-sensitive handling
+- **Karutha Adappan**
+- **Vellai Ayyar / Madurai Vellai Ayyar**
+- **Paganeri / Pattamangalam**
+- **Ambalakkarar**
+- **Kallar / Maravar / Agampadiyar**
+- source-facing `nadu / kottam / valanadu / mandalam`
+- ritual terms such as `mulaippari`, `paali`, `parivattam`
+- Pillaiyar / Vinayakar source-sensitive handling.
+
+No canonical or assembled Tamil change was required by English source-check.
+
+Current accounting:
+- maintained English files checked — **10/10**
+- source-variant collapses detected during batch source-check — **0**
+- unresolved glossary holds carried from source-check — **0**
+- Part002 leakage — **0**
+- 26→27 semantic completion — **0**
+
+## Exact next gate
+
+Perform **Part001 whole-Part English glossary reconciliation** across E1–E4.
