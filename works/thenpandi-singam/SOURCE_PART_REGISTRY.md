@@ -60,4 +60,5 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - final-closed Parts: **0**
 - active Part: **Part001**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
-- exact next gate: **Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–26**
+- Part001 Pass2B: **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
+- exact next gate: **Part001 Pass3 — direct full-page visual / structural verification of scans1–26**
