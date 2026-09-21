@@ -45,7 +45,7 @@ Durable validation: `../PART_001_ASSEMBLED_TAMIL_VALIDATION.md`.
 
 - reserved batches — **E1–E4**
 - planned English files — **10**
-- translated/source-checked — **0/10 / 0/10**
+- translated/source-checked — **10/10 / 10/10**
 - English literary prose drafted in planning — **0**
 
 Controls:
@@ -55,6 +55,20 @@ Controls:
 
 ## Next gate
 
-**E1 draft + source-check — sections00–06 / scans1–12.**
+**Part001 whole-Part English glossary reconciliation across E1–E4 / scans1–26.**
 
 Part002 canonical transcription remains blocked.
+
+
+## English source-check closure
+
+E1–E4 are **SOURCE-CHECKED / COMPLETE**.
+
+- maintained English files — **10/10**
+- source coverage — **scans1–26**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+
+Next: **whole-Part English glossary reconciliation**.
