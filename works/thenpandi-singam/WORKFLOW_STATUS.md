@@ -50,14 +50,14 @@ Part001:
 - English E4 — **SOURCE-CHECKED / COMPLETE — scans24–26 / 1 file**
 - English glossary reconciliation — **RECONCILED / PASS — 4 files / 7 terminology corrections / 0 unresolved**
 - English editorial review — **PASS / CLOSED — 10/10 reviewed / 9 files edited / 24 corrections / 0 unresolved**
-- bilingual review — **NOT STARTED / NEXT**
-- release/readiness — **BLOCKED**
+- bilingual review — **PASS / CLOSED — 10/10 pairs / 1 English-only correction / 0 unresolved**
+- release/readiness — **NOT STARTED / NEXT**
 - final closure — BLOCKED
 
 Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may later provide only the scan27 boundary witness until Part001 closes.
 
 ## Exact next action
 
-**Part001 whole-Part bilingual review across Tamil + English / scans1–26.**
+**Part001 release/readiness report.**
 
-English editorial review is **PASS / CLOSED** with **10/10 files reviewed, 9/10 edited, 24 English-only corrections, 0 unresolved holds**. Do not begin release/readiness until bilingual review closes. Part002 remains blocked; **26→27** remains pending.
+Whole-Part bilingual review is **PASS / CLOSED** with **10/10 Tamil-English pairs reviewed, 1 English-only correction, 0 unresolved holds**. Do not begin release-ready synchronization or final closure until release/readiness closes. Part002 remains blocked; **26→27** remains pending.
