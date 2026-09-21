@@ -7,56 +7,64 @@
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
 
-## Project state
+## Work
 
-- work: **தென்பாண்டிச் சிங்கம்**
+- title: **தென்பாண்டிச் சிங்கம்**
 - author: **கலைஞர் மு. கருணாநிதி**
-- source packaging reported by user: **18 split PDF files**, each not more than **50 MB**
-- exact filenames / source-family ID / complete physical extent / split page ranges / hashes: **PENDING source intake**
-- source PDFs: **working inputs only; do not commit to Git**
-- canonical global `scan_page`: begins at the first physical scan of the complete source and never resets at Part boundaries
-- canonical page records: **0**
-- assembled Tamil files: **0**
-- English files: **0**
-- final-closed Parts: **0**
-- unresolved source-reading questions: **0 because transcription has not started**
+- supplied-source design: **18 split PDF files**, each <= **50 MB**
+- split basis: **file size; per-Part page counts may vary**
+- source family / archive identifier: **TVA_BOK_0065559**
+- total physical scan count: **pending intake of Parts002–018**
+- source PDFs remain outside Git
 
-## Workflow authority
+## Canonical numbering rule
 
-Follow `works/thenpandi-singam/THENPANDI_SINGAM_ARCHIVAL_GUIDELINES.md`.
-
-The workflow is deliberately aligned to the maintained **பாயும்புலி பண்டாரக வன்னியன்** process:
-
-source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → final status sync → documentation sync → Tamil archival-ready → assembled Tamil → English planning/source-check → glossary reconciliation → editorial review → bilingual review → release/readiness → release-ready sync → final closure/freeze.
+- Parts are numbered by supplied split order: **Part001–Part018**
+- `part_page` resets inside each split
+- canonical `scan_page` is a single continuous physical-scan sequence across the complete work and **never resets**
+- no future Part scan range is guessed in advance
+- each Part range is registered only after direct intake of that PDF
+- printed pagination is recorded exactly as source-visible and may differ from physical scan numbering
 
 ## Mandatory Part lock
 
-Only one Part is canonically active at a time.
+> **Finish the complete maintained workflow for the active Part before beginning canonical transcription of the next Part.**
 
-A subsequent Part may be opened before closure only to inspect its first scan as a **boundary witness** for the active Part. Boundary-witness inspection must not create, import or paraphrase canonical body text for the subsequent Part.
+Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Part body text may leak into the active Part.
 
-Do not start canonical Part002 transcription until Part001 is **FINAL CLOSED / FROZEN**.
+## Part001 — SOURCE INTAKE COMPLETE
 
-## Source-registration frontier
+- source: `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf`
+- bytes: **49,818,511**
+- SHA-256: `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f`
+- local pages: **26**
+- global scans: **1–26**
+- text layer: **absent / no usable parsed text exposed**
+- controlling authority: **rendered source pixels**
+- source-visible edition: **பதிமூன்றாம் பதிப்பு — ஆகஸ்ட் 2021**
+- publication page states: **480 pages**
+- scan13 begins printed novel page **1**
+- scan26 carries printed page **14**
+- incoming boundary: **NONE**
+- outgoing 26→27: **PENDING Part002 direct witness**
+- durable intake: `works/thenpandi-singam/SOURCE_INTAKE_PART_001.md`
 
-| Part | Source | Local extent | Global scan range | SHA-256 | State |
-|---|---|---:|---|---|---|
-| 001 | pending attachment | pending | pending | pending | **NEXT — SOURCE INTAKE** |
-| 002–018 | pending attachment | pending | pending | pending | BLOCKED behind active-Part lock |
+## Current state
 
-The authoritative detailed ledger is `SOURCE_PART_REGISTRY.md`.
+- repository controls — **INITIALIZED / SYNCHRONIZED**
+- registered Parts — **1/18**
+- Part001 source intake — **COMPLETE / PASS**
+- Part001 canonical page records — **0/26**
+- Part001 Pass1 — **NOT STARTED / NEXT**
+- verified pages — **0**
+- assembled Tamil — **NOT STARTED**
+- English — **BLOCKED pending Tamil closure**
+- Parts002–018 — **not registered**
+- Part002 canonical records — **0**
+- unresolved source-reading holds — **0 recorded because transcription has not started**
 
 ## Exact next activity
 
-When the first split PDF is attached:
+Begin **Part001 Pass1 — global scans1–10 / local pages1–10**.
 
-1. register its exact filename and file size;
-2. calculate SHA-256;
-3. determine exact local physical page count;
-4. assign the correct global scan range beginning at scan 1;
-5. inspect source structure, printed pagination and first/last physical scans;
-6. create/complete `SOURCE_INTAKE_PART_001.md`;
-7. establish whether Part002's first scan is needed as a boundary witness;
-8. only then begin **Part001 Pass1**.
-
-Do not invent source metadata before the file is available.
+Keep all created records at `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not begin Pass2A until Pass1 covers all **26** scans. Keep **26→27** pending until Part002 is supplied.
