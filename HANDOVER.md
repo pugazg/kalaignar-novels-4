@@ -74,13 +74,18 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - verified Tamil pages — **26/26**
 - verified visual-fidelity pages — **26/26**
 - assembled Tamil — **10/10 VERIFIED / PASS / CLOSED**
-- English — **NOT STARTED / PLANNING NEXT**
+- Part001 English planning/setup — **COMPLETE / PASS**
+- reserved English batches — **E1–E4**
+- planned maintained English files — **10**
+- translated/source-checked English files — **0/10 / 0/10**
+- English literary prose drafted in planning — **0**
+- English drafting — **E1 NOT STARTED / NEXT**
 - Parts002–018 — **not registered**
 - Part002 canonical records — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Exact next activity
 
-Begin **Part001 English translation planning/setup**.
+Begin **E1 draft + source-check — sections00–06 / scans1–12**.
 
-Create planning/glossary/progress controls only; do not draft English prose in the setup gate. Part002 canonical transcription remains blocked. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
+Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**. Part002 canonical transcription remains blocked. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
