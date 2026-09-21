@@ -130,5 +130,6 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - outgoing Part002 boundary 53→54: **PENDING direct audit / source-limited**
 - translated/source-checked English files: **10/10 / 10/10**
 - Part002 assembled Tamil: **4/4 VERIFIED / PASS / CLOSED — 27/27 canonical coverage**
-- Part002 English planning/setup: **COMPLETE / PASS — E5–E8 reserved / 4 planned files / 0 translated / 0 source-checked**
-- exact next activity: **Part002 E5 draft + source-check — section10 / scans27–30**
+- Part002 English planning/setup: **COMPLETE / PASS — E5–E8 reserved / 4 planned files**
+- Part002 English E5–E8: **SOURCE-CHECKED / COMPLETE — 4/4 translated / 4/4 source-checked / 146/146 blocks / 0 holds**
+- exact next activity: **Part002 whole-Part English glossary reconciliation across E5–E8**
