@@ -11,8 +11,8 @@
 - source packaging: **18 split PDF Parts prepared by the user**
 - split-file size policy: each source Part is **not more than 50 MB**
 - source family / archive identifier: **TVA_BOK_0065559**
-- complete physical extent: **pending intake of Parts002–018**
-- registered Parts: **1/18**
+- complete physical extent: **pending intake of Parts003–018**
+- registered Parts: **2/18**
 - canonical `scan_page`: global across the complete work; **never resets at a Part boundary**
 - source PDFs committed to Git: **0**
 
@@ -30,7 +30,7 @@
 - numbered novel body begins at **scan13 / printed page1**
 - scan26 carries **printed page14**
 - incoming boundary: **NONE — physical source begins at scan1**
-- outgoing **26→27**: **PENDING direct audit when Part002 is supplied**
+- outgoing **26→27**: **GENUINE CONTINUATION / AUDITED**
 - canonical Part001 page records: **26/26 — scans1–26**
 - Part001 Pass1: **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED**
@@ -73,7 +73,12 @@
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
-- Part002 canonical records: **0**
+- Part002 source intake: **COMPLETE / PASS**
+- Part002 source: `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
+- Part002 global scans: **27–53**
+- incoming 26→27: **GENUINE CONTINUATION / AUDITED**
+- outgoing 53→54: **PENDING direct audit / source-limited**
+- Part002 canonical records: **0/27**
 
 ## Workflow baseline
 
@@ -115,8 +120,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part002 source intake when the user supplies the Part002 PDF.**
+Begin **Part002 Pass1 — global scans27–36 / local pages1–10**.
 
-Do not guess Part002 filename, page count, scan range, checksum or boundary classification. On intake, inspect the first Part002 scan as the direct **26→27** boundary witness before beginning canonical Part002 transcription.
+Do not begin Pass2A until Part002 Pass1 covers all **27/27** scans. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
-Part001 is **FINAL CLOSED / FROZEN**.
+Part001 remains **FINAL CLOSED / FROZEN**.
