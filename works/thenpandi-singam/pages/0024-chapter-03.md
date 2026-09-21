@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf"
-transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
+transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A + Pass 2B reviewed"
 ---
 
 # 3
@@ -36,7 +36,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 - source-visible `குதிரை(?)யுடன்`, `மார் தட்ட`, and `மின்வெட்டுக் களாக` are retained exactly rather than normalized;
 - illustration is non-body visual matter;
 - Pass1 result: **TEXT-COMPLETE / needs-review**;
-- Pass2A result: **REVIEWED / PASS**; Pass2B / Pass3 are not started.
+- Pass2A result: **REVIEWED / PASS**; Pass2B result: **REVIEWED / PASS**; Pass3 is not started.
 
 
 ## Formal Part001 Pass 2A review
@@ -48,4 +48,15 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass2B, Pass3, Part audit and final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 24; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 12; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part001 Pass 2B review
+
+- independent lexical / word-boundary / punctuation-sensitive and historical-glyph reread completed directly against the attached Part001 source pixels;
+- source-text / lexical / spacing / punctuation corrections: **0**;
+- canonical source text required **0 Pass2B corrections**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass3, Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 24; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 12; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
