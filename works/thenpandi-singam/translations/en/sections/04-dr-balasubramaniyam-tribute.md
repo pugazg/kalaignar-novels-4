@@ -21,4 +21,4 @@ If we take labour in this novel, I can see, as one who evaluates researchers, th
 
 When it comes to feeling, throughout this book we can see a feeling for Tamil, a feeling for the Tamil people, and a feeling for the Tamil land.
 
-Third, elevation: through the very act of reading this, Kalaignar has shown with maturity how this people can rise. In particular, he has revealed in it his dream of how the Tamil Nadu of the future should be.
+Third, elevation: through the very act of reading this, Kalaignar has shown with maturity how this people can rise. In particular, he has revealed in it his dream of how the Tamilakam of the future should be.
