@@ -77,4 +77,4 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 Begin **Part001 Pass2A — direct textual verification of scans1–26**.
 
-scans1–20 are text-complete. All 26 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass2A is the next gate. Keep **26→27** pending until Part002 is supplied.
+scans1–26 are text-complete. All 26 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass2A is the next gate. Keep **26→27** pending until Part002 is supplied.
