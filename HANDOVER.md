@@ -96,13 +96,15 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - whole-Part bilingual review — **PASS / CLOSED**
 - bilingual English-only corrections — **1**
 - unresolved bilingual holds — **0**
-- release/readiness — **NOT STARTED / NEXT**
+- release/readiness — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- release-ready synchronization — **NOT STARTED / NEXT**
 - Parts002–018 — **not registered**
 - Part002 canonical records — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Exact next activity
 
-Create and complete the **Part001 release/readiness report**.
+Perform **Part001 release-ready synchronization**, then **Part001 final closure — PASS / CLOSED / FROZEN**.
 
-Do not begin release-ready synchronization, final closure or Part002 canonical transcription until release/readiness closes. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
+Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied. Do not begin Part002 canonical transcription before final closure.
