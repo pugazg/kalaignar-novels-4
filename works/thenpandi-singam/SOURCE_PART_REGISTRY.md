@@ -47,7 +47,7 @@ This ledger records the user's **18 split source PDFs**.
 - last scan — printed page **41**, chapter6 open continuation
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
-- canonical Part002 page records — **0/27**
+- canonical Part002 page records — **27/27**
 - exact intake record — `SOURCE_INTAKE_PART_002.md`
 
 ## Registration rules
@@ -99,8 +99,10 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - release/readiness: **PASS / CLOSED**
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
-- Part002 state: **PASS1 COMPLETE / PASS — 27/27 TEXT-COMPLETE; Pass2A NEXT**
+- Part002 state: **PASS2A IN PROGRESS — 22/27 REVIEWED — 0 corrections / 0 unresolved**
 - Part002 canonical records: **27/27**
+- Part002 Pass2A: **IN PROGRESS — 22/27 REVIEWED — scans27–48**
+- Part002 Pass2A corrections / unresolved: **0 / 0**
 - final closure: **PASS / CLOSED / FROZEN**
 - translated/source-checked: **10/10 / 10/10**
-- exact next gate: **Part002 Pass2A direct textual verification scans27–53**
+- exact next gate: **Part002 Pass2A scans49–53 / local pages23–27**
