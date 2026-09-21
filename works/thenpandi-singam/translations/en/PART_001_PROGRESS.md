@@ -21,8 +21,8 @@ Tamil authority is closed through assembled Tamil:
 | **E2** | section07 — chapter1 | 13–16 | 1 | **SOURCE-CHECKED / COMPLETE** |
 | **E3** | section08 — chapter2 | 17–23 | 1 | **SOURCE-CHECKED / COMPLETE** |
 | **E4** | section09 — chapter3 Part001 portion | 24–26 | 1 | **SOURCE-CHECKED / COMPLETE** |
-| Glossary reconciliation | Part001 whole-Part | 1–26 | — | **NOT STARTED / NEXT** |
-| Editorial review | Part001 whole-Part English | 1–26 | — | **BLOCKED** |
+| Glossary reconciliation | Part001 whole-Part | 1–26 | — | **RECONCILED / PASS** |
+| Editorial review | Part001 whole-Part English | 1–26 | — | **NOT STARTED / NEXT** |
 | Bilingual review | Part001 whole-Part | 1–26 | — | **BLOCKED** |
 | Release/readiness | Part001 | 1–26 | — | **BLOCKED** |
 | Release-ready sync | Part001 | 1–26 | — | **BLOCKED** |
@@ -127,8 +127,23 @@ Durable records:
 - `E3_SOURCE_CHECK.md`
 - `E4_SOURCE_CHECK.md`
 
+## Whole-Part glossary reconciliation closure
+
+**RECONCILED / PASS**
+
+- English files checked — **10/10**
+- English files changed — **4/10**
+- terminology occurrences corrected — **7**
+- corrected distinction — source `தமிழகம்` → **Tamilakam**, not **Tamil Nadu**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `GLOSSARY_RECONCILIATION.md`.
+
 ## Exact next activity
 
-Perform **Part001 whole-Part English glossary reconciliation** across all ten maintained English files / scans1–26.
+Perform **Part001 English editorial review across all 10 maintained English files / scans1–26**.
 
-Do not begin editorial review until glossary reconciliation closes.
+Do not begin whole-Part bilingual review until editorial review closes.
