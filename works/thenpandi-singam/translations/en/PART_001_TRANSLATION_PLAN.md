@@ -341,3 +341,17 @@ Durable record: `BILINGUAL_REVIEW.md`.
 **Part001 release/readiness report.**
 
 Do not begin release-ready synchronization, final Part001 closure or Part002 canonical transcription until release/readiness closes.
+
+
+## Release/readiness closure
+
+**PASS / CLOSED**
+
+- unresolved release/readiness blockers — **0**
+- maintained English files — **10/10**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING / source-limited / preserved**
+
+Durable record: `RELEASE_REPORT.md`.
+
+Current next gate: **Part001 release-ready synchronization**, then final closure.
