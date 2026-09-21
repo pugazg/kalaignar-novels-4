@@ -6,6 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 Pass2B scans27–36**
 
 ## Work
 
@@ -116,6 +117,14 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
 - Part002 Pass2A corrections / unresolved — **1 / 0**
 - unresolved completed-batch source-reading holds — **0**
+
+## Continuation control
+
+- `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
+- continuation gate — **Part002 Pass2B**
+- first Pass2B batch — **scans27–36 / local pages1–10**
+- the source PDF is not stored in Git; direct verification in a new chat requires the Part002 source PDF to be available there
+- repository controls must be reread from live `main` before continuing
 
 ## Exact next activity
 
