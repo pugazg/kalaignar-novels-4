@@ -70,7 +70,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 
 - registered Parts: **2 / 18**
 - registered physical scans: **53**
-- canonical page records: **46**
+- canonical page records: **53**
 - final-closed Parts: **1**
 - active transcription Part: **Part002**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
@@ -99,8 +99,8 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - release/readiness: **PASS / CLOSED**
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
-- Part002 state: **PASS1 IN PROGRESS — 20/27 TEXT-COMPLETE**
-- Part002 canonical records: **20/27**
+- Part002 state: **PASS1 COMPLETE / PASS — 27/27 TEXT-COMPLETE; Pass2A NEXT**
+- Part002 canonical records: **27/27**
 - final closure: **PASS / CLOSED / FROZEN**
 - translated/source-checked: **10/10 / 10/10**
-- exact next gate: **Part002 Pass1 scans47–53 / local pages21–27**
+- exact next gate: **Part002 Pass2A direct textual verification scans27–53**
