@@ -125,6 +125,8 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part002 Pass3: **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - Part002 Part audit: **PASS / COMPLETE**
 - Part002 final status sync: **PASS / CLOSED — 27/27 verified Tamil + visual**
+- Part002 documentation synchronization: **PASS / COMPLETE**
+- Part002 Tamil archival-ready: **PASS / CLOSED**
 - outgoing Part002 boundary 53→54: **PENDING direct audit / source-limited**
 - translated/source-checked English files: **10/10 / 10/10**
-- exact next activity: **Part002 documentation synchronization**
+- exact next activity: **Part002 assembled Tamil construction + audit**
