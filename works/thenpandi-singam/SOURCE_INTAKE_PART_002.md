@@ -117,13 +117,13 @@ Completed:
 - scans37–46 / local11–20 — **10/10**
 - scans47–53 / local21–27 — **7/7**
 
-All 27 canonical Part002 records remain `needs-review` pending the whole-Part audit and final metadata/status synchronization.
+At Pass1 closure, all 27 canonical Part002 records remained `needs-review`; downstream audit and status synchronization are now complete.
 
-## Exact next activity
+## Current exact next activity
 
-Perform the **Part002 whole-Part audit — scans27–53 / local pages1–27**.
+Perform **Part002 documentation synchronization**.
 
-Pass3 is now **COMPLETE / PASS — 27/27 REVIEWED** with **0 textual corrections / 0 unresolved visual-structural questions**. Do not upgrade records to verified during the audit. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+The whole-Part audit is **PASS / COMPLETE** and final metadata/status synchronization is **PASS / CLOSED — 27/27 verified Tamil + visual**. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
 ## Downstream Pass2A state
 
@@ -161,3 +161,15 @@ Pass2A handoff target was **Pass2B scans27–36 / local pages1–10**; that batc
 - status promotions — **0**
 - all Part002 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - exact next activity — **Part002 whole-Part audit — scans27–53 / local pages1–27**
+
+
+## Downstream audit / final-status state
+
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- canonical Tamil changes caused by status sync — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next activity — **Part002 documentation synchronization**
