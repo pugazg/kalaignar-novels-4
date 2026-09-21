@@ -139,8 +139,24 @@ Part001 assembled Tamil is now:
 
 The source-limited 26→27 boundary remains pending by design and is preserved without importing later text.
 
+## Post-assembly English planning state
+
+**PART001 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- reserved batches — **E1–E4**
+- planned maintained English files — **10**
+- translated/source-checked files — **0/10 / 0/10**
+- English literary prose drafted during planning — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- Part002 leakage — **0**
+
+Planning controls:
+- `translations/en/PART_001_TRANSLATION_PLAN.md`
+- `translations/en/PART_001_GLOSSARY.md`
+- `translations/en/PART_001_PROGRESS.md`
+
 ## Exact next gate
 
-**Part001 English translation planning/setup** is the next workflow gate.
+**E1 draft + source-check — sections00–06 / scans1–12.**
 
-Do not draft English until the planning/glossary/progress controls are created. Part002 canonical transcription remains blocked.
+Do not begin E2 until E1 closes **SOURCE-CHECKED / COMPLETE**. Part002 canonical transcription remains blocked.
