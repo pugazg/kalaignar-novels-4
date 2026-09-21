@@ -41,15 +41,15 @@ Part001:
 - Part audit — **PASS / COMPLETE**
 - final metadata/status sync — **PASS / CLOSED — 26/26 verified Tamil + visual**
 - documentation sync — **PASS / COMPLETE**
-- Tamil archival-ready — **NOT STARTED / NEXT**
-- assembled Tamil — BLOCKED
-- English — BLOCKED
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 10/10 VERIFIED — 26/26 canonical coverage**
+- English planning/setup — **NOT STARTED / NEXT**
 - final closure — BLOCKED
 
 Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may later provide only the scan27 boundary witness until Part001 closes.
 
 ## Exact next action
 
-**Part001 Tamil archival-ready checkpoint.**
+**Part001 English translation planning/setup.**
 
-Current canonical disposition: **26/26 verified Tamil / 26/26 verified visual fidelity**. Outgoing **26→27** remains **PENDING direct audit / source-limited** because Part002 is unavailable.
+Tamil canonical/visual state is **26/26 verified**, Tamil archival-ready is **PASS / CLOSED**, and assembled Tamil is **10/10 VERIFIED / PASS / CLOSED**. Do not draft English in the planning gate. Part002 remains blocked; **26→27** remains pending.
