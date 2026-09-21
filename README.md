@@ -8,12 +8,12 @@
 
 - work: **தென்பாண்டிச் சிங்கம்**
 - work directory: `works/thenpandi-singam/`
-- source packaging: **18 split PDF Parts supplied by the user as the working source set**
+- source packaging: **18 split PDF Parts prepared by the user as the working source set**
 - split-file size policy: each source Part is **not more than 50 MB**
 - exact source filenames, physical-page ranges, printed-page ranges, byte sizes, SHA-256 values and total physical extent: **PENDING source intake**
 - canonical `scan_page`: global across the complete work; **never reset at a Part boundary**
 - current state: **repository workflow scaffold initialized; source ingestion not yet started**
-- active Part: **Part001 — PENDING SOURCE SUPPLY / INTAKE**
+- active Part: **Part001 — PENDING ATTACHMENT / SOURCE INTAKE**
 
 ## Workflow baseline
 
