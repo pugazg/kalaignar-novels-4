@@ -143,3 +143,17 @@ The source-limited 53→54 boundary remains pending by design and is preserved w
 **Part002 English translation planning/setup.**
 
 Do not draft English literary prose until planning/setup closes **COMPLETE / PASS**.
+
+
+## Downstream English planning state
+
+- Part002 English translation planning/setup — **COMPLETE / PASS**
+- reserved batches — **E5–E8**
+- planned maintained English files — **4**
+- translated/source-checked — **0/4 / 0/4**
+- unresolved planning holds — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- English literary prose drafted in planning — **0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next gate — **E5 draft + source-check — section10 / scans27–30**
