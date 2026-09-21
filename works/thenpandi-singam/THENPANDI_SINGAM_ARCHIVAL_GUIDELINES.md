@@ -196,9 +196,13 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part001 Tamil archival-ready — **PASS / CLOSED**
 - Part001 assembled Tamil — **10/10 VERIFIED / PASS / CLOSED**
 - Part001 assembled canonical coverage — **26/26**
+- Part001 English planning/setup — **COMPLETE / PASS**
+- Part001 reserved English batches — **E1–E4**
+- Part001 planned English files — **10**
+- Part001 translated/source-checked English files — **0/10 / 0/10**
 - Part001 canonical Tamil — **26/26 verified**
 - Part001 visual fidelity — **26/26 verified**
 - outgoing 26→27 — **PENDING Part002 direct witness**
 - Parts002–018 source metadata — **PENDING**
 - Part002 canonical records — **0**
-- exact next activity — **Part001 English translation planning/setup**
+- exact next activity — **E1 draft + source-check — sections00–06 / scans1–12**
