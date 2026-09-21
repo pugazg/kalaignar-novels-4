@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS — 22/27 REVIEWED**
+**PASS 2A — COMPLETE / PASS — 27/27 REVIEWED**
 
 Source:
 - `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
@@ -16,11 +16,11 @@ Source:
 
 Direct textual verification completed for:
 
-- global scans **27–48**
-- local pages **1–22**
-- canonical records reviewed — **22/27**
+- global scans **27–53**
+- local pages **1–27**
+- canonical records reviewed — **27/27**
 
-For each completed scan, Pass2A checked directly against the rendered source image:
+For every Part002 scan, Pass2A checked directly against the rendered source image:
 
 - source wording and visible word boundaries;
 - punctuation and quotation marks;
@@ -32,42 +32,54 @@ For each completed scan, Pass2A checked directly against the rendered source ima
 
 ## Correction ledger
 
-Pass2A source-text corrections through scan48 — **0**.
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|:---:|---|---|---|
+| 50 | 38 | `விம்மியமுதாள்` | `விம்மியழுதாள்` | source lexical reading correction |
 
-All scans27–48 matched their Pass1 canonical source transcription closely enough to require no canonical text correction in this gate.
+Pass2A source-text corrections — **1**.
 
-Unresolved textual questions through scan48 — **0**.
+- scans27–49 and scans51–53 required **0** canonical source-text correction;
+- scan50 required **1** source-supported correction;
+- unresolved textual questions — **0**.
+
+## Final batch — scans49–53 / local pages23–27
+
+**5/5 REVIEWED / PASS**
+
+- scan49 / printed37 — **0 corrections**
+- scan50 / printed38 — **1 correction**: `விம்மியமுதாள்` → `விம்மியழுதாள்`
+- scan51 / printed39 — **0 corrections**
+- scan52 / printed40 — **0 corrections**
+- scan53 / printed41 — **0 corrections**
+- outgoing 53→54 remains **PENDING direct audit / source-limited**; no continuation beyond the supplied Part002 source was inferred.
 
 ## Status discipline
 
 - page status promotions — **0**
-- scans27–48 remain `status: "needs-review"`
-- scans27–48 remain `visual_fidelity: "needs-review"`
-- scans49–53 remain Pass1-only / `needs-review`
-- Pass2B — **BLOCKED pending Pass2A closure**
+- all scans27–53 remain `status: "needs-review"`
+- all scans27–53 remain `visual_fidelity: "needs-review"`
+- Pass2B — **UNBLOCKED / NEXT**
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part003 canonical leakage — **0**
 
-## Remaining Pass2A scope
-
-Not yet reviewed in Pass2A:
-
-- scans **49–53**
-- local pages **23–27**
-- **5 pages**
-
-## Current accounting
+## Final accounting
 
 - Part002 canonical records — **27/27**
 - Pass1 — **COMPLETE / PASS — 27/27**
-- Pass2A — **IN PROGRESS — 22/27**
-- Pass2A corrections — **0**
+- Pass2A — **COMPLETE / PASS — 27/27**
+- Pass2A corrections — **1**
 - unresolved Pass2A questions — **0**
 - verified Part002 pages — **0**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
 
+## Gate result
+
+**PASS 2A — COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**
+
+The direct textual verification gate is closed. No page is promoted to verified at this stage.
+
 ## Exact next activity
 
-Complete **Part002 Pass2A — scans49–53 / local pages23–27**.
+Begin **Part002 Pass2B — scans27–36 / local pages1–10**.
 
-After those 5 scans are directly verified, close Pass2A and only then begin **Part002 Pass2B**.
+Perform an independent lexical / historical-glyph reread. Keep all Part002 records `needs-review`, do not begin Pass3 until Pass2B closes, and keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
