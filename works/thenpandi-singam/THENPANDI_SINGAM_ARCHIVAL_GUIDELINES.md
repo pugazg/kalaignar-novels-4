@@ -222,7 +222,7 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part002 incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - Part002 outgoing 53→54 — **PENDING direct audit / source-limited**
 - Part002 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Part002 Pass2A — **IN PROGRESS — 22/27 REVIEWED — 0 corrections / 0 unresolved**
+- Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**
 - Part001 unresolved English source-check holds — **0**
 - Part001 translated/source-checked English files — **10/10 / 10/10**
 - Part001 canonical Tamil — **26/26 verified**
@@ -230,4 +230,4 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - outgoing 26→27 — **GENUINE CONTINUATION / AUDITED**
 - Parts003–018 source metadata — **PENDING**
 - Part002 canonical records — **27/27**
-- exact next activity — **Part002 Pass2A scans49–53 / local pages23–27**
+- exact next activity — **Part002 Pass2B scans27–36 / local pages1–10**
