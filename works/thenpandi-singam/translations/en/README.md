@@ -75,8 +75,22 @@ Do not import, infer, translate or semantically complete Part002 wording.
 - Part002 leakage — **0**
 - 26→27 remains **PENDING direct audit / source-limited**
 
+## Whole-Part glossary reconciliation
+
+**RECONCILED / PASS**
+
+- English files checked — **10/10**
+- English files changed — **4/10**
+- terminology occurrences corrected — **7**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+- 26→27 remains **PENDING direct audit / source-limited**
+
+Durable record: `GLOSSARY_RECONCILIATION.md`.
+
 ## Exact next gate
 
-**Part001 whole-Part English glossary reconciliation across E1–E4.**
+**Part001 English editorial review across all 10 maintained English files / scans1–26.**
 
-Do not begin editorial review until glossary reconciliation closes.
+Do not begin whole-Part bilingual review until editorial review closes.
