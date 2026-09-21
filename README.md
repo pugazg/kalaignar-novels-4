@@ -45,6 +45,7 @@
 - Part001 Tamil status: **26/26 verified**
 - Part001 visual fidelity: **26/26 verified**
 - final metadata/status synchronization: **PASS / CLOSED**
+- documentation synchronization: **PASS / COMPLETE**
 - Part002 canonical records: **0**
 
 ## Workflow baseline
@@ -87,6 +88,6 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Perform **Part001 Tamil archival-ready checkpoint** after documentation synchronization.
+Perform **Part001 Tamil archival-ready checkpoint**.
 
 The supplied Part001 scans1–26 are **26/26 verified** for Tamil and visual fidelity. The unavailable **26→27** adjacent boundary remains **PENDING direct audit / source-limited** and must remain pending until Part002 is supplied.
