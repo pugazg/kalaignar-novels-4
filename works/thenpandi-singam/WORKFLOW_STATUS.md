@@ -49,8 +49,8 @@ Part001:
 - English E3 — **SOURCE-CHECKED / COMPLETE — scans17–23 / 1 file**
 - English E4 — **SOURCE-CHECKED / COMPLETE — scans24–26 / 1 file**
 - English glossary reconciliation — **RECONCILED / PASS — 4 files / 7 terminology corrections / 0 unresolved**
-- English editorial review — **NOT STARTED / NEXT**
-- bilingual review — **BLOCKED**
+- English editorial review — **PASS / CLOSED — 10/10 reviewed / 9 files edited / 24 corrections / 0 unresolved**
+- bilingual review — **NOT STARTED / NEXT**
 - release/readiness — **BLOCKED**
 - final closure — BLOCKED
 
@@ -58,6 +58,6 @@ Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may lat
 
 ## Exact next action
 
-**Part001 English editorial review across all 10 maintained English files / scans1–26.**
+**Part001 whole-Part bilingual review across Tamil + English / scans1–26.**
 
-Glossary reconciliation is **RECONCILED / PASS** with **4/10 files changed, 7 terminology occurrences corrected, 0 unresolved holds**. Do not begin bilingual review until editorial review closes. Part002 remains blocked; **26→27** remains pending.
+English editorial review is **PASS / CLOSED** with **10/10 files reviewed, 9/10 edited, 24 English-only corrections, 0 unresolved holds**. Do not begin release/readiness until bilingual review closes. Part002 remains blocked; **26→27** remains pending.
