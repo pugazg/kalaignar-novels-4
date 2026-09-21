@@ -80,6 +80,6 @@ The direct textual verification gate is closed. No page is promoted to verified 
 
 ## Exact next activity
 
-Begin **Part002 Pass2B — scans27–36 / local pages1–10**.
+Pass2B is now **IN PROGRESS — 10/27 REVIEWED — scans27–36** with **3 lexical / spacing / punctuation corrections / 0 historical-glyph corrections / 0 unresolved**.
 
-Perform an independent lexical / historical-glyph reread. Keep all Part002 records `needs-review`, do not begin Pass3 until Pass2B closes, and keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Exact next activity: **Part002 Pass2B — scans37–46 / local pages11–20**. Keep all Part002 records `needs-review`, do not begin Pass3 until Pass2B closes, and keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
