@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf"
-transcription_method: "direct source-image transcription; Part001 Pass 1 batch scans1–10"
+transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
 ## Source transcription
 
 கலைஞருக்குக் கைவந்த கலை மற்றொன்று உண்டு. சொல்லாட்சியிலே, சொற்களுக்கு விளக்கம் கொடுப்பதிலே அவர் கைதேர்ந்த நிபுணர். உதாரணம்: “தம்பி, நீ என்ன நினைத்து விட்டாய்? பட்டமங்கலம் மானம் பட்டுப் போன மங்கலம் என்று நினைத்து விட்டாயா? வீரத்திற்குப் பட்டம் வாங்கிய மங்கலம் பட்டமங்கலம்” என்ற வார்த்தைகளாகும்.
 
-இந்தப் புதினத்தின் உயிர் மூச்சு தமிழனின் தன்மானம்; ஒன்றுபட்ட தமிழகம் உருவாக வேண்டும் என்பதாகும். தமிழுக்கு நோபல் பரிசு கிடைக்கக்கூடிய காலம் நெருங்கிக் கொண்டிருக்கிறது.
+இந்தப் புதினத்தின் உயிர் மூச்சு தமிழனின் தன்மானம்; ஒன்றுபட்ட தமிழகம் உருவாக வேண்டும் என்பதாகும்; தமிழுக்கு நோபல் பரிசு கிடைக்கக்கூடிய காலம் நெருங்கிக் கொண்டிருக்கிறது.
 
 ## Pass 1 notes
 
@@ -26,6 +26,16 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 batch s
 - substantial lower-page blank field is source-visible and intentional; no prose is invented for it;
 - no printed page number is visible;
 - Pass1 result: **TEXT-COMPLETE / needs-review**;
-- Pass2A / Pass2B / Pass3 are not started.
+- Pass2A result: **REVIEWED / PASS**; Pass2B / Pass3 are not started.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 10; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 10; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, displayed-text and printed-pagination comparison completed against the attached Part001 source pixels;
+- source-text corrections: **1**;
+- punctuation: period after `என்பதாகும்` → source semicolon;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass2B, Pass3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 10; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 10; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
