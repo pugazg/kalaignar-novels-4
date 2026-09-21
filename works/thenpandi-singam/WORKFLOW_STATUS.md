@@ -64,10 +64,10 @@ Part002 source intake is **COMPLETE / PASS**:
 - outgoing 53→54 — **PENDING direct audit / source-limited**
 - canonical records — **27/27**
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Pass2A — **IN PROGRESS — 22/27 REVIEWED — scans27–48 — 0 corrections / 0 unresolved**
+- Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53 — 1 correction / 0 unresolved**
 
 ## Exact next action
 
-**Part002 Pass2A — complete scans49–53 / local pages23–27.**
+**Part002 Pass2B — begin scans27–36 / local pages1–10.**
 
-Scans27–48 are **REVIEWED / PASS** in Pass2A with **0 corrections / 0 unresolved**. Keep page status and visual fidelity at `needs-review`. Pass2B remains blocked until Pass2A closes. Part001 remains frozen.
+Pass2A is **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**. Scan50 was corrected from `விம்மியமுதாள்` to source-confirmed `விம்மியழுதாள்`. Keep page status and visual fidelity at `needs-review`; Pass3 remains blocked until Pass2B closes. Part001 remains frozen.
