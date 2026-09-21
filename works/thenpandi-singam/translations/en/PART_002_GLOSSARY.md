@@ -1,6 +1,6 @@
 # Part 002 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **E5–E8 SOURCE-CHECKED / RECONCILIATION NEXT**
+Status: **WHOLE-PART GLOSSARY — RECONCILED / PASS**
 
 This glossary is derived only from verified Part002 Tamil and the closed Part002 assembled Tamil reading layer.
 
@@ -175,3 +175,26 @@ Current accounting:
 Perform **Part002 whole-Part English glossary reconciliation across E5–E8**.
 
 Reconciliation must check these source-facing choices across all four files as a single corpus and may alter English only. Do not begin editorial review until reconciliation closes **RECONCILED / PASS**.
+
+
+## Reconciliation closure
+
+**PART002 WHOLE-PART GLOSSARY — RECONCILED / PASS**
+
+- maintained English files checked — **4/4**
+- English files changed — **1/4**
+- terminology occurrences corrected — **9**
+- corrected distinction — **`வாளுக்கு வேலி` → Vaalukku Veli / `வாளுக்குவேலி` → Vaalukkuveli**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `PART_002_GLOSSARY_RECONCILIATION.md`.
+
+## Exact next gate
+
+**Part002 English editorial review across all 4 maintained English files / scans27–53.**
+
+Do not begin whole-Part bilingual review until editorial review closes.
