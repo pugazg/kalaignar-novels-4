@@ -45,4 +45,14 @@ transcription_method: "direct source-image transcription; Part002 Pass1 batch sc
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending remaining Pass2B, Pass3, Part audit and final metadata/status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 38; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 12; அச்சுப் பக்கம்: 26; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
+## Formal Part002 Pass 3 review
+
+- full-page visual / structural comparison completed directly against the rendered Part002 source page;
+- structural result: chapter-4 closing page; printed folio 26, continuation from scan37, three closing ornaments and substantial intentional blank lower field verified;
+- displayed-text hierarchy, paragraph/dialogue blocks, printed-pagination/page-furniture, reading order and physical-boundary state checked;
+- Pass3 textual corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 38; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 12; அச்சுப் பக்கம்: 26; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED + PASS 3 REVIEWED / needs-review -->
