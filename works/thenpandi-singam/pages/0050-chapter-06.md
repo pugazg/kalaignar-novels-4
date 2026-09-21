@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part002 Pass1 final ba
 
 மகனைப் பற்றிக் குறை கூற வந்த அந்தக் கிழத்தாய், அம்பலக்காரரின் கால்களில் விழுந்து “அய்யோ! அவனை விட்டு விடுங்கள்!” என்று கதறிவிட்டாள்! தாய்மை அங்கே கொடிகட்டிப் பறந்தது.
 
-“அவருக்காக நான் மன்னிப்புக் கேட்டுக்கிறேன். அத்தானை ஒண்ணும் செய்யாதீங்க” என்று குறுக்கே பாய்ந்து கணவனைக் கட்டிக்கொண்டு விம்மியமுதாள் அந்தப் பெண்மணி! கழுத்தில் தாலியில்லாவிட்டாலும் - அதைக் கழற்றி விற்றவன் கணவன் தானே என்ற ஆறுதலுடன்; பெண்மை அங்கே பேரரணாக நின்று பாதுகாத்தது!
+“அவருக்காக நான் மன்னிப்புக் கேட்டுக்கிறேன். அத்தானை ஒண்ணும் செய்யாதீங்க” என்று குறுக்கே பாய்ந்து கணவனைக் கட்டிக்கொண்டு விம்மியழுதாள் அந்தப் பெண்மணி! கழுத்தில் தாலியில்லாவிட்டாலும் - அதைக் கழற்றி விற்றவன் கணவன் தானே என்ற ஆறுதலுடன்; பெண்மை அங்கே பேரரணாக நின்று பாதுகாத்தது!
 
 பெற்ற தாயும்-உற்ற தாரமும், தன் மீது தூசு படவும் சகிக்கமாட்டார்கள் என்பதை அந்தக் குடி மயக்கத்திலும் புரிந்து கொள்கிற அளவுக்கு வாளுக்கு வேலி கொடுத்த அடி உதவிற்று போலும்! மயக்கம் தெளிந்தவனாக ஒருகணமும் தயக்கமின்றிக் காலில் விழுந்து “அம்மா! என்னை மன்னித்துவிடு!” என்று அலறினான். மனைவியின் கரங்களைப் பற்றிக் கொண்டு “என்னை நம்பு! இனி இந்தத் தவறு செய்யவே மாட்டேன்” என்று கெஞ்சினான்.
 
@@ -32,8 +32,18 @@ transcription_method: "direct source-image transcription; Part002 Pass1 final ba
 ## Pass 1 notes
 
 - chapter 6 continuation; printed page **38**;
-- source-visible `விம்மியமுதாள்`, `தாயும்-உற்ற தாரமும்`, and `ஒருகணமும்` are retained;
+- source-visible `விம்மியழுதாள்`, `தாயும்-உற்ற தாரமும்`, and `ஒருகணமும்` are retained;
 - physical split phrase continues to scan51: scan50 ends `குமுறிக்`, scan51 begins `கொண்டிருந்த`; page records retain source-boundary fragments;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 50; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 38; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, displayed-text, printed-pagination and physical-boundary comparison completed against the rendered Part002 source image;
+- source-text corrections: **1**;
+- correction: `விம்மியமுதாள்` → `விம்மியழுதாள்` — source-confirmed lexical reading;
+- canonical source text required **1 Pass2A correction** on this scan;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 50; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 38; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
