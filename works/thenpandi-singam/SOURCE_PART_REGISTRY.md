@@ -6,8 +6,8 @@ This ledger records the user's **18 split source PDFs**.
 
 | Part | Exact source filename | Local physical pages | Global scan range | File size (bytes) | SHA-256 | Source intake | Final state |
 |---:|---|---:|---|---:|---|---|---|
-| 001 | pending | pending | pending | pending | pending | **NEXT** | not started |
-| 002 | pending | pending | pending | pending | pending | blocked | not started |
+| 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | active |
+| 002 | pending | pending | pending | pending | pending | pending attachment | not started |
 | 003 | pending | pending | pending | pending | pending | blocked | not started |
 | 004 | pending | pending | pending | pending | pending | blocked | not started |
 | 005 | pending | pending | pending | pending | pending | blocked | not started |
@@ -24,6 +24,17 @@ This ledger records the user's **18 split source PDFs**.
 | 016 | pending | pending | pending | pending | pending | blocked | not started |
 | 017 | pending | pending | pending | pending | pending | blocked | not started |
 | 018 | pending | pending | pending | pending | pending | blocked | not started |
+
+## Part001 registered source facts
+
+- source family / archive identifier: **TVA_BOK_0065559**
+- no usable embedded/parsed text layer
+- rendered source page images are controlling
+- source-visible edition: **பதிமூன்றாம் பதிப்பு — ஆகஸ்ட் 2021**
+- source-visible publication-page extent: **480 pages**
+- Part001 body evidence: scan13 = printed page1; scan26 = printed page14
+- incoming boundary: **NONE**
+- outgoing 26→27: **PENDING Part002 direct witness**
 
 ## Registration rules
 
@@ -43,7 +54,9 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 
 ## Current totals
 
-- registered Parts: **0 / 18**
-- supplied/inspected physical scans: **0**
+- registered Parts: **1 / 18**
+- registered physical scans: **26**
 - canonical page records: **0**
 - final-closed Parts: **0**
+- active Part: **Part001**
+- exact next gate: **Part001 Pass1 scans1–10**
