@@ -113,6 +113,7 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 - `works/thenpandi-singam/THENPANDI_SINGAM_ARCHIVAL_GUIDELINES.md` — controlling workflow
 - `works/thenpandi-singam/SOURCE_PART_REGISTRY.md` — 18-Part source intake ledger
 - `works/thenpandi-singam/SOURCE_INTAKE_PART_001.md` — registered Part001 source intake
+- `works/thenpandi-singam/SOURCE_INTAKE_PART_002.md` — registered Part002 source intake
 - `works/thenpandi-singam/indexes/page-map.md` — physical-page map
 - `works/thenpandi-singam/pages/` — canonical per-scan Tamil records
 - `works/thenpandi-singam/sections/` — assembled verified Tamil reading layer
