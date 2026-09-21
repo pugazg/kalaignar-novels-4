@@ -85,10 +85,17 @@ Outgoing:
 - source-limited outgoing-boundary condition — **1 (26→27 pending)**
 - status promotions — **0**
 - Part002 canonical records — **0**
-- Part audit — **NOT STARTED / NEXT**
+- Part audit — **PASS / COMPLETE**
+
+## Post-Pass3 closure state
+
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **26/26 verified**
+- visual fidelity — **26/26 verified**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+- Part002 canonical records — **0**
 
 ## Exact next activity
 
-Perform **Part001 whole-Part audit**.
-
-Do not promote metadata to `verified` until the audit passes.
+Complete **documentation synchronization**, then perform the **Tamil archival-ready checkpoint**.
