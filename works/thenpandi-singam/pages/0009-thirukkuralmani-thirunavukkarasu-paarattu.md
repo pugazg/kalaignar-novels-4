@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf"
-transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
+transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A + Pass 2B reviewed"
 ---
 
 # திருக்குறள்மணி திருநாவுக்கரசு பாராட்டு!
@@ -19,7 +19,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 
 தமிழர்களின் உயிர் மூச்சாக இருந்து வருகிற தன்மானத்தைப் போற்றுகின்ற வகையில்-தன்மானமிழந்த தமிழன் வாழ மாட்டான் என்பதை உணர்த்தும் வகையில்-கலைஞர் தென்பாண்டிச் சிங்கத்தைப் படைத்துத் தந்திருக்கிறார்.
 
-இந்தக் கதையின் நாயகன் வாளுக்குவேலியைப் பற்றி வேறு ஏதாவது வரலாற்றுக் குறிப்புகள் இருக்கிறதா என்று நான் ஆராய்ந்தேன். தமிழ் நாட்டின் வரலாறே இன்னும் முழுமையாக எழுதப்படவில்லை. பதினான்கு ஆண்டுகளுக்கு முன்பு கலைஞர் அவர்கள் தமிழ் நாட்டின் வரலாற்றை முறையாக எழுத-ஒரு பெரிய குழுவை அமைத்து எழுத வழிகாட்டினார். அந்தப் பணி இப்போது செம்மையாக நடைபெறாத நிலையில்-பண்டைக் காலத்து வரலாறே இன்னும் எழுதப்படாத நிலையில்-அண்மைக்காலத்து வரலாறுகள் நமக்கு எங்கே கிடைக்கப் போகிறது?
+இந்தக் கதையின் நாயகன் வாளுக்குவேலியைப் பற்றி வேறு ஏதாவது வரலாற்றுக் குறிப்புகள் இருக்கிறதா என்று நான் ஆராய்ந்தேன். தமிழ் நாட்டின் வரலாறே இன்னும் முழுமையாக. எழுதப்படவில்லை. பதினான்கு ஆண்டுகளுக்கு முன்பு கலைஞர் அவர்கள் தமிழ் நாட்டின் வரலாற்றை முறையாக எழுத-ஒரு பெரிய குழுவை அமைத்து எழுத வழிகாட்டினார். அந்தப் பணி இப்போது செம்மையாக நடைபெறாத நிலையில்-பண்டைக் காலத்து வரலாறே இன்னும் எழுதப்படாத நிலையில்-அண்மைக்காலத்து வரலாறுகள் நமக்கு எங்கே கிடைக்கப் போகிறது?
 
 இந்தப் புதினத்தில் வாளுக்குவேலியை ஒழிக்க எண்ணுபவன் உறங்காப்புலி. இவனைப்பற்றி ஓய்ப்புலி தேவான் என்று ஆங்கிலக் குறிப்பு ஒன்று காணப்படுகிறது. அவன் ஒரு கோழை.
 
@@ -32,7 +32,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 - no printed page number is visible;
 - this commendatory section continues onto scan10;
 - Pass1 result: **TEXT-COMPLETE / needs-review**;
-- Pass2A result: **REVIEWED / PASS**; Pass2B / Pass3 are not started.
+- Pass2A result: **REVIEWED / PASS**; Pass2B result: **REVIEWED / PASS**; Pass3 is not started.
 
 
 ## Formal Part001 Pass 2A review
@@ -47,4 +47,15 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass2B, Pass3, Part audit and final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 9; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part001 Pass 2B review
+
+- independent lexical / word-boundary / punctuation-sensitive and historical-glyph reread completed directly against the attached Part001 source pixels;
+- source-text / lexical / spacing / punctuation corrections: **1**;
+- source punctuation restored after `முழுமையாக`;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass3, Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 9; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
