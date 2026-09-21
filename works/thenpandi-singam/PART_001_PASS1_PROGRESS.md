@@ -102,3 +102,14 @@ Durable record: `PART_001_PASS2B_PROGRESS.md`.
 **Part001 Pass3 — direct full-page visual / structural verification of scans1–26.**
 
 Do not begin Part audit in the same activity. Keep **26→27 PENDING direct audit** until Part002 is supplied.
+
+
+## Post-Pass3 / audit / status-sync state
+
+- Pass3 — **COMPLETE / PASS — 26/26**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status sync — **PASS / CLOSED**
+- canonical Tamil — **26/26 verified**
+- visual fidelity — **26/26 verified**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+- exact next activity — **documentation synchronization, then Tamil archival-ready checkpoint**
