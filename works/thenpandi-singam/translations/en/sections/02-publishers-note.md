@@ -17,7 +17,7 @@ Among the historical novels available to Tamil, this *Thenpandi Singam* possesse
 
 This novel has had the good fortune of being created by a leader worthy of a separate chapter in the history of the Tamil people.
 
-If the future history of Tamil Nadu is waiting to be written by Kalaignar, here we also witness the marvel of an earlier history brought back to life by him and made to shine before us.
+If the future history of Tamilakam is waiting to be written by Kalaignar, here we also witness the marvel of an earlier history brought back to life by him and made to shine before us.
 
 A historical novel is not merely the narration, with evidence, dates, and statistics, of events that happened to a people during a particular period. A good historical novel must also bring before present-day society, and awaken it to, the qualities and circumstances hidden behind the statistics supplied by historical researchers—how that people declined and how they were lulled into slumber. Through this novel, Kalaignar has laid down a grammar for how such novels are to be created.
 
