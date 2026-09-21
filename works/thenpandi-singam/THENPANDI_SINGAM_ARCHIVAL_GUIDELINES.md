@@ -185,9 +185,9 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part001 source — **REGISTERED / COMPLETE / PASS**
 - Part001 source file — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf`
 - Part001 global scans — **1–26**
-- Part001 canonical records — **0/26**
-- Part001 Pass1 — **NOT STARTED / NEXT**
+- Part001 canonical records — **10/26 — scans1–10**
+- Part001 Pass1 — **IN PROGRESS — 10/26 TEXT-COMPLETE**
 - outgoing 26→27 — **PENDING Part002 direct witness**
 - Parts002–018 source metadata — **PENDING**
 - Part002 canonical records — **0**
-- exact next activity — **Part001 Pass1 scans1–10 / local pages1–10**
+- exact next activity — **Part001 Pass1 scans11–20 / local pages11–20**
