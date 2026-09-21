@@ -51,13 +51,14 @@ Part001:
 - English glossary reconciliation — **RECONCILED / PASS — 4 files / 7 terminology corrections / 0 unresolved**
 - English editorial review — **PASS / CLOSED — 10/10 reviewed / 9 files edited / 24 corrections / 0 unresolved**
 - bilingual review — **PASS / CLOSED — 10/10 pairs / 1 English-only correction / 0 unresolved**
-- release/readiness — **NOT STARTED / NEXT**
-- final closure — BLOCKED
+- release/readiness — **PASS / CLOSED — 0 blockers / 1 non-blocking source-limited boundary condition**
+- release-ready synchronization — **NOT STARTED / NEXT**
+- final closure — BLOCKED pending release-ready synchronization
 
 Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may later provide only the scan27 boundary witness until Part001 closes.
 
 ## Exact next action
 
-**Part001 release/readiness report.**
+**Part001 release-ready synchronization**, then **final closure — PASS / CLOSED / FROZEN**.
 
-Whole-Part bilingual review is **PASS / CLOSED** with **10/10 Tamil-English pairs reviewed, 1 English-only correction, 0 unresolved holds**. Do not begin release-ready synchronization or final closure until release/readiness closes. Part002 remains blocked; **26→27** remains pending.
+Release/readiness is closed with **0 blockers**. The unavailable **26→27** witness remains an explicit non-blocking source-limited condition.
