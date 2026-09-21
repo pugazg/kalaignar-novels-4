@@ -81,8 +81,8 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 - source intake: **COMPLETE / PASS**
 - Pass1: **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
-- Pass2B: **NOT STARTED / NEXT**
-- Pass3: **BLOCKED**
+- Pass2B: **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
+- Pass3: **NOT STARTED / NEXT**
 - Part audit: **BLOCKED**
 - final status sync: **BLOCKED**
 - documentation sync: **BLOCKED**
@@ -93,6 +93,6 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 
 ## Exact next activity
 
-Begin **Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–26**.
+Begin **Part001 Pass3 — direct full-page visual / structural verification of scans1–26**.
 
-Canonical page records already cover all 26 scans. Keep every record at `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass1 and Pass2A are complete. Keep **26→27** pending until Part002 is supplied and directly checked.
+Canonical page records already cover all 26 scans. Keep every record at `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass1, Pass2A and Pass2B are complete. Keep **26→27** pending until Part002 is supplied and directly checked.
