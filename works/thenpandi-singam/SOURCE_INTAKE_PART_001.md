@@ -89,12 +89,13 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 - Tamil archival-ready: **PASS / CLOSED**
 - assembled Tamil: **PASS / CLOSED — 10/10 VERIFIED**
 - English planning/setup: **COMPLETE / PASS**
-- English E1: **NOT STARTED / NEXT — scans1–12**
-- English E2–E4: **BLOCKED sequentially**
+- English E1: **SOURCE-CHECKED / COMPLETE — scans1–12**
+- English E2–E4: **SOURCE-CHECKED / COMPLETE**
+- English glossary reconciliation: **NOT STARTED / NEXT**
 - final closure: **BLOCKED**
 
 ## Exact next activity
 
-Begin **E1 draft + source-check — sections00–06 / scans1–12**.
+Perform **Part001 whole-Part English glossary reconciliation across E1–E4 / scans1–26**.
 
 Part002 canonical transcription remains blocked. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
