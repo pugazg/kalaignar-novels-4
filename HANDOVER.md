@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 E5 draft + source-check**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 whole-Part English glossary reconciliation**
 
 ## Work
 
@@ -135,14 +135,20 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 reserved English batches — **E5–E8**
 - Part002 planned English files — **4**
-- Part002 translated/source-checked English files — **0/4 / 0/4**
+- Part002 translated/source-checked English files — **4/4 / 4/4**
+- Part002 E5 — **SOURCE-CHECKED / COMPLETE**
+- Part002 E6 — **SOURCE-CHECKED / COMPLETE**
+- Part002 E7 — **SOURCE-CHECKED / COMPLETE**
+- Part002 E8 — **SOURCE-CHECKED / COMPLETE**
+- Part002 English structural block coverage — **146/146**
+- Part002 unresolved English source-check holds — **0**
 - English literary prose drafted in planning — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
-- continuation gate — **Part002 E5 draft + source-check — scans27–30**
+- continuation gate — **Part002 whole-Part English glossary reconciliation across E5–E8**
 - Part002 Pass2B final state — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 Pass3 final state — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part002 source PDF to be available there
@@ -150,8 +156,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Perform **Part002 E5 draft + source-check — section10 / scans27–30**.
+Perform **Part002 whole-Part English glossary reconciliation across E5–E8**.
 
-Part002 English planning/setup is **COMPLETE / PASS**. Batches **E5–E8** are reserved with **4 planned English files**, **0/4 translated**, **0/4 source-checked**, **0 planning holds**, and **0 English literary prose drafted during planning**. Preserve frozen Part001 English, incoming **26→27 GENUINE CONTINUATION / AUDITED**, and outgoing **53→54 PENDING direct audit / source-limited**.
+E5–E8 are **SOURCE-CHECKED / COMPLETE** with **4/4 translated, 4/4 source-checked, 146/146 structural blocks covered, 0 unresolved source-check holds, 0 canonical/assembled Tamil edits, and 0 Part003 leakage**. Preserve frozen Part001 English and outgoing **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
