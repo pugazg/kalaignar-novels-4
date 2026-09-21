@@ -278,3 +278,22 @@ Durable records:
 Exact next gate: **Part002 whole-Part English glossary reconciliation across E5–E8**.
 
 Do not begin editorial review until glossary reconciliation closes **RECONCILED / PASS**.
+
+
+## Part002 whole-Part glossary reconciliation
+
+**RECONCILED / PASS**
+
+- maintained English files checked — **4/4**
+- English files changed — **1/4**
+- terminology occurrences corrected — **9**
+- source distinction restored — **Vaalukku Veli / Vaalukkuveli**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- 53→54 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `PART_002_GLOSSARY_RECONCILIATION.md`.
+
+Exact next gate: **Part002 English editorial review across all 4 maintained English files / scans27–53**.
