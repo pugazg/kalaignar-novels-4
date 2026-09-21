@@ -66,6 +66,7 @@
 - release/readiness: **PASS / CLOSED**
 - unresolved release/readiness blockers: **0**
 - non-blocking source-limited boundary condition: **26→27 pending**
+- release-ready synchronization: **PASS / CLOSED**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
@@ -111,6 +112,6 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Perform **Part001 release-ready synchronization**.
+Perform **Part001 final closure — PASS / CLOSED / FROZEN**.
 
-After synchronization closes, perform **Part001 final closure — PASS / CLOSED / FROZEN**. Do not begin Part002 canonical transcription before final closure.
+Do not begin Part002 canonical transcription inside the final-closure gate.
