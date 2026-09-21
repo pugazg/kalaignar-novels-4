@@ -2,17 +2,17 @@
 
 ## Current result
 
-**PART001 PASS 1 — IN PROGRESS — 20/26 TEXT-COMPLETE.**
+**PART001 PASS 1 — COMPLETE / PASS — 26/26 TEXT-COMPLETE.**
 
 - source: `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf`
 - Part001 global scans: **1–26**
-- completed Pass1 scans: **1–20**
-- pending Pass1 scans: **21–26**
-- canonical Part001 page records: **20/26**
+- completed Pass1 scans: **1–26**
+- pending Pass1 scans: **0**
+- canonical Part001 page records: **26/26**
 - completed-batch unresolved source-reading holds: **0**
 - all created records remain `status: "needs-review"`
 - all created records remain `visual_fidelity: "needs-review"`
-- Pass2A: **BLOCKED until Pass1 reaches 26/26**
+- Pass2A: **NOT STARTED / NEXT GATE**
 - outgoing 26→27 boundary: **PENDING direct audit when Part002 is supplied**
 - Part002 canonical records: **0**
 
@@ -52,8 +52,32 @@ Source-sensitive spelling, word boundaries, punctuation, line/display structure 
 | 19 | 7 | chapter 2 continuation; quotation continues to scan20 | `pages/0019-chapter-02.md` |
 | 20 | 8 | chapter 2 continuation | `pages/0020-chapter-02.md` |
 
+## Batch 3 — scans21–26
+
+| Scan | Printed page | Source structure | Canonical record |
+|---:|:---:|---|---|
+| 21 | 9 | chapter 2 continuation; மதுரை வெள்ளை அய்யர் introduced; sentence continues | `pages/0021-chapter-02.md` |
+| 22 | 10 | chapter 2 continuation | `pages/0022-chapter-02.md` |
+| 23 | 11 | chapter 2 close; ornamental ending | `pages/0023-chapter-02.md` |
+| 24 | 12 | chapter 3 opening; illustrated | `pages/0024-chapter-03.md` |
+| 25 | 13 | chapter 3 continuation; quotation continues to scan26 | `pages/0025-chapter-03.md` |
+| 26 | 14 | chapter 3 continuation; Part001 terminal scan | `pages/0026-chapter-03.md` |
+
+## Pass1 closure
+
+- physical coverage — **26/26**
+- canonical records — **26/26**
+- text-complete — **26/26**
+- unresolved Pass1 source-reading holds — **0**
+- printed novel-body coverage established — **scan13 / printed1 through scan26 / printed14**
+- chapter openings in Part001 — **scan13 / chapter1; scan17 / chapter2; scan24 / chapter3**
+- Part001 terminal chapter — **chapter3 remains open**
+- outgoing 26→27 — **PENDING direct audit**
+- Part002 canonical records — **0**
+- status promotions caused by Pass1 — **0**
+
 ## Exact next activity
 
-**Part001 Pass1 — global scans21–26 / local pages21–26.**
+**Part001 Pass2A — direct textual verification of scans1–26.**
 
-Do not begin Pass2A in the same activity. Complete the remaining six Part001 scans first. Keep Part002 canonical records at **0** and keep 26→27 **PENDING direct audit** until Part002 is supplied.
+Do not begin Pass2B in the same activity. Keep all Part001 records at `needs-review` through Pass2A and keep **26→27 PENDING direct audit** until Part002 is supplied.
