@@ -1,6 +1,6 @@
 # Part 001 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **E1–E4 SOURCE-CHECKED / WHOLE-PART RECONCILIATION NEXT**
+Status: **WHOLE-PART GLOSSARY — RECONCILED / PASS**
 
 This glossary is derived only from verified Part001 Tamil and the closed assembled Tamil reading layer.
 
@@ -13,6 +13,7 @@ Canonical Tamil remains controlling.
 | Tamil source | English handling | Note |
 |---|---|---|
 | `தென்பாண்டிச் சிங்கம்` | **Thenpandi Singam** | source-facing project work title; do not import an external published title |
+| `தென் பாண்டிச் சிங்கம்` | **Then Pandi Singam** | retain source-visible spaced title variant on the publication-details page; do not collapse cosmetically |
 | `கதை பிறந்த கதை!` | **How the Story Was Born!** | working section-title rendering |
 | `பதிப்புரை` | **Publisher's Note** | functional working rendering |
 | `பெரும்புலவர் வ.சுப. மாணிக்கம் பாராட்டு!` | **V. Suba. Manickam — Appreciation** | retain source honorific context in prose where present |
@@ -68,7 +69,9 @@ Working title renderings may be refined during explicit source-check/editorial r
 | Tamil source | English handling | Note |
 |---|---|---|
 | `பாகனேரி` | **Paganeri** | source-facing place form |
-| `பட்டமங்கலம்` / `பட்ட மங்கலம்` | **Pattamangalam / source-sensitive spaced occurrence** | do not normalize canonical Tamil; English may use Pattamangalam while source-check tracks occurrence |
+| `பட்டமங்கலம்` / `பட்ட மங்கலம்` | **Pattamangalam** | place name; canonical Tamil spacing variation remains upstream |
+| `பட்டமங்கலம் நாடு` | **Pattamangalam Nadu** | retain full-place form by source occurrence |
+| `பட்டமங்கல நாடு` | **Pattamangala Nadu** | retain source adjectival/stem form; do not collapse into Pattamangalam Nadu |
 | `கத்தப்பட்டு` | **Kathapattu** | source-facing place form |
 | `சிவகங்கை` | **Sivaganga** | source-facing |
 | `திருப்பத்தூர்` | **Tiruppattur** | source-facing |
@@ -97,6 +100,11 @@ The long source lists of named `நாடு` units in chapter1 should be transl
 | Tamil source | English handling | Note |
 |---|---|---|
 | `முளைப்பாரி` | **mulaippari** | retain source ritual term; source narrative supplies its own explanation |
+| `பாலி` | **paali** | retain source vessel/ritual term; no external exposition |
+| `புதவாணம்` | **puthavanam** | source-facing retained term in the firework comparison; no external technical gloss |
+| `கொழுக்கட்டை` | **kozhukattai** | retain source food term |
+| `மோதகம்` | **modakam** | retain source food term |
+| `தாலி` | **thali** | retain source cultural term; do not expand from outside context |
 | `பிள்ளையார்` | **Pillaiyar** | preserve source occurrence |
 | `விநாயகர்` | **Vinayakar** | preserve source variant; do not normalize every occurrence to Pillaiyar/Ganesha |
 | `கணபதி காப்பு` | **Ganapati kaappu / protective song**, sentence-sensitive | minimal source-facing handling; no added ritual exposition |
@@ -111,8 +119,8 @@ The long source lists of named `நாடு` units in chapter1 should be transl
 | Tamil source | English handling | Note |
 |---|---|---|
 | `தன்மானம்` | **self-respect / dignity**, context-sensitive | preserve source rhetorical force |
-| `தமிழகம்` | **Tamil land / Tamilakam**, context-sensitive | avoid silently recasting every occurrence as a modern jurisdiction |
-| `தமிழ்நாடு` | **Tamil Nadu / Tamil country**, context-sensitive | follow immediate source sense |
+| `தமிழகம்` | **Tamilakam / Tamil land**, context-sensitive | preserve distinction from `தமிழ்நாடு`; do **not** render as **Tamil Nadu** merely for familiarity |
+| `தமிழ்நாடு` / `தமிழ் நாடு` | **Tamil Nadu / Tamil country**, context-sensitive | preserve the source's distinct form rather than collapsing with `தமிழகம்` |
 | `வெள்ளையர்` | occurrence-sensitive **white rulers / whites / white men** | do not silently normalize to `British` unless immediate Tamil uses a different explicit label |
 | `வெள்ளைக்காரர்கள்` | **white men / Europeans**, context-sensitive | preserve source framing; translator does not endorse it |
 | `ஆதிக்கம்` | **dominance / rule / ascendancy**, sentence-sensitive | source voice |
@@ -129,7 +137,8 @@ The long source lists of named `நாடு` units in chapter1 should be transl
 | `வீர விருது` | **valour award** | working functional rendering |
 | `அஸ்வமேதக் குதிரை(?)` | **Ashvamedha horse (?)** | preserve source question marker and rhetorical reference; no mythological explanation |
 | `மகாராஜ ராஜஸ்ரீ` | **Maharaja Rajasri** | preserve source honorific sequence |
-| `பஞ்ச கல்யாணிக் குதிரை` | conservative source-facing handling during E4 source-check | do not guess an external technical meaning |
+| `பஞ்ச கல்யாணிக் குதிரை` | **Panchakalyani horse** | source-facing transliteration locked by E4; no external technical interpretation |
+| `தேவர்` | **Thevar** | source honorific retained where it appears in the name sequence |
 | `சூளுரை` | **vow / solemn vow**, context-sensitive | preserve character agency |
 | `மதியாதார் தலைவாசல் மிதியாமை கோடி பெறும்` | translate from immediate Tamil only | proverbial/source phrasing; do not import a remembered standard English proverb |
 
@@ -199,6 +208,35 @@ Current accounting:
 - Part002 leakage — **0**
 - 26→27 semantic completion — **0**
 
+## Whole-Part reconciliation closure
+
+Whole-Part reconciliation checked all **10/10** source-checked English files together.
+
+Locked findings:
+- accidental `தமிழகம்` → **Tamil Nadu** drift corrected in **7 occurrences across 4 E1 files**;
+- `தமிழகம்` now remains **Tamilakam / Tamil land** according to context;
+- source `தமிழ்நாடு` / `தமிழ் நாடு` remains **Tamil Nadu / Tamil country** according to context;
+- title spacing **Thenpandi Singam / Then Pandi Singam** is deliberate and retained;
+- **Urangaap Puli / Urangaappuli** is deliberate source-form variation and retained;
+- **Pattamangalam Nadu / Pattamangala Nadu** is deliberate source-form variation and retained;
+- **Pillaiyar / Vinayakar** is deliberate source occurrence variation and retained;
+- **white rulers / white men** remains occurrence-sensitive to source wording;
+- **Panchakalyani horse** is now locked as the Part001 source-facing E4 handling.
+
+Whole-Part result:
+- English files checked — **10/10**
+- English files changed by glossary reconciliation — **4/10**
+- English terminology occurrences corrected — **7**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- Part002 leakage — **0**
+- 26→27 boundary integrity — **PASS / pending condition retained**
+
+Durable record: `GLOSSARY_RECONCILIATION.md`.
+
 ## Exact next gate
 
-Perform **Part001 whole-Part English glossary reconciliation** across E1–E4.
+Perform **Part001 English editorial review across all 10 maintained English files / scans1–26**.
+
+Do not begin whole-Part bilingual review until editorial review closes.
