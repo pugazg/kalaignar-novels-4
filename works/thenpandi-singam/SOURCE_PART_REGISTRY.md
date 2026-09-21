@@ -34,7 +34,7 @@ This ledger records the user's **18 split source PDFs**.
 - source-visible publication-page extent: **480 pages**
 - Part001 body evidence: scan13 = printed page1; scan26 = printed page14
 - incoming boundary: **NONE**
-- outgoing 26→27: **PENDING Part002 direct witness**
+- outgoing 26→27: **GENUINE CONTINUATION / AUDITED**
 
 ## Part002 registered source facts
 
