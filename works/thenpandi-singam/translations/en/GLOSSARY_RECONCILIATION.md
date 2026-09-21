@@ -247,3 +247,20 @@ English editorial review is now **PASS / CLOSED**.
 Durable record: `TRANSLATION_REVIEW.md`.
 
 Exact next gate: **whole-Part bilingual review across Tamil + English / scans1–26**.
+
+
+## Post-reconciliation bilingual state
+
+Whole-Part bilingual review is **PASS / CLOSED**.
+
+- glossary corrections rechecked — **7/7 PASS**
+- deliberate source variants retained — **PASS**
+- new glossary corrections required — **0**
+- further bilingual English-only corrections — **1**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+
+Durable bilingual record: `BILINGUAL_REVIEW.md`.
+
+Exact next gate: **Part001 release/readiness report**.
