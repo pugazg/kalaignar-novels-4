@@ -42,6 +42,7 @@ Part001:
 - final metadata/status sync — **PASS / CLOSED — 26/26 verified Tamil + visual**
 - documentation sync — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED — 27/27 canonical coverage**
 - assembled Tamil — **PASS / CLOSED — 10/10 VERIFIED — 26/26 canonical coverage**
 - English planning/setup — **COMPLETE / PASS**
 - English E1 — **SOURCE-CHECKED / COMPLETE — scans1–12 / 7 files**
@@ -74,6 +75,6 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part002 assembled Tamil construction + audit.**
+**Part002 English translation planning/setup.**
 
-Part002 documentation synchronization is **PASS / COMPLETE** and Tamil archival-ready is **PASS / CLOSED — 27/27 verified Tamil + visual**. Part001 remains frozen; 53→54 remains source-limited pending Part003.
+Part002 assembled Tamil is **PASS / CLOSED — 4/4 VERIFIED — 27/27 canonical coverage — 0 omissions / 0 duplicates / 0 unsupported insertion / 0 audit-note leakage**. Part001 remains frozen; 53→54 remains source-limited pending Part003.
