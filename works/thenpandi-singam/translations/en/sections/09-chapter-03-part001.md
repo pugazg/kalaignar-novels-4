@@ -31,11 +31,11 @@ As the questions flashed through Vallatharayan's heart like lightning streaking 
 
 Karutha Adappan understood the barbs in Vallatharayan's words of welcome, but, showing no sign of taking them to heart, said, “Pattamangalam Ambalakkarar! First congratulate me! Then I'll tell you why I've come!”
 
-“Congratulate you for what? Has your marriage been fixed? Or has your elder brother Vaalukku Veli decided to hand the office of Paganeri Ambalakkarar over to you, take up renunciation, and leave for distant lands? Why should I congratulate you, Adappa?”
+“Congratulate you for what? Has your marriage been fixed? Or has your elder brother Vaalukku Veli decided to hand the office of Paganeri Ambalakkarar over to you, become an ascetic and leave for distant lands? Why should I congratulate you, Adappa?”
 
 “I have returned after winning the wrestling contest in the Madurai Nayak's domain and receiving an award. Our Vellai Ayyar here too attended the function in Madurai.”
 
-“Oh! A magnificent victory for all the regions to acclaim! I already heard about it; they say the wrestler who fought you had been suffering from fever for three months! Never mind; weakling though he may have been, look—he helped you win your award! You really ought to thank him! Your victory should be celebrated so the village knows, the world knows,
+“Oh! A magnificent victory worthy of acclaim by all the regions! I already heard about it; they say the wrestler who fought you had been suffering from fever for three months! Never mind; weakling though he may have been, look—he helped you win your award! You really ought to thank him! Your victory should be celebrated so the village knows, the world knows,
 
 <!-- source boundary: scan 25 → scan 26 -->
 
@@ -47,10 +47,10 @@ and above all so every one of our Kallar nadus knows! Long live your valour! May
 
 “The Paganeri chariot festival is about to begin! My elder brother ordered me to go in person and invite the Ambalakkarars of every nadu. I have come to invite you to the festival.”
 
-Vellai Ayyar, who until then had been deep in thought, his brow furrowed, opened his mouth.
+Vellai Ayyar, who until then had been deep in thought, his brow furrowed, spoke.
 
 “Vallatharayan must not refuse this invitation on the ground that Paganeri Ambalakkarar Vaalukku Veli did not attend the chariot festival held by the Pattamangalam people at Tirukkottiyur.”
 
-“You reminded me at just the right moment, Vellai Ayyar! The invitation we sent was that bitter to Paganeri! And now they imagine their invitation alone will taste sweet to us? Adappa! Tell your brother that this Vallatharayan has not forgotten the truth that not stepping across the threshold of those who do not respect you is worth a crore!”
+“You reminded me at just the right moment, Vellai Ayyar! Our invitation was so bitter to Paganeri! And now they imagine their invitation alone will taste sweet to us? Adappa! Tell your brother that this Vallatharayan has not forgotten the truth that not stepping across the threshold of those who do not respect you is worth a crore!”
 
 <!-- outgoing pending boundary: scan 26 → scan 27; Part002 not supplied; continuation text intentionally not imported -->
