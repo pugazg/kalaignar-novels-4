@@ -215,3 +215,19 @@ Durable validation: `../PART_002_ASSEMBLED_TAMIL_VALIDATION.md`.
 - canonical / assembled Tamil edits caused by English — **0 / 0**
 - Part003 leakage — **0**
 - exact next gate — **Part002 whole-Part English glossary reconciliation across E5–E8**
+
+
+## Part002 English glossary reconciliation state
+
+**RECONCILED / PASS.**
+
+- maintained Part002 English files checked — **4/4**
+- English files changed — **1/4**
+- terminology occurrences corrected — **9**
+- source distinction restored — **Vaalukku Veli / Vaalukkuveli**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited / preserved**
+- exact next gate — **Part002 English editorial review across all 4 maintained English files / scans27–53**
