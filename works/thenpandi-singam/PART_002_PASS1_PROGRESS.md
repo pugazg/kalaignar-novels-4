@@ -102,3 +102,15 @@ Keep all records `needs-review` during Pass2A. Do not begin Pass2B until Pass2A 
 - downstream Pass3 — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 
 Pass1 remains **COMPLETE / PASS — 27/27 TEXT-COMPLETE**.
+
+
+## Current downstream verified state
+
+- Part002 whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- unresolved Tamil/glyph/visual/structural questions — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next activity — **Part002 documentation synchronization**
