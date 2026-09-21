@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 English translation planning/setup**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 E5 draft + source-check**
 
 ## Work
 
@@ -132,12 +132,17 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
 - Part002 assembled canonical coverage — **27/27**
 - Part002 assembled omissions / duplicates / unsupported insertion / audit-note leakage — **0 / 0 / 0 / 0**
+- Part002 English planning/setup — **COMPLETE / PASS**
+- Part002 reserved English batches — **E5–E8**
+- Part002 planned English files — **4**
+- Part002 translated/source-checked English files — **0/4 / 0/4**
+- English literary prose drafted in planning — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
-- continuation gate — **Part002 English translation planning/setup**
+- continuation gate — **Part002 E5 draft + source-check — scans27–30**
 - Part002 Pass2B final state — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 Pass3 final state — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part002 source PDF to be available there
@@ -145,8 +150,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Perform **Part002 English translation planning/setup**.
+Perform **Part002 E5 draft + source-check — section10 / scans27–30**.
 
-Part002 assembled Tamil is **4/4 VERIFIED / PASS / CLOSED** with **27/27 canonical scan coverage, 0 omissions, 0 duplicates, 0 unsupported Tamil body insertion, 0 audit-note leakage, and 0 unresolved assembly blockers**. Preserve **53→54 PENDING direct audit / source-limited**. Do not draft English literary prose until planning/setup closes.
+Part002 English planning/setup is **COMPLETE / PASS**. Batches **E5–E8** are reserved with **4 planned English files**, **0/4 translated**, **0/4 source-checked**, **0 planning holds**, and **0 English literary prose drafted during planning**. Preserve frozen Part001 English, incoming **26→27 GENUINE CONTINUATION / AUDITED**, and outgoing **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
