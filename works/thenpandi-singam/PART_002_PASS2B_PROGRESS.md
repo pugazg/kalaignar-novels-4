@@ -148,4 +148,5 @@ Keep all Part002 records `needs-review` during the audit. Final metadata/status 
 - needs-review Tamil / visual pages — **0 / 0**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
-- exact next activity — **Part002 assembled Tamil construction + audit**
+- Part002 assembled Tamil — **4/4 VERIFIED / PASS / CLOSED — 27/27 canonical coverage**
+- exact next activity — **Part002 English translation planning/setup**
