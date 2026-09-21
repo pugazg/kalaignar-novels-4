@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf"
-transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
+transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A + Pass 2B reviewed"
 ---
 
 ## Source transcription
@@ -19,7 +19,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 
 வல்லத்தரையனின் வரவேற்புரையில் காணப்பட்ட ஏகடியங்களைப் புரிந்துகொண்ட கருத்த ஆதப்பன், அவற்றைப் பொருட்படுத்தாதவனாகக் காட்டிக்கொண்டு “பட்டமங்கலம் அம்பலக்காரர் அவர்களே! முதலில் என்னை வாழ்த்துங்கள்! பிறகு நான் வந்த விஷயத்தைச் சொல்லுகிறேன்!” என்றான்.
 
-“எதற்காக வாழ்த்து! உனக்குத் திருமணம் நிச்சயிக்கப்பட்டிருக்கிறதா? அல்லது உன் அண்ணன் வாளுக்கு வேலி பாகனேரி அம்பலக்காரர் பதவியை உனக்கு வழங்கிவிட்டுத் துறவறம் பூண்டு தொலை தேசங்கள் செல்ல முடிவு கட்டியிருக்கிறாரா? எதற்காக ஆதப்பா வாழ்த்து?”
+“எதற்காக வாழ்த்து! உனக்குத் திருமணம் நிச்சயிக்கப் பட்டிருக்கிறதா? அல்லது உன் அண்ணன் வாளுக்கு வேலி பாகனேரி அம்பலக்காரர் பதவியை உனக்கு வழங்கிவிட்டுத் துறவறம் பூண்டு தொலை தேசங்கள் செல்ல முடிவு கட்டியிருக்கிறாரா? எதற்காக ஆதப்பா வாழ்த்து?”
 
 “மதுரை நாயக்கர் சீமையிலே மற்போரில் வெற்றி கண்டு விருது பெற்று வந்துள்ளேன். இதோ நமது வெள்ளை அய்யர் கூட மதுரை விழாவுக்கு வந்திருந்தார்.”
 
@@ -32,7 +32,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 - final quotation is intentionally incomplete and continues onto scan26;
 - recurring title header is non-body page furniture;
 - Pass1 result: **TEXT-COMPLETE / needs-review**;
-- Pass2A result: **REVIEWED / PASS**; Pass2B / Pass3 are not started.
+- Pass2A result: **REVIEWED / PASS**; Pass2B result: **REVIEWED / PASS**; Pass3 is not started.
 
 
 ## Formal Part001 Pass 2A review
@@ -44,4 +44,15 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass2B, Pass3, Part audit and final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 25; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 13; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part001 Pass 2B review
+
+- independent lexical / word-boundary / punctuation-sensitive and historical-glyph reread completed directly against the attached Part001 source pixels;
+- source-text / lexical / spacing / punctuation corrections: **1**;
+- source word boundary: `நிச்சயிக்கப்பட்டிருக்கிறதா?` → `நிச்சயிக்கப் பட்டிருக்கிறதா?`;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass3, Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 25; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 13; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
