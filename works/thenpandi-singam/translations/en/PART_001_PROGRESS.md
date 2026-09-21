@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART001 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
+**PART001 E1–E4 SOURCE-CHECKED / COMPLETE**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -17,11 +17,11 @@ Tamil authority is closed through assembled Tamil:
 
 | Batch | Tamil assembled coverage | Scans | Planned English files | Status |
 |---|---|---:|---:|---|
-| **E1** | sections00–06 — front matter + prefaces/praise | 1–12 | 7 | **NOT STARTED / NEXT** |
-| **E2** | section07 — chapter1 | 13–16 | 1 | **BLOCKED pending E1** |
-| **E3** | section08 — chapter2 | 17–23 | 1 | **BLOCKED pending E2** |
-| **E4** | section09 — chapter3 Part001 portion | 24–26 | 1 | **BLOCKED pending E3** |
-| Glossary reconciliation | Part001 whole-Part | 1–26 | — | **BLOCKED pending E4** |
+| **E1** | sections00–06 — front matter + prefaces/praise | 1–12 | 7 | **SOURCE-CHECKED / COMPLETE** |
+| **E2** | section07 — chapter1 | 13–16 | 1 | **SOURCE-CHECKED / COMPLETE** |
+| **E3** | section08 — chapter2 | 17–23 | 1 | **SOURCE-CHECKED / COMPLETE** |
+| **E4** | section09 — chapter3 Part001 portion | 24–26 | 1 | **SOURCE-CHECKED / COMPLETE** |
+| Glossary reconciliation | Part001 whole-Part | 1–26 | — | **NOT STARTED / NEXT** |
 | Editorial review | Part001 whole-Part English | 1–26 | — | **BLOCKED** |
 | Bilingual review | Part001 whole-Part | 1–26 | — | **BLOCKED** |
 | Release/readiness | Part001 | 1–26 | — | **BLOCKED** |
@@ -32,8 +32,8 @@ Tamil authority is closed through assembled Tamil:
 
 - reserved English batches — **E1–E4 / 4**
 - planned maintained English files — **10**
-- translated files — **0/10**
-- source-checked files — **0/10**
+- translated files — **10/10**
+- source-checked files — **10/10**
 - unresolved English planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -108,8 +108,27 @@ Created:
 
 No English literary prose is drafted in this planning gate.
 
+## E1–E4 closure
+
+- E1 — **SOURCE-CHECKED / COMPLETE**
+- E2 — **SOURCE-CHECKED / COMPLETE**
+- E3 — **SOURCE-CHECKED / COMPLETE**
+- E4 — **SOURCE-CHECKED / COMPLETE**
+- maintained English files — **10/10**
+- scans1–26 — **fully covered**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited / integrity preserved**
+
+Durable records:
+- `E1_SOURCE_CHECK.md`
+- `E2_SOURCE_CHECK.md`
+- `E3_SOURCE_CHECK.md`
+- `E4_SOURCE_CHECK.md`
+
 ## Exact next activity
 
-**E1 draft + source-check — sections00–06 / scans1–12.**
+Perform **Part001 whole-Part English glossary reconciliation** across all ten maintained English files / scans1–26.
 
-Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin editorial review until glossary reconciliation closes.
