@@ -1,6 +1,6 @@
 # Part 001 — English Translation Plan — தென்பாண்டிச் சிங்கம்
 
-Status: **ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
+Status: **E1–E4 SOURCE-CHECKED / COMPLETE**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -240,3 +240,37 @@ Part002 remains blocked until final Part001 closure.
 **E1 draft + source-check — sections00–06 / scans1–12.**
 
 Do not begin E2 until E1 closes **SOURCE-CHECKED / COMPLETE**.
+
+
+## E1–E4 draft / source-check closure
+
+All four planned Part001 English batches are now complete:
+
+- E1 — **SOURCE-CHECKED / COMPLETE — scans1–12 / 7 files**
+- E2 — **SOURCE-CHECKED / COMPLETE — scans13–16 / 1 file**
+- E3 — **SOURCE-CHECKED / COMPLETE — scans17–23 / 1 file**
+- E4 — **SOURCE-CHECKED / COMPLETE — scans24–26 / 1 file**
+
+Closure accounting:
+- maintained Part001 English files — **10/10**
+- translated files — **10/10**
+- source-checked files — **10/10**
+- physical source coverage — **scans1–26 / all 26 supplied pages**
+- unresolved English source-check holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- Part002 leakage — **0**
+- outgoing 26→27 boundary integrity — **PASS / PENDING retained**
+- unsupported semantic completion beyond scan26 — **0**
+
+Durable source-check records:
+- `E1_SOURCE_CHECK.md`
+- `E2_SOURCE_CHECK.md`
+- `E3_SOURCE_CHECK.md`
+- `E4_SOURCE_CHECK.md`
+
+## Exact next gate
+
+Perform **Part001 whole-Part English glossary reconciliation across E1–E4**.
+
+Do not begin editorial review until glossary reconciliation closes.
