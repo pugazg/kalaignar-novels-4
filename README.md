@@ -36,6 +36,10 @@
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED**
 - Pass2A source-text corrections: **14**
 - Pass2A unresolved textual questions: **0**
+- Part001 Pass2B: **COMPLETE / PASS — 26/26 REVIEWED**
+- Pass2B lexical / spacing / punctuation corrections: **5**
+- Pass2B historical-glyph corrections: **0**
+- Pass2B unresolved lexical / historical-glyph questions: **0**
 - Part002 canonical records: **0**
 
 ## Workflow baseline
@@ -78,6 +82,6 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Begin **Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–26**.
+Begin **Part001 Pass3 — direct full-page visual / structural verification of scans1–26**.
 
-Pass1 and Pass2A are complete. All 26 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not begin Pass3 until Pass2B closes. Keep **26→27** pending until Part002 is supplied.
+Pass1, Pass2A and Pass2B are complete. All 26 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not begin Part audit until Pass3 closes. Keep **26→27** pending until Part002 is supplied.
