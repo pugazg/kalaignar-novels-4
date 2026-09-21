@@ -6,16 +6,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 | Part | Part page | Global scan | Printed page | Structural note | Status | Canonical record |
 |---:|---:|---:|---|---|---|---|
-| 001 | 1 | 1 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 2 | 2 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 3 | 3 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 4 | 4 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 5 | 5 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 6 | 6 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 7 | 7 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 8 | 8 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 9 | 9 | — | unclassified — Pass1 direct source review pending | not-started | — |
-| 001 | 10 | 10 | — | unclassified — Pass1 direct source review pending | not-started | — |
+| 001 | 1 | 1 | — | illustrated cover; Pass1 text-complete | needs-review | `pages/0001-cover.md` |
+| 001 | 2 | 2 | — | donation / provenance insert; Pass1 text-complete | needs-review | `pages/0002-donation-insert.md` |
+| 001 | 3 | 3 | — | title / publisher page; Pass1 text-complete | needs-review | `pages/0003-title-page.md` |
+| 001 | 4 | 4 | — | publication / edition details; Pass1 text-complete | needs-review | `pages/0004-publication-details.md` |
+| 001 | 5 | 5 | — | `கதை பிறந்த கதை!`; Pass1 text-complete | needs-review | `pages/0005-kathai-pirandha-kathai.md` |
+| 001 | 6 | 6 | — | `பதிப்புரை`; Pass1 text-complete | needs-review | `pages/0006-pathippurai.md` |
+| 001 | 7 | 7 | — | `பெரும்புலவர் வ.சுப. மாணிக்கம் பாராட்டு!`; Pass1 text-complete | needs-review | `pages/0007-v-suba-manickam-paarattu.md` |
+| 001 | 8 | 8 | — | `டாக்டர் பாலசுப்பிரமணியம் புகழாரம்`; Pass1 text-complete | needs-review | `pages/0008-balasubramaniyam-pugazhaaram.md` |
+| 001 | 9 | 9 | — | `திருக்குறள்மணி திருநாவுக்கரசு பாராட்டு!`; Pass1 text-complete | needs-review | `pages/0009-thirukkuralmani-thirunavukkarasu-paarattu.md` |
+| 001 | 10 | 10 | — | same commendatory section continuation/close; intentional blank lower field; Pass1 text-complete | needs-review | `pages/0010-thirukkuralmani-thirunavukkarasu-paarattu-cont.md` |
 | 001 | 11 | 11 | — | unclassified — Pass1 direct source review pending | not-started | — |
 | 001 | 12 | 12 | — | unclassified — Pass1 direct source review pending | not-started | — |
 | 001 | 13 | 13 | — | unclassified — Pass1 direct source review pending | not-started | — |
@@ -51,7 +51,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 
 - registered Parts: **1/18**
 - registered physical scan rows: **26**
-- canonical page records: **0**
-- Part001 Pass1: **NOT STARTED / NEXT**
+- canonical page records: **10**
+- Part001 Pass1: **IN PROGRESS — 10/26 TEXT-COMPLETE**
 - outgoing Part001 boundary 26→27: **PENDING Part002 witness**
-- exact next activity: **Part001 Pass1 scans1–10 / local pages1–10**
+- exact next activity: **Part001 Pass1 scans11–20 / local pages11–20**
