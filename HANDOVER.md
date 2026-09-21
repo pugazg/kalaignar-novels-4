@@ -54,17 +54,17 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - repository controls — **INITIALIZED / SYNCHRONIZED**
 - registered Parts — **1/18**
 - Part001 source intake — **COMPLETE / PASS**
-- Part001 canonical page records — **0/26**
-- Part001 Pass1 — **NOT STARTED / NEXT**
+- Part001 canonical page records — **10/26 — scans1–10**
+- Part001 Pass1 — **IN PROGRESS — 10/26 TEXT-COMPLETE**
 - verified pages — **0**
 - assembled Tamil — **NOT STARTED**
 - English — **BLOCKED pending Tamil closure**
 - Parts002–018 — **not registered**
 - Part002 canonical records — **0**
-- unresolved source-reading holds — **0 recorded because transcription has not started**
+- unresolved completed-batch source-reading holds — **0**
 
 ## Exact next activity
 
-Begin **Part001 Pass1 — global scans1–10 / local pages1–10**.
+Continue **Part001 Pass1 — global scans11–20 / local pages11–20**.
 
-Keep all created records at `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not begin Pass2A until Pass1 covers all **26** scans. Keep **26→27** pending until Part002 is supplied.
+Keep all created records at `status: "needs-review"` and `visual_fidelity: "needs-review"`. Scans1–10 are text-complete. Scans11–26 remain pending. Do not begin Pass2A until Pass1 covers all **26** scans. Keep **26→27** pending until Part002 is supplied.
