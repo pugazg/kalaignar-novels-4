@@ -89,3 +89,13 @@ All Part001 records remain `needs-review` pending Pass3, Part audit and final me
 Perform **Part001 Pass3 — direct full-page visual / structural verification of scans1–26**.
 
 Do not begin Part audit in the same activity. Keep Part002 canonical records at **0** and keep **26→27 PENDING direct audit** until Part002 is supplied.
+
+
+## Post-Pass2B downstream state
+
+- Pass3 — **COMPLETE / PASS — 26/26 REVIEWED — 0 textual corrections / 0 unresolved**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status sync — **PASS / CLOSED**
+- canonical Tamil / visual fidelity — **26/26 verified / 26/26 verified**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+- exact next activity — **documentation synchronization, then Tamil archival-ready checkpoint**
