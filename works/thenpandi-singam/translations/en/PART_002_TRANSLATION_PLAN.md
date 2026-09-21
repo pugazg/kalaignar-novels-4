@@ -1,6 +1,6 @@
 # Part 002 — English Translation Plan — தென்பாண்டிச் சிங்கம்
 
-Status: **PLANNING/SETUP — COMPLETE / PASS**
+Status: **E5–E8 SOURCE-CHECKED / COMPLETE**
 
 This is the control plan for the project-created English translation of **Part002 only**.
 
@@ -96,6 +96,21 @@ Planned maintained Part002 English files — **4**.
 
 Translated files at planning closure — **0/4**.  
 Source-checked files at planning closure — **0/4**.
+
+Downstream E5–E8 closure:
+
+- E5 — **SOURCE-CHECKED / COMPLETE**
+- E6 — **SOURCE-CHECKED / COMPLETE**
+- E7 — **SOURCE-CHECKED / COMPLETE**
+- E8 — **SOURCE-CHECKED / COMPLETE**
+- maintained Part002 English files — **4/4**
+- translated/source-checked — **4/4 / 4/4**
+- physical source coverage — **scans27–53 / all 27 supplied Part002 scans**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- unsupported semantic completion beyond scan53 — **0**.
 
 ## Translation objective
 
@@ -225,8 +240,24 @@ Part003 canonical transcription remains blocked until Part002 final closure.
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED / frozen Part001 English unchanged**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
 
+## Source-check closure
+
+All four planned Part002 English batches are now complete:
+
+- E5 — **SOURCE-CHECKED / COMPLETE — scans27–30**
+- E6 — **SOURCE-CHECKED / COMPLETE — scans31–38**
+- E7 — **SOURCE-CHECKED / COMPLETE — scans39–44**
+- E8 — **SOURCE-CHECKED / COMPLETE — scans45–53**
+
+Durable records:
+
+- `E5_SOURCE_CHECK.md`
+- `E6_SOURCE_CHECK.md`
+- `E7_SOURCE_CHECK.md`
+- `E8_SOURCE_CHECK.md`
+
 ## Exact next gate
 
-**E5 draft + source-check — section10 / scans27–30.**
+Perform **Part002 whole-Part English glossary reconciliation across E5–E8**.
 
-Do not begin E6 until E5 closes **SOURCE-CHECKED / COMPLETE**.
+Do not begin editorial review until glossary reconciliation closes **RECONCILED / PASS**.
