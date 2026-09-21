@@ -121,9 +121,9 @@ At Pass1 closure, all 27 canonical Part002 records remained `needs-review`; down
 
 ## Current exact next activity
 
-Begin **Part002 assembled Tamil construction + audit**.
+Perform **Part002 English translation planning/setup**.
 
-Documentation synchronization is **PASS / COMPLETE** and Tamil archival-ready is **PASS / CLOSED — 27/27 verified Tamil + visual**. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Part002 assembled Tamil is **4/4 VERIFIED / PASS / CLOSED** with **27/27 canonical scan coverage and 0 assembly blockers**. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
 ## Downstream Pass2A state
 
@@ -186,4 +186,14 @@ Pass2A handoff target was **Pass2B scans27–36 / local pages1–10**; that batc
 - needs-review Tamil / visual pages — **0 / 0**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
-- exact next activity — **Part002 assembled Tamil construction + audit**
+- exact next activity — **Part002 English translation planning/setup**
+
+
+## Downstream assembled Tamil state
+
+- Part002 assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- canonical scan coverage — **27/27**
+- omissions / duplicates / unsupported insertion / audit-note leakage — **0 / 0 / 0 / 0**
+- unresolved assembly blockers — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next activity — **Part002 English translation planning/setup**
