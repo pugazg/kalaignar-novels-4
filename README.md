@@ -46,6 +46,10 @@
 - Part001 visual fidelity: **26/26 verified**
 - final metadata/status synchronization: **PASS / CLOSED**
 - documentation synchronization: **PASS / COMPLETE**
+- Part001 Tamil archival-ready: **PASS / CLOSED**
+- Part001 assembled Tamil: **10/10 VERIFIED / PASS / CLOSED**
+- assembled canonical coverage: **26/26**
+- assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
 - Part002 canonical records: **0**
 
 ## Workflow baseline
@@ -88,6 +92,6 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Perform **Part001 Tamil archival-ready checkpoint**.
+Begin **Part001 English translation planning/setup** only.
 
-The supplied Part001 scans1–26 are **26/26 verified** for Tamil and visual fidelity. The unavailable **26→27** adjacent boundary remains **PENDING direct audit / source-limited** and must remain pending until Part002 is supplied.
+Do not draft English in the planning gate. Part002 canonical transcription remains blocked. The **26→27** boundary remains **PENDING direct audit / source-limited** until Part002 is supplied.
