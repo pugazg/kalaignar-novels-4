@@ -167,3 +167,19 @@ Do not begin English until assembled Tamil closes.
 - Part002 leakage — **0**
 - outgoing 26→27 — **PENDING direct audit / source-limited**
 - exact next gate — **Part001 English editorial review**
+
+
+## English editorial review downstream state
+
+- English E1–E4 — **SOURCE-CHECKED / COMPLETE**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- English files reviewed / edited — **10 / 9**
+- English-only editorial corrections — **24**
+- structural Tamil-English block coverage — **132/132**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- glossary locks altered — **0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited / preserved**
+- exact next gate — **Part001 whole-Part bilingual review across Tamil + English / scans1–26**
