@@ -13,7 +13,7 @@ status: "source-checked"
 
 # Publisher's Note
 
-Among the historical novels available to Tamil, this *Thenpandi Singam* possesses a distinction of its own.
+Among the historical novels that Tamil has received, this *Thenpandi Singam* possesses a distinction of its own.
 
 This novel has had the good fortune of being created by a leader worthy of a separate chapter in the history of the Tamil people.
 
