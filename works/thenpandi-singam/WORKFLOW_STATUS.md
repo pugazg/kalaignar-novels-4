@@ -36,8 +36,8 @@ Part001:
 - Source intake — **COMPLETE / PASS**
 - Pass1 — **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
-- Pass2B — **NOT STARTED / NEXT**
-- Pass3 — BLOCKED
+- Pass2B — **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
+- Pass3 — **NOT STARTED / NEXT**
 - Part audit — BLOCKED
 - final metadata/status sync — BLOCKED
 - documentation sync — BLOCKED
@@ -50,6 +50,6 @@ Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may lat
 
 ## Exact next action
 
-**Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–26.**
+**Part001 Pass3 — direct full-page visual / structural verification of scans1–26.**
 
-Pass1 and Pass2A are closed. Pass2A made **14 source-supported corrections** with **0 unresolved textual questions**. All 26 canonical records remain `needs-review` for both textual and visual status. Do not begin Pass3 until Pass2B closes.
+Pass1, Pass2A and Pass2B are closed. Pass2A made **14** corrections; Pass2B made **5** lexical/spacing/punctuation corrections, **0** historical-glyph corrections, with **0 unresolved**. All 26 canonical records remain `needs-review` for both textual and visual status. Do not begin Part audit until Pass3 closes.
