@@ -69,7 +69,7 @@
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **1**
-- Part002: **ACTIVE / ASSEMBLED TAMIL CLOSED — ENGLISH PLANNING NEXT**
+- Part002: **ACTIVE / ENGLISH PLANNING COMPLETE — E5 NEXT**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
@@ -92,6 +92,10 @@
 - Part002 assembled Tamil: **4/4 VERIFIED / PASS / CLOSED**
 - Part002 assembled canonical coverage: **27/27**
 - Part002 assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
+- Part002 English planning/setup: **COMPLETE / PASS**
+- Part002 reserved English batches: **E5–E8**
+- Part002 planned English files: **4**
+- Part002 translated/source-checked files: **0/4 / 0/4**
 
 ## Workflow baseline
 
@@ -134,8 +138,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Perform **Part002 English translation planning/setup**.
+Perform **Part002 E5 draft + source-check — section10 / scans27–30**.
 
-Part002 assembled Tamil is **4/4 VERIFIED / PASS / CLOSED** with **27/27 canonical scan coverage and 0 assembly blockers**. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+English planning/setup is **COMPLETE / PASS** with batches **E5–E8** reserved and **4 planned files**. Keep frozen Part001 English unchanged and preserve **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
