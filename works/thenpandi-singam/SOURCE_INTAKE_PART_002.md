@@ -121,20 +121,20 @@ All 27 canonical Part002 records remain `needs-review` pending Pass2A/Pass2B/Pas
 
 ## Exact next activity
 
-Complete **Part002 Pass2A — scans49–53 / local pages23–27**.
+Begin **Part002 Pass2B — scans27–36 / local pages1–10**.
 
-Do not upgrade records to verified during Pass2A. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Pass2A is now **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**. Do not upgrade records to verified during Pass2B. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
 ## Downstream Pass2A state
 
-Part002 Pass2A is now **IN PROGRESS — 22/27 REVIEWED**.
+Part002 Pass2A is now **COMPLETE / PASS — 27/27 REVIEWED**.
 
-- reviewed — **scans27–48 / local pages1–22**
-- source-text corrections — **0**
+- reviewed — **scans27–53 / local pages1–27**
+- source-text corrections — **1**
 - unresolved textual questions — **0**
-- remaining — **scans49–53 / local pages23–27**
+- remaining — **0**
 - all Part002 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
-- Pass2B remains blocked pending Pass2A closure
+- Pass2B is **UNBLOCKED / NEXT**
 - outgoing 53→54 remains **PENDING direct audit / source-limited**
 
-Exact next activity: **complete Pass2A scans49–53**.
+Exact next activity: **begin Pass2B scans27–36 / local pages1–10**.
