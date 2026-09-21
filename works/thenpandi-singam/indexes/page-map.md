@@ -74,5 +74,8 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - editorial files reviewed / edited: **10 / 9**
 - English-only editorial corrections: **24**
 - unresolved editorial holds: **0**
+- whole-Part bilingual review: **PASS / CLOSED**
+- bilingual English-only corrections: **1**
+- unresolved bilingual holds: **0**
 - translated/source-checked English files: **10/10 / 10/10**
-- exact next activity: **Part001 whole-Part bilingual review across Tamil + English / scans1–26**
+- exact next activity: **Part001 release/readiness report**
