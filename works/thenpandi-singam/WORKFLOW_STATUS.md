@@ -40,8 +40,8 @@ Part001:
 - Pass3 — **COMPLETE / PASS — 26/26 REVIEWED — 0 textual corrections / 0 unresolved**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status sync — **PASS / CLOSED — 26/26 verified Tamil + visual**
-- documentation sync — **IN PROGRESS / NEXT**
-- Tamil archival-ready — BLOCKED pending documentation synchronization
+- documentation sync — **PASS / COMPLETE**
+- Tamil archival-ready — **NOT STARTED / NEXT**
 - assembled Tamil — BLOCKED
 - English — BLOCKED
 - final closure — BLOCKED
@@ -50,6 +50,6 @@ Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may lat
 
 ## Exact next action
 
-**Part001 documentation synchronization**, then **Tamil archival-ready checkpoint**.
+**Part001 Tamil archival-ready checkpoint.**
 
 Current canonical disposition: **26/26 verified Tamil / 26/26 verified visual fidelity**. Outgoing **26→27** remains **PENDING direct audit / source-limited** because Part002 is unavailable.
