@@ -158,16 +158,25 @@ Boundary-only evidence completion after Part002 arrives may update provenance/bo
 Part001 remains **FINAL CLOSED / FROZEN**.
 
 
-## Part002 handoff state
+## Part002 assembled Tamil state
 
-**PART002 TAMIL ARCHIVAL-READY — PASS / CLOSED — ASSEMBLED TAMIL NEXT.**
+**PART002 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 4/4 VERIFIED.**
 
 - canonical Tamil — **27/27 verified**
 - visual fidelity — **27/27 verified**
 - scans — **27–53**
-- Part002 assembled files created so far — **0**
+- Part002 assembled files — **4/4 VERIFIED**
+- canonical scan coverage — **27/27**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit/review-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- unresolved assembly blockers — **0**
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
-- exact next gate — **Part002 assembled Tamil construction + audit**
+- exact next gate — **Part002 English translation planning/setup**
 
 Part001 assembled Tamil remains **10/10 VERIFIED / PASS / CLOSED** and must not be rewritten merely to continue chapter3 into Part002.
+
+
+Durable validation: `../PART_002_ASSEMBLED_TAMIL_VALIDATION.md`.
