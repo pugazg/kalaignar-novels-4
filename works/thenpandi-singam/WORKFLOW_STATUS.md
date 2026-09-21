@@ -48,8 +48,8 @@ Part001:
 - English E2 — **SOURCE-CHECKED / COMPLETE — scans13–16 / 1 file**
 - English E3 — **SOURCE-CHECKED / COMPLETE — scans17–23 / 1 file**
 - English E4 — **SOURCE-CHECKED / COMPLETE — scans24–26 / 1 file**
-- English glossary reconciliation — **NOT STARTED / NEXT**
-- English editorial review — **BLOCKED**
+- English glossary reconciliation — **RECONCILED / PASS — 4 files / 7 terminology corrections / 0 unresolved**
+- English editorial review — **NOT STARTED / NEXT**
 - bilingual review — **BLOCKED**
 - release/readiness — **BLOCKED**
 - final closure — BLOCKED
@@ -58,6 +58,6 @@ Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may lat
 
 ## Exact next action
 
-**Part001 whole-Part English glossary reconciliation across E1–E4 / scans1–26.**
+**Part001 English editorial review across all 10 maintained English files / scans1–26.**
 
-All **10/10** maintained English files are source-checked with **0 unresolved holds**. Do not begin editorial review until reconciliation closes. Part002 remains blocked; **26→27** remains pending.
+Glossary reconciliation is **RECONCILED / PASS** with **4/10 files changed, 7 terminology occurrences corrected, 0 unresolved holds**. Do not begin bilingual review until editorial review closes. Part002 remains blocked; **26→27** remains pending.
