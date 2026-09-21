@@ -19,7 +19,7 @@ transcription_method: "direct source-image transcription; Part002 Pass1 batch sc
 
 வீதியில் தேர் ஒழுங்காகச் சென்று மீண்டும் நிலையடிக்கு வந்திட ஆங்காங்கே முட்டுக்கட்டைகளைப் போட்டுச் சக்கரங்களை ஒழுங்கான பாதையில் திருப்பிவிடச் சில பேர் அறிவு நுட்பத்துடன் பணியாற்ற வேண்டும்.
 
-ஆனால் இத்தனைச் சிரமங்கள் இருப்பதை அறியாத குழந்தைகள் தேரின் முகப்பில் கட்டப்பட்டுள்ள பொம்மைக் குதிரைகள்தான் தேரை இழுப்பதாக எண்ணிக் கொள்ளும். தேர் மட்டுமா! நாட்டில் எத்தனையோ நல்ல காரியங்கள் நடக்க, நரம்பை முறித்துக் கொண்டு எலும்பை உடைத்துக் கொண்டு உழைப்போர் பலராயிருக்க, எல்லாம் என்னால்தான் என்று எத்தனை “பொம்மைக் குதிரைகள்” போலி நாடகம் ஆடுகின்றன! அதையும் நம்புகின்ற பாமரர்கள் குழந்தையிலும் குழந்தையாக இருக்கிறார்கள் அல்லவா!
+ஆனால் இத்தனைச் சிரமங்கள் இருப்பதை அறியாத குழந்தைகள் தேரின் முகப்பில் கட்டப்பட்டுள்ள பொம்மைக் குதிரைகள்தான் தேரை இழுப்பதாக எண்ணிக் கொள்ளும். தேர் மட்டுமா! நாட்டில் எத்தனையோ நல்ல காரியங்கள் நடக்க, நரம்பை முறித்துக் கொண்டும் எலும்பை உடைத்துக் கொண்டும் உழைப்போர் பலராயிருக்க, எல்லாம் என்னால்தான் என்று எத்தனை “பொம்மைக் குதிரைகள்” போலி நாடகம் ஆடுகின்றன! அதையும் நம்புகின்ற பாமரர்கள் குழந்தையிலும் குழந்தையாக இருக்கிறார்கள் அல்லவா!
 
 தேரோட்டம் காணவும் கள்ளர் நாடுகள் பலவற்றின் அம்பலக்காரர்களின் வருகையைக் கண்டு களிக்கவும் பாகனேரி, காட்டேரி, நகரம்பட்டி; மற்றுமுள்ள பாகனேரி நாட்டுக் கிராமங்களின் மக்கள் திரள் திரளாகக் குழுமினர்.
 
@@ -41,4 +41,14 @@ transcription_method: "direct source-image transcription; Part002 Pass1 batch sc
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, Part audit and final metadata/status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 33; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 21; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+## Formal Part002 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the rendered Part002 source image;
+- lexical / spacing / punctuation corrections on this scan: **2**;
+- corrections: `முறித்துக் கொண்டு` → `முறித்துக் கொண்டும்`; `உடைத்துக் கொண்டு` → `உடைத்துக் கொண்டும்` — source-confirmed lexical/inflectional readings;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending remaining Pass2B, Pass3, Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 33; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 21; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
