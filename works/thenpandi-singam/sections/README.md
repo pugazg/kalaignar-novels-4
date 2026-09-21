@@ -72,3 +72,18 @@ E1–E4 are **SOURCE-CHECKED / COMPLETE**.
 - outgoing 26→27 — **PENDING direct audit / source-limited**
 
 Next: **whole-Part English glossary reconciliation**.
+
+
+## English glossary reconciliation downstream state
+
+Glossary reconciliation — **RECONCILED / PASS**.
+
+- English files checked — **10/10**
+- English files changed — **4/10**
+- terminology occurrences corrected — **7**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+
+Next: **Part001 English editorial review**.
