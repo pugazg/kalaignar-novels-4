@@ -88,3 +88,15 @@ Do not begin assembled Tamil construction until the checkpoint closes. Do not be
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
 - exact next activity — **Part002 assembled Tamil construction + audit**
+
+
+## Downstream assembled Tamil state
+
+- Part002 Tamil archival-ready — **PASS / CLOSED**
+- Part002 assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- canonical scan coverage — **27/27**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion / audit-note leakage — **0 / 0**
+- unresolved assembly blockers — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next gate — **Part002 English translation planning/setup**
