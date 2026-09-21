@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf"
-transcription_method: "direct source-image transcription; Part001 Pass 1 batch scans21–26"
+transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
 ## Source transcription
@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 batch s
 
 “மதுரை நாயக்கர் சீமையிலே மற்போரில் வெற்றி கண்டு விருது பெற்று வந்துள்ளேன். இதோ நமது வெள்ளை அய்யர் கூட மதுரை விழாவுக்கு வந்திருந்தார்.”
 
-“ஓகோ! மண்டிலங்கள் புகழ வேண்டிய மாபெரும் வெற்றிதான்! நான் ஏற்கனவே கேள்விப் பட்டேன்; உன்னுடன் போரிட்ட அந்த மல்லன் மூன்று மாத காலமாகக் காய்ச்சல் நோயால் பீடிக்கப்பட்டிருந்தானாம்! பரவாயில்லை; எப்படியோ ஒரு நோஞ்சானாக இருந்தாலும் உனக்கு வெற்றி விருது கிடைப்பதற்கு உதவியிருக்கிறான் பார்! அவனுக்கு நன்றி கூறத்தான் வேண்டும்! உனது வெற்றியை ஊரறிய, உலகறிய,
+“ஓகோ! மண்டிலங்கள் புகழ வேண்டிய மாபெரும் வெற்றிதான்! நான் ஏற்கனவே கேள்விப் பட்டேன்; உன்னுடன் போரிட்ட அந்த மல்லன் மூன்று மாத காலமாகக் காய்ச்சல் நோயால் பீடிக்கப் பட்டிருந்தானாம்! பரவாயில்லை; எப்படியோ ஒரு நோஞ்சானாக இருந்தாலும் உனக்கு வெற்றி விருது கிடைப்பதற்கு உதவியிருக்கிறான் பார்! அவனுக்கு நன்றி கூறத்தான் வேண்டும்! உனது வெற்றியை ஊரறிய, உலகறிய,
 
 ## Pass 1 notes
 
@@ -32,6 +32,16 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 batch s
 - final quotation is intentionally incomplete and continues onto scan26;
 - recurring title header is non-body page furniture;
 - Pass1 result: **TEXT-COMPLETE / needs-review**;
-- Pass2A / Pass2B / Pass3 are not started.
+- Pass2A result: **REVIEWED / PASS**; Pass2B / Pass3 are not started.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 25; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 13; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, displayed-text and printed-pagination comparison completed against the attached Part001 source pixels;
+- source-text corrections: **1**;
+- source word boundary: `பீடிக்கப்பட்டிருந்தானாம்` → `பீடிக்கப் பட்டிருந்தானாம்`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass2B, Pass3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 25; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 13; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
