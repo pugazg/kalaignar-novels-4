@@ -104,8 +104,8 @@ Canonical `scan_page` is the global physical scan number **27–53**.
 - Part002 source intake — **COMPLETE / PASS**
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
-- Part002 canonical records — **20/27**
-- Part002 Pass1 — **IN PROGRESS — 20/27 TEXT-COMPLETE**
+- Part002 canonical records — **27/27**
+- Part002 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Parts003–018 — **not registered**
 
 ## Downstream Pass1 state
@@ -121,6 +121,20 @@ All 27 canonical Part002 records remain `needs-review` pending Pass2A/Pass2B/Pas
 
 ## Exact next activity
 
-Begin **Part002 Pass2A — direct textual verification of scans27–53**.
+Complete **Part002 Pass2A — scans49–53 / local pages23–27**.
 
 Do not upgrade records to verified during Pass2A. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+
+## Downstream Pass2A state
+
+Part002 Pass2A is now **IN PROGRESS — 22/27 REVIEWED**.
+
+- reviewed — **scans27–48 / local pages1–22**
+- source-text corrections — **0**
+- unresolved textual questions — **0**
+- remaining — **scans49–53 / local pages23–27**
+- all Part002 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- Pass2B remains blocked pending Pass2A closure
+- outgoing 53→54 remains **PENDING direct audit / source-limited**
+
+Exact next activity: **complete Pass2A scans49–53**.
