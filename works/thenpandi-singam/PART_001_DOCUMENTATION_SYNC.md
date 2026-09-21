@@ -86,3 +86,19 @@ Do not begin assembled Tamil construction until the checkpoint closes. Do not be
 - outgoing 26→27 — **PENDING direct audit / source-limited**
 - exact next gate — **Part001 English translation planning/setup**
 - English prose drafted in this activity — **0**
+
+
+## Post-assembly English planning state
+
+**PART001 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- reserved batches — **E1–E4**
+- planned maintained English files — **10**
+- translated/source-checked — **0/10 / 0/10**
+- unresolved English planning holds — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- English literary prose drafted during planning — **0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+- exact next gate — **E1 draft + source-check — sections00–06 / scans1–12**
