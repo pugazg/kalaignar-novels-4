@@ -13,7 +13,7 @@ status: "source-checked"
 
 # 1
 
-An erect gait—a direct gaze—a moustache above the lips like two swords drawn from their sheaths and set in place—eyes that proclaim majesty, yet in them one can also see a trace of compassion and a shower of affection. A tall, curving, crown-like turban—gold rings in the long ears—costly medal-studded chains across the broad chest—armlets on legs like iron pillars and arms like balls of steel—a spear in the hand. All these distinctions can still be seen in statue form in the village called “Kathapattu,” in the figure of the lion of the southern Pandya country, “Vaalukku Veli.”
+An erect gait—a direct gaze—a moustache above the lips like two swords drawn from their sheaths and set in place—eyes that proclaim majesty, yet in them one can also see a trace of compassion and a shower of affection. A tall, curving, crown-like turban—gold rings in the long ears—costly medal-studded chains across the broad chest—ornamental bands on legs like iron pillars and on arms like balls of steel—a spear in the hand. All these distinctions can still be seen in statue form in the village called “Kathapattu,” in the figure of the lion of the southern Pandya country, “Vaalukku Veli.”
 
 Vaalukku Veli! A name formed from words that leap with valour! The leader of Paganeri Nadu. Is Paganeri itself a nadu? One naturally feels like asking that. In Tamilakam there are lands such as Chola Nadu, Pandya Nadu, and Chera Nadu; it is natural for many to wonder, “We have never heard of a Paganeri Nadu!” When inscriptions are examined, many explanations emerge about the divisions of the land.
 
