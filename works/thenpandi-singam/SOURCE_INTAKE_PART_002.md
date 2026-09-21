@@ -110,16 +110,17 @@ Canonical `scan_page` is the global physical scan number **27–53**.
 
 ## Downstream Pass1 state
 
-Part002 Pass1 is now **IN PROGRESS — 20/27 TEXT-COMPLETE**.
+Part002 Pass1 is now **COMPLETE / PASS — 27/27 TEXT-COMPLETE**.
 
 Completed:
 - scans27–36 / local1–10 — **10/10**
 - scans37–46 / local11–20 — **10/10**
+- scans47–53 / local21–27 — **7/7**
 
-All 20 canonical Part002 records remain `needs-review` pending Pass2A/Pass2B/Pass3.
+All 27 canonical Part002 records remain `needs-review` pending Pass2A/Pass2B/Pass3.
 
 ## Exact next activity
 
-Continue **Part002 Pass1 — global scans47–53 / local pages21–27**.
+Begin **Part002 Pass2A — direct textual verification of scans27–53**.
 
-Do not begin Pass2A until all **27/27** Part002 scans are text-complete.
+Do not upgrade records to verified during Pass2A. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
