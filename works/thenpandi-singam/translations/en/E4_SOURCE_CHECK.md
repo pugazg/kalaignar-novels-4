@@ -70,3 +70,21 @@ Part002 leakage — **0**.
 Perform **Part001 whole-Part English glossary reconciliation across E1–E4**.
 
 Do not begin editorial review until glossary reconciliation closes.
+
+
+## Post-source-check editorial state
+
+Part001 English editorial review is **PASS / CLOSED**.
+
+- all maintained English files reviewed — **10/10**
+- English files edited — **9/10**
+- English-only editorial corrections — **24**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- glossary locks altered — **0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited / preserved**
+
+Durable editorial record: `TRANSLATION_REVIEW.md`.
+
+Current exact next gate: **Part001 whole-Part bilingual review across Tamil + English / scans1–26**.
