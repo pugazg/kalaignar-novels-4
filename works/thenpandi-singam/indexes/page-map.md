@@ -63,4 +63,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part001 Tamil archival-ready: **PASS / CLOSED**
 - Part001 assembled Tamil: **10/10 VERIFIED / PASS / CLOSED**
 - assembled canonical coverage: **26/26**
-- exact next activity: **Part001 English translation planning/setup**
+- Part001 English planning/setup: **COMPLETE / PASS**
+- English batches reserved: **E1–E4**
+- translated/source-checked English files: **0/10 / 0/10**
+- exact next activity: **E1 draft + source-check — sections00–06 / scans1–12**
