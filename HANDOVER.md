@@ -66,6 +66,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 Pass3 — **COMPLETE / PASS — 26/26 REVIEWED — 0 textual corrections / 0 unresolved**
 - Part001 Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
 - verified Tamil pages — **26/26**
 - verified visual-fidelity pages — **26/26**
 - assembled Tamil — **NOT STARTED**
@@ -76,6 +77,6 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Perform **Part001 Tamil archival-ready checkpoint** after documentation synchronization.
+Perform **Part001 Tamil archival-ready checkpoint**.
 
 Part001 scans1–26 are verified. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied. Do not begin English.
