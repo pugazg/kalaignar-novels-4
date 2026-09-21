@@ -110,15 +110,15 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 global scans — **27–53**
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
-- Part002 — **ACTIVE / PASS1 IN PROGRESS — 20/27 TEXT-COMPLETE**
+- Part002 — **ACTIVE / PASS1 COMPLETE — 27/27 TEXT-COMPLETE**
 - Parts003–018 — **not registered**
-- Part002 canonical records — **20/27**
+- Part002 canonical records — **27/27**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Exact next activity
 
-Continue **Part002 Pass1 — global scans47–53 / local pages21–27**.
+Begin **Part002 Pass2A — direct textual verification of scans27–53**.
 
-This is the final **7-page** Pass1 batch. Do not begin Pass2A until all **27/27** scans are text-complete. Keep **53→54 PENDING direct audit / source-limited**.
+Keep all records `needs-review` during Pass2A. Do not begin Pass2B until Pass2A closes. Keep **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
