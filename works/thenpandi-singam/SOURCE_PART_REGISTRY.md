@@ -6,7 +6,7 @@ This ledger records the user's **18 split source PDFs**.
 
 | Part | Exact source filename | Local physical pages | Global scan range | File size (bytes) | SHA-256 | Source intake | Final state |
 |---:|---|---:|---|---:|---|---|---|
-| 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | Tamil archival-ready + assembled Tamil closed; English planning next |
+| 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | Tamil archival-ready + assembled Tamil closed; English planning complete; E1 next |
 | 002 | pending | pending | pending | pending | pending | pending attachment | not started |
 | 003 | pending | pending | pending | pending | pending | blocked | not started |
 | 004 | pending | pending | pending | pending | pending | blocked | not started |
@@ -67,4 +67,8 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part001 documentation synchronization: **PASS / COMPLETE**
 - Part001 Tamil archival-ready: **PASS / CLOSED**
 - Part001 assembled Tamil: **10/10 VERIFIED / PASS / CLOSED**
-- exact next gate: **Part001 English translation planning/setup**
+- Part001 English planning/setup: **COMPLETE / PASS**
+- reserved English batches: **E1–E4**
+- planned English files: **10**
+- translated/source-checked: **0/10 / 0/10**
+- exact next gate: **E1 draft + source-check — sections00–06 / scans1–12**
