@@ -121,9 +121,9 @@ At Pass1 closure, all 27 canonical Part002 records remained `needs-review`; down
 
 ## Current exact next activity
 
-Perform **Part002 E5 draft + source-check — section10 / scans27–30**.
+Perform **Part002 whole-Part English glossary reconciliation across E5–E8**.
 
-Part002 English planning/setup is **COMPLETE / PASS** with **E5–E8 reserved**, **4 planned English files**, and **0/4 translated / 0/4 source-checked**. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Part002 English E5–E8 are **SOURCE-CHECKED / COMPLETE — 4/4 translated / 4/4 source-checked** with scans27–53 fully covered and **0 unresolved source-check holds**. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
 ## Downstream Pass2A state
 
@@ -210,3 +210,17 @@ Pass2A handoff target was **Pass2B scans27–36 / local pages1–10**; that batc
 - English literary prose drafted in planning — **0**
 - Part003 leakage — **0**
 - exact next activity — **E5 draft + source-check — section10 / scans27–30**
+
+
+## Downstream E5–E8 English state
+
+- Part002 English E5–E8 — **SOURCE-CHECKED / COMPLETE**
+- maintained English files — **4/4**
+- translated/source-checked — **4/4 / 4/4**
+- source coverage — **scans27–53 / 27**
+- structural block coverage — **146/146**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- exact next activity — **Part002 whole-Part English glossary reconciliation across E5–E8**
