@@ -54,11 +54,11 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 002 | 20 | 46 | 34 | chapter 6 continuation; completes physical split word from scan45; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0046-chapter-06.md` |
 | 002 | 21 | 47 | 35 | chapter 6 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0047-chapter-06.md` |
 | 002 | 22 | 48 | 36 | chapter 6 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0048-chapter-06.md` |
-| 002 | 23 | 49 | 37 | chapter 6 continuation; Pass1 text-complete | needs-review | `pages/0049-chapter-06.md` |
-| 002 | 24 | 50 | 38 | chapter 6 continuation; physical phrase continues to scan51; Pass1 text-complete | needs-review | `pages/0050-chapter-06.md` |
-| 002 | 25 | 51 | 39 | chapter 6 continuation; completes physical phrase from scan50; Pass1 text-complete | needs-review | `pages/0051-chapter-06.md` |
-| 002 | 26 | 52 | 40 | chapter 6 continuation; Pass1 text-complete | needs-review | `pages/0052-chapter-06.md` |
-| 002 | 27 | 53 | 41 | chapter 6 continuation; Part002 terminal scan; open fragment `என்ற அசைக்க`; 53→54 pending witness; Pass1 text-complete | needs-review | `pages/0053-chapter-06.md` |
+| 002 | 23 | 49 | 37 | chapter 6 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0049-chapter-06.md` |
+| 002 | 24 | 50 | 38 | chapter 6 continuation; physical phrase continues to scan51; Pass1 text-complete; Pass2A reviewed / 1 correction (`விம்மியமுதாள்` → `விம்மியழுதாள்`) | needs-review | `pages/0050-chapter-06.md` |
+| 002 | 25 | 51 | 39 | chapter 6 continuation; completes physical phrase from scan50; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0051-chapter-06.md` |
+| 002 | 26 | 52 | 40 | chapter 6 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0052-chapter-06.md` |
+| 002 | 27 | 53 | 41 | chapter 6 continuation; Part002 terminal scan; open fragment `என்ற அசைக்க`; 53→54 pending witness; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0053-chapter-06.md` |
 
 ## Intake observations
 
@@ -120,7 +120,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part002 source intake: **COMPLETE / PASS**
 - Part002 canonical rows/records: **27/27**
 - Part002 Pass1: **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Part002 Pass2A: **IN PROGRESS — 22/27 REVIEWED — 0 corrections / 0 unresolved**
+- Part002 Pass2A: **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**
 - outgoing Part002 boundary 53→54: **PENDING direct audit / source-limited**
 - translated/source-checked English files: **10/10 / 10/10**
-- exact next activity: **Part002 Pass2A scans49–53 / local pages23–27**
+- exact next activity: **Part002 Pass2B scans27–36 / local pages1–10**
