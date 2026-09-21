@@ -155,3 +155,15 @@ Do not begin English until assembled Tamil closes.
 - Part002 leakage — **0**
 - outgoing 26→27 — **PENDING direct audit / source-limited**
 - exact next gate — **Part001 whole-Part English glossary reconciliation**
+
+
+## English glossary reconciliation downstream state
+
+- E1–E4 — **SOURCE-CHECKED / COMPLETE**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English files changed / terminology occurrences corrected — **4 / 7**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+- exact next gate — **Part001 English editorial review**
