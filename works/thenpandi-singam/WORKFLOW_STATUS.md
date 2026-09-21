@@ -37,11 +37,11 @@ Part001:
 - Pass1 — **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
 - Pass2B — **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
-- Pass3 — **NOT STARTED / NEXT**
-- Part audit — BLOCKED
-- final metadata/status sync — BLOCKED
-- documentation sync — BLOCKED
-- Tamil archival-ready — BLOCKED
+- Pass3 — **COMPLETE / PASS — 26/26 REVIEWED — 0 textual corrections / 0 unresolved**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status sync — **PASS / CLOSED — 26/26 verified Tamil + visual**
+- documentation sync — **IN PROGRESS / NEXT**
+- Tamil archival-ready — BLOCKED pending documentation synchronization
 - assembled Tamil — BLOCKED
 - English — BLOCKED
 - final closure — BLOCKED
@@ -50,6 +50,6 @@ Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may lat
 
 ## Exact next action
 
-**Part001 Pass3 — direct full-page visual / structural verification of scans1–26.**
+**Part001 documentation synchronization**, then **Tamil archival-ready checkpoint**.
 
-Pass1, Pass2A and Pass2B are closed. Pass2A made **14** corrections; Pass2B made **5** lexical/spacing/punctuation corrections, **0** historical-glyph corrections, with **0 unresolved**. All 26 canonical records remain `needs-review` for both textual and visual status. Do not begin Part audit until Pass3 closes.
+Current canonical disposition: **26/26 verified Tamil / 26/26 verified visual fidelity**. Outgoing **26→27** remains **PENDING direct audit / source-limited** because Part002 is unavailable.
