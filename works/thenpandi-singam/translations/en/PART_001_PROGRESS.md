@@ -23,8 +23,8 @@ Tamil authority is closed through assembled Tamil:
 | **E4** | section09 — chapter3 Part001 portion | 24–26 | 1 | **SOURCE-CHECKED / COMPLETE** |
 | Glossary reconciliation | Part001 whole-Part | 1–26 | — | **RECONCILED / PASS** |
 | Editorial review | Part001 whole-Part English | 1–26 | — | **PASS / CLOSED** |
-| Bilingual review | Part001 whole-Part | 1–26 | — | **NOT STARTED / NEXT** |
-| Release/readiness | Part001 | 1–26 | — | **BLOCKED** |
+| Bilingual review | Part001 whole-Part | 1–26 | — | **PASS / CLOSED** |
+| Release/readiness | Part001 | 1–26 | — | **NOT STARTED / NEXT** |
 | Release-ready sync | Part001 | 1–26 | — | **BLOCKED** |
 | Final closure | Part001 | 1–26 | — | **BLOCKED** |
 
@@ -158,8 +158,25 @@ Durable record: `GLOSSARY_RECONCILIATION.md`.
 
 Durable record: `TRANSLATION_REVIEW.md`.
 
+## Whole-Part bilingual review closure
+
+**PASS / CLOSED**
+
+- Tamil/English section pairs reviewed — **10/10**
+- source coverage — **scans1–26**
+- structural content/display blocks — **132/132**
+- editorial corrections rechecked — **24/24 PASS**
+- glossary corrections rechecked — **7/7 PASS**
+- further bilingual English-only corrections — **1**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `BILINGUAL_REVIEW.md`.
+
 ## Exact next activity
 
-Perform **Part001 whole-Part bilingual review across Tamil + English / scans1–26**.
+Create and complete the **Part001 release/readiness report**.
 
-Do not begin release/readiness until bilingual review closes.
+Do not begin release-ready synchronization, final closure or Part002 transcription until release/readiness closes.
