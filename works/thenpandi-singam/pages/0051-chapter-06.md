@@ -38,4 +38,13 @@ transcription_method: "direct source-image transcription; Part002 Pass1 final ba
 - source colloquial forms `கொள்ளடா`, `நினைச்சுக்கிறேன்`, `அப்படின்னா`, and `பெண்ஜாதிங்க` are retained;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 51; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 39; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, displayed-text, printed-pagination and physical-boundary comparison completed against the rendered Part002 source image;
+- source-text corrections: **0**;
+- canonical source text required **0 Pass2A corrections** on this scan;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 51; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 39; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
