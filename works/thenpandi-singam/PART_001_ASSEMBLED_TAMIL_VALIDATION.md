@@ -174,3 +174,15 @@ Do not begin E2 until E1 closes **SOURCE-CHECKED / COMPLETE**. Part002 canonical
 - canonical / assembled Tamil edits caused by English — **0 / 0**
 - Part002 leakage — **0**
 - exact next gate — **Part001 whole-Part English glossary reconciliation**
+
+
+## Post-English glossary reconciliation state
+
+- English E1–E4 — **SOURCE-CHECKED / COMPLETE**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English files changed by glossary reconciliation — **4/10**
+- English terminology occurrences corrected — **7**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits caused by glossary reconciliation — **0 / 0**
+- Part002 leakage — **0**
+- exact next gate — **Part001 English editorial review**
