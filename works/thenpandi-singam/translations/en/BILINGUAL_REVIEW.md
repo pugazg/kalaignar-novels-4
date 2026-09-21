@@ -375,3 +375,27 @@ Part001 now has:
 **Part001 release/readiness report.**
 
 Create and complete the release/readiness report only in the next gate. Do not begin release-ready synchronization, final Part001 closure or Part002 canonical transcription until release/readiness closes.
+
+
+## Part001 final closure downstream state
+
+**PART001 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- canonical Tamil — **26/26 verified**
+- visual fidelity — **26/26 verified**
+- assembled Tamil — **10/10 VERIFIED / PASS / CLOSED**
+- English maintained/source-checked — **10/10 / 10/10**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- canonical / assembled / English body drift after release readiness — **0 / 0 / 0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited / preserved**
+- Part002 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part002 canonical records — **0**
+- exact next activity — **Part002 source intake when supplied**
+
+Boundary-only evidence completion after Part002 arrives may update provenance/boundary controls but must not reopen frozen Part001 body text without a genuine independently demonstrated source defect.
