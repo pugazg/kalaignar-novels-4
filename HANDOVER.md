@@ -99,13 +99,23 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - release/readiness — **PASS / CLOSED**
 - unresolved release/readiness blockers — **0**
 - release-ready synchronization — **PASS / CLOSED**
-- final closure — **NOT STARTED / NEXT**
+- final closure — **PASS / CLOSED / FROZEN**
+- final-closed Parts — **1**
+- active transcription Part — **none pending Part002 source intake**
+- Part002 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
 - Parts002–018 — **not registered**
 - Part002 canonical records — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Exact next activity
 
-Perform **Part001 final closure — PASS / CLOSED / FROZEN**.
+**Part002 source intake when the user supplies the Part002 PDF.**
 
-Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied. Do not begin Part002 canonical transcription inside the final-closure gate.
+During intake:
+1. register exact source metadata;
+2. establish Part002 physical extent/global scan range;
+3. inspect scan27 as the direct **26→27** boundary witness;
+4. update frozen Part001 boundary metadata only from direct evidence;
+5. then begin Part002 Pass1.
+
+Part001 is **FINAL CLOSED / FROZEN**.
