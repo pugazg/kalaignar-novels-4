@@ -60,8 +60,21 @@ Historical/reform-sensitive glyph identity receives its independent reread in **
 - canonical records marked verified — **0**
 - Part002 leakage — **0**
 
+## Post-Pass2A current state
+
+Part001 Pass2B is **COMPLETE / PASS — 26/26 REVIEWED**.
+
+- Pass2B lexical / spacing / punctuation corrections — **5**
+- Pass2B historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- Part002 canonical records — **0**
+
+Durable Pass2B record:
+- `PART_001_PASS2B_PROGRESS.md`
+
 ## Exact next activity
 
-**Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–26.**
+**Part001 Pass3 — direct full-page visual / structural verification of scans1–26.**
 
-Do not begin Pass3 in the same activity. Keep **26→27 PENDING direct audit** until Part002 is supplied.
+Do not begin Part audit in the same activity. Keep **26→27 PENDING direct audit** until Part002 is supplied.
