@@ -77,15 +77,21 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 English planning/setup — **COMPLETE / PASS**
 - reserved English batches — **E1–E4**
 - planned maintained English files — **10**
-- translated/source-checked English files — **0/10 / 0/10**
+- translated/source-checked English files — **10/10 / 10/10**
 - English literary prose drafted in planning — **0**
-- English drafting — **E1 NOT STARTED / NEXT**
+- English E1 — **SOURCE-CHECKED / COMPLETE**
+- English E2 — **SOURCE-CHECKED / COMPLETE**
+- English E3 — **SOURCE-CHECKED / COMPLETE**
+- English E4 — **SOURCE-CHECKED / COMPLETE**
+- English source coverage — **scans1–26 / all 26 supplied pages**
+- unresolved English source-check holds — **0**
+- English glossary reconciliation — **NOT STARTED / NEXT**
 - Parts002–018 — **not registered**
 - Part002 canonical records — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Exact next activity
 
-Begin **E1 draft + source-check — sections00–06 / scans1–12**.
+Perform **Part001 whole-Part English glossary reconciliation across E1–E4 / scans1–26**.
 
-Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**. Part002 canonical transcription remains blocked. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
+Do not begin editorial review until glossary reconciliation closes. Part002 canonical transcription remains blocked. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
