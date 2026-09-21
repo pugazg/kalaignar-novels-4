@@ -8,12 +8,32 @@
 
 - work: **தென்பாண்டிச் சிங்கம்**
 - work directory: `works/thenpandi-singam/`
-- source packaging: **18 split PDF Parts prepared by the user as the working source set**
+- source packaging: **18 split PDF Parts prepared by the user**
 - split-file size policy: each source Part is **not more than 50 MB**
-- exact source filenames, physical-page ranges, printed-page ranges, byte sizes, SHA-256 values and total physical extent: **PENDING source intake**
-- canonical `scan_page`: global across the complete work; **never reset at a Part boundary**
-- current state: **repository workflow scaffold initialized; source ingestion not yet started**
-- active Part: **Part001 — PENDING ATTACHMENT / SOURCE INTAKE**
+- source family / archive identifier: **TVA_BOK_0065559**
+- complete physical extent: **pending intake of Parts002–018**
+- registered Parts: **1/18**
+- canonical `scan_page`: global across the complete work; **never resets at a Part boundary**
+- source PDFs committed to Git: **0**
+
+## Part001 — SOURCE INTAKE COMPLETE
+
+- source: `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf`
+- local physical pages: **26**
+- global scans: **1–26**
+- bytes: **49,818,511**
+- SHA-256: `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f`
+- text layer: **absent / no usable parsed text exposed**
+- controlling authority: **rendered source page images**
+- source-visible edition: **பதிமூன்றாம் பதிப்பு — ஆகஸ்ட் 2021**
+- source-visible publication-page extent: **480 pages**
+- numbered novel body begins at **scan13 / printed page1**
+- scan26 carries **printed page14**
+- incoming boundary: **NONE — physical source begins at scan1**
+- outgoing **26→27**: **PENDING direct audit when Part002 is supplied**
+- canonical Part001 page records: **0/26**
+- Part001 Pass1: **NOT STARTED / NEXT**
+- Part002 canonical records: **0**
 
 ## Workflow baseline
 
@@ -47,17 +67,14 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 - `HANDOVER.md` — current durable project state and exact next action
 - `works/thenpandi-singam/THENPANDI_SINGAM_ARCHIVAL_GUIDELINES.md` — controlling workflow
 - `works/thenpandi-singam/SOURCE_PART_REGISTRY.md` — 18-Part source intake ledger
-- `works/thenpandi-singam/indexes/page-map.md` — canonical physical-page map
+- `works/thenpandi-singam/SOURCE_INTAKE_PART_001.md` — registered Part001 source intake
+- `works/thenpandi-singam/indexes/page-map.md` — physical-page map
 - `works/thenpandi-singam/pages/` — canonical per-scan Tamil records
 - `works/thenpandi-singam/sections/` — assembled verified Tamil reading layer
 - `works/thenpandi-singam/translations/en/` — project-created English layer
 
-## Source-fidelity rules
-
-Preserve source wording, punctuation, paragraphing, dialogue structure, displayed text, page order, historical glyph identity, printed pagination, illustrations/non-text matter and genuine split-boundary continuations. Do not normalize a source reading merely because a modern spelling looks more familiar.
-
-Final `verified` status is assigned only after the whole-Part Tamil verification chain and Part audit have passed.
-
 ## Exact next activity
 
-**Ingest Part001** when its split PDF is attached: record exact filename, local physical extent, global scan range, byte size and SHA-256; inspect the first/last scan and establish Part001 source intake before transcription begins.
+Begin **Part001 Pass1 — global scans1–10 / local pages1–10**.
+
+Keep every created page record at `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not begin Pass2A until Pass1 covers all **26** Part001 scans. Keep **26→27** pending until Part002 is supplied.
