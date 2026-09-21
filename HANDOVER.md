@@ -98,13 +98,14 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - unresolved bilingual holds — **0**
 - release/readiness — **PASS / CLOSED**
 - unresolved release/readiness blockers — **0**
-- release-ready synchronization — **NOT STARTED / NEXT**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **NOT STARTED / NEXT**
 - Parts002–018 — **not registered**
 - Part002 canonical records — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Exact next activity
 
-Perform **Part001 release-ready synchronization**, then **Part001 final closure — PASS / CLOSED / FROZEN**.
+Perform **Part001 final closure — PASS / CLOSED / FROZEN**.
 
-Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied. Do not begin Part002 canonical transcription before final closure.
+Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied. Do not begin Part002 canonical transcription inside the final-closure gate.
