@@ -67,16 +67,20 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
 - documentation synchronization — **PASS / COMPLETE**
+- Part001 Tamil archival-ready — **PASS / CLOSED**
+- Part001 assembled Tamil — **10/10 VERIFIED / PASS / CLOSED**
+- assembled canonical coverage — **26/26**
+- assembled omissions / duplicates / unsupported insertion / audit-note leakage — **0 / 0 / 0 / 0**
 - verified Tamil pages — **26/26**
 - verified visual-fidelity pages — **26/26**
-- assembled Tamil — **NOT STARTED**
-- English — **BLOCKED pending Tamil closure**
+- assembled Tamil — **10/10 VERIFIED / PASS / CLOSED**
+- English — **NOT STARTED / PLANNING NEXT**
 - Parts002–018 — **not registered**
 - Part002 canonical records — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Exact next activity
 
-Perform **Part001 Tamil archival-ready checkpoint**.
+Begin **Part001 English translation planning/setup**.
 
-Part001 scans1–26 are verified. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied. Do not begin English.
+Create planning/glossary/progress controls only; do not draft English prose in the setup gate. Part002 canonical transcription remains blocked. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
