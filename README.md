@@ -80,7 +80,7 @@
 - outgoing 53→54: **PENDING direct audit / source-limited**
 - Part002 canonical records: **27/27**
 - Part002 Pass1: **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Part002 Pass2A: **IN PROGRESS — 22/27 REVIEWED — 0 corrections / 0 unresolved**
+- Part002 Pass2A: **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**
 
 ## Workflow baseline
 
@@ -123,8 +123,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Complete **Part002 Pass2A — scans49–53 / local pages23–27**.
+Begin **Part002 Pass2B — scans27–36 / local pages1–10**.
 
-Scans27–48 are directly reviewed in Pass2A with **0 source-text corrections / 0 unresolved questions**. Keep all records `needs-review`; do not begin Pass2B until Pass2A closes **COMPLETE / PASS**. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Pass2A is **COMPLETE / PASS — 27/27 REVIEWED — 1 source-text correction / 0 unresolved questions**. The source-confirmed correction is scan50 `விம்மியமுதாள்` → `விம்மியழுதாள்`. Keep all records `needs-review`; do not begin Pass3 until Pass2B closes. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
