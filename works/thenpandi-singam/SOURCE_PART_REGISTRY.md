@@ -56,7 +56,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 
 - registered Parts: **1 / 18**
 - registered physical scans: **26**
-- canonical page records: **20**
+- canonical page records: **26**
 - final-closed Parts: **0**
 - active Part: **Part001**
-- exact next gate: **Part001 Pass1 scans21–26**
+- exact next gate: **Part001 Pass2A — direct textual verification of scans1–26**
