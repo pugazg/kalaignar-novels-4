@@ -27,7 +27,7 @@
 - source-visible edition: **பதிமூன்றாம் பதிப்பு — ஆகஸ்ட்,, 2021**
 - source-visible publication-page extent: **480 pages**
 - outgoing 26→27: **GENUINE CONTINUATION / AUDITED**
-- Part002 canonical records: **0/27**
+- Part002 canonical records: **20/27**
 
 ## Gate frontier
 
@@ -62,11 +62,11 @@ Part002 source intake is **COMPLETE / PASS**:
 - scans — **27–53**
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
-- canonical records — **0/27**
-- Pass1 — **NOT STARTED / NEXT**
+- canonical records — **20/27**
+- Pass1 — **IN PROGRESS — 20/27 TEXT-COMPLETE**
 
 ## Exact next action
 
-**Part002 Pass1 — global scans27–36 / local pages1–10.**
+**Part002 Pass1 — global scans47–53 / local pages21–27.**
 
-Do not begin Pass2A until Pass1 covers all **27/27** Part002 scans. Part001 remains frozen.
+Complete the final 7 Pass1 records. Do not begin Pass2A until Part002 Pass1 reaches **27/27**. Part001 remains frozen.
