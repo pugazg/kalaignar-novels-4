@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf"
-transcription_method: "direct source-image transcription; Part001 Pass 1 batch scans1–10"
+transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
 ---
 
 ## Source transcription
@@ -31,7 +31,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 batch s
 பத்தாம் பதிப்பு : ஏப்ரல், 2010  
 பதினொன்றாம் பதிப்பு : டிசம்பர், 2010  
 பன்னிரெண்டாம் பதிப்பு : செப்டம்பர், 2018  
-பதிமூன்றாம் பதிப்பு : ஆகஸ்ட், 2021
+பதிமூன்றாம் பதிப்பு : ஆகஸ்ட்,, 2021
 
 பக்கங்கள் : 480 பக்கம்  
 விலை : ரூ.280.00
@@ -44,8 +44,8 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 batch s
 9952973378 / 9444384743
 
 முகப்பு ஓவியம் : ஜெயராஜ்  
-ஒளி அச்சுக்கோவை : எக்ஸ் கம்ப்யூட்டர்ஸ், தொ.பே எண் : 28529194  
-அச்சிட்டோர் : நோவினோ ஆஃப்செட் பிரிண்டிங் கோ.  
+ஒளி அச்சுக்கோவை : எகம் கம்ப்யூட்டர்ஸ், தொ.பே எண் : 28529194  
+அச்சிட்டோர் : நொவினோ ஆஃப்செட் பிரிண்டிங் கோ.  
 சென்னை-5  28446166, 28446891
 
 ## Pass 1 notes
@@ -56,6 +56,18 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 batch s
 - telephone icons are visual symbols; their adjacent numbers are transcribed;
 - no printed page number is visible;
 - Pass1 result: **TEXT-COMPLETE / needs-review**;
-- Pass2A / Pass2B / Pass3 are not started.
+- Pass2A result: **REVIEWED / PASS**; Pass2B / Pass3 are not started.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 4; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, displayed-text and printed-pagination comparison completed against the attached Part001 source pixels;
+- source-text corrections: **3**;
+- edition punctuation: `ஆகஸ்ட், 2021` → `ஆகஸ்ட்,, 2021`;
+- printer-composition name: `எக்ஸ்` → `எகம்`;
+- printer name: `நோவினோ` → `நொவினோ`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass2B, Pass3, Part audit and final status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 4; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
