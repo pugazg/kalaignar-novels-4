@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part002 Pass2B scans27–36
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part002 Pass2B scans37–46
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -34,7 +34,7 @@ Part001 final state:
 - outgoing **53→54 = PENDING direct audit / source-limited**
 - Part003 is not registered and must not be reconstructed or inferred.
 
-The source PDF is not committed to Git. Ensure the above Part002 PDF is available in the new chat before doing direct source verification.
+The source PDF is not committed to Git. Ensure the Part002 PDF is available in the new chat before doing direct source verification.
 
 ## Part002 durable state
 
@@ -44,6 +44,12 @@ The source PDF is not committed to Git. Ensure the above Part002 PDF is availabl
 - Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
 - Pass2A source-text corrections — **1**
 - Pass2A unresolved textual questions — **0**
+- Pass2B — **IN PROGRESS — 10/27 REVIEWED**
+- Pass2B reviewed scans — **27–36 / local pages1–10**
+- Pass2B lexical / spacing / punctuation correction occurrences — **3**
+- Pass2B affected scans — **28, 33**
+- Pass2B historical-glyph corrections — **0**
+- Pass2B unresolved lexical / historical-glyph questions — **0**
 - verified Part002 pages — **0**
 - all Part002 records remain `status: "needs-review"`
 - all Part002 records remain `visual_fidelity: "needs-review"`
@@ -54,7 +60,19 @@ The source PDF is not committed to Git. Ensure the above Part002 PDF is availabl
   - before — `விம்மியமுதாள்`
   - source-confirmed — `விம்மியழுதாள்`
 
-No other Part002 Pass2A source-text corrections were required.
+### Pass2B correction ledger through scan36
+
+- scan **28** / printed p.**16**:
+  - before — `உணர்த்த முடியுமல்லவா?`
+  - source-confirmed — `உணர்த்த முடியும் அல்லவா?`
+- scan **33** / printed p.**21**:
+  - before — `நரம்பை முறித்துக் கொண்டு`
+  - source-confirmed — `நரம்பை முறித்துக் கொண்டும்`
+- scan **33** / printed p.**21**:
+  - before — `எலும்பை உடைத்துக் கொண்டு`
+  - source-confirmed — `எலும்பை உடைத்துக் கொண்டும்`
+
+No historical-glyph correction has been required so far in Part002 Pass2B.
 
 ## Mandatory Part lock
 
@@ -67,15 +85,16 @@ Part003 may only be inspected later as an adjacent boundary witness for **53→5
 1. `HANDOVER.md`
 2. `works/thenpandi-singam/THENPANDI_SINGAM_ARCHIVAL_GUIDELINES.md`
 3. `works/thenpandi-singam/WORKFLOW_STATUS.md`
-4. `works/thenpandi-singam/PART_002_PASS2A_PROGRESS.md`
-5. `works/thenpandi-singam/indexes/page-map.md`
-6. canonical page records for scans **27–36**
+4. `works/thenpandi-singam/PART_002_PASS2B_PROGRESS.md`
+5. `works/thenpandi-singam/PART_002_PASS2A_PROGRESS.md`
+6. `works/thenpandi-singam/indexes/page-map.md`
+7. canonical page records for scans **37–46**
 
 ## Exact next activity
 
-Perform **Part002 Pass2B — scans27–36 / local pages1–10**.
+Perform **Part002 Pass2B — scans37–46 / local pages11–20**.
 
-This is an **independent lexical / historical-glyph reread** against the rendered source pages. Check afresh:
+This remains an **independent lexical / historical-glyph reread** against the rendered source pages. Check afresh:
 
 - lexical identity;
 - source-visible word boundaries and spacing;
@@ -84,18 +103,18 @@ This is an **independent lexical / historical-glyph reread** against the rendere
 - historical/reform-sensitive glyph identity;
 - chapter/opening/closing textual matter relevant to lexical fidelity.
 
-Do not inherit Pass2A assumptions mechanically. Do not modernize or normalize source forms for familiarity. Apply only corrections directly supported by the rendered source.
+Do not inherit Pass2A or the first Pass2B batch mechanically. Do not modernize or normalize source forms for familiarity. Apply only corrections directly supported by the rendered source.
 
 For every reviewed page:
 
-- append/update the formal Part002 Pass2B review evidence;
+- append/update formal Part002 Pass2B review evidence;
 - keep `status: "needs-review"`;
 - keep `visual_fidelity: "needs-review"`;
 - count lexical/spacing/punctuation corrections;
 - count historical-glyph corrections separately;
 - record unresolved questions explicitly.
 
-After the batch, synchronize the appropriate progress/control documents with the exact reviewed range and correction counts.
+After the batch, synchronize the appropriate progress/control documents with the exact reviewed range and correction counts, including `NEXT_CHAT_PROMPT.md` and `HANDOVER.md`.
 
 ## Gate discipline
 
@@ -107,9 +126,9 @@ After the batch, synchronize the appropriate progress/control documents with the
 
 ## Expected frontier after this activity
 
-If scans27–36 are fully reviewed without an unresolved blocker:
+If scans37–46 are fully reviewed without an unresolved blocker:
 
-- Part002 Pass2B — **IN PROGRESS — 10/27 REVIEWED**
-- exact next activity — **Part002 Pass2B scans37–46 / local pages11–20**
+- Part002 Pass2B — **IN PROGRESS — 20/27 REVIEWED**
+- exact next activity — **Part002 Pass2B scans47–53 / local pages21–27**
 
-If source evidence produces corrections or an unresolved reading, record the exact ledger and let the repository state govern the next action.
+If source evidence produces corrections or an unresolved reading, record the exact ledger and let the live repository state govern the next action.
