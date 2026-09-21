@@ -70,5 +70,9 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - English glossary reconciliation: **RECONCILED / PASS**
 - glossary files changed / terminology corrections: **4 / 7**
 - unresolved glossary holds: **0**
+- English editorial review: **PASS / CLOSED**
+- editorial files reviewed / edited: **10 / 9**
+- English-only editorial corrections: **24**
+- unresolved editorial holds: **0**
 - translated/source-checked English files: **10/10 / 10/10**
-- exact next activity: **Part001 English editorial review across all 10 English files / scans1–26**
+- exact next activity: **Part001 whole-Part bilingual review across Tamil + English / scans1–26**
