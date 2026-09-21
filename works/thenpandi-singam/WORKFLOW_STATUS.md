@@ -44,16 +44,20 @@ Part001:
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 10/10 VERIFIED — 26/26 canonical coverage**
 - English planning/setup — **COMPLETE / PASS**
-- English E1 — **NOT STARTED / NEXT — scans1–12 / 7 planned files**
-- English E2 — **BLOCKED pending E1**
-- English E3 — **BLOCKED pending E2**
-- English E4 — **BLOCKED pending E3**
+- English E1 — **SOURCE-CHECKED / COMPLETE — scans1–12 / 7 files**
+- English E2 — **SOURCE-CHECKED / COMPLETE — scans13–16 / 1 file**
+- English E3 — **SOURCE-CHECKED / COMPLETE — scans17–23 / 1 file**
+- English E4 — **SOURCE-CHECKED / COMPLETE — scans24–26 / 1 file**
+- English glossary reconciliation — **NOT STARTED / NEXT**
+- English editorial review — **BLOCKED**
+- bilingual review — **BLOCKED**
+- release/readiness — **BLOCKED**
 - final closure — BLOCKED
 
 Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may later provide only the scan27 boundary witness until Part001 closes.
 
 ## Exact next action
 
-**E1 draft + source-check — sections00–06 / scans1–12.**
+**Part001 whole-Part English glossary reconciliation across E1–E4 / scans1–26.**
 
-Planning reserved **E1–E4** with **10** maintained English files and created no literary English prose. Do not begin E2 until E1 closes. Part002 remains blocked; **26→27** remains pending.
+All **10/10** maintained English files are source-checked with **0 unresolved holds**. Do not begin editorial review until reconciliation closes. Part002 remains blocked; **26→27** remains pending.
