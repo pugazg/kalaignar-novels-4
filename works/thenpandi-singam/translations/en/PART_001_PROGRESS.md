@@ -26,7 +26,7 @@ Tamil authority is closed through assembled Tamil:
 | Bilingual review | Part001 whole-Part | 1–26 | — | **PASS / CLOSED** |
 | Release/readiness | Part001 | 1–26 | — | **PASS / CLOSED** |
 | Release-ready sync | Part001 | 1–26 | — | **PASS / CLOSED** |
-| Final closure | Part001 | 1–26 | — | **NOT STARTED / NEXT** |
+| Final closure | Part001 | 1–26 | — | **PASS / CLOSED / FROZEN** |
 
 ## Current counts
 
@@ -197,4 +197,6 @@ Durable record: `../../PART_001_RELEASE_READY_SYNC.md`.
 
 ## Exact next activity
 
-Perform **Part001 final closure — PASS / CLOSED / FROZEN**.
+**Part002 source intake when supplied.**
+
+Part001 is **FINAL CLOSED / FROZEN**.
