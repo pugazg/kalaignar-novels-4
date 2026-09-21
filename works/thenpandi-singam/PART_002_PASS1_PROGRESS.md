@@ -97,6 +97,6 @@ Keep all records `needs-review` during Pass2A. Do not begin Pass2B until Pass2A 
 - unresolved textual questions — **0**
 - status promotions — **0**
 - remaining Pass2A scope — **0**
-- exact next activity — **complete Part002 Pass2B scans47–53 / local pages21–27**
+- exact next activity — **begin Part002 Pass3 scans27–36 / local pages1–10**
 
 Pass1 remains **COMPLETE / PASS — 27/27 TEXT-COMPLETE**.
