@@ -65,9 +65,10 @@ Part002 source intake is **COMPLETE / PASS**:
 - canonical records — **27/27**
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53 — 1 correction / 0 unresolved**
+- Pass2B — **IN PROGRESS — 10/27 REVIEWED — scans27–36 — 3 corrections / 0 historical-glyph corrections / 0 unresolved**
 
 ## Exact next action
 
-**Part002 Pass2B — begin scans27–36 / local pages1–10.**
+**Part002 Pass2B — continue scans37–46 / local pages11–20.**
 
-Pass2A is **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**. Scan50 was corrected from `விம்மியமுதாள்` to source-confirmed `விம்மியழுதாள்`. Keep page status and visual fidelity at `needs-review`; Pass3 remains blocked until Pass2B closes. Part001 remains frozen.
+Scans27–36 are **10/10 REVIEWED / PASS** with **3 lexical / spacing / punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Keep page status and visual fidelity at `needs-review`; Pass3 remains blocked until Pass2B closes. Part001 remains frozen.
