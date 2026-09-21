@@ -129,4 +129,5 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part002 Tamil archival-ready: **PASS / CLOSED**
 - outgoing Part002 boundary 53→54: **PENDING direct audit / source-limited**
 - translated/source-checked English files: **10/10 / 10/10**
-- exact next activity: **Part002 assembled Tamil construction + audit**
+- Part002 assembled Tamil: **4/4 VERIFIED / PASS / CLOSED — 27/27 canonical coverage**
+- exact next activity: **Part002 English translation planning/setup**
