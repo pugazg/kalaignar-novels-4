@@ -121,9 +121,9 @@ At Pass1 closure, all 27 canonical Part002 records remained `needs-review`; down
 
 ## Current exact next activity
 
-Perform **Part002 English translation planning/setup**.
+Perform **Part002 E5 draft + source-check — section10 / scans27–30**.
 
-Part002 assembled Tamil is **4/4 VERIFIED / PASS / CLOSED** with **27/27 canonical scan coverage and 0 assembly blockers**. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Part002 English planning/setup is **COMPLETE / PASS** with **E5–E8 reserved**, **4 planned English files**, and **0/4 translated / 0/4 source-checked**. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
 ## Downstream Pass2A state
 
@@ -197,3 +197,16 @@ Pass2A handoff target was **Pass2B scans27–36 / local pages1–10**; that batc
 - unresolved assembly blockers — **0**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
 - exact next activity — **Part002 English translation planning/setup**
+
+
+## Downstream English planning state
+
+- Part002 English translation planning/setup — **COMPLETE / PASS**
+- reserved batches — **E5–E8**
+- planned maintained English files — **4**
+- translated/source-checked — **0/4 / 0/4**
+- unresolved planning holds — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- English literary prose drafted in planning — **0**
+- Part003 leakage — **0**
+- exact next activity — **E5 draft + source-check — section10 / scans27–30**
