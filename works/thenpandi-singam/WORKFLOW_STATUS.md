@@ -66,9 +66,10 @@ Part002 source intake is **COMPLETE / PASS**:
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53 — 1 correction / 0 unresolved**
 - Pass2B — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53 — 5 corrections / 0 historical-glyph corrections / 0 unresolved**
+- Pass3 — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53 — 0 textual corrections / 0 unresolved visual-structural questions**
 
 ## Exact next action
 
-**Part002 Pass3 — begin scans27–36 / local pages1–10.**
+**Part002 whole-Part audit — scans27–53 / local pages1–27.**
 
-Pass2B is **COMPLETE / PASS — 27/27 REVIEWED** with **5 lexical / spacing / punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Keep page status and visual fidelity at `needs-review` during Pass3. Whole-Part audit remains blocked until Pass3 closes. Part001 remains frozen.
+Pass3 is **COMPLETE / PASS — 27/27 REVIEWED** with **0 textual corrections / 0 unresolved visual-structural questions**. Keep page status and visual fidelity at `needs-review` during the audit; final metadata/status synchronization is separate. Part001 remains frozen.
