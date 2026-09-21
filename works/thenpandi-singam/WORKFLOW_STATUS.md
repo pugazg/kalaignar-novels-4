@@ -18,17 +18,23 @@
 ## Source state
 
 - expected split files: **18**
-- registered: **0 / 18**
-- canonical physical scans: **0**
-- source intake active: **Part001**
-- exact Part001 metadata: **PENDING attachment**
+- registered: **1 / 18**
+- registered source physical scans: **26**
+- complete-source physical extent: **pending Parts002–018**
+- source family: **TVA_BOK_0065559**
+- Part001 source intake: **COMPLETE / PASS**
+- Part001 canonical page records: **0/26**
+- source-visible edition: **பதிமூன்றாம் பதிப்பு — ஆகஸ்ட் 2021**
+- source-visible publication-page extent: **480 pages**
+- outgoing 26→27: **PENDING Part002 direct witness**
+- Part002 canonical records: **0**
 
 ## Gate frontier
 
 Part001:
 
-- Source intake — **NEXT**
-- Pass1 — BLOCKED
+- Source intake — **COMPLETE / PASS**
+- Pass1 — **NOT STARTED / NEXT**
 - Pass2A — BLOCKED
 - Pass2B — BLOCKED
 - Pass3 — BLOCKED
@@ -40,8 +46,10 @@ Part001:
 - English — BLOCKED
 - final closure — BLOCKED
 
-Parts002–018 remain blocked by the mandatory active-Part lock.
+Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may later provide only the scan27 boundary witness until Part001 closes.
 
 ## Exact next action
 
-**Attach Thenpandi Singam Part001 and perform source intake.**
+**Part001 Pass1 — global scans1–10 / local pages1–10.**
+
+Keep all new canonical records `needs-review` for both textual and visual status. Do not begin Pass2A until all **26** Part001 scans are text-complete.
