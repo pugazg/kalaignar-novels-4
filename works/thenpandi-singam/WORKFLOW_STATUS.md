@@ -18,16 +18,16 @@
 ## Source state
 
 - expected split files: **18**
-- registered: **1 / 18**
-- registered source physical scans: **26**
-- complete-source physical extent: **pending Parts002–018**
+- registered: **2 / 18**
+- registered source physical scans: **53**
+- complete-source physical extent: **pending Parts003–018**
 - source family: **TVA_BOK_0065559**
 - Part001 source intake: **COMPLETE / PASS**
 - Part001 canonical page records: **26/26 — scans1–26**
 - source-visible edition: **பதிமூன்றாம் பதிப்பு — ஆகஸ்ட்,, 2021**
 - source-visible publication-page extent: **480 pages**
-- outgoing 26→27: **PENDING Part002 direct witness**
-- Part002 canonical records: **0**
+- outgoing 26→27: **GENUINE CONTINUATION / AUDITED**
+- Part002 canonical records: **0/27**
 
 ## Gate frontier
 
@@ -57,12 +57,16 @@ Part001:
 
 The mandatory Part001 lock is satisfied.
 
-Part002 is **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**. Part002 canonical records remain **0**. The first supplied Part002 scan will be used to directly audit **26→27** before canonical Part002 transcription begins.
+Part002 source intake is **COMPLETE / PASS**:
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
+- scans — **27–53**
+- incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- canonical records — **0/27**
+- Pass1 — **NOT STARTED / NEXT**
 
 ## Exact next action
 
-**Part002 source intake when supplied.**
+**Part002 Pass1 — global scans27–36 / local pages1–10.**
 
-Do not guess Part002 metadata. Audit **26→27** from the direct adjacent scans during intake, then proceed to Part002 Pass1 only after intake passes.
-
-Part001 is **FINAL CLOSED / FROZEN**.
+Do not begin Pass2A until Pass1 covers all **27/27** Part002 scans. Part001 remains frozen.
