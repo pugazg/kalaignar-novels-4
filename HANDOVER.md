@@ -111,7 +111,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
 - Part002 — **ACTIVE / PASS1 NEXT**
-- Parts002–018 — **not registered**
+- Parts003–018 — **not registered**
 - Part002 canonical records — **0/27**
 - unresolved completed-batch source-reading holds — **0**
 
