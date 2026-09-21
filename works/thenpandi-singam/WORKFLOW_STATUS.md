@@ -52,13 +52,13 @@ Part001:
 - English editorial review — **PASS / CLOSED — 10/10 reviewed / 9 files edited / 24 corrections / 0 unresolved**
 - bilingual review — **PASS / CLOSED — 10/10 pairs / 1 English-only correction / 0 unresolved**
 - release/readiness — **PASS / CLOSED — 0 blockers / 1 non-blocking source-limited boundary condition**
-- release-ready synchronization — **NOT STARTED / NEXT**
-- final closure — BLOCKED pending release-ready synchronization
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **NOT STARTED / NEXT**
 
 Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may later provide only the scan27 boundary witness until Part001 closes.
 
 ## Exact next action
 
-**Part001 release-ready synchronization**, then **final closure — PASS / CLOSED / FROZEN**.
+**Part001 final closure — PASS / CLOSED / FROZEN.**
 
-Release/readiness is closed with **0 blockers**. The unavailable **26→27** witness remains an explicit non-blocking source-limited condition.
+Release-ready synchronization is closed with no body-text drift. Part002 remains blocked until final closure.
