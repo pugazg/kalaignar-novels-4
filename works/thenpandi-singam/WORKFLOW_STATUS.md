@@ -64,10 +64,10 @@ Part002 source intake is **COMPLETE / PASS**:
 - outgoing 53→54 — **PENDING direct audit / source-limited**
 - canonical records — **27/27**
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Pass2A — **NOT STARTED / NEXT**
+- Pass2A — **IN PROGRESS — 22/27 REVIEWED — scans27–48 — 0 corrections / 0 unresolved**
 
 ## Exact next action
 
-**Part002 Pass2A — direct textual verification of scans27–53.**
+**Part002 Pass2A — complete scans49–53 / local pages23–27.**
 
-Keep page status and visual fidelity at `needs-review` during Pass2A. Do not begin Pass2B until Pass2A closes **COMPLETE / PASS**. Part001 remains frozen.
+Scans27–48 are **REVIEWED / PASS** in Pass2A with **0 corrections / 0 unresolved**. Keep page status and visual fidelity at `needs-review`. Pass2B remains blocked until Pass2A closes. Part001 remains frozen.
