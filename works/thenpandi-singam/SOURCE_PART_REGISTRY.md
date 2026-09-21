@@ -99,13 +99,13 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - release/readiness: **PASS / CLOSED**
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
-- Part002 state: **PASS2B IN PROGRESS — 10/27 REVIEWED — 3 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
+- Part002 state: **PASS2B IN PROGRESS — 20/27 REVIEWED — 4 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 canonical records: **27/27**
 - Part002 Pass2A: **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
 - Part002 Pass2A corrections / unresolved: **1 / 0**
-- Part002 Pass2B: **IN PROGRESS — 10/27 REVIEWED — scans27–36**
-- Part002 Pass2B lexical / spacing / punctuation corrections: **3**
+- Part002 Pass2B: **IN PROGRESS — 20/27 REVIEWED — scans27–46**
+- Part002 Pass2B lexical / spacing / punctuation corrections: **4**
 - Part002 Pass2B historical-glyph corrections / unresolved: **0 / 0**
 - final closure: **PASS / CLOSED / FROZEN**
 - translated/source-checked: **10/10 / 10/10**
-- exact next gate: **Part002 Pass2B scans37–46 / local pages11–20**
+- exact next gate: **Part002 Pass2B scans47–53 / local pages21–27**
