@@ -94,11 +94,12 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 - English glossary reconciliation: **RECONCILED / PASS — 4 files / 7 terminology corrections / 0 unresolved**
 - English editorial review: **PASS / CLOSED — 10/10 reviewed / 9 files edited / 24 corrections / 0 unresolved**
 - whole-Part bilingual review: **PASS / CLOSED — 10/10 pairs / 1 English-only correction / 0 unresolved**
-- release/readiness: **NOT STARTED / NEXT**
+- release/readiness: **PASS / CLOSED — 0 blockers**
+- release-ready synchronization: **NOT STARTED / NEXT**
 - final closure: **BLOCKED**
 
 ## Exact next activity
 
-Create and complete the **Part001 release/readiness report**.
+Perform **Part001 release-ready synchronization**, then **Part001 final closure**.
 
-Part002 canonical transcription remains blocked. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
+Part002 canonical transcription remains blocked. Keep **26→27 PENDING direct audit / source-limited**.
