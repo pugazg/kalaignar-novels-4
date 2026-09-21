@@ -33,9 +33,9 @@ Although the word Ambalakkarar was at times used to denote a particular communit
 
 Those Ambalakkarars would sometimes gather together to discuss particular problems and resolve difficulties. In the temples of the nadus under their authority, they were treated with the honour of the silk *parivattam*.
 
-Pattamangalam is the sacred place of the goddess of whom the *Tiruvilaiyadal Puranam* says, “Pattamangai who bestowed the attama siddhis”! At the Tirukkottiyur Perumal temple's chariot festival and other festivals, the Ambalakkarar of Pattamangalam would be specially honoured with the silk *parivattam*.
+Pattamangalam is the sacred place of the goddess of whom the *Tiruvilaiyadal Puranam* says, “Pattamangai who bestowed the attama siddhis”! At the chariot festival and other festivals of the Tirukkottiyur Perumal temple, the Ambalakkarar of Pattamangalam would be specially honoured with the silk *parivattam*.
 
-The Ambalakkarar of Paganeri possessed all rights and honours in that nadu's Siva and Amman temples. The standing of Ambalakkarar was not something one could suddenly obtain through money or any other means. It descended hereditarily. If an Ambalakkarar happened to leave no heirs, the people of the village would select another qualified person from among those connected with him.
+The Ambalakkarar of Paganeri possessed all rights and honours in that nadu's Siva and Amman temples. The status of Ambalakkarar was not something one could suddenly obtain through money or any other means. It descended hereditarily. If an Ambalakkarar happened to leave no heirs, the people of the village would select another qualified person from among those connected with him.
 
 Collecting taxes from the inhabitants, developing the village, strengthening village security, and ruling their nadus at a level next to that of petty kings, the Ambalakkarars belonged to the three groups known as Kallar, Maravar, and Agampadiyar. Yet Venkatasami Nattar also expresses the feeling that all of them were one community:
 
@@ -45,14 +45,14 @@ Collecting taxes from the inhabitants, developing the village, strengthening vil
 
 and let all live with affection and a sense of unity, without despising anyone as lesser!”
 
-Thus he makes his appeal in the *Kallar Sarithiram* that he wrote!
+Thus he makes this appeal in his *Kallar Sarithiram*!
 
 There need be no doubt that the course of the story of *Thenpandi Singam*, its events, and its characters will be shaped with that very appeal as their guiding purpose!
 
-Unity—how, and by whom, did a condition arise in which it was shattered?
+Unity—how did a situation arise in which it was shattered, and by whom?
 
 Why did hostility flare up?
 
 How did the frenzy for revenge grow?
 
-Blending imaginative polish with real events, I now begin to answer the questions above.
+Adding the polish of imagination to real events, I now begin to answer the questions above.
