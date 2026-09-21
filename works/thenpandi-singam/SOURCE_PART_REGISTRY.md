@@ -7,7 +7,7 @@ This ledger records the user's **18 split source PDFs**.
 | Part | Exact source filename | Local physical pages | Global scan range | File size (bytes) | SHA-256 | Source intake | Final state |
 |---:|---|---:|---|---:|---|---|---|
 | 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **ACTIVE / Documentation sync next** |
+| 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **ACTIVE / Assembled Tamil next** |
 | 003 | pending | pending | pending | pending | pending | blocked | not started |
 | 004 | pending | pending | pending | pending | pending | blocked | not started |
 | 005 | pending | pending | pending | pending | pending | blocked | not started |
@@ -99,7 +99,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - release/readiness: **PASS / CLOSED**
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
-- Part002 state: **PART AUDIT PASS / FINAL STATUS SYNC CLOSED — 27/27 verified Tamil + visual**
+- Part002 state: **TAMIL ARCHIVAL-READY PASS / CLOSED — 27/27 verified Tamil + visual**
 - Part002 canonical records: **27/27**
 - Part002 Pass2A: **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
 - Part002 Pass2A corrections / unresolved: **1 / 0**
@@ -110,6 +110,8 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part002 Pass3 textual corrections / unresolved visual-structural questions: **0 / 0**
 - Part002 Part audit: **PASS / COMPLETE**
 - Part002 final metadata/status sync: **PASS / CLOSED — 27/27 verified Tamil + visual**
+- Part002 documentation synchronization: **PASS / COMPLETE**
+- Part002 Tamil archival-ready: **PASS / CLOSED**
 - final closure: **PASS / CLOSED / FROZEN**
 - translated/source-checked: **10/10 / 10/10**
-- exact next gate: **Part002 documentation synchronization**
+- exact next gate: **Part002 assembled Tamil construction + audit**
