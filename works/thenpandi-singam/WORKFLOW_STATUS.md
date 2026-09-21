@@ -53,12 +53,16 @@ Part001:
 - bilingual review — **PASS / CLOSED — 10/10 pairs / 1 English-only correction / 0 unresolved**
 - release/readiness — **PASS / CLOSED — 0 blockers / 1 non-blocking source-limited boundary condition**
 - release-ready synchronization — **PASS / CLOSED**
-- final closure — **NOT STARTED / NEXT**
+- final closure — **PASS / CLOSED / FROZEN**
 
-Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may later provide only the scan27 boundary witness until Part001 closes.
+The mandatory Part001 lock is satisfied.
+
+Part002 is **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**. Part002 canonical records remain **0**. The first supplied Part002 scan will be used to directly audit **26→27** before canonical Part002 transcription begins.
 
 ## Exact next action
 
-**Part001 final closure — PASS / CLOSED / FROZEN.**
+**Part002 source intake when supplied.**
 
-Release-ready synchronization is closed with no body-text drift. Part002 remains blocked until final closure.
+Do not guess Part002 metadata. Audit **26→27** from the direct adjacent scans during intake, then proceed to Part002 Pass1 only after intake passes.
+
+Part001 is **FINAL CLOSED / FROZEN**.
