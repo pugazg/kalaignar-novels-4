@@ -69,7 +69,7 @@
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **1**
-- Part002: **ACTIVE / E5–E8 SOURCE-CHECKED — GLOSSARY RECONCILIATION NEXT**
+- Part002: **ACTIVE / GLOSSARY RECONCILED — EDITORIAL REVIEW NEXT**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
@@ -99,6 +99,10 @@
 - Part002 E5–E8: **SOURCE-CHECKED / COMPLETE**
 - Part002 English structural block coverage: **146/146**
 - Part002 unresolved English source-check holds: **0**
+- Part002 whole-Part English glossary reconciliation: **RECONCILED / PASS**
+- Part002 English files changed by glossary reconciliation: **1/4**
+- Part002 terminology corrections: **9**
+- Part002 unresolved glossary holds: **0**
 
 ## Workflow baseline
 
@@ -141,8 +145,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation across E5–E8**.
+Perform **Part002 English editorial review across all 4 maintained English files / scans27–53**.
 
-E5–E8 are **SOURCE-CHECKED / COMPLETE — 4/4 translated and 4/4 source-checked** with full scans27–53 coverage and 0 unresolved source-check holds. Keep frozen Part001 English unchanged and preserve **53→54 PENDING direct audit / source-limited**.
+Glossary reconciliation is **RECONCILED / PASS** with **1/4 English files changed, 9 terminology corrections, and 0 unresolved glossary holds**. Keep frozen Part001 English unchanged and preserve **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
