@@ -81,3 +81,22 @@ Part001 English editorial review is **PASS / CLOSED**.
 Durable editorial record: `TRANSLATION_REVIEW.md`.
 
 Current exact next gate: **Part001 whole-Part bilingual review across Tamil + English / scans1–26**.
+
+
+## Post-source-check bilingual state
+
+Part001 whole-Part bilingual review is **PASS / CLOSED**.
+
+- Tamil/English pairs reviewed — **10/10**
+- structural block coverage — **132/132**
+- glossary corrections rechecked — **7/7 PASS**
+- editorial corrections rechecked — **24/24 PASS**
+- further bilingual English-only corrections — **1**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `BILINGUAL_REVIEW.md`.
+
+Current exact next gate: **Part001 release/readiness report**.
