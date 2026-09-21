@@ -187,3 +187,17 @@ Part001 assembled Tamil remains **10/10 VERIFIED / PASS / CLOSED** and must not 
 
 
 Durable validation: `../PART_002_ASSEMBLED_TAMIL_VALIDATION.md`.
+
+
+## Part002 English planning state
+
+**PART002 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- reserved batches — **E5–E8**
+- planned maintained English files — **4**
+- translated/source-checked — **0/4 / 0/4**
+- English literary prose drafted in planning — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next gate — **E5 draft + source-check — section10 / scans27–30**
