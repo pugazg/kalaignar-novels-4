@@ -189,8 +189,12 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part001 Pass1 — **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 26/26 REVIEWED — 14 source-text corrections; 0 unresolved**
 - Part001 Pass2B — **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections; 0 historical-glyph corrections; 0 unresolved**
-- Part001 Pass3 — **NOT STARTED / NEXT**
+- Part001 Pass3 — **COMPLETE / PASS — 26/26 REVIEWED — 0 textual corrections / 0 unresolved**
+- Part001 Part audit — **PASS / COMPLETE**
+- Part001 final metadata/status synchronization — **PASS / CLOSED**
+- Part001 canonical Tamil — **26/26 verified**
+- Part001 visual fidelity — **26/26 verified**
 - outgoing 26→27 — **PENDING Part002 direct witness**
 - Parts002–018 source metadata — **PENDING**
 - Part002 canonical records — **0**
-- exact next activity — **Part001 Pass3 — direct full-page visual / structural verification of scans1–26**
+- exact next activity — **Part001 documentation synchronization, then Tamil archival-ready checkpoint**
