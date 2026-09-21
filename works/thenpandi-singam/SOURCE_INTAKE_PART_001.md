@@ -92,11 +92,12 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 - English E1: **SOURCE-CHECKED / COMPLETE — scans1–12**
 - English E2–E4: **SOURCE-CHECKED / COMPLETE**
 - English glossary reconciliation: **RECONCILED / PASS — 4 files / 7 terminology corrections / 0 unresolved**
-- English editorial review: **NOT STARTED / NEXT**
+- English editorial review: **PASS / CLOSED — 10/10 reviewed / 9 files edited / 24 corrections / 0 unresolved**
+- whole-Part bilingual review: **NOT STARTED / NEXT**
 - final closure: **BLOCKED**
 
 ## Exact next activity
 
-Perform **Part001 English editorial review across all 10 maintained English files / scans1–26**.
+Perform **Part001 whole-Part bilingual review across Tamil + English / scans1–26**.
 
 Part002 canonical transcription remains blocked. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
