@@ -32,6 +32,26 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 001 | 24 | 24 | 12 | chapter 3 opening; illustrated; Pass1 + Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0024-chapter-03.md` |
 | 001 | 25 | 25 | 13 | chapter 3 continuation; quotation continues to scan26; Pass1 + Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0025-chapter-03.md` |
 | 001 | 26 | 26 | 14 | chapter 3 continuation; Part001 terminal scan; 26→27 **GENUINE CONTINUATION / AUDITED**; Pass1 + Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0026-chapter-03.md` |
+| 002 | 1 | 27 | 15 | chapter 3 continuation; incoming 26→27 **GENUINE CONTINUATION / AUDITED**; Pass1 text-complete | needs-review | `pages/0027-chapter-03.md` |
+| 002 | 2 | 28 | 16 | chapter 3 continuation; Pass1 text-complete | needs-review | `pages/0028-chapter-03.md` |
+| 002 | 3 | 29 | 17 | chapter 3 continuation; Pass1 text-complete | needs-review | `pages/0029-chapter-03.md` |
+| 002 | 4 | 30 | 18 | chapter 3 close; ornamental ending / blank lower field; Pass1 text-complete | needs-review | `pages/0030-chapter-03.md` |
+| 002 | 5 | 31 | — | chapter 4 opening; illustrated; printed folio not source-visible; Pass1 text-complete | needs-review | `pages/0031-chapter-04.md` |
+| 002 | 6 | 32 | 20 | chapter 4 continuation; Pass1 text-complete | needs-review | `pages/0032-chapter-04.md` |
+| 002 | 7 | 33 | 21 | chapter 4 continuation; Pass1 text-complete | needs-review | `pages/0033-chapter-04.md` |
+| 002 | 8 | 34 | 22 | chapter 4 continuation; Pass1 text-complete | needs-review | `pages/0034-chapter-04.md` |
+| 002 | 9 | 35 | 23 | chapter 4 continuation; open direct speech to scan36; Pass1 text-complete | needs-review | `pages/0035-chapter-04.md` |
+| 002 | 10 | 36 | 24 | chapter 4 continuation; Pass1 text-complete | needs-review | `pages/0036-chapter-04.md` |
+| 002 | 11 | 37 | 25 | chapter 4 continuation; phrase continues to scan38; Pass1 text-complete | needs-review | `pages/0037-chapter-04.md` |
+| 002 | 12 | 38 | 26 | chapter 4 close; ornamental ending / blank lower field; Pass1 text-complete | needs-review | `pages/0038-chapter-04.md` |
+| 002 | 13 | 39 | — | chapter 5 opening; illustrated; printed folio not source-visible; Pass1 text-complete | needs-review | `pages/0039-chapter-05.md` |
+| 002 | 14 | 40 | 28 | chapter 5 continuation; open direct speech to scan41; Pass1 text-complete | needs-review | `pages/0040-chapter-05.md` |
+| 002 | 15 | 41 | 29 | chapter 5 continuation; Pass1 text-complete | needs-review | `pages/0041-chapter-05.md` |
+| 002 | 16 | 42 | 30 | chapter 5 continuation; Pass1 text-complete | needs-review | `pages/0042-chapter-05.md` |
+| 002 | 17 | 43 | 31 | chapter 5 continuation; direct speech continues to scan44; Pass1 text-complete | needs-review | `pages/0043-chapter-05.md` |
+| 002 | 18 | 44 | 32 | chapter 5 close; ornamental ending; Pass1 text-complete | needs-review | `pages/0044-chapter-05.md` |
+| 002 | 19 | 45 | — | chapter 6 opening; illustrated; physical split word continues to scan46; Pass1 text-complete | needs-review | `pages/0045-chapter-06.md` |
+| 002 | 20 | 46 | 34 | chapter 6 continuation; completes physical split word from scan45; Pass1 text-complete | needs-review | `pages/0046-chapter-06.md` |
 
 ## Intake observations
 
@@ -59,7 +79,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 
 - registered Parts: **2/18**
 - registered physical scan range: **53 scans across Parts001–002**
-- canonical page records: **26**
+- canonical page records: **46**
 - Part001 Pass1: **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
 - Part001 Pass2B: **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
@@ -91,8 +111,8 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **1**
 - Part002 source intake: **COMPLETE / PASS**
-- Part002 canonical rows/records: **0/27**
-- Part002 Pass1: **NOT STARTED / NEXT**
+- Part002 canonical rows/records: **20/27**
+- Part002 Pass1: **IN PROGRESS — 20/27 TEXT-COMPLETE**
 - outgoing Part002 boundary 53→54: **PENDING direct audit / source-limited**
 - translated/source-checked English files: **10/10 / 10/10**
-- exact next activity: **Part002 Pass1 scans27–36 / local pages1–10**
+- exact next activity: **Part002 Pass1 scans47–53 / local pages21–27**
