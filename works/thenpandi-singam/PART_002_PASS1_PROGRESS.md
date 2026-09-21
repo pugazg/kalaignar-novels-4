@@ -91,12 +91,12 @@ Keep all records `needs-review` during Pass2A. Do not begin Pass2B until Pass2A 
 
 ## Downstream Pass2A state
 
-- Pass2A — **IN PROGRESS — 22/27 REVIEWED**
-- reviewed scans — **27–48**
-- source-text corrections — **0**
+- Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
+- reviewed scans — **27–53**
+- source-text corrections — **1**
 - unresolved textual questions — **0**
 - status promotions — **0**
-- remaining Pass2A scope — **scans49–53**
-- exact next activity — **complete Part002 Pass2A scans49–53**
+- remaining Pass2A scope — **0**
+- exact next activity — **begin Part002 Pass2B scans27–36 / local pages1–10**
 
 Pass1 remains **COMPLETE / PASS — 27/27 TEXT-COMPLETE**.
