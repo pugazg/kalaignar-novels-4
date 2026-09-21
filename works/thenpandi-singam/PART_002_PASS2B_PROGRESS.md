@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS — 20/27 REVIEWED**
+**PASS 2B — COMPLETE / PASS — 27/27 REVIEWED**
 
 Prerequisites:
 
@@ -21,14 +21,14 @@ Scope:
 
 ## Pass2B method
 
-For every reviewed physical scan:
+For every physical scan:
 
-- canonical Tamil is independently reread directly against the rendered source pixels;
-- lexical identity, source-visible word boundaries, punctuation-sensitive joins, spacing, colloquial/source-era forms and inflectional endings are checked afresh rather than inherited mechanically from Pass2A;
-- historical/reform-sensitive glyph identity is checked independently;
-- source-specific irregular forms are preserved without modernization or grammatical normalization;
-- only directly source-supported discrepancies alter canonical text;
-- all Part002 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+- canonical Tamil was independently reread directly against the rendered source pixels;
+- lexical identity, source-visible word boundaries, punctuation-sensitive joins, spacing, colloquial/source-era forms and inflectional endings were checked afresh rather than inherited mechanically from Pass2A;
+- historical/reform-sensitive glyph identity was checked independently;
+- source-specific irregular forms were preserved without modernization or grammatical normalization;
+- only directly source-supported discrepancies altered canonical text;
+- all Part002 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass3 and later gates.
 
 ## Completed batch 1 — scans27–36 / local pages1–10
 
@@ -76,22 +76,45 @@ Batch accounting:
 
 Scans37–41 and 43–46 required **0** Pass2B canonical text correction.
 
-## Cumulative accounting
+## Completed batch 3 — scans47–53 / local pages21–27
+
+**7/7 REVIEWED / PASS**
+
+### Correction ledger
+
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|:---:|---|---|---|
+| 50 | 38 | `கதறிவிட்டாள்!` | `கக்குரலிட்டாள்!` | source lexical reading correction |
+
+Batch accounting:
+
+- reviewed scans — **47–53 / 7 pages**
+- lexical / spacing / punctuation correction occurrences — **1**
+- affected scans — **1**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- Part003 canonical leakage — **0**
+
+Scans47–49 and 51–53 required **0** Pass2B canonical text correction.
+
+## Final accounting
 
 - Part002 canonical records — **27/27**
 - Pass1 — **COMPLETE / PASS — 27/27**
 - Pass2A — **COMPLETE / PASS — 27/27 — 1 correction / 0 unresolved**
-- Pass2B — **IN PROGRESS — 20/27 REVIEWED**
-- reviewed scans — **27–46**
-- Pass2B lexical / spacing / punctuation correction occurrences — **4**
-- Pass2B affected scans — **3 — scans28, 33, 42**
+- Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
+- reviewed scans — **27–53**
+- Pass2B lexical / spacing / punctuation correction occurrences — **5**
+- Pass2B affected scans — **4 — scans28, 33, 42, 50**
 - Pass2B historical-glyph corrections — **0**
 - unresolved Pass2B questions — **0**
 - verified Part002 pages — **0**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
+- Part003 canonical leakage — **0**
 
 ## Exact next activity
 
-Complete **Part002 Pass2B — scans47–53 / local pages21–27**.
+Begin **Part002 Pass3 — scans27–36 / local pages1–10**.
 
-Keep all Part002 records `needs-review`. After those 7 scans are independently reread, close Pass2B only if no unresolved blocker remains. Do not begin Pass3 in the same activity. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Pass3 is the visual/structural verification gate. Perform full-page rendered-source comparison for headings, chapter openings/closings, blank lower fields, illustrations, page furniture, reading order and physical continuation states. Keep all Part002 records `needs-review` during Pass3. Do not begin the whole-Part audit until Pass3 closes **COMPLETE / PASS**. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
