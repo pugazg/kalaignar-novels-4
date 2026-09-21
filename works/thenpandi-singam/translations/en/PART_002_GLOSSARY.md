@@ -170,11 +170,11 @@ Current accounting:
 - Part003 leakage — **0**
 - 53→54 semantic completion — **0**
 
-## Exact next gate
+## Pre-reconciliation handoff target
 
-Perform **Part002 whole-Part English glossary reconciliation across E5–E8**.
+The post-source-check handoff target was **Part002 whole-Part English glossary reconciliation across E5–E8**.
 
-Reconciliation must check these source-facing choices across all four files as a single corpus and may alter English only. Do not begin editorial review until reconciliation closes **RECONCILED / PASS**.
+That reconciliation is now closed below.
 
 
 ## Reconciliation closure
