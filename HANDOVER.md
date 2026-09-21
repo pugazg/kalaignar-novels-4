@@ -110,17 +110,17 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 global scans — **27–53**
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
-- Part002 — **ACTIVE / PASS1 COMPLETE — 27/27 TEXT-COMPLETE**
+- Part002 — **ACTIVE / PASS2A COMPLETE — 27/27 REVIEWED**
 - Parts003–018 — **not registered**
 - Part002 canonical records — **27/27**
-- Part002 Pass2A — **IN PROGRESS — 22/27 REVIEWED — scans27–48**
-- Part002 Pass2A corrections / unresolved — **0 / 0**
+- Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
+- Part002 Pass2A corrections / unresolved — **1 / 0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Exact next activity
 
-Complete **Part002 Pass2A — scans49–53 / local pages23–27**.
+Begin **Part002 Pass2B — scans27–36 / local pages1–10**.
 
-Do not begin Pass2B until Pass2A closes **COMPLETE / PASS**. Keep every Part002 record `needs-review` during Pass2A and keep **53→54 PENDING direct audit / source-limited**.
+Pass2A is **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**. Perform an independent lexical / historical-glyph reread. Keep every Part002 record `needs-review`, do not begin Pass3 until Pass2B closes, and keep **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
