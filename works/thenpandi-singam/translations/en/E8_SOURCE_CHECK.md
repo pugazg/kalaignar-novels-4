@@ -99,8 +99,22 @@ Part003 leakage — **0**.
 
 **E8 — SOURCE-CHECKED / COMPLETE.**
 
+## Post-source-check glossary state
+
+Part002 whole-Part English glossary reconciliation is now **RECONCILED / PASS**.
+
+- English files checked — **4/4**
+- English files changed — **1/4**
+- terminology occurrences corrected — **9**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `PART_002_GLOSSARY_RECONCILIATION.md`.
+
 ## Exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation across E5–E8**.
+Perform **Part002 English editorial review across all 4 maintained English files / scans27–53**.
 
-Do not begin editorial review until glossary reconciliation closes.
+Do not begin whole-Part bilingual review until editorial review closes.
