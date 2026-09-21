@@ -80,6 +80,7 @@
 - outgoing 53→54: **PENDING direct audit / source-limited**
 - Part002 canonical records: **27/27**
 - Part002 Pass1: **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- Part002 Pass2A: **IN PROGRESS — 22/27 REVIEWED — 0 corrections / 0 unresolved**
 
 ## Workflow baseline
 
@@ -122,8 +123,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Begin **Part002 Pass2A — direct textual verification of scans27–53**.
+Complete **Part002 Pass2A — scans49–53 / local pages23–27**.
 
-Keep all Part002 page records `needs-review` during Pass2A. Do not begin Pass2B until Pass2A closes **COMPLETE / PASS**. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Scans27–48 are directly reviewed in Pass2A with **0 source-text corrections / 0 unresolved questions**. Keep all records `needs-review`; do not begin Pass2B until Pass2A closes **COMPLETE / PASS**. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
