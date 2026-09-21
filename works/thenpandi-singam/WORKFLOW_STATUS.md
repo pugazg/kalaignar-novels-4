@@ -43,13 +43,17 @@ Part001:
 - documentation sync — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 10/10 VERIFIED — 26/26 canonical coverage**
-- English planning/setup — **NOT STARTED / NEXT**
+- English planning/setup — **COMPLETE / PASS**
+- English E1 — **NOT STARTED / NEXT — scans1–12 / 7 planned files**
+- English E2 — **BLOCKED pending E1**
+- English E3 — **BLOCKED pending E2**
+- English E4 — **BLOCKED pending E3**
 - final closure — BLOCKED
 
 Parts002–018 remain blocked by the mandatory active-Part lock. Part002 may later provide only the scan27 boundary witness until Part001 closes.
 
 ## Exact next action
 
-**Part001 English translation planning/setup.**
+**E1 draft + source-check — sections00–06 / scans1–12.**
 
-Tamil canonical/visual state is **26/26 verified**, Tamil archival-ready is **PASS / CLOSED**, and assembled Tamil is **10/10 VERIFIED / PASS / CLOSED**. Do not draft English in the planning gate. Part002 remains blocked; **26→27** remains pending.
+Planning reserved **E1–E4** with **10** maintained English files and created no literary English prose. Do not begin E2 until E1 closes. Part002 remains blocked; **26→27** remains pending.
