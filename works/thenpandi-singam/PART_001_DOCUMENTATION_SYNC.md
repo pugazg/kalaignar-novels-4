@@ -71,3 +71,18 @@ The one open outgoing boundary is not a documentation defect; it is an explicit 
 Perform **Part001 Tamil archival-ready checkpoint**.
 
 Do not begin assembled Tamil construction until the checkpoint closes. Do not begin English.
+
+
+## Final downstream state for this activity
+
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **10/10 VERIFIED / PASS / CLOSED**
+- assembled canonical coverage — **26/26**
+- assembly omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part002 body leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+- exact next gate — **Part001 English translation planning/setup**
+- English prose drafted in this activity — **0**
