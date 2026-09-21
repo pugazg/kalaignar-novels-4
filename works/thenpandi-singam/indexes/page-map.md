@@ -32,16 +32,16 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 001 | 24 | 24 | 12 | chapter 3 opening; illustrated; Pass1 + Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0024-chapter-03.md` |
 | 001 | 25 | 25 | 13 | chapter 3 continuation; quotation continues to scan26; Pass1 + Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0025-chapter-03.md` |
 | 001 | 26 | 26 | 14 | chapter 3 continuation; Part001 terminal scan; 26→27 **GENUINE CONTINUATION / AUDITED**; Pass1 + Pass2A + Pass2B + Pass3 reviewed | verified | `pages/0026-chapter-03.md` |
-| 002 | 1 | 27 | 15 | chapter 3 continuation; incoming 26→27 **GENUINE CONTINUATION / AUDITED**; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0027-chapter-03.md` |
-| 002 | 2 | 28 | 16 | chapter 3 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0028-chapter-03.md` |
-| 002 | 3 | 29 | 17 | chapter 3 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0029-chapter-03.md` |
-| 002 | 4 | 30 | 18 | chapter 3 close; ornamental ending / blank lower field; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0030-chapter-03.md` |
-| 002 | 5 | 31 | — | chapter 4 opening; illustrated; printed folio not source-visible; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0031-chapter-04.md` |
-| 002 | 6 | 32 | 20 | chapter 4 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0032-chapter-04.md` |
-| 002 | 7 | 33 | 21 | chapter 4 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0033-chapter-04.md` |
-| 002 | 8 | 34 | 22 | chapter 4 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0034-chapter-04.md` |
-| 002 | 9 | 35 | 23 | chapter 4 continuation; open direct speech to scan36; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0035-chapter-04.md` |
-| 002 | 10 | 36 | 24 | chapter 4 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0036-chapter-04.md` |
+| 002 | 1 | 27 | 15 | chapter 3 continuation; incoming 26→27 **GENUINE CONTINUATION / AUDITED**; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections | needs-review | `pages/0027-chapter-03.md` |
+| 002 | 2 | 28 | 16 | chapter 3 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 1 correction (`முடியுமல்லவா` → `முடியும் அல்லவா`) | needs-review | `pages/0028-chapter-03.md` |
+| 002 | 3 | 29 | 17 | chapter 3 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections | needs-review | `pages/0029-chapter-03.md` |
+| 002 | 4 | 30 | 18 | chapter 3 close; ornamental ending / blank lower field; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections | needs-review | `pages/0030-chapter-03.md` |
+| 002 | 5 | 31 | — | chapter 4 opening; illustrated; printed folio not source-visible; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections | needs-review | `pages/0031-chapter-04.md` |
+| 002 | 6 | 32 | 20 | chapter 4 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections | needs-review | `pages/0032-chapter-04.md` |
+| 002 | 7 | 33 | 21 | chapter 4 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 2 corrections (`கொண்டு` → `கொண்டும்` twice) | needs-review | `pages/0033-chapter-04.md` |
+| 002 | 8 | 34 | 22 | chapter 4 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections | needs-review | `pages/0034-chapter-04.md` |
+| 002 | 9 | 35 | 23 | chapter 4 continuation; open direct speech to scan36; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections | needs-review | `pages/0035-chapter-04.md` |
+| 002 | 10 | 36 | 24 | chapter 4 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections | needs-review | `pages/0036-chapter-04.md` |
 | 002 | 11 | 37 | 25 | chapter 4 continuation; phrase continues to scan38; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0037-chapter-04.md` |
 | 002 | 12 | 38 | 26 | chapter 4 close; ornamental ending / blank lower field; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0038-chapter-04.md` |
 | 002 | 13 | 39 | — | chapter 5 opening; illustrated; printed folio not source-visible; Pass1 text-complete; Pass2A reviewed / 0 corrections | needs-review | `pages/0039-chapter-05.md` |
@@ -121,6 +121,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part002 canonical rows/records: **27/27**
 - Part002 Pass1: **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Part002 Pass2A: **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**
+- Part002 Pass2B: **IN PROGRESS — 10/27 REVIEWED — 3 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - outgoing Part002 boundary 53→54: **PENDING direct audit / source-limited**
 - translated/source-checked English files: **10/10 / 10/10**
-- exact next activity: **Part002 Pass2B scans27–36 / local pages1–10**
+- exact next activity: **Part002 Pass2B scans37–46 / local pages11–20**
