@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part002 Pass2B scans37–46
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part002 Pass2B scans47–53
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -44,10 +44,10 @@ The source PDF is not committed to Git. Ensure the Part002 PDF is available in t
 - Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
 - Pass2A source-text corrections — **1**
 - Pass2A unresolved textual questions — **0**
-- Pass2B — **IN PROGRESS — 10/27 REVIEWED**
-- Pass2B reviewed scans — **27–36 / local pages1–10**
-- Pass2B lexical / spacing / punctuation correction occurrences — **3**
-- Pass2B affected scans — **28, 33**
+- Pass2B — **IN PROGRESS — 20/27 REVIEWED**
+- Pass2B reviewed scans — **27–46 / local pages1–20**
+- Pass2B lexical / spacing / punctuation correction occurrences — **4**
+- Pass2B affected scans — **28, 33, 42**
 - Pass2B historical-glyph corrections — **0**
 - Pass2B unresolved lexical / historical-glyph questions — **0**
 - verified Part002 pages — **0**
@@ -60,7 +60,7 @@ The source PDF is not committed to Git. Ensure the Part002 PDF is available in t
   - before — `விம்மியமுதாள்`
   - source-confirmed — `விம்மியழுதாள்`
 
-### Pass2B correction ledger through scan36
+### Pass2B correction ledger through scan46
 
 - scan **28** / printed p.**16**:
   - before — `உணர்த்த முடியுமல்லவா?`
@@ -71,6 +71,9 @@ The source PDF is not committed to Git. Ensure the Part002 PDF is available in t
 - scan **33** / printed p.**21**:
   - before — `எலும்பை உடைத்துக் கொண்டு`
   - source-confirmed — `எலும்பை உடைத்துக் கொண்டும்`
+- scan **42** / printed p.**30**:
+  - before — `இடத்திலும் - கோயில் மண்டபத்திலும்`
+  - source-confirmed — `இடத்திலும் -கோயில் மண்டபத்திலும்`
 
 No historical-glyph correction has been required so far in Part002 Pass2B.
 
@@ -88,22 +91,22 @@ Part003 may only be inspected later as an adjacent boundary witness for **53→5
 4. `works/thenpandi-singam/PART_002_PASS2B_PROGRESS.md`
 5. `works/thenpandi-singam/PART_002_PASS2A_PROGRESS.md`
 6. `works/thenpandi-singam/indexes/page-map.md`
-7. canonical page records for scans **37–46**
+7. canonical page records for scans **47–53**
 
 ## Exact next activity
 
-Perform **Part002 Pass2B — scans37–46 / local pages11–20**.
+Perform **Part002 Pass2B — scans47–53 / local pages21–27**.
 
-This remains an **independent lexical / historical-glyph reread** against the rendered source pages. Check afresh:
+This is the **final Pass2B batch**. Independently reread the rendered source pages for:
 
 - lexical identity;
 - source-visible word boundaries and spacing;
 - punctuation-sensitive joins;
 - colloquial/source-era forms;
 - historical/reform-sensitive glyph identity;
-- chapter/opening/closing textual matter relevant to lexical fidelity.
+- terminal split-boundary text on scan53.
 
-Do not inherit Pass2A or the first Pass2B batch mechanically. Do not modernize or normalize source forms for familiarity. Apply only corrections directly supported by the rendered source.
+Do not inherit Pass2A or the earlier Pass2B batches mechanically. Do not modernize or normalize source forms for familiarity. Apply only corrections directly supported by the rendered source.
 
 For every reviewed page:
 
@@ -114,21 +117,26 @@ For every reviewed page:
 - count historical-glyph corrections separately;
 - record unresolved questions explicitly.
 
-After the batch, synchronize the appropriate progress/control documents with the exact reviewed range and correction counts, including `NEXT_CHAT_PROMPT.md` and `HANDOVER.md`.
+After scans47–53:
+
+- close Pass2B **COMPLETE / PASS — 27/27** only if unresolved lexical / historical-glyph questions remain **0**;
+- synchronize the progress/control documents, including `NEXT_CHAT_PROMPT.md` and `HANDOVER.md`;
+- keep **53→54 PENDING direct audit / source-limited** because Part003 has not been supplied;
+- do **not** begin Pass3 in the same activity.
 
 ## Gate discipline
 
-- Do **not** begin Pass3 in the same activity.
 - Do **not** mark Part002 pages verified during Pass2B.
+- Do **not** begin Pass3 in this activity.
 - Keep **53→54 PENDING direct audit / source-limited**.
 - Keep Part001 **FINAL CLOSED / FROZEN**.
 - Keep Part003 canonical leakage at **0**.
 
 ## Expected frontier after this activity
 
-If scans37–46 are fully reviewed without an unresolved blocker:
+If scans47–53 are fully reviewed with no unresolved blocker:
 
-- Part002 Pass2B — **IN PROGRESS — 20/27 REVIEWED**
-- exact next activity — **Part002 Pass2B scans47–53 / local pages21–27**
+- Part002 Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
+- exact next activity — **Part002 Pass3 — begin scans27–36 / local pages1–10**
 
-If source evidence produces corrections or an unresolved reading, record the exact ledger and let the live repository state govern the next action.
+If source evidence produces corrections or an unresolved reading, record the exact ledger and let live `main` govern the next action.
