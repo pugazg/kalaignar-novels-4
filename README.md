@@ -65,11 +65,11 @@
 - unresolved bilingual holds: **0**
 - release/readiness: **PASS / CLOSED**
 - unresolved release/readiness blockers: **0**
-- non-blocking source-limited boundary condition: **26→27 pending**
+- Part001 outgoing boundary 26→27: **GENUINE CONTINUATION / AUDITED**
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **1**
-- Part002: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part002: **ACTIVE / PASS3 NEXT**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
