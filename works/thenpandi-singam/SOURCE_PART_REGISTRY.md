@@ -86,6 +86,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
 - Part002 state: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part002 canonical records: **0**
 - final closure: **PASS / CLOSED / FROZEN**
 - translated/source-checked: **10/10 / 10/10**
 - exact next gate: **Part002 source intake when supplied**
