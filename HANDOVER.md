@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 whole-Part audit**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 documentation synchronization**
 
 ## Work
 
@@ -111,7 +111,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 global scans — **27–53**
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
-- Part002 — **ACTIVE / PASS3 COMPLETE — 27/27 REVIEWED**
+- Part002 — **ACTIVE / FINAL STATUS SYNC CLOSED — 27/27 VERIFIED**
 - Parts003–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -122,12 +122,17 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 Pass2B unresolved lexical / historical-glyph questions — **0**
 - Part002 Pass3 — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
 - Part002 Pass3 textual corrections / unresolved visual-structural questions — **0 / 0**
+- Part002 Part audit — **PASS / COMPLETE**
+- Part002 final metadata/status synchronization — **PASS / CLOSED**
+- Part002 verified Tamil pages — **27/27**
+- Part002 verified visual-fidelity pages — **27/27**
+- Part002 needs-review Tamil / visual pages — **0 / 0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
-- continuation gate — **Part002 whole-Part audit**
+- continuation gate — **Part002 documentation synchronization**
 - Part002 Pass2B final state — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 Pass3 final state — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part002 source PDF to be available there
@@ -135,8 +140,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Perform the **Part002 whole-Part audit — scans27–53 / local pages1–27**.
+Perform **Part002 documentation synchronization**.
 
-Pass3 is **COMPLETE / PASS — 27/27 REVIEWED** with **0 textual corrections / 0 unresolved visual-structural questions**. Keep every Part002 record `needs-review` during the audit; final metadata/status synchronization is a separate gate. Preserve **53→54 PENDING direct audit / source-limited**.
+The whole-Part audit is **PASS / COMPLETE** and final metadata/status synchronization is **PASS / CLOSED**. Canonical Tamil and visual fidelity are **27/27 verified** with **0 needs-review pages** and **0 unresolved Tamil/glyph/visual/structural questions**. Preserve **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
