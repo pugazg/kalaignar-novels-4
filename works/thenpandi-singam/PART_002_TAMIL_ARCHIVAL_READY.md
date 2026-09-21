@@ -162,3 +162,17 @@ Do not begin English until assembled Tamil closes.
 - canonical / assembled Tamil edits caused by English — **0 / 0**
 - Part003 leakage — **0**
 - exact next gate — **Part002 whole-Part English glossary reconciliation across E5–E8**
+
+
+## Downstream glossary reconciliation state
+
+- Part002 English E5–E8 — **SOURCE-CHECKED / COMPLETE**
+- Part002 whole-Part English glossary reconciliation — **RECONCILED / PASS**
+- English files changed — **1/4**
+- terminology occurrences corrected — **9**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next gate — **Part002 English editorial review across all 4 maintained English files / scans27–53**
