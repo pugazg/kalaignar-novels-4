@@ -24,8 +24,8 @@ Tamil authority is closed through assembled Tamil:
 | Glossary reconciliation | Part001 whole-Part | 1–26 | — | **RECONCILED / PASS** |
 | Editorial review | Part001 whole-Part English | 1–26 | — | **PASS / CLOSED** |
 | Bilingual review | Part001 whole-Part | 1–26 | — | **PASS / CLOSED** |
-| Release/readiness | Part001 | 1–26 | — | **NOT STARTED / NEXT** |
-| Release-ready sync | Part001 | 1–26 | — | **BLOCKED** |
+| Release/readiness | Part001 | 1–26 | — | **PASS / CLOSED** |
+| Release-ready sync | Part001 | 1–26 | — | **NOT STARTED / NEXT** |
 | Final closure | Part001 | 1–26 | — | **BLOCKED** |
 
 ## Current counts
@@ -175,8 +175,16 @@ Durable record: `TRANSLATION_REVIEW.md`.
 
 Durable record: `BILINGUAL_REVIEW.md`.
 
+## Release/readiness closure
+
+**PASS / CLOSED**
+
+- unresolved release/readiness blockers — **0**
+- non-blocking source-limited boundary condition — **26→27 pending**
+- canonical / assembled / English body changes — **0 / 0 / 0**
+
+Durable record: `RELEASE_REPORT.md`.
+
 ## Exact next activity
 
-Create and complete the **Part001 release/readiness report**.
-
-Do not begin release-ready synchronization, final closure or Part002 transcription until release/readiness closes.
+Perform **Part001 release-ready synchronization**, then final closure.
