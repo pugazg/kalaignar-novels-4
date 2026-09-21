@@ -201,3 +201,17 @@ Durable validation: `../PART_002_ASSEMBLED_TAMIL_VALIDATION.md`.
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
 - exact next gate — **E5 draft + source-check — section10 / scans27–30**
+
+
+## Part002 E5–E8 English source-check state
+
+**SOURCE-CHECKED / COMPLETE.**
+
+- maintained Part002 English files — **4/4**
+- translated/source-checked — **4/4 / 4/4**
+- source coverage — **scans27–53 / 27**
+- structural block coverage — **146/146**
+- unresolved source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- Part003 leakage — **0**
+- exact next gate — **Part002 whole-Part English glossary reconciliation across E5–E8**
