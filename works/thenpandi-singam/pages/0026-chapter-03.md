@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf"
-transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A reviewed"
+transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A + Pass 2B reviewed"
 ---
 
 ## Source transcription
@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 
 “பாகனேரி தேர்த்திருவிழா தொடங்க இருக்கிறது! எல்லா நாட்டு அம்பலக்காரர்களையும் நேரில் சென்று அழைப்பு விடுத்து வா என்பது என் அண்ணன் கட்டளை! விழாவுக்கு அழைப்பதற்காகத்தான் வந்திருக்கிறேன்.”
 
-இதுவரையில் நெற்றியைச் சுழித்துக் கொண்டு யோசனையில் ஆழ்ந்திருந்த வெள்ளை அய்யர் வாய்திறந்தார்.
+இதுவரையில் நெற்றியைச் சுழித்துக் கொண்டு யோசனையில் ஆழ்ந்திருந்த வெள்ளை அய்யர் வாய் திறந்தார்.
 
 “பட்டமங்கலத்தார் திருக்கோட்டியூரில் நடத்திய தேர்த்திருவிழாவுக்கு பாகனேரி அம்பலக்காரர் வாளுக்கு வேலி வரவில்லை என்பதை ஒரு காரணமாகக் காட்டி, இந்த அழைப்பை வல்லத்தரையன் மறுத்துவிடக் கூடாது.”
 
@@ -38,7 +38,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 - chapter 3 remains open at the Part001 end;
 - outgoing **26→27** remains **PENDING direct audit** until Part002 is supplied; no continuation text is reconstructed;
 - Pass1 result: **TEXT-COMPLETE / needs-review**;
-- Pass2A result: **REVIEWED / PASS**; Pass2B / Pass3 are not started.
+- Pass2A result: **REVIEWED / PASS**; Pass2B result: **REVIEWED / PASS**; Pass3 is not started.
 
 
 ## Formal Part001 Pass 2A review
@@ -50,4 +50,15 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass2B, Pass3, Part audit and final status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 26; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 26; அச்சுப் பக்கம்: 14; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review; 26→27 PENDING -->
+
+## Formal Part001 Pass 2B review
+
+- independent lexical / word-boundary / punctuation-sensitive and historical-glyph reread completed directly against the attached Part001 source pixels;
+- source-text / lexical / spacing / punctuation corrections: **1**;
+- source word boundary: `வாய்திறந்தார்` → `வாய் திறந்தார்`;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `needs-review` pending Pass3, Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 26; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 26; அச்சுப் பக்கம்: 14; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review; 26→27 PENDING -->
