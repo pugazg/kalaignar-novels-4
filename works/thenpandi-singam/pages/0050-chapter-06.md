@@ -21,7 +21,7 @@ transcription_method: "direct source-image transcription; Part002 Pass1 final ba
 
 வாளுக்குவேலியின் கைகள் அந்தக் குடிகார வாலிபனின் கன்னத்தில் பயங்கரமாக விளையாடி விட்டன.
 
-மகனைப் பற்றிக் குறை கூற வந்த அந்தக் கிழத்தாய், அம்பலக்காரரின் கால்களில் விழுந்து “அய்யோ! அவனை விட்டு விடுங்கள்!” என்று கதறிவிட்டாள்! தாய்மை அங்கே கொடிகட்டிப் பறந்தது.
+மகனைப் பற்றிக் குறை கூற வந்த அந்தக் கிழத்தாய், அம்பலக்காரரின் கால்களில் விழுந்து “அய்யோ! அவனை விட்டு விடுங்கள்!” என்று கக்குரலிட்டாள்! தாய்மை அங்கே கொடிகட்டிப் பறந்தது.
 
 “அவருக்காக நான் மன்னிப்புக் கேட்டுக்கிறேன். அத்தானை ஒண்ணும் செய்யாதீங்க” என்று குறுக்கே பாய்ந்து கணவனைக் கட்டிக்கொண்டு விம்மியழுதாள் அந்தப் பெண்மணி! கழுத்தில் தாலியில்லாவிட்டாலும் - அதைக் கழற்றி விற்றவன் கணவன் தானே என்ற ஆறுதலுடன்; பெண்மை அங்கே பேரரணாக நின்று பாதுகாத்தது!
 
@@ -46,4 +46,14 @@ transcription_method: "direct source-image transcription; Part002 Pass1 final ba
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, Part audit and final metadata/status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 50; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 38; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+## Formal Part002 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the rendered Part002 source image;
+- lexical / spacing / punctuation corrections on this scan: **1**;
+- correction: `கதறிவிட்டாள்!` → `கக்குரலிட்டாள்!` — source-confirmed lexical reading;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass3, Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 50; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 38; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
