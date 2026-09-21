@@ -6,8 +6,8 @@ This ledger records the user's **18 split source PDFs**.
 
 | Part | Exact source filename | Local physical pages | Global scan range | File size (bytes) | SHA-256 | Source intake | Final state |
 |---:|---|---:|---|---:|---|---|---|
-| 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | Part001 release/readiness + release-ready sync closed; final closure next |
-| 002 | pending | pending | pending | pending | pending | pending attachment | not started |
+| 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
+| 002 | pending | pending | pending | pending | pending | **NEXT / awaiting attachment** | not started |
 | 003 | pending | pending | pending | pending | pending | blocked | not started |
 | 004 | pending | pending | pending | pending | pending | blocked | not started |
 | 005 | pending | pending | pending | pending | pending | blocked | not started |
@@ -57,8 +57,8 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - registered Parts: **1 / 18**
 - registered physical scans: **26**
 - canonical page records: **26**
-- final-closed Parts: **0**
-- active Part: **Part001**
+- final-closed Parts: **1**
+- active transcription Part: **none pending Part002 source intake**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
 - Part001 Pass2B: **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part001 Pass3: **COMPLETE / PASS — 26/26 REVIEWED — 0 corrections / 0 unresolved**
@@ -85,6 +85,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - release/readiness: **PASS / CLOSED**
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
-- final closure: **NOT STARTED / NEXT**
+- Part002 state: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- final closure: **PASS / CLOSED / FROZEN**
 - translated/source-checked: **10/10 / 10/10**
-- exact next gate: **Part001 final closure — PASS / CLOSED / FROZEN**
+- exact next gate: **Part002 source intake when supplied**
