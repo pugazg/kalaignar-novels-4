@@ -121,9 +121,9 @@ At Pass1 closure, all 27 canonical Part002 records remained `needs-review`; down
 
 ## Current exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation across E5–E8**.
+Perform **Part002 English editorial review across all 4 maintained English files / scans27–53**.
 
-Part002 English E5–E8 are **SOURCE-CHECKED / COMPLETE — 4/4 translated / 4/4 source-checked** with scans27–53 fully covered and **0 unresolved source-check holds**. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Part002 whole-Part glossary reconciliation is **RECONCILED / PASS** with **1/4 English files changed, 9 terminology corrections and 0 unresolved glossary holds**. Keep outgoing **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
 ## Downstream Pass2A state
 
@@ -224,3 +224,16 @@ Pass2A handoff target was **Pass2B scans27–36 / local pages1–10**; that batc
 - frozen Part001 English edits — **0**
 - Part003 leakage — **0**
 - exact next activity — **Part002 whole-Part English glossary reconciliation across E5–E8**
+
+
+## Downstream glossary reconciliation state
+
+- Part002 whole-Part English glossary reconciliation — **RECONCILED / PASS**
+- English files checked — **4/4**
+- English files changed — **1/4**
+- terminology occurrences corrected — **9**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- exact next activity — **Part002 English editorial review across all 4 maintained English files / scans27–53**
