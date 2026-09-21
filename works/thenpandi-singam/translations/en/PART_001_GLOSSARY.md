@@ -255,3 +255,19 @@ English editorial review is **PASS / CLOSED**.
 - outgoing 26→27 — **PENDING direct audit / source-limited**
 
 Exact next gate: **Part001 whole-Part bilingual review**.
+
+
+## Post-bilingual state
+
+Whole-Part bilingual review is **PASS / CLOSED**.
+
+- Tamil/English pairs reviewed — **10/10**
+- glossary corrections rechecked — **7/7 PASS**
+- new glossary changes required by bilingual review — **0**
+- further bilingual English-only corrections — **1**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited**
+
+Exact next gate: **Part001 release/readiness report**.
