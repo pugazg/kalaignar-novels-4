@@ -86,8 +86,19 @@ Durable record: `PART_001_PASS2A_PROGRESS.md`.
 
 All Part001 records remain `needs-review`; no status promotion occurred.
 
+## Downstream Pass2B state
+
+**Part001 Pass2B — COMPLETE / PASS — 26/26 REVIEWED.**
+
+- Pass2B lexical / spacing / punctuation corrections — **5**
+- Pass2B historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+
+Durable record: `PART_001_PASS2B_PROGRESS.md`.
+
 ## Exact next activity
 
-**Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–26.**
+**Part001 Pass3 — direct full-page visual / structural verification of scans1–26.**
 
-Do not begin Pass3 in the same activity. Keep **26→27 PENDING direct audit** until Part002 is supplied.
+Do not begin Part audit in the same activity. Keep **26→27 PENDING direct audit** until Part002 is supplied.
