@@ -85,14 +85,14 @@ Canonical `scan_page` is the global physical scan number **1–26**.
 - Pass3: **COMPLETE / PASS — 26/26 REVIEWED — 0 textual corrections / 0 unresolved**
 - Part audit: **PASS / COMPLETE**
 - final status sync: **PASS / CLOSED — 26/26 verified**
-- documentation sync: **IN PROGRESS / NEXT**
-- Tamil archival-ready: **BLOCKED**
+- documentation sync: **PASS / COMPLETE**
+- Tamil archival-ready: **NOT STARTED / NEXT**
 - assembled Tamil: **BLOCKED**
 - English: **BLOCKED**
 - final closure: **BLOCKED**
 
 ## Exact next activity
 
-Complete **Part001 documentation synchronization**, then perform the **Tamil archival-ready checkpoint**.
+Perform the **Part001 Tamil archival-ready checkpoint**.
 
 All supplied scans1–26 are verified. Keep **26→27 PENDING direct audit / source-limited** until Part002 is supplied.
