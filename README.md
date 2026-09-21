@@ -48,6 +48,11 @@
 - documentation synchronization: **PASS / COMPLETE**
 - Part001 Tamil archival-ready: **PASS / CLOSED**
 - Part001 assembled Tamil: **10/10 VERIFIED / PASS / CLOSED**
+- Part001 English planning/setup: **COMPLETE / PASS**
+- reserved English batches: **E1–E4**
+- planned maintained English files: **10**
+- translated / source-checked English files: **0/10 / 0/10**
+- English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
 - Part002 canonical records: **0**
@@ -92,6 +97,6 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Begin **Part001 English translation planning/setup** only.
+Begin **E1 draft + source-check — sections00–06 / scans1–12**.
 
-Do not draft English in the planning gate. Part002 canonical transcription remains blocked. The **26→27** boundary remains **PENDING direct audit / source-limited** until Part002 is supplied.
+E1 covers the seven preliminary assembled files. Do not begin E2 until E1 closes **SOURCE-CHECKED / COMPLETE**. Part002 canonical transcription remains blocked. The **26→27** boundary remains **PENDING direct audit / source-limited**.
