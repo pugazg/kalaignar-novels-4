@@ -37,7 +37,7 @@ Before Meganathan could finish saying this, the elderly woman, already passing b
 
 “O Maharaja who governs the nadu! Can such an injustice happen in your time?” The old woman's arrow of a question flew swiftly.
 
-“What is it, Paatti? What happened? Didn't you come with your son only last month? What matter has arisen already?” Vaalukku Veli became agitated at the sight of her condition.
+“What is it, Paatti? What happened? Didn't you come with your son only last month? What matter has arisen already?” Vaalukkuveli became agitated at the sight of her condition.
 
 “Today I've come with my daughter-in-law! Look at her neck, Saami!”
 
@@ -51,7 +51,7 @@ Vaalukku Veli was shocked! Had that young man who came with this old woman that 
 
 “I don't understand anything at all, Paatti!” The old woman kept weeping, unable to answer Vaalukku Veli. He put his arms around her and stood bewildered. Meganathan stepped forward to explain what had happened.
 
-Unable to bear seeing her son, addicted to liquor and careless of his home, rolling drunk in the street while the villagers mocked him and relatives reviled him, she had dragged him here the previous month and made him stand before Vaalukku Veli. Respecting Vaalukku Veli's words, the old woman's son had sworn upon his mother that from that day onward he would stop drinking!
+Unable to bear seeing her son, addicted to liquor and careless of his home, rolling drunk in the street while the villagers mocked him and relatives reviled him, she had dragged him here the previous month and made him stand before Vaalukku Veli. Respecting Vaalukkuveli's words, the old woman's son had sworn upon his mother that from that day onward he would stop drinking!
 
 “He swore on me, Saami! Ask him what happened to that oath, Ayya! Right in front of you he struck his own head and swore on his mother: ‘I won't drink, and I won't let my companions drink either!’ Do you know what's happening now? His mother has been picked up and thrown into the street! His oath has been picked up and thrown into the mud! Now he and his companions have opened a shop right in our village chavadi! He lies drunk all day. And as though that weren't enough, he took the thali chain from his wife's—my daughter-in-law's—neck, thali and all, sold it and drank the money away, Prabhu—he drank it away!”
 
@@ -71,7 +71,7 @@ The old woman's son, babbling in drunken frenzy, pushed into the gathering and c
 
 “Hey! Is this the fine way you keep the oath you swore upon your mother?”
 
-Thunder! Yes—Vaalukku Veli asked the drunken young man.
+Thunder! Yes—Vaalukkuveli asked the drunken young man.
 
 “Mother! What is ‘mother’? Mother is a philosophy! ‘Philosophy’ is a five-letter mantra like ‘Namasivaya’, ‘Sivaya Nama’!”
 
@@ -83,7 +83,7 @@ Thunder! Yes—Vaalukku Veli asked the drunken young man.
 
 “What did you say?”
 
-Vaalukku Veli's hands played terribly across the drunken young man's cheek.
+Vaalukkuveli's hands played terribly across the drunken young man's cheek.
 
 The aged mother who had come to complain about her son fell at the Ambalakkarar's feet and cried out, “Ayyo! Leave him alone!” Motherhood flew its banner high there.
 
@@ -91,15 +91,15 @@ The aged mother who had come to complain about her son fell at the Ambalakkarar'
 
 Even in his drunken stupor, the blows Vaalukku Veli gave seemed to help him understand that neither the mother who bore him nor the wife joined to him could bear even dust falling upon him! As though his intoxication had cleared, he fell at his mother's feet without a moment's hesitation and cried, “Amma! Forgive me!” Grasping his wife's hands, he pleaded, “Trust me! I will never make this mistake again.”
 
-He clutched Vaalukku Veli's feet and soaked them with his tears! Like a volcano that had been
+He clutched Vaalukkuveli's feet and soaked them with his tears! Like a volcano that had been
 
 <!-- source boundary: scan 50 → scan 51 -->
 
-seething, can a cool cascade suddenly pour forth from it? Vaalukku Veli's tears seemed to be proof that it could! He lifted the young man and embraced him tightly.
+seething, can a cool cascade suddenly pour forth from it? Vaalukkuveli's tears seemed to be proof that it could! He lifted the young man and embraced him tightly.
 
 “Thambi! I hit you very hard! If you had an elder brother, think that this is how he would have rebuked you, Thambi! It is this Karutha Adappan here whom I just struck. Do you understand what I mean?”
 
-Vaalukku Veli's voice trembled with emotion!
+Vaalukkuveli's voice trembled with emotion!
 
 “Saami! I think of it only as my elder son disciplining my younger son.”
 
@@ -119,11 +119,11 @@ The grandmother's blessing burst forth in ecstasy!
 
 “God won't abandon you, Saami! Your younger sister Nachiyaramma will surely get a bridegroom like Manmathan! She will live like a maharani with every prosperity!”
 
-As he listened to these words from the old woman, that brotherly heart swelled with fullness! His eyes became intoxicated with happiness! “Kalyani! Kalyani!” Vaalukku Veli's lips uttered the name with affection.
+As he listened to these words from the old woman, that brotherly heart swelled with fullness! His eyes became intoxicated with happiness! “Kalyani! Kalyani!” Vaalukkuveli's lips uttered the name with affection.
 
 “Adappa! Arrange for them to stay in our house today. Attend to everything they need, fulfil it all, and send them away happy!”
 
-Vaalukku Veli's proud stride! He entered the house filled with happiness!
+Vaalukkuveli's proud stride! He entered the house filled with happiness!
 
 “Kalyani! Kalyani!” Hearing that tender call, she came forward with affection dancing in her voice. “What is it, Anna?”
 
