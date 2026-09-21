@@ -1,6 +1,6 @@
 # Part 002 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **PLANNING LOCK — COMPLETE / PASS**
+Status: **E5–E8 SOURCE-CHECKED / RECONCILIATION NEXT**
 
 This glossary is derived only from verified Part002 Tamil and the closed Part002 assembled Tamil reading layer.
 
@@ -135,3 +135,45 @@ Outgoing:
 **E5 draft + source-check — section10 / scans27–30.**
 
 Do not begin E6 until E5 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Post-source-check state
+
+E5–E8 are now **4/4 maintained Part002 English files SOURCE-CHECKED / COMPLETE**.
+
+Source-check confirmed the active forms used across the Part002 English files, including:
+
+- **Vaalukku Veli / Vaalukkuveli** occurrence-sensitive handling
+- **Karutha Adappan**
+- **Vallatharayan**
+- **Vairamuthan**
+- **Vellai Ayyar**
+- **Urangaappuli**
+- **Veerammal**
+- **Kalyani Nachiyar**
+- **Meganathan**
+- **Paganeri / Pattamangalam / Tirukkottiyur**
+- **Ambalakkarar**
+- **Adi Dravida**
+- **thali**
+- **chavukkai / chavadi** occurrence-sensitive source forms
+- **kal** retained as the source distance unit in E5 without external conversion
+- **Kaadai / Kolathari** as source-facing household names in E8.
+
+No canonical or assembled Tamil change was required by English source-check.
+
+Current accounting:
+
+- maintained Part002 English files checked — **4/4**
+- source coverage — **scans27–53 / 27**
+- unresolved glossary/source-check holds carried forward — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- 53→54 semantic completion — **0**
+
+## Exact next gate
+
+Perform **Part002 whole-Part English glossary reconciliation across E5–E8**.
+
+Reconciliation must check these source-facing choices across all four files as a single corpus and may alter English only. Do not begin editorial review until reconciliation closes **RECONCILED / PASS**.
