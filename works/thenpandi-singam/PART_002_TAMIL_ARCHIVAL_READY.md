@@ -139,3 +139,15 @@ Do not begin English until assembled Tamil closes.
 - unresolved assembly blockers — **0**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
 - exact next gate — **Part002 English translation planning/setup**
+
+
+## Downstream English planning state
+
+- Part002 assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- Part002 English translation planning/setup — **COMPLETE / PASS**
+- reserved batches — **E5–E8**
+- planned maintained English files — **4**
+- translated/source-checked — **0/4 / 0/4**
+- English literary prose drafted in planning — **0**
+- Part003 leakage — **0**
+- exact next gate — **E5 draft + source-check — section10 / scans27–30**
