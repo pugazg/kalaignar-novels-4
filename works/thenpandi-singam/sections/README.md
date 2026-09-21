@@ -39,8 +39,22 @@ Inventory:
 
 Durable validation: `../PART_001_ASSEMBLED_TAMIL_VALIDATION.md`.
 
+## English downstream state
+
+**Part001 English translation planning/setup — COMPLETE / PASS.**
+
+- reserved batches — **E1–E4**
+- planned English files — **10**
+- translated/source-checked — **0/10 / 0/10**
+- English literary prose drafted in planning — **0**
+
+Controls:
+- `../translations/en/PART_001_TRANSLATION_PLAN.md`
+- `../translations/en/PART_001_GLOSSARY.md`
+- `../translations/en/PART_001_PROGRESS.md`
+
 ## Next gate
 
-**Part001 English translation planning/setup.**
+**E1 draft + source-check — sections00–06 / scans1–12.**
 
-Do not draft English prose until planning/glossary/progress controls are established. Part002 canonical transcription remains blocked.
+Part002 canonical transcription remains blocked.
