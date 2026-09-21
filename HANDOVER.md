@@ -54,8 +54,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - repository controls — **INITIALIZED / SYNCHRONIZED**
 - registered Parts — **1/18**
 - Part001 source intake — **COMPLETE / PASS**
-- Part001 canonical page records — **20/26 — scans1–20**
-- Part001 Pass1 — **IN PROGRESS — 20/26 TEXT-COMPLETE**
+- Part001 canonical page records — **26/26 — scans1–26**
+- Part001 Pass1 — **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - verified pages — **0**
 - assembled Tamil — **NOT STARTED**
 - English — **BLOCKED pending Tamil closure**
@@ -65,6 +65,6 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Continue **Part001 Pass1 — global scans21–26 / local pages21–26**.
+Begin **Part001 Pass2A — direct textual verification of scans1–26**.
 
-Keep all created records at `status: "needs-review"` and `visual_fidelity: "needs-review"`. scans1–20 are text-complete. scans21–26 remain pending. Do not begin Pass2A until Pass1 covers all **26** scans. Keep **26→27** pending until Part002 is supplied.
+All 26 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass1 is complete; Pass2A is the next gate. Keep **26→27** pending until Part002 is supplied.
