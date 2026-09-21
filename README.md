@@ -52,6 +52,10 @@
 - reserved English batches: **E1–E4**
 - planned maintained English files: **10**
 - translated / source-checked English files: **10/10 / 10/10**
+- English glossary reconciliation: **RECONCILED / PASS**
+- glossary reconciliation English files changed: **4/10**
+- glossary terminology occurrences corrected: **7**
+- unresolved glossary holds: **0**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
@@ -97,6 +101,6 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Perform **Part001 whole-Part English glossary reconciliation across E1–E4 / all 10 maintained English files / scans1–26**.
+Perform **Part001 English editorial review across all 10 maintained English files / scans1–26**.
 
-Do not begin English editorial review until glossary reconciliation closes. Part002 canonical transcription remains blocked. The **26→27** boundary remains **PENDING direct audit / source-limited**.
+Do not begin whole-Part bilingual review until editorial review closes. Part002 canonical transcription remains blocked. The **26→27** boundary remains **PENDING direct audit / source-limited**.
