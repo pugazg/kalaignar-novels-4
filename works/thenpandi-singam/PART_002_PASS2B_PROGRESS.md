@@ -113,8 +113,15 @@ Scans47–49 and 51–53 required **0** Pass2B canonical text correction.
 - outgoing 53→54 — **PENDING direct audit / source-limited**
 - Part003 canonical leakage — **0**
 
+## Downstream Pass3 state
+
+- Pass3 — **COMPLETE / PASS — 27/27 REVIEWED**
+- Pass3 textual corrections — **0**
+- unresolved Pass3 visual / structural questions — **0**
+- status promotions — **0**
+
 ## Exact next activity
 
-Begin **Part002 Pass3 — scans27–36 / local pages1–10**.
+Perform the **Part002 whole-Part audit — scans27–53 / local pages1–27**.
 
-Pass3 is the visual/structural verification gate. Perform full-page rendered-source comparison for headings, chapter openings/closings, blank lower fields, illustrations, page furniture, reading order and physical continuation states. Keep all Part002 records `needs-review` during Pass3. Do not begin the whole-Part audit until Pass3 closes **COMPLETE / PASS**. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Keep all Part002 records `needs-review` during the audit. Final metadata/status synchronization is a separate gate. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
