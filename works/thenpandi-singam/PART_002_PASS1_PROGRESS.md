@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS — 20/27 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 
 Source:
 - `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
@@ -51,18 +51,40 @@ Structural notes:
 - scan45→46 contains a physical split word `விவகாரங் / களையும்`; page records retain the source fragments rather than silently joining them;
 - all 10 new records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
-## Current accounting
+## Completed final batch — scans47–53 / local pages21–27
 
-- Part002 canonical records — **20/27**
-- Part002 Pass1 text-complete — **20/27**
+**7/7 TEXT-COMPLETE**
+
+Canonical records:
+- scans47–53 — chapter6 continuation; printed pp.35–41
+
+Structural notes:
+- scan50→51 contains the physical split phrase `குமுறிக் / கொண்டிருந்த`; the page records retain the source fragments;
+- scan53 is the Part002 terminal scan / printed41;
+- scan53 ends physically on the open fragment `என்ற அசைக்க`;
+- no continuation beyond scan53 was inferred;
+- outgoing **53→54 = PENDING direct audit / source-limited** until Part003 is supplied;
+- all 27 Part002 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending formal verification.
+
+## Pass1 final accounting
+
+- Part002 canonical records — **27/27**
+- Part002 Pass1 text-complete — **27/27**
 - verified Part002 pages — **0**
-- unresolved completed-batch reading holds — **0**
-- Pass2A — **BLOCKED until Pass1 27/27**
-- Part003 canonical leakage — **0**
+- unresolved Pass1 reading holds — **0**
+- incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
+- Part003 canonical leakage — **0**
+- canonical global scan coverage — **27–53 / complete**
+
+## Gate result
+
+**PASS 1 — COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+
+All Part002 scans are now represented canonically. Pass1 does not upgrade textual or visual status to verified.
 
 ## Exact next activity
 
-Continue **Part002 Pass1 — global scans47–53 / local pages21–27**.
+Begin **Part002 Pass2A — direct textual verification of scans27–53**.
 
-This is the final **7-page** Pass1 batch for Part002. Do not begin Pass2A until all **27/27** scans are text-complete.
+Keep all records `needs-review` during Pass2A. Do not begin Pass2B until Pass2A closes **COMPLETE / PASS**.
