@@ -1,0 +1,73 @@
+# தென்பாண்டிச் சிங்கம் — Part002 Pass2B Progress
+
+## Gate
+
+**PASS 2B — IN PROGRESS — 10/27 REVIEWED**
+
+Prerequisites:
+
+- Part002 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
+- Pass2A source-text corrections — **1**
+- unresolved Pass2A textual questions — **0**
+- incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+
+Scope:
+
+- Part002 overall scans **27–53**
+- local pages **1–27**
+- controlling source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
+
+## Pass2B method
+
+For every reviewed physical scan:
+
+- canonical Tamil is independently reread directly against the rendered source pixels;
+- lexical identity, source-visible word boundaries, punctuation-sensitive joins, spacing, colloquial/source-era forms and inflectional endings are checked afresh rather than inherited mechanically from Pass2A;
+- historical/reform-sensitive glyph identity is checked independently;
+- source-specific irregular forms are preserved without modernization or grammatical normalization;
+- only directly source-supported discrepancies alter canonical text;
+- all Part002 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Completed batch — scans27–36 / local pages1–10
+
+**10/10 REVIEWED / PASS**
+
+### Correction ledger
+
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|:---:|---|---|---|
+| 28 | 16 | `உணர்த்த முடியுமல்லவா?` | `உணர்த்த முடியும் அல்லவா?` | source word-boundary / lexical-form correction |
+| 33 | 21 | `நரம்பை முறித்துக் கொண்டு` | `நரம்பை முறித்துக் கொண்டும்` | source lexical / inflectional correction |
+| 33 | 21 | `எலும்பை உடைத்துக் கொண்டு` | `எலும்பை உடைத்துக் கொண்டும்` | source lexical / inflectional correction |
+
+Batch accounting:
+
+- reviewed scans — **27–36 / 10 pages**
+- lexical / spacing / punctuation correction occurrences — **3**
+- affected scans — **2**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- Part003 canonical leakage — **0**
+
+Scans27, 29–32 and 34–36 required **0** Pass2B canonical text correction.
+
+## Current accounting
+
+- Part002 canonical records — **27/27**
+- Pass1 — **COMPLETE / PASS — 27/27**
+- Pass2A — **COMPLETE / PASS — 27/27 — 1 correction / 0 unresolved**
+- Pass2B — **IN PROGRESS — 10/27 REVIEWED**
+- Pass2B lexical / spacing / punctuation corrections — **3**
+- Pass2B historical-glyph corrections — **0**
+- unresolved Pass2B questions — **0**
+- verified Part002 pages — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+
+## Exact next activity
+
+Continue **Part002 Pass2B — scans37–46 / local pages11–20**.
+
+Keep all Part002 records `needs-review`; do not begin Pass3 until Pass2B closes **COMPLETE / PASS**. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
