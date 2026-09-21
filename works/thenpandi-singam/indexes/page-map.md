@@ -52,6 +52,13 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 002 | 18 | 44 | 32 | chapter 5 close; ornamental ending; Pass1 text-complete | needs-review | `pages/0044-chapter-05.md` |
 | 002 | 19 | 45 | — | chapter 6 opening; illustrated; physical split word continues to scan46; Pass1 text-complete | needs-review | `pages/0045-chapter-06.md` |
 | 002 | 20 | 46 | 34 | chapter 6 continuation; completes physical split word from scan45; Pass1 text-complete | needs-review | `pages/0046-chapter-06.md` |
+| 002 | 21 | 47 | 35 | chapter 6 continuation; Pass1 text-complete | needs-review | `pages/0047-chapter-06.md` |
+| 002 | 22 | 48 | 36 | chapter 6 continuation; Pass1 text-complete | needs-review | `pages/0048-chapter-06.md` |
+| 002 | 23 | 49 | 37 | chapter 6 continuation; Pass1 text-complete | needs-review | `pages/0049-chapter-06.md` |
+| 002 | 24 | 50 | 38 | chapter 6 continuation; physical phrase continues to scan51; Pass1 text-complete | needs-review | `pages/0050-chapter-06.md` |
+| 002 | 25 | 51 | 39 | chapter 6 continuation; completes physical phrase from scan50; Pass1 text-complete | needs-review | `pages/0051-chapter-06.md` |
+| 002 | 26 | 52 | 40 | chapter 6 continuation; Pass1 text-complete | needs-review | `pages/0052-chapter-06.md` |
+| 002 | 27 | 53 | 41 | chapter 6 continuation; Part002 terminal scan; open fragment `என்ற அசைக்க`; 53→54 pending witness; Pass1 text-complete | needs-review | `pages/0053-chapter-06.md` |
 
 ## Intake observations
 
@@ -79,7 +86,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 
 - registered Parts: **2/18**
 - registered physical scan range: **53 scans across Parts001–002**
-- canonical page records: **46**
+- canonical page records: **53**
 - Part001 Pass1: **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
 - Part001 Pass2B: **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
@@ -111,8 +118,9 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **1**
 - Part002 source intake: **COMPLETE / PASS**
-- Part002 canonical rows/records: **20/27**
-- Part002 Pass1: **IN PROGRESS — 20/27 TEXT-COMPLETE**
+- Part002 canonical rows/records: **27/27**
+- Part002 Pass1: **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- Part002 Pass2A: **NOT STARTED / NEXT**
 - outgoing Part002 boundary 53→54: **PENDING direct audit / source-limited**
 - translated/source-checked English files: **10/10 / 10/10**
-- exact next activity: **Part002 Pass1 scans47–53 / local pages21–27**
+- exact next activity: **Part002 Pass2A direct textual verification scans27–53**
