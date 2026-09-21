@@ -65,5 +65,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - assembled canonical coverage: **26/26**
 - Part001 English planning/setup: **COMPLETE / PASS**
 - English batches reserved: **E1–E4**
-- translated/source-checked English files: **0/10 / 0/10**
-- exact next activity: **E1 draft + source-check — sections00–06 / scans1–12**
+- English E1–E4: **SOURCE-CHECKED / COMPLETE**
+- English source coverage: **scans1–26**
+- translated/source-checked English files: **10/10 / 10/10**
+- exact next activity: **Part001 whole-Part English glossary reconciliation across E1–E4 / scans1–26**
