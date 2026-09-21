@@ -12,7 +12,9 @@
 - completed-batch unresolved source-reading holds: **0**
 - all created records remain `status: "needs-review"`
 - all created records remain `visual_fidelity: "needs-review"`
-- Pass2A: **NOT STARTED / NEXT GATE**
+- Pass2A: **COMPLETE / PASS — 26/26 REVIEWED**
+- Pass2A source-text corrections: **14**
+- Pass2A unresolved textual questions: **0**
 - outgoing 26→27 boundary: **PENDING direct audit when Part002 is supplied**
 - Part002 canonical records: **0**
 
@@ -76,8 +78,16 @@ Source-sensitive spelling, word boundaries, punctuation, line/display structure 
 - Part002 canonical records — **0**
 - status promotions caused by Pass1 — **0**
 
+## Downstream Pass2A state
+
+**Part001 Pass2A — COMPLETE / PASS — 26/26 REVIEWED.**
+
+Durable record: `PART_001_PASS2A_PROGRESS.md`.
+
+All Part001 records remain `needs-review`; no status promotion occurred.
+
 ## Exact next activity
 
-**Part001 Pass2A — direct textual verification of scans1–26.**
+**Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–26.**
 
-Do not begin Pass2B in the same activity. Keep all Part001 records at `needs-review` through Pass2A and keep **26→27 PENDING direct audit** until Part002 is supplied.
+Do not begin Pass3 in the same activity. Keep **26→27 PENDING direct audit** until Part002 is supplied.
