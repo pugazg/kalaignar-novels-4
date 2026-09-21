@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf"
-transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A + Pass 2B reviewed"
+transcription_method: "direct source-image transcription; Part001 Pass 1 complete; formal Part001 Pass 2A + Pass 2B + Pass 3 reviewed"
 ---
 
 ## Source transcription
@@ -32,7 +32,7 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 - source-visible forms including `கட்டபொம்மன்களாக்கப் பட்டும்`, `அய்யர்மீதேகூட`, and `வாளுக்கு வேலியிடத்தும்` are retained;
 - recurring author header is non-body page furniture;
 - Pass1 result: **TEXT-COMPLETE / needs-review**;
-- Pass2A result: **REVIEWED / PASS**; Pass2B result: **REVIEWED / PASS**; Pass3 is not started.
+- Pass2A result: **REVIEWED / PASS**; Pass2B result: **REVIEWED / PASS**; Pass3 result: **REVIEWED / PASS**.
 
 
 ## Formal Part001 Pass 2A review
@@ -55,4 +55,16 @@ transcription_method: "direct source-image transcription; Part001 Pass 1 complet
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `needs-review` pending Pass3, Part audit and final metadata/status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 22; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 10; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
+
+## Formal Part001 Pass 3 review
+
+- direct full-page visual / structural verification completed against the attached Part001 source image;
+- structural classification confirmed: **body**;
+- normal chapter2 continuation; printed page **10** and recurring author header confirmed;
+- heading/display hierarchy, paragraph/dialogue blocks, recurring page furniture, blank-field state and physical page-boundary state were checked as applicable;
+- Pass3 textual corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 22; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 10; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED + PASS 3 REVIEWED / needs-review -->
