@@ -173,3 +173,15 @@ Promote only `status` and `visual_fidelity` from `needs-review` to `verified` ac
 - unresolved Tamil/glyph/visual/structural questions — **0**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
 - exact next activity — **Part002 documentation synchronization**
+
+
+## Current downstream Tamil archival-ready state
+
+- Part002 documentation synchronization — **PASS / COMPLETE**
+- Part002 Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next activity — **Part002 assembled Tamil construction + audit**
