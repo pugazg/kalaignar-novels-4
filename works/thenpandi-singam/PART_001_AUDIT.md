@@ -173,3 +173,19 @@ Exact next activity: **documentation synchronization, then Tamil archival-ready 
 - Part002 leakage — **0**
 - outgoing 26→27 — **PENDING direct audit / source-limited / preserved**
 - exact next gate — **Part001 whole-Part bilingual review across Tamil + English / scans1–26**
+
+
+## English bilingual review downstream state
+
+- English E1–E4 — **SOURCE-CHECKED / COMPLETE**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- Tamil/English section pairs — **10/10**
+- structural content/display block coverage — **132/132**
+- further bilingual English-only corrections — **1**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 26→27 — **PENDING direct audit / source-limited / preserved**
+- exact next gate — **Part001 release/readiness report**
