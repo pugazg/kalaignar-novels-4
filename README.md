@@ -69,7 +69,7 @@
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **1**
-- Part002: **ACTIVE / TAMIL ARCHIVAL-READY CLOSED — ASSEMBLED TAMIL NEXT**
+- Part002: **ACTIVE / ASSEMBLED TAMIL CLOSED — ENGLISH PLANNING NEXT**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
@@ -89,6 +89,9 @@
 - Part002 final metadata/status synchronization: **PASS / CLOSED**
 - Part002 documentation synchronization: **PASS / COMPLETE**
 - Part002 Tamil archival-ready: **PASS / CLOSED**
+- Part002 assembled Tamil: **4/4 VERIFIED / PASS / CLOSED**
+- Part002 assembled canonical coverage: **27/27**
+- Part002 assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
 
 ## Workflow baseline
 
@@ -131,8 +134,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Begin **Part002 assembled Tamil construction + audit**.
+Perform **Part002 English translation planning/setup**.
 
-Part002 documentation synchronization is **PASS / COMPLETE** and Tamil archival-ready is **PASS / CLOSED — 27/27 verified Tamil + visual**. Assemble only from verified Part002 canonical pages and keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
+Part002 assembled Tamil is **4/4 VERIFIED / PASS / CLOSED** with **27/27 canonical scan coverage and 0 assembly blockers**. Keep **53→54 PENDING direct audit / source-limited** until Part003 is supplied.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
