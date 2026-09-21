@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART002 E5–E8 SOURCE-CHECKED / COMPLETE**
+**PART002 WHOLE-PART GLOSSARY — RECONCILED / PASS**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -115,10 +115,23 @@ E5–E8 source-check preserved the active Part002 forms, including:
 - source register forms retained where used in dialogue
 - Kaadai / Kolathari household names in E8
 
-Whole-Part consistency has **not yet** been reconciled; that is the next gate.
+Whole-Part glossary consistency is now **RECONCILED / PASS**. One English file changed with **9 terminology corrections**; unresolved glossary holds = **0**.
+
+## Glossary reconciliation closure
+
+- Part002 whole-Part glossary — **RECONCILED / PASS**
+- English files checked — **4/4**
+- English files changed — **1/4**
+- terminology occurrences corrected — **9**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+
+Durable record: `PART_002_GLOSSARY_RECONCILIATION.md`.
 
 ## Exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation across E5–E8**.
+Perform **Part002 English editorial review across all 4 maintained English files / scans27–53**.
 
-Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
+Do not begin whole-Part bilingual review until editorial review closes.
