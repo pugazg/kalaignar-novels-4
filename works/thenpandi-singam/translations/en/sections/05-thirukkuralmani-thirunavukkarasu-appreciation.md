@@ -19,7 +19,7 @@ I looked into whether there were any other historical references concerning Vaal
 
 In this novel, the man who seeks to eliminate Vaalukku Veli is Urangaappuli. An English reference identifies him as Oyyappuli Thevan. He is a coward.
 
-The fact that the characters Kalaignar has created are formed like people who live among us is the creator's particular distinction. The way he has linked all the events of the story, given them a form, and shaped them into a coherent structure makes this novel not a heap of bricks but an attractive mansion that has been built.
+That the characters Kalaignar has created seem like people living among us is a particular strength of the creator. The way he has linked all the events of the story, given them a form, and shaped them into a coherent structure makes this novel not a heap of bricks, but a well-built, attractive mansion.
 
 <!-- source boundary: scan 9 → scan 10 -->
 
