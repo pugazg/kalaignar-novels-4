@@ -88,3 +88,27 @@ Part002 content imported — **0**.
 ## Exact next activity
 
 **E2 draft + source-check — chapter1 / scans13–16.**
+
+
+## Post-source-check whole-Part glossary reconciliation
+
+Whole-Part glossary reconciliation later identified one recurring-term distinction that E1 source-check had not globally normalized correctly:
+
+- source `தமிழகம்` had been rendered as **Tamil Nadu** in **7 occurrences across 4 E1 files**;
+- these 7 English occurrences were corrected to **Tamilakam**;
+- source `தமிழ்நாடு` / `தமிழ் நாடு` remains **Tamil Nadu** where it actually occurs;
+- E1 content/display block accounting remains **56/56**;
+- omitted / duplicated source blocks remain **0 / 0**;
+- canonical Tamil edits — **0**;
+- assembled Tamil edits — **0**;
+- Part002 leakage — **0**.
+
+Files changed by whole-Part glossary reconciliation:
+- `sections/01-how-the-story-was-born.md`
+- `sections/02-publishers-note.md`
+- `sections/03-v-suba-manickam-appreciation.md`
+- `sections/04-dr-balasubramaniyam-tribute.md`
+
+E1 remains **SOURCE-CHECKED / COMPLETE**.
+
+Durable reconciliation record: `GLOSSARY_RECONCILIATION.md`.
