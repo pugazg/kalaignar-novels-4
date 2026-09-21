@@ -156,3 +156,18 @@ Boundary-only evidence completion after Part002 arrives may update provenance/bo
 - next activity — **Part002 Pass1 scans27–36 / local pages1–10**
 
 Part001 remains **FINAL CLOSED / FROZEN**.
+
+
+## Part002 handoff state
+
+**PART002 TAMIL ARCHIVAL-READY — PASS / CLOSED — ASSEMBLED TAMIL NEXT.**
+
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- scans — **27–53**
+- Part002 assembled files created so far — **0**
+- incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next gate — **Part002 assembled Tamil construction + audit**
+
+Part001 assembled Tamil remains **10/10 VERIFIED / PASS / CLOSED** and must not be rewritten merely to continue chapter3 into Part002.
