@@ -21,7 +21,7 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 
 குழம்புக்குப் பதிலாக சூப்பும் ரசத்திற்குப் பதிலாக மோரும் ஊற்றிவிட்டால்! சே! சே! மானமே போய்விடும்! அதனால் மரியாதையாக ஒதுங்கியிருந்து அவரது அழகைப் பருகிக் கொண்டிருப்பதுதான் புத்திசாலித்தனம்!
 
-என்ன இது கோழைத்தனம்? ஒரு மாவீரனின் தங்கையல்லவா? ஒரு தமிழ்ப் பெண்ணைக்குரிய பண்பாடு காப்பதில் உறுதியாக இருந்து - நானே எல்லோருக்கும் உணவு படைத்தால் என்ன? எல்லோருக்கும் சரி; ஆனால் அவர் முன்னால் சென்று உணவு படைக்கும்போது என் கண்ணுக்கு இலை தெரியுமா? அதிலும் அவரது காந்தக் கண்கள் என் கண்களைக் கவ்வி இழுத்து விட்டால் அந்த இடத்திலேயே தடுமாறி விழுந்தாலும் விழுந்து விடுவேன்!
+என்ன இது கோழைத்தனம்? ஒரு மாவீரனின் தங்கையல்லவா? ஒரு தமிழ்ப் பெண்ணுக்குரிய பண்பாடு காப்பதில் உறுதியாக இருந்து - நானே எல்லோருக்கும் உணவு படைத்தால் என்ன? எல்லோருக்கும் சரி; ஆனால் அவர் முன்னால் சென்று உணவு படைக்கும்போது என் கண்ணுக்கு இலை தெரியுமா? அதிலும் அவரது காந்தக் கண்கள் என் கண்களைக் கௌவி-இழுத்து விட்டால் அந்த இடத்திலேயே தடுமாறி விழுந்தாலும் விழுந்து விடுவேன்!
 
 அதிருக்கட்டும். நான் இவ்வளவு போராட்டத்திற்கிடையே தத்தளித்துக் கொண்டிருக்கிறேன். இன்னும் அவரைக் காணவில்லையே! ஒருவேளை அவர் பட்டமங்கலம் போய்விட்டாரா? அய்யோ! இதற்காகவா நான் விரலை வெட்டிக் கொண்டேன்! இன்னும் காணவில்லையே! கல்யாணி தவியாய்த் தவித்துக் கொண்டிருந்தாள்.
 
@@ -33,4 +33,14 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 - chapter 7 closes on this scan;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 61; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 49; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part003 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against the rendered Part003 source image;
+- source-text corrections: **2**;
+- correction: `பெண்ணைக்குரிய` → `பெண்ணுக்குரிய` — source-confirmed lexical reading;
+- correction: `கவ்வி இழுத்து` → `கௌவி-இழுத்து` — source-visible lexical form and hyphen restored;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 61; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 49; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
