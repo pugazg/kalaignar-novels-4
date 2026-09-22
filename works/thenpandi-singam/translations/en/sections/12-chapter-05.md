@@ -13,11 +13,11 @@ status: "source-checked"
 
 # 5
 
-As soon as the Ambalakkarars had touched the Paganeri chariot rope, pulled it and set the procession in motion, they all went to the places arranged for their stay. Karutha Adappan personally took special care to attend to each of them warmly, seat them in carts and send them to their lodgings.
+As soon as the Ambalakkarars had touched the Paganeri chariot rope, pulled it and set the procession in motion, they all went to the places arranged for their stay. Karutha Adappan personally attended to each of them, seating them in carts and sending them to their lodgings.
 
 As Vallatharayan climbed into the Pattamangalam cart, Vaalukkuveli came near and asked him to be sure to attend the feast. It was only when Vaalukkuveli tapped Vairamuthan on the shoulder and said, “I'm telling you too,” that Vairamuthan started, quickly tore his gaze away from Kalyani Nachiyar, said, “All right! All right!” to Vaalukku Veli, and climbed into the cart with Vallatharayan.
 
-“Come, let's go,” her elder brother called, and that portrait of beauty moved behind him. Though the urge to turn once and look back at the Pattamangalam cart flew like a banner in her heart, she restrained herself, remembering the pride of her family.
+“Come, let's go,” her elder brother called, and that living portrait of beauty followed him. Though the urge to turn once and look back at the Pattamangalam cart flew like a banner in her heart, she restrained herself, remembering the pride of her family.
 
 <!-- source boundary: scan 39 → scan 40 -->
 
@@ -27,7 +27,7 @@ Oh! Only now did she understand that she had sent her heart away in that Pattama
 
 “Vallatharayan may be the Ambalakkarar of Pattamangalam, Amma, but the whole administration of that place is really looked after by the younger one, Vairamuthan. He is very capable. The elder brother is like fire! The younger brother is like water!”
 
-Hearing Vaalukkuveli begin speaking like this as the cart moved felt to Kalyani Nachiyar as though the Kutralam waterfall were pouring over her head. She too began chatting cheerfully with her brother.
+As the cart moved, hearing Vaalukkuveli speak this way felt to Kalyani Nachiyar like the Kutralam waterfall pouring over her head. She too began chatting cheerfully with her brother.
 
 “There is a big difference between Pattamangalam and Paganeri even in this, Anna!”
 
@@ -41,7 +41,7 @@ Hearing Vaalukkuveli begin speaking like this as the cart moved felt to Kalyani 
 
 villages, how many cities will be destroyed! Fire destroyed Madurai! Water destroyed Kaveripoompattinam! When they rise up in fury, fire and water are all the same, aren't they!”
 
-Kalyani Nachiyar knew this explanation of Vaalukkuveli's from experience! Though her elder brother could be cool as water, she knew very well of many occasions when, if his sense of self-respect was challenged or someone deliberately plotted and committed a wrong, he had become like a flood breaking its banks. Even so, rather than hearing her brother explain the similarities and differences between water and fire, she waited eagerly, overflowing with expectation, hoping he might say something more about Vairamuthan. But he kept describing Vallatharayan.
+Kalyani Nachiyar knew this explanation of Vaalukkuveli's from experience! Though her elder brother could be cool as water, she knew very well that on many occasions, if his sense of self-respect was challenged or someone deliberately plotted and committed a wrong, he had become like a flood breaking its banks. Even so, rather than hearing her brother explain the similarities and differences between water and fire, she waited eagerly, overflowing with expectation, hoping he might say something more about Vairamuthan. But he kept describing Vallatharayan.
 
 “I don't know what it is, Amma! The very mention of Paganeri irritates that Vallatharayan! Even now, elders tell story after story about how united and closely bound Paganeri and Pattamangalam were in olden times. But completely contrary to that, Vallatharayan of Pattamangalam now behaves with a savage sense of hostility. I too keep trying to yield as much as I can. But there is no goodwill toward us in his mind!... Even at this chariot festival there was not a trace of brightness on his face! He looked like a man who had come merely to fulfil a duty; there did not seem to be even the tiniest bit of friendly feeling in him.”
 
@@ -49,7 +49,7 @@ Kalyani Nachiyar knew this explanation of Vaalukkuveli's from experience! Though
 
 Her brother's assessment of the Pattamangalam Ambalakkarar's family did unsettle Kalyani a little. She could not help recalling how many kings of old, in order to resolve enmity between themselves and another country, had used strategies such as taking brides from and giving brides to the other royal family, and how historians praised this as statecraft. At that thought she let out a sigh of relief. Yet, with a face still showing that she had not found complete reassurance, she continued in the cart beside her brother.
 
-Vaalukkuveli, meanwhile, did not stop putting into words the worries in his mind about Vallatharayan's disposition and sense of inferiority. A doubt even arose in Kalyani Nachiyar. Had her eyes and face, without her realizing it, betrayed to her brother how her heart had leapt toward Vairamuthan at the chariot rope, in the temple mandapam, and where the Pattamangalam cart set out? She started. Then she feared that perhaps her brother was describing the hostility with Pattamangalam precisely to make her forget such a thought, if she had one.
+Vaalukkuveli, meanwhile, continued voicing his worries about Vallatharayan's disposition and sense of inferiority. A doubt even arose in Kalyani Nachiyar. Had her eyes and face, without her realizing it, revealed to her brother how her heart had leapt toward Vairamuthan at the chariot rope, in the temple mandapam, and where the Pattamangalam cart set out? She started. Then she feared that perhaps her brother was describing the hostility with Pattamangalam precisely to make her forget such a thought, if she had one.
 
 “Why, Anna! With such bitterness between the two Ambalakkarar families, is someone in between making mischief? Is someone sowing poisonous seed?”
 
@@ -59,11 +59,11 @@ Vaalukkuveli, meanwhile, did not stop putting into words the worries in his mind
 
 “What about that Vellai Ayyar? Could he be stirring up trouble?”
 
-“Vellai Ayyar has genuine affection for me and for our family. As far as he is concerned, he is an opportunist. He naturally has a certain fear of Vallatharayan. So he says whatever Vallatharayan likes to hear. But when he is with us, he will even voice an opinion contrary to ours. Vallatharayan has a brother-in-law named Urangaappuli. He is the one who has made the people of Pattamangalam enemies of Paganeri to more than half the extent.”
+“Vellai Ayyar has genuine affection for me and for our family. As far as he is concerned, he is an opportunist. He naturally has a certain fear of Vallatharayan. So he says whatever Vallatharayan likes to hear. But when he is with us, he will even voice an opinion contrary to ours. Vallatharayan has a brother-in-law named Urangaappuli. He is more than half the reason the people of Pattamangalam have become enemies of Paganeri.”
 
 “Why does he hate Paganeri so much?”
 
-“Don't you know? Urangaappuli once sent word asking for the hand of Kalyani Nachiyar—the own sister whom Paganeri Ambalakkarar Vaalukkuveli Thevar loves more than his life! I spat, ‘Thu! Thu!’ and sent him away! What else, Kalyani? Would I hand over the green parrot I have raised in my grove, this pure gold, into the hands of a rhinoceros? The disappointment he suffered two years ago left him enraged, and he has been going about with a heart bent on revenge. It isn't only that he became related by marriage to the Pattamangalam Ambalakkarar. He settled there and
+“Don't you know? Urangaappuli once sent word asking for the hand of Kalyani Nachiyar—his own sister, whom Paganeri Ambalakkarar Vaalukkuveli Thevar loves more than his life! I spat, ‘Thu! Thu!’ and sent him away! What else, Kalyani? Would I hand over the green parrot I have raised in my grove, this pure gold, into the hands of a rhinoceros? The disappointment he suffered two years ago left him enraged, and he has been going about with a heart bent on revenge. It isn't only that he became related by marriage to the Pattamangalam Ambalakkarar. He settled there and
 
 <!-- source boundary: scan 43 → scan 44 -->
 
