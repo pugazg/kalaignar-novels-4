@@ -35,4 +35,12 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 - completes the direct speech opened on scan56;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 57; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 45; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part003 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against the rendered Part003 source image;
+- source-text corrections: **0**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 57; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 45; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
