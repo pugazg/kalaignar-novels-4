@@ -239,7 +239,7 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part002 release-ready synchronization — **PASS / CLOSED — 0 post-release body drift**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **SOURCE INTAKE COMPLETE / PASS — PASS1 NEXT**
+- Part003 — **ACTIVE / PASS1 IN PROGRESS — 20/25 TEXT-COMPLETE**
 - Part001 unresolved English source-check holds — **0**
 - Part001 translated/source-checked English files — **10/10 / 10/10**
 - Part001 canonical Tamil — **26/26 verified**
