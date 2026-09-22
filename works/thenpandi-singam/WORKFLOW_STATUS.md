@@ -52,7 +52,13 @@ Part001:
 - Part002 release-ready synchronization — **PASS / CLOSED — 0 post-release body drift**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part003 — **ACTIVE / SOURCE INTAKE COMPLETE / PASS — PASS1 NEXT**
+- Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
+- Part003 local pages / global scans — **25 / 54–78**
+- Part003 canonical records — **0/25**
+- Part003 incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- Part003 incoming split — **`அசைக்க / முடியாத`**
+- Part003 outgoing 78→79 — **PENDING direct audit / source-limited**
 - assembled Tamil — **PASS / CLOSED — 10/10 VERIFIED — 26/26 canonical coverage**
 - English planning/setup — **COMPLETE / PASS**
 - English E1 — **SOURCE-CHECKED / COMPLETE — scans1–12 / 7 files**
@@ -72,7 +78,7 @@ Part002 source intake is **COMPLETE / PASS**:
 - source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
 - scans — **27–53**
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 53→54 — **PENDING direct audit / source-limited**
+- outgoing 53→54 — **GENUINE CONTINUATION / AUDITED**
 - canonical records — **27/27**
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53 — 1 correction / 0 unresolved**
@@ -85,6 +91,6 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part003 source intake when supplied.**
+**Part003 Pass1 — scans54–63 / local pages1–10.**
 
-Part001 and Part002 are **FINAL CLOSED / FROZEN**. Part003 is not registered. The 53→54 boundary remains source-limited pending a direct Part003 witness.
+Part003 source intake is **COMPLETE / PASS**. The direct 53→54 witness establishes **GENUINE CONTINUATION / AUDITED**. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
