@@ -33,7 +33,7 @@ Vallatharayan stood motionless, listening closely to his younger brother's couns
 
 “There is some merit in what Vairamuthan says! Paganeri and Pattamangalam are not even ten kal apart! Why should there be so much enmity between them? I too have been working tirelessly, placing the burden on Madurai Meenakshi, because somehow I want to bring the two of you together. So it would be best to heed your brother and go to the festival without rejecting Vaalukku Veli's invitation!”
 
-Vellai Ayyar's words only deepened Vallatharayan's confusion. Veerammal too wanted to have her say:
+Vellai Ayyar's words too left Vallatharayan confused. Veerammal too wanted to have her say:
 
 “Listen to what your younger brother says and what Ayyar says, and just this once grant forgiveness to the Paganeri people, Anna!” she said, in a tone brimming with hauteur.
 
