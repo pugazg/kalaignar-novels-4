@@ -186,10 +186,25 @@ No file under `works/thenpandi-singam/pages/` or `works/thenpandi-singam/section
 - Part003 leakage — **0**
 - outgoing 53→54 condition — **PENDING / preserved**
 
+## Post-editorial bilingual state
+
+Part002 whole-Part bilingual review is now **PASS / CLOSED**.
+
+- Tamil/English pairs — **4/4 PASS**
+- glossary corrections rechecked — **9/9 PASS**
+- editorial correction sites rechecked — **27/27**
+- further bilingual English-only corrections — **3**
+- files changed by bilingual review — **2/4**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `PART_002_BILINGUAL_REVIEW.md`.
+
 ## Exact next gate
 
-**Part002 whole-Part bilingual review across Tamil + English / scans27–53.**
+**Part002 release/readiness report.**
 
-Recheck all four maintained English files against verified Tamil after glossary reconciliation and editorial review, including all **9 glossary corrections** and all **27 editorial corrections**.
-
-Do not begin release/readiness until bilingual review closes **PASS / CLOSED**.
+Do not begin release-ready synchronization, final Part002 closure or Part003 transcription until release/readiness closes.
