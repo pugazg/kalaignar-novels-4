@@ -112,7 +112,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
-- Part003 — **SOURCE INTAKE COMPLETE / PASS — PASS1 NEXT**
+- Part003 — **ACTIVE / PASS1 IN PROGRESS — 20/25 TEXT-COMPLETE**
 - Parts004–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -163,7 +163,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **SOURCE INTAKE COMPLETE / PASS — PASS1 NEXT**
+- Part003 — **ACTIVE / PASS1 IN PROGRESS — 20/25 TEXT-COMPLETE**
 - Part003 canonical records — **20/25**
 - Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 bytes — **48,354,306**
