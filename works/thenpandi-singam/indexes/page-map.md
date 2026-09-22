@@ -58,7 +58,7 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 002 | 24 | 50 | 38 | chapter 6 continuation; physical phrase continues to scan51; Pass1 text-complete; Pass2A reviewed / 1 correction (`விம்மியமுதாள்` → `விம்மியழுதாள்`); Pass2B reviewed / 1 correction (`கதறிவிட்டாள்` → `கக்குரலிட்டாள்`); Pass3 reviewed / 0 textual corrections | verified | `pages/0050-chapter-06.md` |
 | 002 | 25 | 51 | 39 | chapter 6 continuation; completes physical phrase from scan50; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections; Pass3 reviewed / 0 textual corrections | verified | `pages/0051-chapter-06.md` |
 | 002 | 26 | 52 | 40 | chapter 6 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections; Pass3 reviewed / 0 textual corrections | verified | `pages/0052-chapter-06.md` |
-| 002 | 27 | 53 | 41 | chapter 6 continuation; Part002 terminal scan; open fragment `என்ற அசைக்க`; 53→54 pending witness; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections; Pass3 reviewed / 0 textual corrections | verified | `pages/0053-chapter-06.md` |
+| 002 | 27 | 53 | 41 | chapter 6 continuation; Part002 terminal scan; open fragment `என்ற அசைக்க`; 53→54 **GENUINE CONTINUATION / AUDITED** via direct Part003 witness; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections; Pass3 reviewed / 0 textual corrections | verified | `pages/0053-chapter-06.md` |
 
 ## Intake observations
 
@@ -74,18 +74,28 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part002 local5 / scan31 opens illustrated chapter4; no visible folio
 - Part002 local13 / scan39 opens illustrated chapter5; no visible folio
 - Part002 local19 / scan45 opens illustrated chapter6; no visible folio
-- Part002 local27 / scan53 visibly carries printed page **41** and ends in an open chapter6 continuation
+- Part002 local27 / scan53 visibly carries printed page **41** and ends on open fragment `என்ற அசைக்க`
+- Part003 local1 / scan54 visibly carries printed page **42**, directly completes `அசைக்க / முடியாத`, and closes chapter6 with ornaments
+- 53→54 — **GENUINE CONTINUATION / AUDITED**
+- Part003 local2 / scan55 opens illustrated chapter **7**; no visible folio
+- Part003 local8 / scan61 visibly carries printed page **49** and closes chapter7
+- Part003 local9 / scan62 opens illustrated chapter **8**; no visible folio
+- Part003 local17 / scan70 visibly carries printed page **58** and closes chapter8
+- Part003 local18 / scan71 opens illustrated chapter **9**; no visible folio
+- Part003 local25 / scan78 visibly carries printed page **66** and remains an open chapter9 continuation
+- 78→79 — **PENDING direct audit / source-limited**
 
 ## Split accounting
 
 - Part001: local **1–26** → global **1–26** — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf`
 - Part002: local **1–27** → global **27–53** — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
-- Part003–Part018: **pending intake; no global ranges assigned**
+- Part003: local **1–25** → global **54–78** — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
+- Part004–Part018: **pending intake; no global ranges assigned**
 
 ## Current state
 
-- registered Parts: **2/18**
-- registered physical scan range: **53 scans across Parts001–002**
+- registered Parts: **3/18**
+- registered physical scan range: **78 scans across Parts001–003**
 - canonical page records: **53**
 - Part001 Pass1: **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
@@ -127,7 +137,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part002 final status sync: **PASS / CLOSED — 27/27 verified Tamil + visual**
 - Part002 documentation synchronization: **PASS / COMPLETE**
 - Part002 Tamil archival-ready: **PASS / CLOSED**
-- outgoing Part002 boundary 53→54: **PENDING direct audit / source-limited**
+- outgoing Part002 / incoming Part003 boundary 53→54: **GENUINE CONTINUATION / AUDITED**
 - translated/source-checked English files: **10/10 / 10/10**
 - Part002 assembled Tamil: **4/4 VERIFIED / PASS / CLOSED — 27/27 canonical coverage**
 - Part002 English planning/setup: **COMPLETE / PASS — E5–E8 reserved / 4 planned files**
@@ -139,6 +149,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **2**
-- Part003: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
-- Part003 canonical records: **0**
-- exact next activity: **Part003 source intake when supplied**
+- Part003 source intake: **COMPLETE / PASS — scans54–78 / 25 pages**
+- Part003 canonical records: **0/25**
+- Part003 outgoing 78→79: **PENDING direct audit / source-limited**
+- exact next activity: **Part003 Pass1 scans54–63 / local pages1–10**
