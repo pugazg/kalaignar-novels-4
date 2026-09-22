@@ -248,3 +248,22 @@ Durable validation: `../PART_002_ASSEMBLED_TAMIL_VALIDATION.md`.
 - Part003 leakage — **0**
 - outgoing 53→54 — **PENDING direct audit / source-limited / preserved**
 - exact next gate — **Part002 whole-Part bilingual review across Tamil + English / scans27–53**
+
+
+## Part002 whole-Part bilingual review state
+
+**PASS / CLOSED.**
+
+- Tamil/English pairs — **4/4 PASS**
+- scans — **27–53 / 27**
+- structural block coverage — **146/146**
+- glossary corrections rechecked — **9/9 PASS**
+- editorial correction sites rechecked — **27/27**
+- further bilingual English-only corrections — **3**
+- files changed by bilingual review — **2/4**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited / preserved**
+- exact next gate — **Part002 release/readiness report**
