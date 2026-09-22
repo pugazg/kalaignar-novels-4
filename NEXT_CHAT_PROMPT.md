@@ -1,118 +1,100 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part002 release/readiness report
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 source intake when supplied
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable release state
+## Durable frozen state
 
-Part001 is **FINAL CLOSED / FROZEN**.
+### Part001
+
+**FINAL CLOSED / FROZEN**
 
 Do not reopen Part001 canonical Tamil, assembled Tamil or maintained English merely for stylistic polishing.
 
-## Part002 Tamil + assembly closure
+### Part002
 
+**FINAL CLOSED / FROZEN**
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
+- global scans — **27–53**
 - canonical Tamil — **27/27 verified**
 - visual fidelity — **27/27 verified**
-- source intake / Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- whole-Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
-- assembled canonical coverage — **27/27**
-- incoming **26→27 = GENUINE CONTINUATION / AUDITED**
-- outgoing **53→54 = PENDING direct audit / source-limited**
-- Part003 canonical records — **0**
-
-## Part002 English closure through bilingual review
-
-- planning/setup — **COMPLETE / PASS**
-- E5–E8 — **SOURCE-CHECKED / COMPLETE**
-- maintained Part002 English files — **4/4**
-- translated/source-checked — **4/4 / 4/4**
-- Tamil / English structural block coverage — **146/146**
+- English E5–E8 — **4/4 SOURCE-CHECKED / COMPLETE**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
-- glossary terminology corrections — **9**
-- unresolved glossary holds — **0**
 - English editorial review — **PASS / CLOSED**
-- editorial files reviewed / edited — **4/4 / 4/4**
-- English-only editorial corrections — **27**
 - whole-Part bilingual review — **PASS / CLOSED**
-- Tamil/English pairs — **4/4 PASS**
-- glossary corrections rechecked — **9/9 PASS**
-- editorial correction sites rechecked — **27/27**
-- further bilingual English-only corrections — **3**
-- bilingual files changed — **2/4**
-- unresolved bilingual holds — **0**
-- canonical / assembled Tamil edits caused by English stages — **0 / 0**
-- frozen Part001 English edits — **0**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved closure blockers — **0**
+- canonical / assembled / English post-release drift — **0 / 0 / 0**
 - Part003 leakage — **0**
-- unsupported semantic completion beyond scan53 — **0**
 
-Bilingual corrections made:
+Durable records:
 
-1. E5 — `Vellai Ayyar's words only deepened Vallatharayan's confusion.` → **`Vellai Ayyar's words too left Vallatharayan confused.`**
-2. E7 — restored source `தனி அக்கறை` as **special care** in Adappan's handling of departing guests.
-3. E7 — removed relationship ambiguity around Kalyani Nachiyar so the English clearly matches Tamil: she is the sister whom Vaalukkuveli Thevar loves more than his own life.
+- `works/thenpandi-singam/PART_002_FINAL_CLOSURE.md`
+- `works/thenpandi-singam/PART_002_RELEASE_READY_SYNC.md`
+- `works/thenpandi-singam/translations/en/PART_002_RELEASE_REPORT.md`
+- `works/thenpandi-singam/translations/en/PART_002_BILINGUAL_REVIEW.md`
 
-Durable record:
+## Boundary state
 
-`works/thenpandi-singam/translations/en/PART_002_BILINGUAL_REVIEW.md`
+Incoming Part002 boundary:
+
+- **26→27 = GENUINE CONTINUATION / AUDITED**
+
+Outgoing Part002 boundary:
+
+- final supplied Part002 scan — **53 / printed41**
+- chapter6 remains open
+- terminal verified Tamil fragment — `என்ற அசைக்க`
+- **53→54 = PENDING direct audit / source-limited**
+- Part003 / scan54 is not supplied
+- Part003 Tamil imported into Part002 — **0**
+- Part003 English imported into Part002 — **0**
+- inferred semantic completion — **0**
+
+The pending 53→54 condition is a source-availability ledger item and does not reopen frozen Part002 body text.
+
+## Repository frontier
+
+- final-closed Parts — **2**
+- active transcription Part — **none until Part003 source intake**
+- Part003 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part003 canonical records — **0**
+- Parts004–018 — **not registered**
+
+Do not guess any Part003 filename, page count, SHA-256, global scan extent, printed pagination or chapter boundary before direct source intake.
 
 ## Read first
 
 1. `HANDOVER.md`
-2. `works/thenpandi-singam/translations/en/PART_002_BILINGUAL_REVIEW.md`
-3. `works/thenpandi-singam/translations/en/PART_002_TRANSLATION_REVIEW.md`
-4. `works/thenpandi-singam/translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
-5. `works/thenpandi-singam/translations/en/PART_002_PROGRESS.md`
-6. `works/thenpandi-singam/PART_002_TAMIL_ARCHIVAL_READY.md`
-7. `works/thenpandi-singam/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
-8. `works/thenpandi-singam/translations/en/RELEASE_REPORT.md` only as the Part001 release/readiness-method precedent; do not reopen Part001
-9. live recursive repository tree / active-work inventory
+2. `works/thenpandi-singam/PART_002_FINAL_CLOSURE.md`
+3. `works/thenpandi-singam/SOURCE_PART_REGISTRY.md`
+4. `works/thenpandi-singam/indexes/page-map.md`
+5. `works/thenpandi-singam/THENPANDI_SINGAM_ARCHIVAL_GUIDELINES.md`
+6. `works/thenpandi-singam/SOURCE_INTAKE_PART_002.md`
+7. scan53 canonical page record `works/thenpandi-singam/pages/0053-chapter-06.md` as the frozen outgoing-boundary side
 
 ## Exact next activity
 
-Perform **Part002 release/readiness report**.
+**Wait for the user to supply the Part003 PDF, then perform Part003 source intake.**
 
-This is a no-body-change decision gate.
+When Part003 is supplied:
 
-Required checks:
+1. identify the exact source filename;
+2. establish byte size and SHA-256;
+3. establish local physical page count directly from the supplied PDF;
+4. register the global scan range continuously after scan53 — do not infer the terminal scan before counting the PDF;
+5. inspect local page1 / global scan54 directly;
+6. compare frozen Part002 scan53 against Part003 scan54;
+7. classify **53→54** only from direct adjacent-source evidence;
+8. update Part002 boundary metadata/provenance controls only;
+9. keep Part002 canonical Tamil, assembled Tamil and maintained English **FROZEN** unless a genuine independent source defect is demonstrated;
+10. create Part003 source-intake control and registry/page-map entries;
+11. only after source intake closes **PASS / COMPLETE**, begin Part003 Pass1.
 
-- canonical Part002 page records — **27/27**
-- Tamil textual status — **27/27 verified**
-- visual fidelity — **27/27 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- whole-Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
-- assembled canonical coverage — **27/27**
-- assembled omissions / duplicates / unsupported insertion / audit-note leakage — **0**
-- English E5–E8 — **SOURCE-CHECKED / COMPLETE**
-- maintained English files — **4/4**
-- glossary reconciliation — **RECONCILED / PASS**
-- editorial review — **PASS / CLOSED**
-- bilingual review — **PASS / CLOSED**
-- bilingual pairs — **4/4 PASS**
-- structural Tamil/English blocks — **146/146**
-- internal source-boundary comments — **23/23 retained**
-- unresolved Tamil/source-check/glossary/editorial/bilingual blockers — **0**
-- glossary corrections — **9/9 rechecked**
-- editorial correction sites — **27/27 rechecked**
-- further bilingual English-only corrections — **3 already incorporated**
-- source-PDF paths under active work tree — **0**
-- Part003 canonical/body leakage — **0**
-- canonical / assembled / maintained English body changes caused by release/readiness — **0 / 0 / 0**
-- incoming **26→27 GENUINE CONTINUATION / AUDITED** preserved
-- outgoing **53→54 PENDING direct audit / source-limited** preserved as an explicit non-blocking source-availability condition.
+Do not transcribe Part003 body text in the source-intake gate beyond what is required to establish structural/source boundaries.
 
-Create a **Part002-specific release/readiness report**; do not overwrite the existing Part001 `translations/en/RELEASE_REPORT.md`.
-
-The Part002 report should state explicitly whether the pending 53→54 witness blocks release/readiness. Under the maintained source-limited rule, if all supplied scans27–53 are closed with zero unresolved internal defects, treat the unavailable adjacent witness as a **non-blocking source-limited boundary condition**, not as a fabricated CLEAN/GENUINE boundary classification.
-
-If release/readiness closes **PASS / CLOSED**, the exact next gate is:
-
-**Part002 release-ready synchronization**.
-
-Do not perform release-ready synchronization or final Part002 closure in the same activity unless explicitly requested. Do not begin Part003 canonical transcription.
+**STOP here until Part003 source is supplied.**
