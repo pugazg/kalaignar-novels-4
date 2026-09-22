@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART002 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED**
+**PART002 RELEASE/READINESS — PASS / CLOSED**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -160,8 +160,19 @@ Durable record: `PART_002_TRANSLATION_REVIEW.md`.
 
 Durable record: `PART_002_BILINGUAL_REVIEW.md`.
 
+## Release/readiness closure
+
+- Part002 release/readiness — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- canonical / assembled / English body changes — **0 / 0 / 0**
+- source-PDF paths under active work — **0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `PART_002_RELEASE_REPORT.md`.
+
 ## Exact next activity
 
-Perform **Part002 release/readiness report**.
+Perform **Part002 release-ready synchronization**.
 
-Do not begin release-ready synchronization, final Part002 closure or Part003 transcription until release/readiness closes.
+Do not perform final Part002 closure or Part003 transcription until synchronization closes **PASS / CLOSED**.
