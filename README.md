@@ -69,7 +69,7 @@
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **1**
-- Part002: **ACTIVE / GLOSSARY RECONCILED — EDITORIAL REVIEW NEXT**
+- Part002: **ACTIVE / EDITORIAL REVIEW CLOSED — BILINGUAL REVIEW NEXT**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
@@ -103,6 +103,11 @@
 - Part002 English files changed by glossary reconciliation: **1/4**
 - Part002 terminology corrections: **9**
 - Part002 unresolved glossary holds: **0**
+- Part002 English editorial review: **PASS / CLOSED**
+- Part002 English files reviewed / edited: **4/4 / 4/4**
+- Part002 English-only editorial corrections: **27**
+- Part002 glossary locks altered by editorial review: **0**
+- Part002 unresolved editorial holds: **0**
 
 ## Workflow baseline
 
@@ -145,8 +150,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Perform **Part002 English editorial review across all 4 maintained English files / scans27–53**.
+Perform **Part002 whole-Part bilingual review across Tamil + English / scans27–53**.
 
-Glossary reconciliation is **RECONCILED / PASS** with **1/4 English files changed, 9 terminology corrections, and 0 unresolved glossary holds**. Keep frozen Part001 English unchanged and preserve **53→54 PENDING direct audit / source-limited**.
+English editorial review is **PASS / CLOSED — 4/4 reviewed / 4/4 edited / 27 English-only corrections / 0 unresolved holds**. Recheck the reconciled terminology and editorial changes against verified Tamil. Keep frozen Part001 English unchanged and preserve **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
