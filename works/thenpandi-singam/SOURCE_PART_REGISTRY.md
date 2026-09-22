@@ -8,7 +8,7 @@ This ledger records the user's **18 split source PDFs**.
 |---:|---|---:|---|---:|---|---|---|
 | 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **ACTIVE / Pass1 20/25** |
+| 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **ACTIVE / Pass2A next** |
 | 004 | pending | pending | pending | pending | pending | blocked | not started |
 | 005 | pending | pending | pending | pending | pending | blocked | not started |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
@@ -89,7 +89,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 
 - registered Parts: **3 / 18**
 - registered physical scans: **78**
-- canonical page records: **73**
+- canonical page records: **78**
 - final-closed Parts: **2**
 - active transcription Part: **Part003**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
@@ -157,11 +157,11 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **2**
-- Part003: **ACTIVE / PASS1 IN PROGRESS — 20/25 TEXT-COMPLETE**
-- Part003 canonical records: **20/25**
-- Part003 Pass1: **IN PROGRESS — 20/25 TEXT-COMPLETE — scans54–73**
+- Part003: **ACTIVE / PASS1 COMPLETE / PASS — PASS2A NEXT**
+- Part003 canonical records: **25/25**
+- Part003 Pass1: **COMPLETE / PASS — 25/25 TEXT-COMPLETE — scans54–78**
 - Part002 post-release body drift: **0 / 0 / 0**
 - Part002 assembly omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
 - final closure: **PASS / CLOSED / FROZEN**
 - translated/source-checked: **10/10 / 10/10**
-- exact next gate: **Part003 Pass1 scans74–78 / local pages21–25**
+- exact next gate: **Part003 Pass2A scans54–63 / local pages1–10**
