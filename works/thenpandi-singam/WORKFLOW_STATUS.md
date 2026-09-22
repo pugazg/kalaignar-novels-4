@@ -55,10 +55,11 @@ Part001:
 - Part003 — **ACTIVE / SOURCE INTAKE COMPLETE / PASS — PASS1 NEXT**
 - Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 local pages / global scans — **25 / 54–78**
-- Part003 canonical records — **0/25**
+- Part003 canonical records — **10/25**
 - Part003 incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part003 incoming split — **`அசைக்க / முடியாத`**
 - Part003 outgoing 78→79 — **PENDING direct audit / source-limited**
+- Part003 Pass1 — **IN PROGRESS — 10/25 TEXT-COMPLETE — scans54–63**
 - assembled Tamil — **PASS / CLOSED — 10/10 VERIFIED — 26/26 canonical coverage**
 - English planning/setup — **COMPLETE / PASS**
 - English E1 — **SOURCE-CHECKED / COMPLETE — scans1–12 / 7 files**
@@ -91,6 +92,6 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part003 Pass1 — scans54–63 / local pages1–10.**
+**Part003 Pass1 — scans64–73 / local pages11–20.**
 
-Part003 source intake is **COMPLETE / PASS**. The direct 53→54 witness establishes **GENUINE CONTINUATION / AUDITED**. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
+Part003 Pass1 is **IN PROGRESS — 10/25 TEXT-COMPLETE** for scans54–63. All new records remain `needs-review` / visual `needs-review`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
