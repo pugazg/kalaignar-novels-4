@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 final closure**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part003 source intake when supplied**
 
 ## Work
 
@@ -102,7 +102,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - release-ready synchronization — **PASS / CLOSED**
 - final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **1**
-- active transcription Part — **Part002**
+- active transcription Part — **none until Part003 source intake**
 - Part002 source intake — **COMPLETE / PASS**
 - Part002 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
 - Part002 bytes — **48,679,196**
@@ -160,6 +160,10 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 release/readiness — **PASS / CLOSED**
 - Part002 unresolved release/readiness blockers — **0**
 - Part002 release-ready synchronization — **PASS / CLOSED**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
+- final-closed Parts — **2**
+- Part003 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part003 canonical records — **0**
 - Part002 post-release body drift — **0 / 0 / 0 canonical / assembled / English**
 - Part002 release/readiness body changes — **0 / 0 / 0 canonical / assembled / English**
 - English literary prose drafted in planning — **0**
@@ -168,7 +172,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
-- continuation gate — **Part002 final closure — PASS / CLOSED / FROZEN**
+- continuation gate — **Part003 source intake when supplied**
 - Part002 Pass2B final state — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 Pass3 final state — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part002 source PDF to be available there
@@ -176,8 +180,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Perform **Part002 final closure — PASS / CLOSED / FROZEN**.
+**Part003 source intake when the user supplies the Part003 PDF.**
 
-Release-ready synchronization is **PASS / CLOSED** with **0 canonical / assembled / English post-release body drift**. Preserve frozen Part001 and outgoing **53→54 PENDING direct audit / source-limited**.
+Part002 is **FINAL CLOSED / FROZEN**. Do not reopen Part001 or Part002 body text merely for polishing. When Part003 arrives, use scan54 only as the direct witness for **53→54**, update boundary/provenance controls from source evidence, then begin Part003 according to the maintained workflow.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
