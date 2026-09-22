@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part002 whole-Part bilingual review
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part002 release/readiness report
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -23,7 +23,7 @@ Do not reopen Part001 canonical Tamil, assembled Tamil or maintained English mer
 - outgoing **53→54 = PENDING direct audit / source-limited**
 - Part003 canonical records — **0**
 
-## Part002 English durable state
+## Part002 English closure through bilingual review
 
 - planning/setup — **COMPLETE / PASS**
 - E5–E8 — **SOURCE-CHECKED / COMPLETE**
@@ -31,98 +31,88 @@ Do not reopen Part001 canonical Tamil, assembled Tamil or maintained English mer
 - translated/source-checked — **4/4 / 4/4**
 - Tamil / English structural block coverage — **146/146**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
-- glossary English files changed — **1/4**
 - glossary terminology corrections — **9**
 - unresolved glossary holds — **0**
 - English editorial review — **PASS / CLOSED**
 - editorial files reviewed / edited — **4/4 / 4/4**
 - English-only editorial corrections — **27**
-- glossary locks altered by editorial review — **0**
-- unresolved editorial holds — **0**
+- whole-Part bilingual review — **PASS / CLOSED**
+- Tamil/English pairs — **4/4 PASS**
+- glossary corrections rechecked — **9/9 PASS**
+- editorial correction sites rechecked — **27/27**
+- further bilingual English-only corrections — **3**
+- bilingual files changed — **2/4**
+- unresolved bilingual holds — **0**
 - canonical / assembled Tamil edits caused by English stages — **0 / 0**
 - frozen Part001 English edits — **0**
 - Part003 leakage — **0**
 - unsupported semantic completion beyond scan53 — **0**
 
-Durable controls:
+Bilingual corrections made:
 
-- `translations/en/PART_002_TRANSLATION_PLAN.md`
-- `translations/en/PART_002_GLOSSARY.md`
-- `translations/en/PART_002_PROGRESS.md`
-- `translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
-- `translations/en/PART_002_TRANSLATION_REVIEW.md`
-- `translations/en/E5_SOURCE_CHECK.md`
-- `translations/en/E6_SOURCE_CHECK.md`
-- `translations/en/E7_SOURCE_CHECK.md`
-- `translations/en/E8_SOURCE_CHECK.md`
+1. E5 — `Vellai Ayyar's words only deepened Vallatharayan's confusion.` → **`Vellai Ayyar's words too left Vallatharayan confused.`**
+2. E7 — restored source `தனி அக்கறை` as **special care** in Adappan's handling of departing guests.
+3. E7 — removed relationship ambiguity around Kalyani Nachiyar so the English clearly matches Tamil: she is the sister whom Vaalukkuveli Thevar loves more than his own life.
 
-Maintained Tamil/English pairs:
+Durable record:
 
-1. `sections/10-chapter-03-part002.md` ↔ `translations/en/sections/10-chapter-03-part002.md` — scans27–30
-2. `sections/11-chapter-04.md` ↔ `translations/en/sections/11-chapter-04.md` — scans31–38
-3. `sections/12-chapter-05.md` ↔ `translations/en/sections/12-chapter-05.md` — scans39–44
-4. `sections/13-chapter-06-part002.md` ↔ `translations/en/sections/13-chapter-06-part002.md` — scans45–53
+`works/thenpandi-singam/translations/en/PART_002_BILINGUAL_REVIEW.md`
 
 ## Read first
 
 1. `HANDOVER.md`
-2. `works/thenpandi-singam/translations/en/PART_002_TRANSLATION_REVIEW.md`
-3. `works/thenpandi-singam/translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
-4. `works/thenpandi-singam/translations/en/PART_002_GLOSSARY.md`
+2. `works/thenpandi-singam/translations/en/PART_002_BILINGUAL_REVIEW.md`
+3. `works/thenpandi-singam/translations/en/PART_002_TRANSLATION_REVIEW.md`
+4. `works/thenpandi-singam/translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
 5. `works/thenpandi-singam/translations/en/PART_002_PROGRESS.md`
-6. all four verified Part002 assembled Tamil files
-7. all four maintained Part002 English files
-8. E5–E8 source-check records
-9. `works/thenpandi-singam/translations/en/BILINGUAL_REVIEW.md` only as the Part001 review-method precedent; do not reopen Part001
+6. `works/thenpandi-singam/PART_002_TAMIL_ARCHIVAL_READY.md`
+7. `works/thenpandi-singam/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+8. `works/thenpandi-singam/translations/en/RELEASE_REPORT.md` only as the Part001 release/readiness-method precedent; do not reopen Part001
+9. live recursive repository tree / active-work inventory
 
 ## Exact next activity
 
-Perform **Part002 whole-Part bilingual review across Tamil + English / scans27–53**.
+Perform **Part002 release/readiness report**.
 
-Review all four Tamil/English pairs together.
+This is a no-body-change decision gate.
 
 Required checks:
 
-- complete pair coverage — **4/4**;
-- source coverage — **scans27–53 exactly**;
-- Tamil / English content-display blocks remain **146/146**;
-- internal source-boundary provenance comments remain **23/23**;
-- incoming 26→27 audited-continuation marker remains intact;
-- outgoing 53→54 pending/source-limited marker remains intact;
-- narrator/character agency remains aligned;
-- chronology and information-release order remain source-aligned;
-- dialogue turns, rhetorical questions, sarcasm, repetition, emotional force and source register remain aligned;
-- source-visible chapter numerals remain aligned;
-- no English block omits or duplicates a Tamil literary block;
-- no invented prose for illustrations, ornaments or blank source fields;
-- all reconciled terminology locks remain intact;
-- recheck all **9/9 glossary corrections** against Tamil;
-- recheck all **27/27 editorial corrections** against Tamil;
-- no external historical, political, geographic, caste/community, ritual, religious, biographical or literary explanation has been inserted;
-- no source narration has been fact-corrected or modernized;
-- frozen Part001 English remains unchanged;
-- E8 must remain intentionally source-limited at scan53 and must not semantically complete scan54.
+- canonical Part002 page records — **27/27**
+- Tamil textual status — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- assembled canonical coverage — **27/27**
+- assembled omissions / duplicates / unsupported insertion / audit-note leakage — **0**
+- English E5–E8 — **SOURCE-CHECKED / COMPLETE**
+- maintained English files — **4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- bilingual pairs — **4/4 PASS**
+- structural Tamil/English blocks — **146/146**
+- internal source-boundary comments — **23/23 retained**
+- unresolved Tamil/source-check/glossary/editorial/bilingual blockers — **0**
+- glossary corrections — **9/9 rechecked**
+- editorial correction sites — **27/27 rechecked**
+- further bilingual English-only corrections — **3 already incorporated**
+- source-PDF paths under active work tree — **0**
+- Part003 canonical/body leakage — **0**
+- canonical / assembled / maintained English body changes caused by release/readiness — **0 / 0 / 0**
+- incoming **26→27 GENUINE CONTINUATION / AUDITED** preserved
+- outgoing **53→54 PENDING direct audit / source-limited** preserved as an explicit non-blocking source-availability condition.
 
-If a genuine English source-alignment defect is found, correct English only and record it explicitly.
+Create a **Part002-specific release/readiness report**; do not overwrite the existing Part001 `translations/en/RELEASE_REPORT.md`.
 
-If a genuine Tamil-fidelity problem is found, do **not** silently alter canonical Tamil inside this gate; record it as a hold requiring an explicit Tamil reopening decision.
+The Part002 report should state explicitly whether the pending 53→54 witness blocks release/readiness. Under the maintained source-limited rule, if all supplied scans27–53 are closed with zero unresolved internal defects, treat the unavailable adjacent witness as a **non-blocking source-limited boundary condition**, not as a fabricated CLEAN/GENUINE boundary classification.
 
-Require for closure:
+If release/readiness closes **PASS / CLOSED**, the exact next gate is:
 
-- Tamil/English pairs — **4/4 PASS**
-- glossary corrections rechecked — **9/9 PASS**
-- editorial corrections rechecked — **27/27 PASS**
-- unresolved bilingual holds — **0**
-- canonical Tamil edits — **0**
-- assembled Tamil edits — **0**
-- frozen Part001 English edits — **0**
-- Part003 leakage — **0**
-- outgoing **53→54 PENDING direct audit / source-limited** preserved.
+**Part002 release-ready synchronization**.
 
-Create a Part002-specific bilingual review record; do not overwrite the existing Part001 `BILINGUAL_REVIEW.md`.
-
-If bilingual review closes **PASS / CLOSED**, the exact next gate is:
-
-**Part002 release/readiness report.**
-
-Do not begin release/readiness in the same activity unless explicitly requested.
+Do not perform release-ready synchronization or final Part002 closure in the same activity unless explicitly requested. Do not begin Part003 canonical transcription.
