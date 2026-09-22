@@ -69,7 +69,7 @@
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **1**
-- Part002: **ACTIVE / BILINGUAL REVIEW CLOSED — RELEASE READINESS NEXT**
+- Part002: **ACTIVE / RELEASE READINESS CLOSED — RELEASE-READY SYNC NEXT**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
@@ -113,6 +113,8 @@
 - Part002 editorial correction sites rechecked: **27/27**
 - Part002 further bilingual English-only corrections: **3**
 - Part002 unresolved bilingual holds: **0**
+- Part002 release/readiness: **PASS / CLOSED**
+- Part002 unresolved release/readiness blockers: **0**
 
 ## Workflow baseline
 
@@ -155,8 +157,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Perform **Part002 release/readiness report**.
+Perform **Part002 release-ready synchronization**.
 
-Whole-Part bilingual review is **PASS / CLOSED — 4/4 pairs PASS / 9/9 glossary corrections PASS / 27/27 editorial sites rechecked / 3 further English-only corrections / 0 unresolved holds**. Keep frozen Part001 unchanged and preserve **53→54 PENDING direct audit / source-limited**.
+Release/readiness is **PASS / CLOSED** with **0 unresolved blockers** and **0 canonical / assembled / English body changes**. Keep frozen Part001 unchanged and preserve **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
