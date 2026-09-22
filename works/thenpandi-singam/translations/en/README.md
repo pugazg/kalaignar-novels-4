@@ -297,3 +297,23 @@ Do not begin editorial review until glossary reconciliation closes **RECONCILED 
 Durable record: `PART_002_GLOSSARY_RECONCILIATION.md`.
 
 Exact next gate: **Part002 English editorial review across all 4 maintained English files / scans27–53**.
+
+
+## Part002 English editorial review
+
+**PASS / CLOSED**
+
+- maintained English files reviewed — **4/4**
+- files with English-only edits — **4/4**
+- English-only editorial corrections — **27**
+- structural block coverage — **146/146**
+- glossary locks altered — **0**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `PART_002_TRANSLATION_REVIEW.md`.
+
+Exact next gate: **Part002 whole-Part bilingual review across Tamil + English / scans27–53**.
