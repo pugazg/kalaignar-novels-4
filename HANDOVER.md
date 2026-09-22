@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 release-ready synchronization**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 final closure**
 
 ## Work
 
@@ -159,6 +159,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 unresolved bilingual holds — **0**
 - Part002 release/readiness — **PASS / CLOSED**
 - Part002 unresolved release/readiness blockers — **0**
+- Part002 release-ready synchronization — **PASS / CLOSED**
+- Part002 post-release body drift — **0 / 0 / 0 canonical / assembled / English**
 - Part002 release/readiness body changes — **0 / 0 / 0 canonical / assembled / English**
 - English literary prose drafted in planning — **0**
 - unresolved completed-batch source-reading holds — **0**
@@ -166,7 +168,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
-- continuation gate — **Part002 release-ready synchronization**
+- continuation gate — **Part002 final closure — PASS / CLOSED / FROZEN**
 - Part002 Pass2B final state — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 Pass3 final state — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part002 source PDF to be available there
@@ -174,8 +176,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization**.
+Perform **Part002 final closure — PASS / CLOSED / FROZEN**.
 
-Part002 release/readiness is **PASS / CLOSED** with **0 unresolved release/readiness blockers** and **0 canonical / assembled / English body changes**. Preserve frozen Part001 and outgoing **53→54 PENDING direct audit / source-limited**.
+Release-ready synchronization is **PASS / CLOSED** with **0 canonical / assembled / English post-release body drift**. Preserve frozen Part001 and outgoing **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
