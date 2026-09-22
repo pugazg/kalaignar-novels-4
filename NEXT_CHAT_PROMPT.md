@@ -1,133 +1,123 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 Pass1 scans54–63
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 Pass1 scans64–73
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Durable frozen state
 
-### Part001
+Part001 and Part002 are **FINAL CLOSED / FROZEN**.
 
-**FINAL CLOSED / FROZEN**
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely for stylistic polishing.
 
-### Part002
+Part002→Part003 incoming boundary:
 
-**FINAL CLOSED / FROZEN**
-
-Do not reopen Part001 or Part002 canonical Tamil, assembled Tamil or maintained English merely for stylistic polishing.
-
-Part002 outgoing boundary evidence is now complete:
-
-- scan53 / printed41 ends on `என்ற அசைக்க`
-- Part003 scan54 / printed42 begins `முடியாத நம்பிக்கையல்லவா...`
-- physical split — **`அசைக்க / முடியாத`**
+- scan53 / printed41 ends `என்ற அசைக்க`
+- scan54 / printed42 begins `முடியாத நம்பிக்கையல்லவா...`
+- split — **`அசைக்க / முடியாத`**
 - **53→54 = GENUINE CONTINUATION / AUDITED**
-- Part002 canonical / assembled / English body changes caused by boundary completion — **0 / 0 / 0**
+- frozen Part002 body changes caused by boundary completion — **0 / 0 / 0 canonical / assembled / English**
 
-Durable Part002 closure record:
+## Part003 source
 
-`works/thenpandi-singam/PART_002_FINAL_CLOSURE.md`
-
-## Part003 source intake — COMPLETE / PASS
-
-Controlling source:
-
-`TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
-
-Source facts:
-
+- exact source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - source family — **TVA_BOK_0065559**
 - byte size — **48,354,306**
 - SHA-256 — `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d`
 - local physical pages — **25**
 - global scans — **54–78**
-- embedded/parsed text layer — **absent / unusable**
-- controlling authority — **rendered source page images**
-- canonical Part003 records — **0/25**
-- Pass1 — **NOT STARTED**
-- incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 78→79 — **PENDING direct audit / source-limited**
-- Part004–Part018 — **not registered**
+- controlling authority — **rendered source pixels**
+- source intake — **COMPLETE / PASS**
+- outgoing **78→79 = PENDING direct audit / source-limited**
 
-Durable intake:
+## Part003 Pass1 current state
 
-`works/thenpandi-singam/SOURCE_INTAKE_PART_003.md`
+**IN PROGRESS — 10/25 TEXT-COMPLETE**
 
-## Part003 structural intake landmarks
+Completed canonical records:
 
-These are intake landmarks only; Pass1 must perform exact per-page transcription/classification.
+- scans **54–63**
+- local pages **1–10**
+- records — **10/25**
+- status — **needs-review 10/10**
+- visual fidelity — **needs-review 10/10**
+- verified promotions — **0**
+- unresolved Pass1 source-reading holds — **0**
+- Part004 leakage — **0**
 
-- scan54 / local1 / printed42 — chapter6 continuation and close; completes `அசைக்க / முடியாத`; three closing ornaments / substantial blank lower field
-- scan55 / local2 — illustrated chapter **7** opening; displayed numeral 7; no source-visible folio
-- scan61 / local8 / printed49 — chapter7 close with ornaments
-- scan62 / local9 — illustrated chapter **8** opening; displayed numeral 8; no source-visible folio
-- scan70 / local17 / printed58 — chapter8 close with ornaments
-- scan71 / local18 — illustrated chapter **9** opening; displayed numeral 9; no source-visible folio
-- scan78 / local25 / printed66 — chapter9 continuation; Part003 terminal source scan; open into Part004
-- 78→79 — **PENDING direct audit / source-limited**
+Durable progress:
 
-Do not infer hidden printed folios on illustrated chapter openers. Use `printed_page: null` when the source folio is not visible.
+`works/thenpandi-singam/PART_003_PASS1_PROGRESS.md`
 
-## Repository frontier
+### Completed structure
 
-- registered Parts — **3/18**
-- registered physical scans — **1–78**
-- final-closed Parts — **2**
-- active transcription Part — **Part003**
-- Part003 source intake — **COMPLETE / PASS**
-- Part003 canonical records — **0/25**
-- Parts004–018 — **not registered**
+- scan54 / printed42 — chapter6 continuation/close; three ornaments / blank lower field
+- scan55 — illustrated chapter7 opening; no visible folio
+- scans56–60 — chapter7 continuation
+- scan61 / printed49 — chapter7 close; three ornaments
+- scan62 — illustrated chapter8 opening; no visible folio
+- scan63 / printed51 — chapter8 continuation; open physical continuation
 
-## Read first
+Direct cross-page evidence already recorded:
 
-1. `HANDOVER.md`
-2. `works/thenpandi-singam/SOURCE_INTAKE_PART_003.md`
-3. `works/thenpandi-singam/SOURCE_PART_REGISTRY.md`
-4. `works/thenpandi-singam/indexes/page-map.md`
-5. `works/thenpandi-singam/THENPANDI_SINGAM_ARCHIVAL_GUIDELINES.md`
-6. `works/thenpandi-singam/PART_002_FINAL_CLOSURE.md`
-7. frozen scan53 record `works/thenpandi-singam/pages/0053-chapter-06.md` for incoming-boundary provenance only
-8. supplied Part003 PDF
+- 53→54 — `அசைக்க / முடியாத`
+- 58→59 — `தலையில் தடவிக் / கொடுக்கிறான்`
+- 59→60 — `வெள்ளித் / தட்டுக்களில்`
+- 60→61 — `அந்த இனிய / செய்திகள்`
+- 62→63 — `சிறிது / நேரம்`
+- 63→64 — **`ஊனமுற்றுக் / கிடந்து`**, directly witnessed
 
 ## Exact next activity
 
-Perform **Part003 Pass1 — scans54–63 / local pages1–10**.
+Perform **Part003 Pass1 — scans64–73 / local pages11–20**.
 
-Create one canonical page record for each physical scan:
+Expected physical mapping:
 
-- scan54 / local1
-- scan55 / local2
-- scan56 / local3
-- scan57 / local4
-- scan58 / local5
-- scan59 / local6
-- scan60 / local7
-- scan61 / local8
-- scan62 / local9
-- scan63 / local10
+| Local | Scan | Printed | Chapter / structure |
+|---:|---:|---:|---|
+| 11 | 64 | 52 | chapter8 continuation; completes `ஊனமுற்றுக் / கிடந்து` |
+| 12 | 65 | 53 | chapter8 continuation |
+| 13 | 66 | 54 | chapter8 continuation |
+| 14 | 67 | 55 | chapter8 continuation |
+| 15 | 68 | 56 | chapter8 continuation |
+| 16 | 69 | 57 | chapter8 continuation |
+| 17 | 70 | 58 | chapter8 close; closing ornaments |
+| 18 | 71 | — | illustrated chapter9 opening; displayed numeral 9; no source-visible folio |
+| 19 | 72 | 60 | chapter9 continuation |
+| 20 | 73 | 61 | chapter9 continuation |
 
-Pass1 rules:
+## Pass1 rules
 
+For every new page:
+
+- create exactly one canonical page record;
 - use `part: 3`;
-- use local `part_page: 1–10`;
-- use exact source filename from intake;
-- use `status: "needs-review"`;
-- use `visual_fidelity: "needs-review"`;
-- use direct rendered-source transcription only;
-- preserve source spelling, punctuation, dialogue and paragraph order;
-- record source-visible chapter numerals structurally;
-- for illustrated chapter-opening scan55 and scan62, use `printed_page: null` because the folio is not source-visible;
-- do not duplicate frozen scan53 text into scan54; record only the incoming continuation provenance;
-- preserve page furniture as metadata/notes rather than duplicating it as literary prose;
-- scan54 chapter-close ornaments / blank lower field must be recorded structurally;
-- scan61 chapter-close ornaments must be recorded structurally;
-- do not import or infer scan79 / Part004 text;
-- do not mark any new Part003 canonical page `verified`.
+- use local `part_page: 11–20`;
+- use exact Part003 source filename;
+- keep `status: "needs-review"`;
+- keep `visual_fidelity: "needs-review"`;
+- transcribe direct source-visible Tamil only;
+- preserve source spelling, punctuation, dialogue, paragraph order and physical page breaks;
+- preserve source-visible chapter numeral 9 structurally at scan71;
+- use `printed_page: null` for scan71 because no folio is source-visible;
+- record chapter-close ornaments structurally rather than inventing prose;
+- record cross-page continuations explicitly where visible;
+- do not import scan74 text into scan73 except as boundary witness if needed;
+- do not import or infer Part004 / scan79 text;
+- do not mark any Part003 page `verified`.
 
-Expected first-batch structure:
+After scans64–73 close, synchronize:
 
-- scan54 — chapter6 close
-- scans55–61 — chapter7
-- scans62–63 — chapter8 opening/continuation
+- `PART_003_PASS1_PROGRESS.md`
+- `HANDOVER.md`
+- root `README.md`
+- `WORKFLOW_STATUS.md`
+- `SOURCE_PART_REGISTRY.md`
+- `SOURCE_INTAKE_PART_003.md`
+- archival guidelines
+- page map
+- `NEXT_CHAT_PROMPT.md`
 
-After scans54–63 are committed and Pass1 evidence is synchronized, the exact next activity should be **Part003 Pass1 scans64–73 / local pages11–20**, unless a source-backed hold is discovered.
+Expected next activity after this batch:
 
-Do not begin Pass2A before all **25/25** Part003 Pass1 records are text-complete.
+**Part003 Pass1 — scans74–78 / local pages21–25**, unless a source-backed hold is discovered.
+
+Do not begin Pass2A until **25/25** Part003 Pass1 records are TEXT-COMPLETE.
