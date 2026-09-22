@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 whole-Part bilingual review**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part002 release/readiness report**
 
 ## Work
 
@@ -151,13 +151,19 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 English-only editorial corrections — **27**
 - Part002 glossary locks altered by editorial review — **0**
 - Part002 unresolved editorial holds — **0**
+- Part002 whole-Part bilingual review — **PASS / CLOSED**
+- Part002 glossary corrections rechecked — **9/9 PASS**
+- Part002 editorial correction sites rechecked — **27/27**
+- Part002 further bilingual English-only corrections — **3**
+- Part002 bilingual files changed — **2/4**
+- Part002 unresolved bilingual holds — **0**
 - English literary prose drafted in planning — **0**
 - unresolved completed-batch source-reading holds — **0**
 
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
-- continuation gate — **Part002 whole-Part bilingual review across Tamil + English / scans27–53**
+- continuation gate — **Part002 release/readiness report**
 - Part002 Pass2B final state — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 Pass3 final state — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part002 source PDF to be available there
@@ -165,8 +171,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Perform **Part002 whole-Part bilingual review across Tamil + English / scans27–53**.
+Perform **Part002 release/readiness report**.
 
-Part002 English editorial review is **PASS / CLOSED** with **4/4 files reviewed, 4/4 edited, 27 English-only editorial corrections, 0 glossary-lock changes and 0 unresolved editorial holds**. Recheck all **9 glossary corrections** and **27 editorial corrections** against verified Tamil. Preserve frozen Part001 English and outgoing **53→54 PENDING direct audit / source-limited**.
+Part002 whole-Part bilingual review is **PASS / CLOSED** with **4/4 Tamil-English pairs PASS, 9/9 glossary corrections rechecked, 27/27 editorial sites rechecked, 3 further English-only bilingual corrections, and 0 unresolved bilingual holds**. Preserve frozen Part001 and outgoing **53→54 PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
