@@ -135,4 +135,10 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part002 English glossary reconciliation: **RECONCILED / PASS — 1/4 files changed / 9 terminology corrections / 0 holds**
 - Part002 English editorial review: **PASS / CLOSED — 4/4 reviewed / 4/4 edited / 27 corrections / 0 holds**
 - Part002 whole-Part bilingual review: **PASS / CLOSED — 4/4 pairs / 3 further English-only corrections / 0 holds**
-- exact next activity: **Part002 release/readiness report**
+- Part002 release/readiness: **PASS / CLOSED — 0 blockers**
+- Part002 release-ready synchronization: **PASS / CLOSED**
+- Part002 final closure: **PASS / CLOSED / FROZEN**
+- final-closed Parts: **2**
+- Part003: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part003 canonical records: **0**
+- exact next activity: **Part003 source intake when supplied**
