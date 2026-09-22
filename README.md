@@ -69,7 +69,7 @@
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **1**
-- Part002: **ACTIVE / RELEASE-READY SYNC CLOSED — FINAL CLOSURE NEXT**
+- Part002: **FINAL CLOSED / FROZEN**
 - English literary prose drafted during planning: **0**
 - assembled canonical coverage: **26/26**
 - assembled omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
@@ -116,6 +116,10 @@
 - Part002 release/readiness: **PASS / CLOSED**
 - Part002 unresolved release/readiness blockers: **0**
 - Part002 release-ready synchronization: **PASS / CLOSED**
+- Part002 final closure: **PASS / CLOSED / FROZEN**
+- final-closed Parts: **2**
+- Part003: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part003 canonical records: **0**
 - Part002 post-release body drift: **0 / 0 / 0 canonical / assembled / English**
 
 ## Workflow baseline
@@ -159,8 +163,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-Perform **Part002 final closure — PASS / CLOSED / FROZEN**.
+**Part003 source intake when supplied.**
 
-Release-ready synchronization is **PASS / CLOSED** with **0 canonical / assembled / English post-release body drift**. Keep frozen Part001 unchanged and preserve **53→54 PENDING direct audit / source-limited**.
+Part001 and Part002 are **FINAL CLOSED / FROZEN**. Do not guess Part003 metadata or scan range before direct intake. The **53→54** boundary remains **PENDING direct audit / source-limited**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
