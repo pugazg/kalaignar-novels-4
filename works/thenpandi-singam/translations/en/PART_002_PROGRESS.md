@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART002 WHOLE-PART GLOSSARY — RECONCILED / PASS**
+**PART002 ENGLISH EDITORIAL REVIEW — PASS / CLOSED**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -130,8 +130,23 @@ Whole-Part glossary consistency is now **RECONCILED / PASS**. One English file c
 
 Durable record: `PART_002_GLOSSARY_RECONCILIATION.md`.
 
+## Editorial review closure
+
+- Part002 English editorial review — **PASS / CLOSED**
+- files reviewed — **4/4**
+- files with English-only edits — **4/4**
+- English-only editorial corrections — **27**
+- structural block coverage — **146/146**
+- glossary locks altered — **0**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+
+Durable record: `PART_002_TRANSLATION_REVIEW.md`.
+
 ## Exact next activity
 
-Perform **Part002 English editorial review across all 4 maintained English files / scans27–53**.
+Perform **Part002 whole-Part bilingual review across Tamil + English / scans27–53**.
 
-Do not begin whole-Part bilingual review until editorial review closes.
+Recheck all **9 glossary corrections** and **27 editorial corrections** against verified Tamil. Do not begin release/readiness until bilingual review closes **PASS / CLOSED**.
