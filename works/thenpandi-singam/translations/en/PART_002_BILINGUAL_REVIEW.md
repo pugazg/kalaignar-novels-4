@@ -345,3 +345,14 @@ Part002 now has:
 **Part002 release/readiness report.**
 
 Create and complete the release/readiness report only in the next gate. Do not begin release-ready synchronization, final Part002 closure or Part003 canonical transcription until release/readiness closes.
+
+
+## Downstream release/readiness state
+
+- Part002 release/readiness — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- canonical / assembled / English body changes — **0 / 0 / 0**
+- source-PDF paths under active work — **0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited / preserved**
+- exact next gate — **Part002 release-ready synchronization**
