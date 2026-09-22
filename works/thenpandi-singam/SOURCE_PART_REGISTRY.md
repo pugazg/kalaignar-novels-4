@@ -7,7 +7,7 @@ This ledger records the user's **18 split source PDFs**.
 | Part | Exact source filename | Local physical pages | Global scan range | File size (bytes) | SHA-256 | Source intake | Final state |
 |---:|---|---:|---|---:|---|---|---|
 | 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **ACTIVE / Final closure next** |
+| 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | pending | pending | pending | pending | pending | blocked | not started |
 | 004 | pending | pending | pending | pending | pending | blocked | not started |
 | 005 | pending | pending | pending | pending | pending | blocked | not started |
@@ -136,8 +136,12 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part002 release/readiness: **PASS / CLOSED**
 - Part002 unresolved release/readiness blockers: **0**
 - Part002 release-ready synchronization: **PASS / CLOSED**
+- Part002 final closure: **PASS / CLOSED / FROZEN**
+- final-closed Parts: **2**
+- Part003: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part003 canonical records: **0**
 - Part002 post-release body drift: **0 / 0 / 0**
 - Part002 assembly omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
 - final closure: **PASS / CLOSED / FROZEN**
 - translated/source-checked: **10/10 / 10/10**
-- exact next gate: **Part002 final closure — PASS / CLOSED / FROZEN**
+- exact next gate: **Part003 source intake when supplied**
