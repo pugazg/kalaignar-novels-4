@@ -17,7 +17,7 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 
 முடியாத நம்பிக்கையல்லவா அவளை அடுக்களைக் காரியங்களை ஆற்றிடத் துரத்துகின்றது!
 
-அப்போது அங்கு வந்த மேலாளர் மேகநாதனைப் பார்த்து “மேகநாதன்! தெரியுமா சேதி, இன்று விருந்துக்கான சமையல் வேலையில் கல்யாணியும் பங்கு கொள்கிறாள்!” என்றான் மிகப் பெரிய உலகச் செய்தி போல வாளுக்கு வேலி!
+அப்போது அங்கு வந்த மேலாளர் மேகநாதனைப் பார்த்து “மேகநாதன்! தெரியுமா சேதி, இன்று விருந்துக்கான சமையல் வேலையில் கல்யாணியும் பங்கு கொள்கிறாள்!” என்றான் மிகப் பெரிய உலகச் செய்தி போல - வாளுக்கு வேலி!
 
 “அப்படியா? மகிழ்ச்சிதான்! ஆனால் ஒன்று பட்டமங்கலத்துக்காரர்கள் விருந்துக்கு வரமாட்டார்கள் என்று தெரிகிறதே!”
 
@@ -32,4 +32,13 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 - chapter 6 closes on this scan;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 54; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 42; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part003 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against the rendered Part003 source image;
+- source-text corrections: **1**;
+- correction: `என்றான் மிகப் பெரிய உலகச் செய்தி போல வாளுக்கு வேலி!` → `என்றான் மிகப் பெரிய உலகச் செய்தி போல - வாளுக்கு வேலி!` — source-visible hyphen / spacing restored;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 54; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 42; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
