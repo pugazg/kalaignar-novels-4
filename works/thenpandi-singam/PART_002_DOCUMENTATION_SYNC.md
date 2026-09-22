@@ -153,3 +153,19 @@ Do not begin assembled Tamil construction until the checkpoint closes. Do not be
 - Part003 leakage — **0**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
 - exact next gate — **Part002 whole-Part bilingual review across Tamil + English / scans27–53**
+
+
+## Downstream bilingual review state
+
+- Part002 English editorial review — **PASS / CLOSED**
+- Part002 whole-Part bilingual review — **PASS / CLOSED**
+- Tamil/English pairs — **4/4 PASS**
+- glossary corrections rechecked — **9/9 PASS**
+- editorial correction sites rechecked — **27/27**
+- further bilingual English-only corrections — **3**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited**
+- exact next gate — **Part002 release/readiness report**
