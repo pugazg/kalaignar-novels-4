@@ -249,7 +249,8 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part002 canonical records — **27/27**
 - Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 local pages / global scans — **25 / 54–78**
-- Part003 canonical records — **0/25**
+- Part003 canonical records — **10/25**
 - Part003 incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part003 outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 Pass1 scans54–63 / local pages1–10**
+- Part003 Pass1 — **IN PROGRESS — 10/25 TEXT-COMPLETE — scans54–63**
+- exact next activity — **Part003 Pass1 scans64–73 / local pages11–20**
