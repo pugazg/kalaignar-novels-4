@@ -8,7 +8,7 @@ This ledger records the user's **18 split source PDFs**.
 |---:|---|---:|---|---:|---|---|---|
 | 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 003 | pending | pending | pending | pending | pending | blocked | not started |
+| 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **ACTIVE / Pass1 next** |
 | 004 | pending | pending | pending | pending | pending | blocked | not started |
 | 005 | pending | pending | pending | pending | pending | blocked | not started |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
@@ -46,9 +46,28 @@ This ledger records the user's **18 split source PDFs**.
 - first scan — printed page **15**, chapter3 continuation
 - last scan — printed page **41**, chapter6 open continuation
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 53→54 — **PENDING direct audit / source-limited**
+- outgoing 53→54 — **GENUINE CONTINUATION / AUDITED**
 - canonical Part002 page records — **27/27**
 - exact intake record — `SOURCE_INTAKE_PART_002.md`
+
+## Part003 registered source facts
+
+- source family / archive identifier: **TVA_BOK_0065559**
+- exact source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
+- local pages — **25**
+- global scans — **54–78**
+- byte size — **48,354,306**
+- SHA-256 — `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d`
+- no usable embedded/parsed text layer
+- rendered source page images are controlling
+- first scan — printed page **42**, chapter6 continuation and close
+- illustrated chapter openings — scan55 chapter7, scan62 chapter8, scan71 chapter9; source-visible folio absent on each opener
+- last scan — printed page **66**, chapter9 open continuation
+- incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- direct physical split — `அசைக்க / முடியாத`
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- canonical Part003 page records — **0/25**
+- exact intake record — `SOURCE_INTAKE_PART_003.md`
 
 ## Registration rules
 
@@ -68,11 +87,11 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 
 ## Current totals
 
-- registered Parts: **2 / 18**
-- registered physical scans: **53**
+- registered Parts: **3 / 18**
+- registered physical scans: **78**
 - canonical page records: **53**
 - final-closed Parts: **2**
-- active transcription Part: **none until Part003 source intake**
+- active transcription Part: **Part003**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
 - Part001 Pass2B: **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part001 Pass3: **COMPLETE / PASS — 26/26 REVIEWED — 0 corrections / 0 unresolved**
@@ -138,10 +157,10 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **2**
-- Part003: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
-- Part003 canonical records: **0**
+- Part003: **SOURCE INTAKE COMPLETE / PASS — PASS1 NEXT**
+- Part003 canonical records: **0/25**
 - Part002 post-release body drift: **0 / 0 / 0**
 - Part002 assembly omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
 - final closure: **PASS / CLOSED / FROZEN**
 - translated/source-checked: **10/10 / 10/10**
-- exact next gate: **Part003 source intake when supplied**
+- exact next gate: **Part003 Pass1 scans54–63 / local pages1–10**
