@@ -11,8 +11,8 @@
 - source packaging: **18 split PDF Parts prepared by the user**
 - split-file size policy: each source Part is **not more than 50 MB**
 - source family / archive identifier: **TVA_BOK_0065559**
-- complete physical extent: **pending intake of Parts003–018**
-- registered Parts: **2/18**
+- complete physical extent: **78 registered scans through Part003; Parts004–018 pending**
+- registered Parts: **3/18**
 - canonical `scan_page`: global across the complete work; **never resets at a Part boundary**
 - source PDFs committed to Git: **0**
 
@@ -77,7 +77,7 @@
 - Part002 source: `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
 - Part002 global scans: **27–53**
 - incoming 26→27: **GENUINE CONTINUATION / AUDITED**
-- outgoing 53→54: **PENDING direct audit / source-limited**
+- outgoing Part002 / incoming Part003 53→54: **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records: **27/27**
 - Part002 Pass1: **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Part002 Pass2A: **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**
@@ -118,8 +118,16 @@
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **2**
-- Part003: **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
-- Part003 canonical records: **0**
+- Part003: **ACTIVE / SOURCE INTAKE COMPLETE — PASS1 NEXT**
+- Part003 canonical records: **0/25**
+- Part003 source: `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
+- Part003 bytes: **48,354,306**
+- Part003 SHA-256: `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d`
+- Part003 local pages / global scans: **25 / 54–78**
+- Part003 incoming 53→54: **GENUINE CONTINUATION / AUDITED**
+- Part003 incoming physical split: **`அசைக்க / முடியாத`**
+- Part003 outgoing 78→79: **PENDING direct audit / source-limited**
+- Part003 Pass1: **NOT STARTED**
 - Part002 post-release body drift: **0 / 0 / 0 canonical / assembled / English**
 
 ## Workflow baseline
@@ -163,8 +171,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part003 source intake when supplied.**
+**Part003 Pass1 — scans54–63 / local pages1–10.**
 
-Part001 and Part002 are **FINAL CLOSED / FROZEN**. Do not guess Part003 metadata or scan range before direct intake. The **53→54** boundary remains **PENDING direct audit / source-limited**.
+Part003 source intake is **COMPLETE / PASS** for **25 physical pages / global scans54–78**. Incoming **53→54 = GENUINE CONTINUATION / AUDITED** through the direct split `அசைக்க / முடியாத`. Outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
