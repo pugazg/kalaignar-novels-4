@@ -31,9 +31,9 @@ we assume they deliberately stayed away, by going now to the Paganeri chariot fe
 
 Vallatharayan stood motionless, listening closely to his younger brother's counsel.
 
-“There is some justice in what Vairamuthan says! Paganeri and Pattamangalam are not even ten kal apart! Why should there be so much enmity between them? I too have been working tirelessly, placing the burden on Madurai Meenakshi, because somehow I want to bring the two of you together. So it would be best to heed your brother and go to the festival without rejecting Vaalukku Veli's invitation!”
+“There is some merit in what Vairamuthan says! Paganeri and Pattamangalam are not even ten kal apart! Why should there be so much enmity between them? I too have been working tirelessly, placing the burden on Madurai Meenakshi, because somehow I want to bring the two of you together. So it would be best to heed your brother and go to the festival without rejecting Vaalukku Veli's invitation!”
 
-These words of Vellai Ayyar too threw Vallatharayan into confusion. Veerammal wanted to say something on her part:
+Vellai Ayyar's words only deepened Vallatharayan's confusion. Veerammal too wanted to have her say:
 
 “Listen to what your younger brother says and what Ayyar says, and just this once grant forgiveness to the Paganeri people, Anna!” she said, in a tone brimming with hauteur.
 
@@ -45,7 +45,7 @@ What if his elder brother were hurt and said, “You behaved uncivilly at the ve
 
 Fortunately, by then Vallatharayan had agreed to attend the opening of the Paganeri chariot festival.
 
-Adappan's lips, which had been itching to whirl words like a storm, became flowers of a smile. He shook Vairamuthan's hand and expressed his appreciation.
+Adappan's lips, which had been itching to unleash a storm of words, blossomed into a smile. He shook Vairamuthan's hand and expressed his appreciation.
 
 Karutha Adappan, who had been troubled that the seeds of an undesirable catastrophe might be sown, possessed the firmness of mind to face whatever came; yet because he was careful that his own manner of approach should not cause a mistake and bring blame upon him, he praised Vairamuthan's measured conduct for paving the way to an amicable outcome.
 
