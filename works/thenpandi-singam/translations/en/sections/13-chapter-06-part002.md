@@ -13,31 +13,31 @@ status: "source-checked"
 
 # 6
 
-The established practice was that disputes concerning only one nadu would be heard by that nadu's Ambalakkarar, who would announce the decision, while a problem involving two or three nadus would be resolved by convening a gathering of the Ambalakkarars in the chavukkais. So there was nothing novel, peculiar to that day, in Vaalukkuveli stepping forward to hear a case that had come and stood at the entrance of his own house! It was something he was accustomed to.
+The established practice was that disputes concerning only one nadu would be heard by that nadu's Ambalakkarar, who would announce the decision, while a problem involving two or three nadus would be resolved by convening a gathering of the Ambalakkarars in the chavukkais. So there was nothing unusual about Vaalukkuveli stepping forward that day to hear a case that had arrived at his own doorstep; it was a familiar practice.
 
 Seeing ten or fifteen men and women standing at the house entrance, Kalyani Nachiyar quickly went inside.
 
 “Adappa! Tell me the details of the case! Where has manager Meganathan gone?” As this voice rose a little louder, a middle-aged man came forward with several account books in his hands, replying, “Here I am!”
 
-Meganathan, with a thick, sheaf-like moustache and a commanding build, belonged to the Adi Dravida community. He was capable of taking charge of the affairs
+Meganathan, with a thick, sheaf-like moustache and a commanding build, belonged to the Adi Dravida community. He was capable of efficiently overseeing the affairs
 
 <!-- source boundary: scan 45 → scan 46 -->
 
-of Vaalukku Veli's household as well as the administration of the villages under Vaalukku Veli's authority, and of carrying them out efficiently. Meganathan and Vaalukku Veli were roughly the same age.
+of Vaalukku Veli's household as well as the administration of the villages under Vaalukku Veli's authority. Meganathan and Vaalukku Veli were roughly the same age.
 
-When Meganathan came forward and offered his greeting, Vaalukku Veli returned it, put an arm around his shoulders in friendly intimacy, and stood waiting for his answer. The sight was an example of Vaalukku Veli's belief in equality. Meganathan not only sat directly opposite Vaalukku Veli as an equal and took part in discussions; in that small mansion he customarily supervised every task, even going as far as the kitchen to see whether the cooks were doing their work properly. One or two Ambalakkarars praised this principle of equality held by Vaalukku Veli. One or two condemned it. But no one openly raised a banner of revolt against Meganathan.
+When Meganathan came forward and offered his greeting, Vaalukku Veli returned it, put an arm around his shoulders in warm familiarity, and stood waiting for his answer. The sight was an example of Vaalukku Veli's belief in equality. Meganathan not only sat directly opposite Vaalukku Veli as an equal and took part in discussions; in that small mansion he customarily supervised every task, even going as far as the kitchen to see whether the cooks were doing their work properly. One or two Ambalakkarars praised this principle of equality held by Vaalukku Veli. One or two condemned it. But no one openly raised a banner of revolt against Meganathan.
 
-The appointment of Meganathan there as manager was the practical expression of the heartbeat in Vaalukku Veli that wished all the groups lying separated from one another somehow to unite in the thought, “All are one clan—that is the Tamil clan!”
+Meganathan's appointment there as manager was the practical expression of Vaalukku Veli's heartfelt wish that all the groups divided from one another should somehow unite in the thought, “All are one clan—that is the Tamil clan!”
 
 “This grandmother here has brought along everyone from her village street. That is today's important case.”
 
 <!-- source boundary: scan 46 → scan 47 -->
 
-Before Meganathan could finish saying this, the elderly woman, already passing beyond the ripeness of age, came and stood before the Ambalakkarar with tears pouring down. Her hands and legs were trembling not from weakness but because she was overcome by emotion. Her head kept swaying as though it had no wish to remain upright upon her neck.
+Before Meganathan could finish saying this, the elderly woman, already well advanced in years, came and stood before the Ambalakkarar with tears pouring down. Her hands and legs were trembling not from weakness but because she was overcome by emotion. Her head kept swaying as though it had no wish to remain upright upon her neck.
 
 “O Maharaja who governs the nadu! Can such an injustice happen in your time?” The old woman's arrow of a question flew swiftly.
 
-“What is it, Paatti? What happened? Didn't you come with your son only last month? What matter has arisen already?” Vaalukkuveli became agitated at the sight of her condition.
+“What is it, Paatti? What happened? Didn't you come with your son only last month? What trouble has come up already?” Vaalukkuveli became agitated at the sight of her condition.
 
 “Today I've come with my daughter-in-law! Look at her neck, Saami!”
 
@@ -55,7 +55,7 @@ Unable to bear seeing her son, addicted to liquor and careless of his home, roll
 
 “He swore on me, Saami! Ask him what happened to that oath, Ayya! Right in front of you he struck his own head and swore on his mother: ‘I won't drink, and I won't let my companions drink either!’ Do you know what's happening now? His mother has been picked up and thrown into the street! His oath has been picked up and thrown into the mud! Now he and his companions have opened a shop right in our village chavadi! He lies drunk all day. And as though that weren't enough, he took the thali chain from his wife's—my daughter-in-law's—neck, thali and all, sold it and drank the money away, Prabhu—he drank it away!”
 
-The old woman began beating her chest and lamenting. “Oh, no! With the chariot festival going on and all, none of that at Ayya's doorstep,” said those who had come with her, restraining her.
+The old woman began beating her chest and lamenting. “Oh, no! It's the chariot festival, after all; don't do that at Ayya's doorstep,” said those who had come with her, restraining her.
 
 <!-- source boundary: scan 48 → scan 49 -->
 
@@ -83,7 +83,7 @@ Thunder! Yes—Vaalukkuveli asked the drunken young man.
 
 “What did you say?”
 
-Vaalukkuveli's hands played terribly across the drunken young man's cheek.
+Vaalukkuveli's hands struck the drunken young man's cheek with terrible force.
 
 The aged mother who had come to complain about her son fell at the Ambalakkarar's feet and cried out, “Ayyo! Leave him alone!” Motherhood flew its banner high there.
 
@@ -91,11 +91,11 @@ The aged mother who had come to complain about her son fell at the Ambalakkarar'
 
 Even in his drunken stupor, the blows Vaalukku Veli gave seemed to help him understand that neither the mother who bore him nor the wife joined to him could bear even dust falling upon him! As though his intoxication had cleared, he fell at his mother's feet without a moment's hesitation and cried, “Amma! Forgive me!” Grasping his wife's hands, he pleaded, “Trust me! I will never make this mistake again.”
 
-He clutched Vaalukkuveli's feet and soaked them with his tears! Like a volcano that had been
+He clutched Vaalukkuveli's feet and soaked them with his tears! Can a cool cascade suddenly pour from a volcano that had been
 
 <!-- source boundary: scan 50 → scan 51 -->
 
-seething, can a cool cascade suddenly pour forth from it? Vaalukkuveli's tears seemed to be proof that it could! He lifted the young man and embraced him tightly.
+seething? Vaalukkuveli's tears seemed to be proof that it could! He lifted the young man and embraced him tightly.
 
 “Thambi! I hit you very hard! If you had an elder brother, think that this is how he would have rebuked you, Thambi! It is this Karutha Adappan here whom I just struck. Do you understand what I mean?”
 
@@ -119,7 +119,7 @@ The grandmother's blessing burst forth in ecstasy!
 
 “God won't abandon you, Saami! Your younger sister Nachiyaramma will surely get a bridegroom like Manmathan! She will live like a maharani with every prosperity!”
 
-As he listened to these words from the old woman, that brotherly heart swelled with fullness! His eyes became intoxicated with happiness! “Kalyani! Kalyani!” Vaalukkuveli's lips uttered the name with affection.
+As he listened to these words from the old woman, that brotherly heart swelled with joy! His eyes were overcome with happiness! “Kalyani! Kalyani!” Vaalukkuveli's lips uttered the name with affection.
 
 “Adappa! Arrange for them to stay in our house today. Attend to everything they need, fulfil it all, and send them away happy!”
 
