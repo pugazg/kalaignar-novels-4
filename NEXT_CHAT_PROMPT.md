@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 source intake when supplied
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 Pass1 scans54–63
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,93 +8,126 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 **FINAL CLOSED / FROZEN**
 
-Do not reopen Part001 canonical Tamil, assembled Tamil or maintained English merely for stylistic polishing.
-
 ### Part002
 
 **FINAL CLOSED / FROZEN**
 
-- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
-- global scans — **27–53**
-- canonical Tamil — **27/27 verified**
-- visual fidelity — **27/27 verified**
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
-- English E5–E8 — **4/4 SOURCE-CHECKED / COMPLETE**
-- whole-Part glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- whole-Part bilingual review — **PASS / CLOSED**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- final closure — **PASS / CLOSED / FROZEN**
-- unresolved closure blockers — **0**
-- canonical / assembled / English post-release drift — **0 / 0 / 0**
-- Part003 leakage — **0**
+Do not reopen Part001 or Part002 canonical Tamil, assembled Tamil or maintained English merely for stylistic polishing.
 
-Durable records:
+Part002 outgoing boundary evidence is now complete:
 
-- `works/thenpandi-singam/PART_002_FINAL_CLOSURE.md`
-- `works/thenpandi-singam/PART_002_RELEASE_READY_SYNC.md`
-- `works/thenpandi-singam/translations/en/PART_002_RELEASE_REPORT.md`
-- `works/thenpandi-singam/translations/en/PART_002_BILINGUAL_REVIEW.md`
+- scan53 / printed41 ends on `என்ற அசைக்க`
+- Part003 scan54 / printed42 begins `முடியாத நம்பிக்கையல்லவா...`
+- physical split — **`அசைக்க / முடியாத`**
+- **53→54 = GENUINE CONTINUATION / AUDITED**
+- Part002 canonical / assembled / English body changes caused by boundary completion — **0 / 0 / 0**
 
-## Boundary state
+Durable Part002 closure record:
 
-Incoming Part002 boundary:
+`works/thenpandi-singam/PART_002_FINAL_CLOSURE.md`
 
-- **26→27 = GENUINE CONTINUATION / AUDITED**
+## Part003 source intake — COMPLETE / PASS
 
-Outgoing Part002 boundary:
+Controlling source:
 
-- final supplied Part002 scan — **53 / printed41**
-- chapter6 remains open
-- terminal verified Tamil fragment — `என்ற அசைக்க`
-- **53→54 = PENDING direct audit / source-limited**
-- Part003 / scan54 is not supplied
-- Part003 Tamil imported into Part002 — **0**
-- Part003 English imported into Part002 — **0**
-- inferred semantic completion — **0**
+`TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 
-The pending 53→54 condition is a source-availability ledger item and does not reopen frozen Part002 body text.
+Source facts:
+
+- source family — **TVA_BOK_0065559**
+- byte size — **48,354,306**
+- SHA-256 — `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d`
+- local physical pages — **25**
+- global scans — **54–78**
+- embedded/parsed text layer — **absent / unusable**
+- controlling authority — **rendered source page images**
+- canonical Part003 records — **0/25**
+- Pass1 — **NOT STARTED**
+- incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- Part004–Part018 — **not registered**
+
+Durable intake:
+
+`works/thenpandi-singam/SOURCE_INTAKE_PART_003.md`
+
+## Part003 structural intake landmarks
+
+These are intake landmarks only; Pass1 must perform exact per-page transcription/classification.
+
+- scan54 / local1 / printed42 — chapter6 continuation and close; completes `அசைக்க / முடியாத`; three closing ornaments / substantial blank lower field
+- scan55 / local2 — illustrated chapter **7** opening; displayed numeral 7; no source-visible folio
+- scan61 / local8 / printed49 — chapter7 close with ornaments
+- scan62 / local9 — illustrated chapter **8** opening; displayed numeral 8; no source-visible folio
+- scan70 / local17 / printed58 — chapter8 close with ornaments
+- scan71 / local18 — illustrated chapter **9** opening; displayed numeral 9; no source-visible folio
+- scan78 / local25 / printed66 — chapter9 continuation; Part003 terminal source scan; open into Part004
+- 78→79 — **PENDING direct audit / source-limited**
+
+Do not infer hidden printed folios on illustrated chapter openers. Use `printed_page: null` when the source folio is not visible.
 
 ## Repository frontier
 
+- registered Parts — **3/18**
+- registered physical scans — **1–78**
 - final-closed Parts — **2**
-- active transcription Part — **none until Part003 source intake**
-- Part003 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
-- Part003 canonical records — **0**
+- active transcription Part — **Part003**
+- Part003 source intake — **COMPLETE / PASS**
+- Part003 canonical records — **0/25**
 - Parts004–018 — **not registered**
-
-Do not guess any Part003 filename, page count, SHA-256, global scan extent, printed pagination or chapter boundary before direct source intake.
 
 ## Read first
 
 1. `HANDOVER.md`
-2. `works/thenpandi-singam/PART_002_FINAL_CLOSURE.md`
+2. `works/thenpandi-singam/SOURCE_INTAKE_PART_003.md`
 3. `works/thenpandi-singam/SOURCE_PART_REGISTRY.md`
 4. `works/thenpandi-singam/indexes/page-map.md`
 5. `works/thenpandi-singam/THENPANDI_SINGAM_ARCHIVAL_GUIDELINES.md`
-6. `works/thenpandi-singam/SOURCE_INTAKE_PART_002.md`
-7. scan53 canonical page record `works/thenpandi-singam/pages/0053-chapter-06.md` as the frozen outgoing-boundary side
+6. `works/thenpandi-singam/PART_002_FINAL_CLOSURE.md`
+7. frozen scan53 record `works/thenpandi-singam/pages/0053-chapter-06.md` for incoming-boundary provenance only
+8. supplied Part003 PDF
 
 ## Exact next activity
 
-**Wait for the user to supply the Part003 PDF, then perform Part003 source intake.**
+Perform **Part003 Pass1 — scans54–63 / local pages1–10**.
 
-When Part003 is supplied:
+Create one canonical page record for each physical scan:
 
-1. identify the exact source filename;
-2. establish byte size and SHA-256;
-3. establish local physical page count directly from the supplied PDF;
-4. register the global scan range continuously after scan53 — do not infer the terminal scan before counting the PDF;
-5. inspect local page1 / global scan54 directly;
-6. compare frozen Part002 scan53 against Part003 scan54;
-7. classify **53→54** only from direct adjacent-source evidence;
-8. update Part002 boundary metadata/provenance controls only;
-9. keep Part002 canonical Tamil, assembled Tamil and maintained English **FROZEN** unless a genuine independent source defect is demonstrated;
-10. create Part003 source-intake control and registry/page-map entries;
-11. only after source intake closes **PASS / COMPLETE**, begin Part003 Pass1.
+- scan54 / local1
+- scan55 / local2
+- scan56 / local3
+- scan57 / local4
+- scan58 / local5
+- scan59 / local6
+- scan60 / local7
+- scan61 / local8
+- scan62 / local9
+- scan63 / local10
 
-Do not transcribe Part003 body text in the source-intake gate beyond what is required to establish structural/source boundaries.
+Pass1 rules:
 
-**STOP here until Part003 source is supplied.**
+- use `part: 3`;
+- use local `part_page: 1–10`;
+- use exact source filename from intake;
+- use `status: "needs-review"`;
+- use `visual_fidelity: "needs-review"`;
+- use direct rendered-source transcription only;
+- preserve source spelling, punctuation, dialogue and paragraph order;
+- record source-visible chapter numerals structurally;
+- for illustrated chapter-opening scan55 and scan62, use `printed_page: null` because the folio is not source-visible;
+- do not duplicate frozen scan53 text into scan54; record only the incoming continuation provenance;
+- preserve page furniture as metadata/notes rather than duplicating it as literary prose;
+- scan54 chapter-close ornaments / blank lower field must be recorded structurally;
+- scan61 chapter-close ornaments must be recorded structurally;
+- do not import or infer scan79 / Part004 text;
+- do not mark any new Part003 canonical page `verified`.
+
+Expected first-batch structure:
+
+- scan54 — chapter6 close
+- scans55–61 — chapter7
+- scans62–63 — chapter8 opening/continuation
+
+After scans54–63 are committed and Pass1 evidence is synchronized, the exact next activity should be **Part003 Pass1 scans64–73 / local pages11–20**, unless a source-backed hold is discovered.
+
+Do not begin Pass2A before all **25/25** Part003 Pass1 records are text-complete.
