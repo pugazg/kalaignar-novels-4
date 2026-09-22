@@ -324,3 +324,38 @@ Repository controls now consistently record:
 - exact next activity — **Part003 source intake when supplied**
 
 **Part002 remains FINAL CLOSED / FROZEN.**
+
+
+## 16. Post-freeze Part003 boundary evidence completion
+
+Part003 was subsequently supplied and registered as:
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
+- local pages — **25**
+- global scans — **54–78**
+- first scan — **scan54 / printed42**
+- exact intake record — `SOURCE_INTAKE_PART_003.md`
+
+Direct comparison of frozen Part002 scan53 / printed41 with Part003 scan54 / printed42 establishes:
+
+**53→54 = GENUINE CONTINUATION / AUDITED**
+
+The physical phrase continues directly:
+
+- scan53 terminal fragment — `என்ற அசைக்க`
+- scan54 opening — `முடியாத நம்பிக்கையல்லவா...`
+- split — `அசைக்க / முடியாத`
+
+Boundary evidence completion introduced:
+
+- Part002 canonical Tamil body changes — **0**
+- Part002 assembled Tamil body changes — **0**
+- Part002 maintained English body changes — **0**
+- inferred bridge text — **0**
+- stylistic normalization — **0**
+
+Part002 remains **FINAL CLOSED / FROZEN**.
+
+Part003 is now **SOURCE INTAKE COMPLETE / PASS — Pass1 NEXT**, with outgoing **78→79 PENDING direct audit / source-limited**.
+
+Exact next activity: **Part003 Pass1 scans54–63 / local pages1–10**.
