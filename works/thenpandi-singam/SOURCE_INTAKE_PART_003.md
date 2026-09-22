@@ -168,15 +168,15 @@ Part003 is now the active transcription Part.
 
 ## Downstream Pass1 state
 
-- Part003 Pass1 — **IN PROGRESS — 10/25 TEXT-COMPLETE**
-- completed scans — **54–63 / local pages1–10**
-- canonical Part003 records — **10/25**
-- `status: needs-review` — **10/10**
-- `visual_fidelity: needs-review` — **10/10**
+- Part003 Pass1 — **IN PROGRESS — 20/25 TEXT-COMPLETE**
+- completed scans — **54–73 / local pages1–20**
+- canonical Part003 records — **20/25**
+- `status: needs-review` — **20/20**
+- `visual_fidelity: needs-review` — **20/20**
 - verified promotions — **0**
 - unresolved Pass1 source-reading holds — **0**
 - frozen Part001/Part002 body edits — **0**
 - Part004 leakage — **0**
-- exact next activity — **Part003 Pass1 scans64–73 / local pages11–20**
+- exact next activity — **Part003 Pass1 scans74–78 / local pages21–25**
 
 Durable progress: `PART_003_PASS1_PROGRESS.md`.
