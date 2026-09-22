@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 Pass1 scans64–73
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 Pass1 scans74–78
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,15 +30,15 @@ Part002→Part003 incoming boundary:
 
 ## Part003 Pass1 current state
 
-**IN PROGRESS — 10/25 TEXT-COMPLETE**
+**IN PROGRESS — 20/25 TEXT-COMPLETE**
 
 Completed canonical records:
 
-- scans **54–63**
-- local pages **1–10**
-- records — **10/25**
-- status — **needs-review 10/10**
-- visual fidelity — **needs-review 10/10**
+- scans **54–73**
+- local pages **1–20**
+- records — **20/25**
+- status — **needs-review 20/20**
+- visual fidelity — **needs-review 20/20**
 - verified promotions — **0**
 - unresolved Pass1 source-reading holds — **0**
 - Part004 leakage — **0**
@@ -49,75 +49,53 @@ Durable progress:
 
 ### Completed structure
 
-- scan54 / printed42 — chapter6 continuation/close; three ornaments / blank lower field
-- scan55 — illustrated chapter7 opening; no visible folio
-- scans56–60 — chapter7 continuation
-- scan61 / printed49 — chapter7 close; three ornaments
-- scan62 — illustrated chapter8 opening; no visible folio
-- scan63 / printed51 — chapter8 continuation; open physical continuation
+- scan54 — chapter6 continuation/close
+- scan55 — illustrated chapter7 opening
+- scan61 — chapter7 close
+- scan62 — illustrated chapter8 opening
+- scan70 — chapter8 close
+- scan71 — illustrated chapter9 opening
+- scans72–73 — chapter9 continuation
 
-Direct cross-page evidence already recorded:
+Important cross-page evidence already recorded:
 
 - 53→54 — `அசைக்க / முடியாத`
 - 58→59 — `தலையில் தடவிக் / கொடுக்கிறான்`
 - 59→60 — `வெள்ளித் / தட்டுக்களில்`
 - 60→61 — `அந்த இனிய / செய்திகள்`
 - 62→63 — `சிறிது / நேரம்`
-- 63→64 — **`ஊனமுற்றுக் / கிடந்து`**, directly witnessed
+- 63→64 — `ஊனமுற்றுக் / கிடந்து`
+- 65→66 — `அப்படியெல்லாம் / எந்தப் பிணியும்`
+- 71→72 — `நாட்டியப் பேரரசியாக / விளங்கிய`
 
 ## Exact next activity
 
-Perform **Part003 Pass1 — scans64–73 / local pages11–20**.
+Perform **Part003 Pass1 — scans74–78 / local pages21–25**.
 
-Expected physical mapping:
+This is the final Part003 Pass1 batch.
 
-| Local | Scan | Printed | Chapter / structure |
-|---:|---:|---:|---|
-| 11 | 64 | 52 | chapter8 continuation; completes `ஊனமுற்றுக் / கிடந்து` |
-| 12 | 65 | 53 | chapter8 continuation |
-| 13 | 66 | 54 | chapter8 continuation |
-| 14 | 67 | 55 | chapter8 continuation |
-| 15 | 68 | 56 | chapter8 continuation |
-| 16 | 69 | 57 | chapter8 continuation |
-| 17 | 70 | 58 | chapter8 close; closing ornaments |
-| 18 | 71 | — | illustrated chapter9 opening; displayed numeral 9; no source-visible folio |
-| 19 | 72 | 60 | chapter9 continuation |
-| 20 | 73 | 61 | chapter9 continuation |
+Pass1 rules:
 
-## Pass1 rules
-
-For every new page:
-
-- create exactly one canonical page record;
+- create one canonical page record per physical scan;
 - use `part: 3`;
-- use local `part_page: 11–20`;
+- use local `part_page: 21–25`;
 - use exact Part003 source filename;
 - keep `status: "needs-review"`;
 - keep `visual_fidelity: "needs-review"`;
 - transcribe direct source-visible Tamil only;
 - preserve source spelling, punctuation, dialogue, paragraph order and physical page breaks;
-- preserve source-visible chapter numeral 9 structurally at scan71;
-- use `printed_page: null` for scan71 because no folio is source-visible;
-- record chapter-close ornaments structurally rather than inventing prose;
-- record cross-page continuations explicitly where visible;
-- do not import scan74 text into scan73 except as boundary witness if needed;
-- do not import or infer Part004 / scan79 text;
+- record any cross-page continuations explicitly;
+- keep chapter9 structure source-faithful;
+- scan78 is the Part003 terminal physical scan and remains open into Part004;
+- do not import or infer scan79 / Part004 text;
 - do not mark any Part003 page `verified`.
 
-After scans64–73 close, synchronize:
+After scans74–78 are complete:
 
-- `PART_003_PASS1_PROGRESS.md`
-- `HANDOVER.md`
-- root `README.md`
-- `WORKFLOW_STATUS.md`
-- `SOURCE_PART_REGISTRY.md`
-- `SOURCE_INTAKE_PART_003.md`
-- archival guidelines
-- page map
-- `NEXT_CHAT_PROMPT.md`
+1. update `PART_003_PASS1_PROGRESS.md` to **25/25 TEXT-COMPLETE / COMPLETE / PASS**;
+2. synchronize `HANDOVER.md`, root `README.md`, `WORKFLOW_STATUS.md`, `SOURCE_PART_REGISTRY.md`, `SOURCE_INTAKE_PART_003.md`, archival guidelines, page map and this prompt;
+3. keep all 25 Part003 records `needs-review` / visual `needs-review`;
+4. preserve outgoing **78→79 PENDING direct audit / source-limited**;
+5. exact next gate becomes **Part003 Pass2A — scans54–63 / local pages1–10**, unless source-backed review holds require a different handoff.
 
-Expected next activity after this batch:
-
-**Part003 Pass1 — scans74–78 / local pages21–25**, unless a source-backed hold is discovered.
-
-Do not begin Pass2A until **25/25** Part003 Pass1 records are TEXT-COMPLETE.
+Do not begin Pass2A in the same activity unless explicitly requested.
