@@ -198,3 +198,15 @@ Durable record: `PART_002_GLOSSARY_RECONCILIATION.md`.
 **Part002 English editorial review across all 4 maintained English files / scans27–53.**
 
 Do not begin whole-Part bilingual review until editorial review closes.
+
+
+## Post-reconciliation editorial state
+
+- Part002 English editorial review — **PASS / CLOSED**
+- files reviewed / edited — **4/4 / 4/4**
+- English-only editorial corrections — **27**
+- glossary locks altered — **0**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part003 leakage — **0**
+- exact next gate — **Part002 whole-Part bilingual review across Tamil + English / scans27–53**
