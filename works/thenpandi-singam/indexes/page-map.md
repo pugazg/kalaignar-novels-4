@@ -133,4 +133,5 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part002 English planning/setup: **COMPLETE / PASS — E5–E8 reserved / 4 planned files**
 - Part002 English E5–E8: **SOURCE-CHECKED / COMPLETE — 4/4 translated / 4/4 source-checked / 146/146 blocks / 0 holds**
 - Part002 English glossary reconciliation: **RECONCILED / PASS — 1/4 files changed / 9 terminology corrections / 0 holds**
-- exact next activity: **Part002 English editorial review across all 4 maintained English files / scans27–53**
+- Part002 English editorial review: **PASS / CLOSED — 4/4 reviewed / 4/4 edited / 27 corrections / 0 holds**
+- exact next activity: **Part002 whole-Part bilingual review across Tamil + English / scans27–53**
