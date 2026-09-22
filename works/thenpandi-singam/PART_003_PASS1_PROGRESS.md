@@ -110,3 +110,16 @@ Frozen Part001 / Part002 body edits caused by Pass1 — **0**.
 Pass2A must review direct rendered-source fidelity against the 25 Pass1 records and may correct canonical Tamil where source evidence requires it. Keep status / visual fidelity as `needs-review` until later gates authorize promotion.
 
 Do not begin Pass2B before all **25/25** Part003 pages complete Pass2A.
+
+
+## Downstream Pass2A state
+
+- Pass2A — **IN PROGRESS — 10/25 REVIEWED — scans54–63**
+- Pass2A source-text corrections — **10**
+- unresolved Pass2A questions — **0**
+- status / visual promotions — **0 / 0**
+- Part001 / Part002 — **FINAL CLOSED / FROZEN**
+- Part004 leakage — **0**
+- exact next activity — **Part003 Pass2A scans64–73 / local pages11–20**
+
+Durable Pass2A control: `PART_003_PASS2A_PROGRESS.md`.
