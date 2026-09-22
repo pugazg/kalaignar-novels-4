@@ -71,8 +71,8 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - registered Parts: **2 / 18**
 - registered physical scans: **53**
 - canonical page records: **53**
-- final-closed Parts: **1**
-- active transcription Part: **Part002**
+- final-closed Parts: **2**
+- active transcription Part: **none until Part003 source intake**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
 - Part001 Pass2B: **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part001 Pass3: **COMPLETE / PASS — 26/26 REVIEWED — 0 corrections / 0 unresolved**
