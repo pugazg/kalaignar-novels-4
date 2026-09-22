@@ -128,8 +128,23 @@ Part002 English editorial review is now **PASS / CLOSED**.
 
 Durable record: `PART_002_TRANSLATION_REVIEW.md`.
 
+## Post-source-check bilingual state
+
+Part002 whole-Part bilingual review is now **PASS / CLOSED**.
+
+- Tamil/English pairs — **4/4 PASS**
+- glossary corrections rechecked — **9/9 PASS**
+- editorial correction sites rechecked — **27/27**
+- further bilingual English-only corrections — **3**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part003 leakage — **0**
+- outgoing 53→54 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `PART_002_BILINGUAL_REVIEW.md`.
+
 ## Exact next activity
 
-Perform **Part002 whole-Part bilingual review across Tamil + English / scans27–53**.
+Perform **Part002 release/readiness report**.
 
-Do not begin release/readiness until bilingual review closes **PASS / CLOSED**.
+Do not begin release-ready synchronization, final Part002 closure or Part003 transcription until release/readiness closes.
