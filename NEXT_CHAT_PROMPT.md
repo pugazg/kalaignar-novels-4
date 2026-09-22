@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 Pass2A scans54–63
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 Pass2A scans64–73
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -32,79 +32,90 @@ Part002→Part003 incoming boundary:
 
 **COMPLETE / PASS — 25/25 TEXT-COMPLETE**
 
-Canonical records:
-
-- scans — **54–78**
-- local pages — **1–25**
 - canonical records — **25/25**
+- scans — **54–78**
 - status — **needs-review 25/25**
 - visual fidelity — **needs-review 25/25**
 - verified promotions — **0**
 - unresolved Pass1 source-reading holds — **0**
 - Part004 leakage — **0**
 
-Durable progress:
-
+Durable Pass1:
 `works/thenpandi-singam/PART_003_PASS1_PROGRESS.md`
 
-### Structural map
+## Part003 Pass2A current state
 
-- scan54 / printed42 — chapter6 continuation and close
-- scan55 — illustrated chapter7 opening; no visible folio
-- scan61 / printed49 — chapter7 close
-- scan62 — illustrated chapter8 opening; no visible folio
-- scan70 / printed58 — chapter8 close
-- scan71 — illustrated chapter9 opening; no visible folio
-- scans72–78 — chapter9 continuation
-- scan78 / printed66 — Part003 terminal physical scan; ends on open fragment **`இப்போது உங்கள்`**
-- 78→79 — **PENDING direct audit / source-limited**
+**IN PROGRESS — 10/25 REVIEWED**
 
-Important physical continuations recorded during Pass1:
+Completed Pass2A:
 
-- 53→54 — `அசைக்க / முடியாத`
-- 58→59 — `தலையில் தடவிக் / கொடுக்கிறான்`
-- 59→60 — `வெள்ளித் / தட்டுக்களில்`
-- 60→61 — `அந்த இனிய / செய்திகள்`
-- 62→63 — `சிறிது / நேரம்`
-- 63→64 — `ஊனமுற்றுக் / கிடந்து`
-- 65→66 — `அப்படியெல்லாம் / எந்தப் பிணியும்`
-- 71→72 — `நாட்டியப் பேரரசியாக / விளங்கிய`
-- 77→78 — `இடம் என்று / தெரியாமல்`
+- scans — **54–63**
+- local pages — **1–10**
+- reviewed — **10/25**
+- Pass2A corrections — **10**
+- affected scans — **54, 58, 60, 61, 63**
+- unresolved Pass2A questions — **0**
+- status promotions — **0**
+- visual promotions — **0**
+
+Durable Pass2A:
+`works/thenpandi-singam/PART_003_PASS2A_PROGRESS.md`
+
+### Pass2A correction ledger so far
+
+- scan54 / p42 — `போல வாளுக்கு வேலி!` → **`போல - வாளுக்கு வேலி!`**
+- scan58 / p46 — `சமையலிடப்` → **`சமைத்திடப்`**
+- scan60 / p48 — `பிரு` → **`பிகு`**
+- scan60 / p48 — `இத்தனைக் கட்டங்களைத்தாண்டிப்` → **`இத்தனைக் கட்டங்களைத் தாண்டிப்`**
+- scan60 / p48 — `எங்கே ஒரு மூலையில்` → **`எங்கோ ஒரு மூலையில்`**
+- scan61 / p49 — `பெண்ணைக்குரிய` → **`பெண்ணுக்குரிய`**
+- scan61 / p49 — `கவ்வி இழுத்து` → **`கௌவி-இழுத்து`**
+- scan63 / p51 — `மாற்றிவிட்டன` → **`மாறிவிட்டன`**
+- scan63 / p51 — `கை மீது` → **`கைமீது`**
+- scan63 / p51 — `எதிர் நிற்கும்போது` → **`எதிர் நிற்கும் போது`**
+
+Zero-correction reviewed scans: **55, 56, 57, 59, 62**.
 
 ## Exact next activity
 
-Perform **Part003 Pass2A — scans54–63 / local pages1–10**.
+Perform **Part003 Pass2A — scans64–73 / local pages11–20**.
 
-Pass2A is a direct rendered-source fidelity review of the canonical Pass1 records.
+Expected physical mapping:
+
+| Local | Scan | Printed | Chapter / structure |
+|---:|---:|---:|---|
+| 11 | 64 | 52 | chapter8 continuation |
+| 12 | 65 | 53 | chapter8 continuation |
+| 13 | 66 | 54 | chapter8 continuation |
+| 14 | 67 | 55 | chapter8 continuation |
+| 15 | 68 | 56 | chapter8 continuation |
+| 16 | 69 | 57 | chapter8 continuation |
+| 17 | 70 | 58 | chapter8 close; closing ornaments |
+| 18 | 71 | — | illustrated chapter9 opening; no source-visible folio |
+| 19 | 72 | 60 | chapter9 continuation |
+| 20 | 73 | 61 | chapter9 continuation |
+
+## Pass2A rules
 
 For each page:
 
-1. compare the canonical `## Source transcription` against the rendered source image;
+1. compare canonical `## Source transcription` directly against the rendered source image;
 2. correct canonical Tamil only where direct source evidence requires it;
-3. preserve source spelling, punctuation, dialogue, paragraph order and visible word spacing;
-4. preserve historical/source forms even when modernized wording may look more natural;
-5. do not normalize names, grammar or punctuation merely for style;
-6. preserve illustrated chapter-opening structure and `printed_page: null` where the folio is not source-visible;
-7. preserve chapter-close ornaments / blank lower fields structurally without inventing prose;
-8. retain `status: "needs-review"`;
-9. retain `visual_fidelity: "needs-review"`;
-10. record every Pass2A correction and unresolved reading explicitly;
-11. do not alter frozen Part001 or Part002 body text;
-12. do not import or infer Part004 / scan79 text.
+3. preserve source spelling, punctuation, quotation marks, hyphens, visible word spacing, dialogue and paragraph order;
+4. do not modernize or stylistically normalize source forms;
+5. preserve illustrated chapter-opening structure and `printed_page: null` where the folio is not visible;
+6. preserve chapter-close ornaments / blank lower fields structurally without inventing prose;
+7. retain `status: "needs-review"`;
+8. retain `visual_fidelity: "needs-review"`;
+9. record every Pass2A correction and unresolved reading explicitly;
+10. do not alter frozen Part001 or Part002 body text;
+11. do not import or infer Part004 / scan79 text.
 
-Expected first Pass2A batch:
+After scans64–73 are reviewed:
 
-- scan54 / local1 / printed42 — chapter6 close
-- scan55 / local2 / no visible folio — chapter7 opening
-- scans56–60 / local3–7 — chapter7 continuation
-- scan61 / local8 / printed49 — chapter7 close
-- scan62 / local9 / no visible folio — chapter8 opening
-- scan63 / local10 / printed51 — chapter8 continuation
-
-After scans54–63 are reviewed, update the Part003 Pass2A progress control and synchronize active repository controls.
-
-Expected next activity after this batch:
-
-**Part003 Pass2A — scans64–73 / local pages11–20**, unless a source-backed hold is discovered.
+- update `PART_003_PASS2A_PROGRESS.md`;
+- synchronize page map, source intake, registry, `HANDOVER.md`, README, workflow status, archival guidelines and this prompt;
+- keep all Part003 pages `needs-review` / visual `needs-review`;
+- exact next activity should be **Part003 Pass2A scans74–78 / local pages21–25**, unless a source-backed hold is discovered.
 
 Do not begin Pass2B until all **25/25** Part003 pages complete Pass2A.
