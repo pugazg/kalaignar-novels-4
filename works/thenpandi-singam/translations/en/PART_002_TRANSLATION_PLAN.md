@@ -269,11 +269,11 @@ Durable records:
 
 Durable record: `PART_002_GLOSSARY_RECONCILIATION.md`.
 
-## Exact next gate
+## Pre-editorial handoff target
 
-Perform **Part002 English editorial review across all 4 maintained English files / scans27–53**.
+The post-glossary handoff target was **Part002 English editorial review across all 4 maintained English files / scans27–53**.
 
-Do not begin whole-Part bilingual review until editorial review closes.
+That editorial review is now closed below.
 
 
 ## Editorial review downstream state
