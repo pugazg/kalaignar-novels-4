@@ -223,13 +223,11 @@ was changed by this gate.
 - Part003 leakage — **0**
 - outgoing 53→54 condition — **PENDING / preserved**
 
-## Exact next activity
+## Pre-editorial handoff target
 
-**Part002 English editorial review across all 4 maintained English files / scans27–53.**
+The glossary-reconciliation handoff target was **Part002 English editorial review across all 4 maintained English files / scans27–53**.
 
-Editorial review may improve English readability only where source meaning, agency, chronology, rhetoric, deliberate source variants, terminology locks and the pending 53→54 boundary remain unchanged.
-
-Do not begin whole-Part bilingual review until editorial review closes.
+That editorial review is now closed below.
 
 
 ## Post-reconciliation editorial state
