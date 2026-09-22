@@ -2,16 +2,17 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS — 20/25 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 25/25 TEXT-COMPLETE**
 
 Completed canonical Pass1 records:
 
-- local pages — **1–20 / 25**
-- global scans — **54–73**
-- canonical records created — **20**
-- status — **needs-review on 20/20**
-- visual fidelity — **needs-review on 20/20**
+- local pages — **1–25 / 25**
+- global scans — **54–78**
+- canonical records created — **25**
+- status — **needs-review on 25/25**
+- visual fidelity — **needs-review on 25/25**
 - verified promotions — **0**
+- unresolved Pass1 source-reading holds — **0**
 - Part004 leakage — **0**
 
 ## Source
@@ -23,67 +24,64 @@ Completed canonical Pass1 records:
 - controlling authority — **rendered source pixels**
 - source intake — **COMPLETE / PASS**
 
-## Batch 1 completed — scans54–63
+## Batch 1 — scans54–63
+
+- local pages — **1–10**
+- records — **10/10 TEXT-COMPLETE**
+- chapter span — chapter6 close; chapter7 complete; chapter8 opening/continuation
+- status / visual — **needs-review / needs-review**
+
+## Batch 2 — scans64–73
+
+- local pages — **11–20**
+- records — **10/10 TEXT-COMPLETE**
+- chapter span — chapter8 continuation/close; chapter9 opening/continuation
+- status / visual — **needs-review / needs-review**
+
+## Final batch — scans74–78
 
 | Local | Scan | Printed | Chapter | Structural state | Pass1 |
 |---:|---:|---:|---:|---|---|
-| 1 | 54 | 42 | 6 | incoming continuation + chapter6 close; three ornaments / blank lower field | TEXT-COMPLETE |
-| 2 | 55 | — | 7 | illustrated chapter7 opening; no source-visible folio | TEXT-COMPLETE |
-| 3 | 56 | 44 | 7 | continuation; direct speech open to next scan | TEXT-COMPLETE |
-| 4 | 57 | 45 | 7 | continuation | TEXT-COMPLETE |
-| 5 | 58 | 46 | 7 | continuation; final sentence open | TEXT-COMPLETE |
-| 6 | 59 | 47 | 7 | continuation; final phrase open | TEXT-COMPLETE |
-| 7 | 60 | 48 | 7 | continuation; final phrase open | TEXT-COMPLETE |
-| 8 | 61 | 49 | 7 | chapter7 close; three ornaments | TEXT-COMPLETE |
-| 9 | 62 | — | 8 | illustrated chapter8 opening; no source-visible folio | TEXT-COMPLETE |
-| 10 | 63 | 51 | 8 | continuation; final phrase open to scan64 | TEXT-COMPLETE |
-
-## Batch 2 completed — scans64–73
-
-| Local | Scan | Printed | Chapter | Structural state | Pass1 |
-|---:|---:|---:|---:|---|---|
-| 11 | 64 | 52 | 8 | continuation; completes scan63 phrase | TEXT-COMPLETE |
-| 12 | 65 | 53 | 8 | continuation; final direct speech open to scan66 | TEXT-COMPLETE |
-| 13 | 66 | 54 | 8 | continuation; completes scan65 speech | TEXT-COMPLETE |
-| 14 | 67 | 55 | 8 | continuation | TEXT-COMPLETE |
-| 15 | 68 | 56 | 8 | continuation | TEXT-COMPLETE |
-| 16 | 69 | 57 | 8 | continuation | TEXT-COMPLETE |
-| 17 | 70 | 58 | 8 | chapter8 close; three ornaments | TEXT-COMPLETE |
-| 18 | 71 | — | 9 | illustrated chapter9 opening; no source-visible folio | TEXT-COMPLETE |
-| 19 | 72 | 60 | 9 | continuation; completes scan71 phrase | TEXT-COMPLETE |
-| 20 | 73 | 61 | 9 | continuation | TEXT-COMPLETE |
+| 21 | 74 | 62 | 9 | continuation | TEXT-COMPLETE |
+| 22 | 75 | 63 | 9 | continuation; dialogue sequence open to scan76 | TEXT-COMPLETE |
+| 23 | 76 | 64 | 9 | continuation | TEXT-COMPLETE |
+| 24 | 77 | 65 | 9 | continuation; physical phrase open to scan78 | TEXT-COMPLETE |
+| 25 | 78 | 66 | 9 | Part003 terminal continuation; final phrase open into Part004 | TEXT-COMPLETE |
 
 ## Boundary / cross-page evidence
 
 - frozen Part002 scan53 → Part003 scan54 — **GENUINE CONTINUATION / AUDITED**
   - split — `அசைக்க / முடியாத`
-- scan58 → scan59 — physical sentence continuation `தலையில் தடவிக் / கொடுக்கிறான்`
-- scan59 → scan60 — physical phrase continuation `வெள்ளித் / தட்டுக்களில்`
-- scan60 → scan61 — physical phrase continuation `அந்த இனிய / செய்திகள்`
-- scan62 → scan63 — physical phrase continuation `சிறிது / நேரம்`
-- scan63 → scan64 — physical phrase continuation `ஊனமுற்றுக் / கிடந்து`
-- scan65 → scan66 — direct-speech continuation `அப்படியெல்லாம் / எந்தப் பிணியும்`
-- scan71 → scan72 — physical phrase continuation `நாட்டியப் பேரரசியாக / விளங்கிய`
+- scan58 → scan59 — `தலையில் தடவிக் / கொடுக்கிறான்`
+- scan59 → scan60 — `வெள்ளித் / தட்டுக்களில்`
+- scan60 → scan61 — `அந்த இனிய / செய்திகள்`
+- scan62 → scan63 — `சிறிது / நேரம்`
+- scan63 → scan64 — `ஊனமுற்றுக் / கிடந்து`
+- scan65 → scan66 — `அப்படியெல்லாம் / எந்தப் பிணியும்`
+- scan71 → scan72 — `நாட்டியப் பேரரசியாக / விளங்கிய`
+- scan77 → scan78 — `இடம் என்று / தெரியாமல்`
+- Part003 terminal scan78 ends on open fragment — **`இப்போது உங்கள்`**
 - Part003 outgoing 78→79 — **PENDING direct audit / source-limited**
 
 No cross-page reconstruction was invented; each canonical page contains only source-visible text from that physical scan.
 
-## Structural landmarks closed through scan73
+## Structural landmarks
 
 - scan54 closes chapter6.
-- scan55 opens chapter7 with mounted-warrior illustration.
+- scan55 opens chapter7; illustrated; no visible folio.
 - scan61 closes chapter7.
-- scan62 opens chapter8 with mounted-warrior illustration.
+- scan62 opens chapter8; illustrated; no visible folio.
 - scan70 closes chapter8.
-- scan71 opens chapter9 with mounted-warrior illustration.
-- illustrated chapter openers scan55, scan62 and scan71 have no source-visible printed folio and therefore use `printed_page: null`.
+- scan71 opens chapter9; illustrated; no visible folio.
+- scans72–78 continue chapter9.
+- scan78 is the Part003 terminal physical scan and remains open into Part004.
 
 ## Canonical-integrity rules retained
 
-All 20 records use:
+All 25 records use:
 
 - `part: 3`
-- local `part_page: 1–20`
+- local `part_page: 1–25`
 - exact Part003 source filename
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
@@ -94,18 +92,21 @@ All 20 records use:
 
 Frozen Part001 / Part002 body edits caused by Pass1 — **0**.
 
-## Current accounting
+## Final Pass1 accounting
 
-- Part003 Pass1 — **20/25 TEXT-COMPLETE**
-- remaining Pass1 records — **5**
-- canonical Part003 records — **20/25**
+- Part003 Pass1 — **COMPLETE / PASS — 25/25 TEXT-COMPLETE**
+- canonical Part003 records — **25/25**
 - registered global scans — **1–78**
-- canonical repository records — **73**
+- canonical repository records — **78**
 - unresolved Pass1 source-reading holds — **0**
+- verified promotions — **0**
 - Part004 leakage — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
 
 ## Exact next activity
 
-**Part003 Pass1 — scans74–78 / local pages21–25.**
+**Part003 Pass2A — scans54–63 / local pages1–10.**
 
-Do not begin Pass2A until all **25/25** Part003 Pass1 records are TEXT-COMPLETE.
+Pass2A must review direct rendered-source fidelity against the 25 Pass1 records and may correct canonical Tamil where source evidence requires it. Keep status / visual fidelity as `needs-review` until later gates authorize promotion.
+
+Do not begin Pass2B before all **25/25** Part003 pages complete Pass2A.
