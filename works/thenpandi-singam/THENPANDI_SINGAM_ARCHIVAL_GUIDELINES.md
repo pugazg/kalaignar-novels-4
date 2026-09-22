@@ -215,12 +215,12 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part001 unresolved release/readiness blockers — **0**
 - Part001 release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
-- final-closed Parts — **1**
-- active transcription Part — **Part002**
+- final-closed Parts — **2**
+- active transcription Part — **Part003**
 - Part002 source intake — **COMPLETE / PASS**
 - Part002 global scans — **27–53**
 - Part002 incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
-- Part002 outgoing 53→54 — **PENDING direct audit / source-limited**
+- Part002 outgoing / Part003 incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — 1 correction / 0 unresolved**
 - Part002 Pass2B — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
@@ -239,12 +239,17 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part002 release-ready synchronization — **PASS / CLOSED — 0 post-release body drift**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part003 — **SOURCE INTAKE COMPLETE / PASS — PASS1 NEXT**
 - Part001 unresolved English source-check holds — **0**
 - Part001 translated/source-checked English files — **10/10 / 10/10**
 - Part001 canonical Tamil — **26/26 verified**
 - Part001 visual fidelity — **26/26 verified**
 - outgoing 26→27 — **GENUINE CONTINUATION / AUDITED**
-- Parts003–018 source metadata — **PENDING**
+- Parts004–018 source metadata — **PENDING**
 - Part002 canonical records — **27/27**
-- exact next activity — **Part003 source intake when supplied**
+- Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
+- Part003 local pages / global scans — **25 / 54–78**
+- Part003 canonical records — **0/25**
+- Part003 incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- Part003 outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 Pass1 scans54–63 / local pages1–10**
