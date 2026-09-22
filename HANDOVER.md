@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part003 Pass1 scans64–73**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part003 Pass1 scans74–78**
 
 ## Work
 
@@ -164,7 +164,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
 - Part003 — **SOURCE INTAKE COMPLETE / PASS — PASS1 NEXT**
-- Part003 canonical records — **10/25**
+- Part003 canonical records — **20/25**
 - Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 bytes — **48,354,306**
 - Part003 SHA-256 — `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d`
@@ -173,7 +173,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part003 incoming physical split — **`அசைக்க / முடியாத`**
 - Part003 outgoing 78→79 — **PENDING direct audit / source-limited**
-- Part003 Pass1 — **IN PROGRESS — 10/25 TEXT-COMPLETE — scans54–63**
+- Part003 Pass1 — **IN PROGRESS — 20/25 TEXT-COMPLETE — scans54–73**
 - Part002 post-release body drift — **0 / 0 / 0 canonical / assembled / English**
 - Part002 release/readiness body changes — **0 / 0 / 0 canonical / assembled / English**
 - English literary prose drafted in planning — **0**
@@ -182,7 +182,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
-- continuation gate — **Part003 Pass1 scans64–73 / local pages11–20**
+- continuation gate — **Part003 Pass1 scans74–78 / local pages21–25**
 - Part002 Pass2B final state — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 Pass3 final state — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part002 source PDF to be available there
@@ -190,8 +190,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-**Part003 Pass1 — scans64–73 / local pages11–20.**
+**Part003 Pass1 — scans74–78 / local pages21–25.**
 
-Part003 Pass1 is **IN PROGRESS — 10/25 TEXT-COMPLETE** for scans54–63. All 10 new records remain `needs-review` / visual `needs-review`; no status promotion occurred. Part001 and Part002 remain **FINAL CLOSED / FROZEN**. Do not begin Pass2A until all **25/25** Part003 Pass1 records are complete.
+Part003 Pass1 is **IN PROGRESS — 20/25 TEXT-COMPLETE** for scans54–73. All 20 records remain `needs-review` / visual `needs-review`; no status promotion occurred. Part001 and Part002 remain **FINAL CLOSED / FROZEN**. Complete the final five Pass1 records before beginning Pass2A.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
