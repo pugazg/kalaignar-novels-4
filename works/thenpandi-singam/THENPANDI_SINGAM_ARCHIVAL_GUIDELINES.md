@@ -239,7 +239,7 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part002 release-ready synchronization — **PASS / CLOSED — 0 post-release body drift**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **ACTIVE / PASS1 IN PROGRESS — 20/25 TEXT-COMPLETE**
+- Part003 — **ACTIVE / PASS1 COMPLETE / PASS — PASS2A NEXT**
 - Part001 unresolved English source-check holds — **0**
 - Part001 translated/source-checked English files — **10/10 / 10/10**
 - Part001 canonical Tamil — **26/26 verified**
@@ -249,8 +249,8 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part002 canonical records — **27/27**
 - Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 local pages / global scans — **25 / 54–78**
-- Part003 canonical records — **20/25**
+- Part003 canonical records — **25/25**
 - Part003 incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part003 outgoing 78→79 — **PENDING direct audit / source-limited**
-- Part003 Pass1 — **IN PROGRESS — 20/25 TEXT-COMPLETE — scans54–73**
-- exact next activity — **Part003 Pass1 scans74–78 / local pages21–25**
+- Part003 Pass1 — **COMPLETE / PASS — 25/25 TEXT-COMPLETE — scans54–78**
+- exact next activity — **Part003 Pass2A scans54–63 / local pages1–10**
