@@ -21,7 +21,7 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 
 ‘அடடா! அவர் எப்படித்தான் வாதாடியிருக்கிறார்!’ யாருக்கும் தெரியாமல் கல்யாணியின் இதயத்தில் ஒரு இன்பச் சதிராட்டம் நடைபெற்றுக் கொண்டிருந்தது.
 
-“இன்று உன் தங்கை கல்யாணியும் சமையலிடப் போகிறாள் தெரியுமா ஆதப்பா?”
+“இன்று உன் தங்கை கல்யாணியும் சமைத்திடப் போகிறாள் தெரியுமா ஆதப்பா?”
 
 “அப்படியா? ஏன் கல்யாணி, உண்மைதானா?”
 
@@ -40,4 +40,13 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 - final sentence continues physically to scan59;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 58; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: 46; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part003 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against the rendered Part003 source image;
+- source-text corrections: **1**;
+- correction: `சமையலிடப்` → `சமைத்திடப்` — source-confirmed lexical reading;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 58; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: 46; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
