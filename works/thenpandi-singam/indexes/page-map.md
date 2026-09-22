@@ -59,6 +59,16 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 002 | 25 | 51 | 39 | chapter 6 continuation; completes physical phrase from scan50; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections; Pass3 reviewed / 0 textual corrections | verified | `pages/0051-chapter-06.md` |
 | 002 | 26 | 52 | 40 | chapter 6 continuation; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections; Pass3 reviewed / 0 textual corrections | verified | `pages/0052-chapter-06.md` |
 | 002 | 27 | 53 | 41 | chapter 6 continuation; Part002 terminal scan; open fragment `என்ற அசைக்க`; 53→54 **GENUINE CONTINUATION / AUDITED** via direct Part003 witness; Pass1 text-complete; Pass2A reviewed / 0 corrections; Pass2B reviewed / 0 corrections; Pass3 reviewed / 0 textual corrections | verified | `pages/0053-chapter-06.md` |
+| 003 | 1 | 54 | 42 | chapter 6 continuation and close; incoming 53→54 **GENUINE CONTINUATION / AUDITED**; three closing ornaments / blank lower field; Pass1 text-complete | needs-review | `pages/0054-chapter-06.md` |
+| 003 | 2 | 55 | — | chapter 7 opening; illustrated; printed folio not source-visible; Pass1 text-complete | needs-review | `pages/0055-chapter-07.md` |
+| 003 | 3 | 56 | 44 | chapter 7 continuation; direct speech continues to scan57; Pass1 text-complete | needs-review | `pages/0056-chapter-07.md` |
+| 003 | 4 | 57 | 45 | chapter 7 continuation; Pass1 text-complete | needs-review | `pages/0057-chapter-07.md` |
+| 003 | 5 | 58 | 46 | chapter 7 continuation; sentence continues to scan59; Pass1 text-complete | needs-review | `pages/0058-chapter-07.md` |
+| 003 | 6 | 59 | 47 | chapter 7 continuation; phrase continues to scan60; Pass1 text-complete | needs-review | `pages/0059-chapter-07.md` |
+| 003 | 7 | 60 | 48 | chapter 7 continuation; phrase continues to scan61; Pass1 text-complete | needs-review | `pages/0060-chapter-07.md` |
+| 003 | 8 | 61 | 49 | chapter 7 close; three closing ornaments; Pass1 text-complete | needs-review | `pages/0061-chapter-07.md` |
+| 003 | 9 | 62 | — | chapter 8 opening; illustrated; printed folio not source-visible; Pass1 text-complete | needs-review | `pages/0062-chapter-08.md` |
+| 003 | 10 | 63 | 51 | chapter 8 continuation; final phrase continues to scan64; Pass1 text-complete | needs-review | `pages/0063-chapter-08.md` |
 
 ## Intake observations
 
@@ -96,7 +106,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 
 - registered Parts: **3/18**
 - registered physical scan range: **78 scans across Parts001–003**
-- canonical page records: **53**
+- canonical page records: **63**
 - Part001 Pass1: **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
 - Part001 Pass2A: **COMPLETE / PASS — 26/26 REVIEWED — 14 corrections / 0 unresolved**
 - Part001 Pass2B: **COMPLETE / PASS — 26/26 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
@@ -126,7 +136,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
 - final closure: **PASS / CLOSED / FROZEN**
-- final-closed Parts: **1**
+- final-closed Parts: **2**
 - Part002 source intake: **COMPLETE / PASS**
 - Part002 canonical rows/records: **27/27**
 - Part002 Pass1: **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
@@ -150,6 +160,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **2**
 - Part003 source intake: **COMPLETE / PASS — scans54–78 / 25 pages**
-- Part003 canonical records: **0/25**
+- Part003 canonical records: **10/25**
 - Part003 outgoing 78→79: **PENDING direct audit / source-limited**
-- exact next activity: **Part003 Pass1 scans54–63 / local pages1–10**
+- Part003 Pass1: **IN PROGRESS — 10/25 TEXT-COMPLETE — scans54–63**
+- exact next activity: **Part003 Pass1 scans64–73 / local pages11–20**
