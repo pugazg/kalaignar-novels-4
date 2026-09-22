@@ -163,7 +163,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Part003 — **SOURCE INTAKE COMPLETE / PASS — PASS1 NEXT**
 - Part003 canonical records — **0/25**
 - Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 bytes — **48,354,306**
