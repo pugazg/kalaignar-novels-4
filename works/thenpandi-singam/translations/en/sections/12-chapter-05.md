@@ -13,7 +13,7 @@ status: "source-checked"
 
 # 5
 
-As soon as the Ambalakkarars had touched the Paganeri chariot rope, pulled it and set the procession in motion, they all went to the places arranged for their stay. Karutha Adappan personally attended to each of them, seating them in carts and sending them to their lodgings.
+As soon as the Ambalakkarars had touched the Paganeri chariot rope, pulled it and set the procession in motion, they all went to the places arranged for their stay. Karutha Adappan personally took special care to look after each of them, seating them in carts and sending them to their lodgings.
 
 As Vallatharayan climbed into the Pattamangalam cart, Vaalukkuveli came near and asked him to be sure to attend the feast. It was only when Vaalukkuveli tapped Vairamuthan on the shoulder and said, “I'm telling you too,” that Vairamuthan started, quickly tore his gaze away from Kalyani Nachiyar, said, “All right! All right!” to Vaalukku Veli, and climbed into the cart with Vallatharayan.
 
@@ -63,7 +63,7 @@ Vaalukkuveli, meanwhile, continued voicing his worries about Vallatharayan's dis
 
 “Why does he hate Paganeri so much?”
 
-“Don't you know? Urangaappuli once sent word asking for the hand of Kalyani Nachiyar—his own sister, whom Paganeri Ambalakkarar Vaalukkuveli Thevar loves more than his life! I spat, ‘Thu! Thu!’ and sent him away! What else, Kalyani? Would I hand over the green parrot I have raised in my grove, this pure gold, into the hands of a rhinoceros? The disappointment he suffered two years ago left him enraged, and he has been going about with a heart bent on revenge. It isn't only that he became related by marriage to the Pattamangalam Ambalakkarar. He settled there and
+“Don't you know? Urangaappuli once sent word asking for the hand of Kalyani Nachiyar—the sister whom Paganeri Ambalakkarar Vaalukkuveli Thevar loves more than his own life! I spat, ‘Thu! Thu!’ and sent him away! What else, Kalyani? Would I hand over the green parrot I have raised in my grove, this pure gold, into the hands of a rhinoceros? The disappointment he suffered two years ago left him enraged, and he has been going about with a heart bent on revenge. It isn't only that he became related by marriage to the Pattamangalam Ambalakkarar. He settled there and
 
 <!-- source boundary: scan 43 → scan 44 -->
 
