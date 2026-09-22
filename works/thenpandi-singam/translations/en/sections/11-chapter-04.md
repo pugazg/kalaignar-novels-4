@@ -19,7 +19,7 @@ Knowing nothing either of the attempt that had been made to kill him with a spea
 
 Vairamuthan hurled the words at his brother-in-law Urangaappuli!
 
-The news that Urangaappuli had tried to kill Adappan by hiding behind the compound wall and throwing a spear at him reached Vallatharayan too. He did not relish it. Why, even Veerammal rebuked her husband for what he had done.
+The news that Urangaappuli had tried to kill Adappan by hiding behind the compound wall and throwing a spear at him reached Vallatharayan too. He did not approve. Even Veerammal rebuked her husband for what he had done.
 
 <!-- source boundary: scan 31 → scan 32 -->
 
@@ -27,13 +27,13 @@ Urangaappuli, who had eagerly imagined that he was about to accomplish some grea
 
 Vairamuthan pointed out that taking the rough and hot-headed Urangaappuli, who bore such anger and hatred toward Adappan, to the Paganeri chariot procession might cause some unwanted calamity. So Vallatharayan told Urangaappuli and Veerammal to remain in Pattamangalam and set out for Paganeri with Vairamuthan.
 
-The Pattamangalam brothers began their journey in a handsome box-cart decorated with brass plates and bronze bands, drawn by two well-fed bulls. In front of and behind the cart, armed warriors ran in large numbers, almost competing with one another as they carried out their duty of guarding them.
+The Pattamangalam brothers began their journey in a handsome box-cart decorated with brass plates and bronze bands, drawn by two well-fed bulls. In front of and behind the cart, armed warriors ran in large numbers, as though competing with one another in carrying out their guard duty.
 
 The Paganeri chariot stood decked out like a Bharatanatyam dancer. The toy horses fixed to its front seemed to be galloping on all four legs, as though they themselves were about to pull the chariot swiftly away.
 
 <!-- source boundary: scan 32 → scan 33 -->
 
-Only if hundreds and thousands of labourers and townspeople grasped the ropes and pulled would the chariot move! And was that all? Some had to lever the chariot wheels from behind with heavy poles!
+The chariot would move only when hundreds and thousands of labourers and townspeople grasped the ropes and pulled! And was that all? Some had to lever the chariot wheels from behind with heavy poles!
 
 Others had to work with skill and judgment, placing chocks here and there so that the wheels would turn along the proper path, the chariot would move correctly through the street, and finally return to its station.
 
@@ -59,7 +59,7 @@ A young woman too alighted from the carriage and followed Vaalukku Veli. One cou
 
 One could know it without touching her: a body like silk! A row of teeth that seemed to make pearls and jasmine jealous! Looking at those teeth, one might imagine that nature had powdered the milk-white moon and set those tiny particles of light into her coral-red lips!
 
-The old age of describing eyes as arrows, spears or fish was past! Those who saw her eyes could only stand longing, unable to find a comparison in any language! A face rippling with light! A body so formed that it seemed to have been sculpted with life itself!
+The old habit of describing eyes as arrows, spears or fish was a thing of the past! Those who saw her eyes could only stand longing, unable to find a comparison in any language! A face rippling with light! A body so formed that it seemed to have been sculpted with life itself!
 
 Poets would feel compelled to write that perhaps the beautifully decorated chariot standing there had itself taken the form of a woman and was now walking behind Vaalukku Veli!
 
@@ -95,4 +95,4 @@ All the Ambalakkarars came forward to touch the rope and pull. Vairamuthan took 
 
 while Kalyani Nachiyar began pulling from one side of the parallel rope.
 
-Explosive festival charges boomed. The levering poles went to work. Thousands pulled the chariot. At the speed with which everyone pulled, when a cross-block was placed before the chariot, it stopped with a great jolt. Those holding the rope fell over one another and got back up. Kalyani Nachiyar was one of those who fell! On whom did she fall? On Vairamuthan himself! She rose, her face turning red with shyness like a ripe kovai fruit.
+Explosive festival charges boomed. The levering poles went to work. Thousands pulled the chariot. As everyone pulled at speed, a cross-block placed before the chariot brought it to a jolting halt. Those holding the rope fell over one another and got back up. Kalyani Nachiyar was one of those who fell! On whom did she fall? On Vairamuthan himself! She rose, her face turning red with shyness like a ripe kovai fruit.
