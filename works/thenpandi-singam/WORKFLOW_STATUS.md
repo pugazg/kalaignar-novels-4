@@ -49,6 +49,7 @@ Part001:
 - Part002 English editorial review — **PASS / CLOSED — 4/4 reviewed / 4/4 edited / 27 corrections / 0 holds**
 - Part002 whole-Part bilingual review — **PASS / CLOSED — 4/4 pairs / 3 further English-only corrections / 0 holds**
 - Part002 release/readiness — **PASS / CLOSED — 0 blockers / 0 body changes**
+- Part002 release-ready synchronization — **PASS / CLOSED — 0 post-release body drift**
 - assembled Tamil — **PASS / CLOSED — 10/10 VERIFIED — 26/26 canonical coverage**
 - English planning/setup — **COMPLETE / PASS**
 - English E1 — **SOURCE-CHECKED / COMPLETE — scans1–12 / 7 files**
@@ -81,6 +82,6 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part002 release-ready synchronization.**
+**Part002 final closure — PASS / CLOSED / FROZEN.**
 
-Release/readiness is **PASS / CLOSED — 0 blockers / 0 canonical-assembled-English body changes**. Part001 remains frozen; 53→54 remains source-limited pending Part003.
+Release-ready synchronization is **PASS / CLOSED — 0 canonical / assembled / English post-release body drift**. Part001 remains frozen; 53→54 remains source-limited pending Part003.
