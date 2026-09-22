@@ -101,7 +101,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - unresolved release/readiness blockers — **0**
 - release-ready synchronization — **PASS / CLOSED**
 - final closure — **PASS / CLOSED / FROZEN**
-- final-closed Parts — **1**
+- final-closed Parts — **2**
 - active transcription Part — **none until Part003 source intake**
 - Part002 source intake — **COMPLETE / PASS**
 - Part002 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
@@ -111,8 +111,9 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 global scans — **27–53**
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 53→54 — **PENDING direct audit / source-limited**
-- Part002 — **ACTIVE / TAMIL ARCHIVAL-READY PASS / CLOSED — 27/27 VERIFIED**
-- Parts003–018 — **not registered**
+- Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
+- Part003 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- Parts004–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
 - Part002 Pass2A corrections / unresolved — **1 / 0**
