@@ -115,7 +115,7 @@ Meanwhile the mind of the Paganeri Ambalakkarar is sunk entirely in trying to di
 
 “How could I not have? Sons-in-law from so many Ambalakkarar households are competing, each saying, ‘Me first! Me first!’”
 
-“I have made a decision. I will not give Kalyani in marriage to a rural place. Only if I find a bridegroom of standing from a good, civilized town-side family... will my heart be satisfied!”
+“I have made a decision. I will not give Kalyani in marriage to a rural place. Only if I find a bridegroom of standing from a good, civilized town area... will my heart be satisfied!”
 
 “What is difficult about that! In the towns there are young men from good royal families and zamindar families who have received higher education. But there is one thing: will those young men marry village girls?”
 

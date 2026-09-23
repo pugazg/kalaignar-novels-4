@@ -127,7 +127,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 whole-Part bilingual review across Tamil + English / scans54–78.**
+**Part003 release/readiness report.**
 
 
 ## Post-reconciliation editorial state

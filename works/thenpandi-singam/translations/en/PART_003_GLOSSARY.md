@@ -116,7 +116,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 whole-Part bilingual review across Tamil + English / scans54–78.**
+**Part003 release/readiness report.**
 
 
 ## E9 source-check term state
@@ -156,7 +156,7 @@ E12 keeps `வெள்ளைக்காரத் துரை மகனுக�
 
 ## Exact next gate
 
-**Part003 whole-Part bilingual review across Tamil + English / scans54–78.**
+**Part003 release/readiness report.**
 
 
 ## Whole-Part reconciliation closure

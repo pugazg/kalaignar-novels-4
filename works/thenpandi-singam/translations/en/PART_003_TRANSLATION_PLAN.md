@@ -225,7 +225,7 @@ Part004 canonical transcription remains blocked until Part003 final closure.
 
 ## Exact next gate
 
-**Part003 whole-Part bilingual review across Tamil + English / scans54–78.**
+**Part003 release/readiness report.**
 
 
 ## E9 source-check closure
@@ -261,4 +261,4 @@ Durable records: `E9_SOURCE_CHECK.md` through `E12_SOURCE_CHECK.md`.
 
 ## Exact next gate
 
-**Part003 whole-Part bilingual review across Tamil + English / scans54–78.**
+**Part003 release/readiness report.**

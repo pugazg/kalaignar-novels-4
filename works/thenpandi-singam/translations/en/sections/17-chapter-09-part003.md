@@ -15,7 +15,7 @@ status: "source-checked"
 
 In the end, the dance teacher Vellai Ayyar had mentioned lived in nearby Tirukkottiyur. The town was one of the sacred places of Tirumal. During the temple chariot festivals there, the Pattamangalam Ambalakkarar would customarily receive ceremonial honours from the temple.
 
-Beautiful streets around the temple, a tank facing it, a flower garden where blossoms needed for worship were grown, and a magnificent gopuram with a golden covering gave Tirukkottiyur a charm of its own! The chariot of that town was an offering of the Maruthu Pandiyars.
+Beautiful streets around the temple, a tank facing it, a flower garden where blossoms needed for worship were grown, and a magnificent gopuram with a golden covering gave Tirukkottiyur a charm of its own! The chariot of that town was sponsored by the Maruthu Pandiyars.
 
 There also stood a stone-and-mortar building that Sivagangai’s queen Velu Nachiyar—who fought a valiant war against the white men—had built for wartime needs.
 
@@ -29,7 +29,7 @@ also lived in that very town. A little away from the street stood two houses fac
 
 Sundarambal may have been about twenty years old; Vadivambal was two or three years younger. Only the houses stood opposite each other—for three quarters of every day Vadivambal would be at her elder sister Sundarambal’s house! No one in that area thought less of them merely because they were queens of the art of dance.
 
-There are, are there not, hasty people who, the moment they hear that women belong to the arts, regard them as commodities for sale? Whatever the field—even if women live under strict discipline in domestic life, even within the prison of the home—who can restrain a woman whose mind is determined to stray? The circumstances particular to the arts can make the women who enter them susceptible more easily. That is all!
+There are, are there not, hasty people who, the moment they hear that women belong to the arts, regard them as commodities for sale? Whatever the field—even if women live under strict discipline in domestic life, even within the prison of the home—who can restrain a woman whose mind is determined to stray? The circumstances peculiar to the arts can make women involved in them more easily susceptible to temptation. That is all!
 
 The Kural,
 

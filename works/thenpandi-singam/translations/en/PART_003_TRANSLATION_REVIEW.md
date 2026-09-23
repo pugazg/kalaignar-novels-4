@@ -122,4 +122,17 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 whole-Part bilingual review across Tamil + English / scans54–78.**
+**Part003 release/readiness report.**
+
+
+## Post-editorial bilingual state
+
+- Part003 whole-Part bilingual review — **PASS / CLOSED**
+- Tamil/English pairs — **4/4 PASS**
+- glossary correction rechecked — **1/1 PASS**
+- editorial correction sites rechecked — **11/11**
+- further bilingual English-only corrections — **3**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+
+Durable record: `PART_003_BILINGUAL_REVIEW.md`.
