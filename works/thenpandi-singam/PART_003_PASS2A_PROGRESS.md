@@ -80,8 +80,8 @@ Zero-correction reviewed scans — **55, 56, 57, 59, 62, 64, 66, 67, 68, 69, 70,
 - page status promotions — **0**
 - all scans54–78 remain `status: "needs-review"`
 - all scans54–78 remain `visual_fidelity: "needs-review"`
-- Pass2B — **NOT STARTED**
-- Pass3 — **NOT STARTED**
+- Pass2B — **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
+- Pass3 — **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - Part001 / Part002 — **FINAL CLOSED / FROZEN**
 - Part004 leakage — **0**
 
@@ -103,6 +103,6 @@ The direct textual verification gate is closed. No page is promoted to verified 
 
 ## Exact next activity
 
-**Part003 Pass2B — scans54–63 / local pages1–10.**
+**Part003 whole-Part audit — scans54–78 / local pages1–25.**
 
 Pass2B must independently reread lexical identity, source-visible spacing/punctuation, source-era forms and historical/reform-sensitive glyphs directly against rendered source pixels. Keep all Part003 records `needs-review` / visual `needs-review`; do not begin Pass3 until Pass2B closes.

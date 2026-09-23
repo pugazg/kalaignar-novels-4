@@ -107,7 +107,7 @@ Cumulative zero-correction Pass2B scans — **54, 55, 56, 57, 59, 60, 61, 62, 63
 
 - all Part003 pages remain `status: "needs-review"`
 - all Part003 pages remain `visual_fidelity: "needs-review"`
-- Pass3 — **NOT STARTED**
+- Pass3 — **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - Part001 / Part002 — **FINAL CLOSED / FROZEN**
 - Part004 canonical leakage — **0**
 
@@ -119,6 +119,16 @@ The independent lexical / historical-glyph gate is closed. No page is promoted t
 
 ## Exact next activity
 
-**Part003 Pass3 — scans54–78 / local pages1–25.**
+**Part003 whole-Part audit — scans54–78 / local pages1–25.**
 
 Pass3 must perform full rendered-page visual / structural verification: displayed hierarchy, paragraph/dialogue block structure, printed pagination, page furniture, illustrated chapter openings, chapter-closing ornaments / blank fields, and physical cross-page continuations. Keep all Part003 records `needs-review` / visual `needs-review` until later gates authorize promotion.
+
+
+## Current downstream Pass3 state
+
+- Part003 Pass3 — **COMPLETE / PASS — 25/25 REVIEWED**
+- Pass3 textual corrections — **0**
+- unresolved Pass3 visual / structural questions — **0**
+- status promotions — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 whole-Part audit — scans54–78 / local pages1–25**

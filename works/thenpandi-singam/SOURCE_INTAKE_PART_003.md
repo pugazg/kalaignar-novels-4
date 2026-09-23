@@ -194,7 +194,7 @@ Durable progress: `PART_003_PASS1_PROGRESS.md`.
 - all Part003 pages remain `status: "needs-review"`
 - all Part003 pages remain `visual_fidelity: "needs-review"`
 - Part004 leakage — **0**
-- exact next activity — **Part003 Pass3 scans54–78 / local pages1–25**
+- exact next activity — **Part003 whole-Part audit scans54–78 / local pages1–25**
 
 Durable Pass2A progress: `PART_003_PASS2A_PROGRESS.md`.
 - Part003 Pass2B — **COMPLETE / PASS — 25/25 REVIEWED**
@@ -204,5 +204,16 @@ Durable Pass2A progress: `PART_003_PASS2A_PROGRESS.md`.
 - Pass2B historical-glyph corrections — **0**
 - unresolved Pass2B questions — **0**
 - Pass2B status promotions — **0**
-- Part003 Pass3 — **NOT STARTED**
+- Part003 Pass3 — **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - durable Pass2B progress — `PART_003_PASS2B_PROGRESS.md`
+
+
+## Downstream Pass3 state
+
+- Part003 Pass3 — **COMPLETE / PASS — 25/25 REVIEWED**
+- Pass3 textual corrections — **0**
+- unresolved Pass3 visual / structural questions — **0**
+- page status promotions — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 whole-Part audit scans54–78 / local pages1–25**
+- durable Pass3 progress — `PART_003_PASS3_PROGRESS.md`
