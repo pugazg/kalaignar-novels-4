@@ -389,3 +389,63 @@ Exact next gate: **Part002 final closure — PASS / CLOSED / FROZEN**.
 Durable record: `../../PART_002_FINAL_CLOSURE.md`.
 
 Exact next activity: **Part003 source intake when supplied**.
+
+
+## Part003 English planning downstream state
+
+**PART003 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- reserved batches — **E9–E12 / 4**
+- planned maintained English files — **4**
+- batch map — **E9 section14/scan54; E10 section15/scans55–61; E11 section16/scans62–70; E12 section17/scans71–78**
+- translated/source-checked — **0/4 / 0/4**
+- unresolved planning holds — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- English literary prose drafted in planning — **0**
+- Part004 leakage — **0**
+- incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next gate — **E9 draft + source-check — section14 / scan54**
+- durable controls — `translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
+
+
+## Part003 planning/setup state
+
+**PART003 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+Created:
+
+- `PART_003_TRANSLATION_PLAN.md`
+- `PART_003_GLOSSARY.md`
+- `PART_003_PROGRESS.md`
+
+Planning result:
+
+- reserved batches — **E9–E12 / 4**
+- planned maintained English files — **4**
+- translated files — **0/4**
+- source-checked files — **0/4**
+- unresolved planning holds — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- English literary prose drafted in planning — **0**
+- frozen Part001/Part002 English edits — **0**
+- Part004 leakage — **0**
+
+### Part003 batch map
+
+| Batch | Tamil coverage | Scans | Planned English file | State |
+|---|---|---:|---|---|
+| E9 | section14 — chapter6 Part003 continuation/close | 54 | `sections/14-chapter-06-part003.md` | **PLANNED / NOT STARTED** |
+| E10 | section15 — chapter7 | 55–61 | `sections/15-chapter-07.md` | **PLANNED / NOT STARTED** |
+| E11 | section16 — chapter8 | 62–70 | `sections/16-chapter-08.md` | **PLANNED / NOT STARTED** |
+| E12 | section17 — chapter9 Part003 portion | 71–78 | `sections/17-chapter-09-part003.md` | **PLANNED / NOT STARTED** |
+
+Incoming 53→54 is **GENUINE CONTINUATION / AUDITED**. Outgoing 78→79 remains **PENDING direct audit / source-limited**.
+
+## Exact next gate
+
+**E9 draft + source-check — section14 / scan54.**
+
+Do not begin E10 until E9 closes **SOURCE-CHECKED / COMPLETE**.

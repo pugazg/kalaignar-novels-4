@@ -108,7 +108,7 @@ Do not reopen or normalize canonical Tamil merely because the project advances i
 
 Exact next stage:
 
-**Part003 English translation planning/setup.**
+**E9 draft + source-check — section14 / scan54.**
 
 Assembly rules:
 
@@ -149,5 +149,24 @@ Do not begin English until assembled Tamil closes.
 - unresolved assembly blockers — **0**
 - incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next gate — **Part003 English translation planning/setup — reserve E9–E12**
+- exact next gate — **E9 draft + source-check — section14 / scan54**
 - durable validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+
+
+## Part003 English planning downstream state
+
+**PART003 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- reserved batches — **E9–E12 / 4**
+- planned maintained English files — **4**
+- batch map — **E9 section14/scan54; E10 section15/scans55–61; E11 section16/scans62–70; E12 section17/scans71–78**
+- translated/source-checked — **0/4 / 0/4**
+- unresolved planning holds — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- English literary prose drafted in planning — **0**
+- Part004 leakage — **0**
+- incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next gate — **E9 draft + source-check — section14 / scan54**
+- durable controls — `translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`

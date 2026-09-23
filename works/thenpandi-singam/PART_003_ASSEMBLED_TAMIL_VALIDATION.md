@@ -151,6 +151,25 @@ The source-limited 78→79 boundary remains pending by design and is preserved w
 
 ## Exact next gate
 
-**Part003 English translation planning/setup.**
+**E9 draft + source-check — section14 / scan54.**
 
 The next non-colliding English batch range is **E9–E12**, corresponding to the four maintained Part003 Tamil sections. Planning/setup must close **COMPLETE / PASS** before English literary prose is drafted.
+
+
+## Part003 English planning downstream state
+
+**PART003 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- reserved batches — **E9–E12 / 4**
+- planned maintained English files — **4**
+- batch map — **E9 section14/scan54; E10 section15/scans55–61; E11 section16/scans62–70; E12 section17/scans71–78**
+- translated/source-checked — **0/4 / 0/4**
+- unresolved planning holds — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- English literary prose drafted in planning — **0**
+- Part004 leakage — **0**
+- incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next gate — **E9 draft + source-check — section14 / scan54**
+- durable controls — `translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`

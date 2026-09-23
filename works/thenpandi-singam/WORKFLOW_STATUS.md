@@ -52,7 +52,7 @@ Part001:
 - Part002 release-ready synchronization — **PASS / CLOSED — 0 post-release body drift**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **ACTIVE / ASSEMBLED TAMIL CLOSED — ENGLISH PLANNING NEXT**
+- Part003 — **ACTIVE / ENGLISH PLANNING COMPLETE — E9 NEXT**
 - Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 local pages / global scans — **25 / 54–78**
 - Part003 canonical records — **25/25**
@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part003 English translation planning/setup.**
+**E9 draft + source-check — section14 / scan54.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -121,7 +121,7 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - needs-review Tamil / visual pages — **0 / 0**
 - canonical Tamil body changes caused by status sync — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 English translation planning/setup — reserve E9–E12**
+- exact next activity — **E9 draft + source-check — section14 / scan54**
 - durable status sync — `PART_003_FINAL_STATUS_SYNC.md`
 
 
@@ -133,7 +133,7 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - page-map verified rows — **25/25**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 English translation planning/setup — reserve E9–E12**
+- exact next activity — **E9 draft + source-check — section14 / scan54**
 - durable documentation sync — `PART_003_DOCUMENTATION_SYNC.md`
 
 
@@ -145,7 +145,7 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - needs-review Tamil / visual pages — **0 / 0**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 English translation planning/setup — reserve E9–E12**
+- exact next activity — **E9 draft + source-check — section14 / scan54**
 - durable archival-ready checkpoint — `PART_003_TAMIL_ARCHIVAL_READY.md`
 
 
@@ -168,5 +168,24 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - unresolved assembly blockers — **0**
 - incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next gate — **Part003 English translation planning/setup — reserve E9–E12**
+- exact next gate — **E9 draft + source-check — section14 / scan54**
 - durable validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+
+
+## Part003 English planning downstream state
+
+**PART003 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- reserved batches — **E9–E12 / 4**
+- planned maintained English files — **4**
+- batch map — **E9 section14/scan54; E10 section15/scans55–61; E11 section16/scans62–70; E12 section17/scans71–78**
+- translated/source-checked — **0/4 / 0/4**
+- unresolved planning holds — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- English literary prose drafted in planning — **0**
+- Part004 leakage — **0**
+- incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next gate — **E9 draft + source-check — section14 / scan54**
+- durable controls — `translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
