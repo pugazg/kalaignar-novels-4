@@ -45,7 +45,7 @@ A glow like the eastern dawn slowly rose over Kalyani Nachiyar’s face!
 
 “Vairamuthan’s arguments supported me! They were stronger than the points I had made. Vairamuthan said firmly and clearly that Karutha Adappan’s words should not be brushed aside!”
 
-Was that Kalyani Nachiyar’s face—or the radiance of seven suns? Was it the same face that had been divided by doubt only a short while ago?
+Was that Kalyani Nachiyar’s face—or the radiance of seven suns? Was it the same face that, only a short while ago, had been of two minds?
 
 “Vairamutha! When have I ever acted against you? Even so, is it so easy to think of the highs and lows that have existed since our ancestors’ time as ordinary mounds and hollows and level them with a spade?”
 

@@ -127,4 +127,16 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 English editorial review across all 4 maintained English files / scans54–78.**
+**Part003 whole-Part bilingual review across Tamil + English / scans54–78.**
+
+
+## Post-reconciliation editorial state
+
+- Part003 English editorial review — **PASS / CLOSED**
+- files reviewed / edited — **4/4 / 4/4**
+- English-only editorial corrections — **11**
+- glossary locks altered — **0**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+
+Durable record: `PART_003_TRANSLATION_REVIEW.md`.

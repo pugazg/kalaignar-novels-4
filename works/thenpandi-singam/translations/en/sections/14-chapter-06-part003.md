@@ -13,7 +13,7 @@ status: "source-checked"
 
 <!-- incoming audited boundary: scan 53 → scan 54; continuation from frozen Part002 chapter6; physical split `அசைக்க / முடியாத` -->
 
-Wasn't that unshakeable confidence what was driving her to take on the kitchen duties!
+Was it not that unshakeable confidence that was driving her to take on the kitchen duties!
 
 At that moment, seeing manager Meganathan arrive there, Vaalukku Veli said, “Meganathan! Do you know the news? Today Kalyani too is taking part in the cooking for the feast!”—as though he were announcing some great piece of world news!
 

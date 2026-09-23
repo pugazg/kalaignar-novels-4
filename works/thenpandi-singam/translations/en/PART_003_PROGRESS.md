@@ -66,7 +66,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 English editorial review across all 4 maintained English files / scans54–78.**
+**Part003 whole-Part bilingual review across Tamil + English / scans54–78.**
 
 Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -116,4 +116,16 @@ Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.
 - English files changed — **1/4**
 - terminology corrections — **1**
 - unresolved holds — **0**
-- exact next gate — **Part003 English editorial review across all 4 maintained English files / scans54–78**
+- exact next gate — **Part003 whole-Part bilingual review across Tamil + English / scans54–78**
+
+
+## English editorial review closure
+
+- editorial review — **PASS / CLOSED**
+- files reviewed / edited — **4/4 / 4/4**
+- English-only editorial corrections — **11**
+- glossary locks altered — **0**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen earlier-Part English edits — **0**
+- exact next gate — **Part003 whole-Part bilingual review across Tamil + English / scans54–78**

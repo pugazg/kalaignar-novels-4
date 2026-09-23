@@ -17,7 +17,7 @@ In the end, the dance teacher Vellai Ayyar had mentioned lived in nearby Tirukko
 
 Beautiful streets around the temple, a tank facing it, a flower garden where blossoms needed for worship were grown, and a magnificent gopuram with a golden covering gave Tirukkottiyur a charm of its own! The chariot of that town was an offering of the Maruthu Pandiyars.
 
-There also stood a stone-and-mortar building that, according to the narration, Sivagangai’s queen Velu Nachiyar—who fought a valiant war against the white men—had built for wartime needs.
+There also stood a stone-and-mortar building that Sivagangai’s queen Velu Nachiyar—who fought a valiant war against the white men—had built for wartime needs.
 
 That small town had an importance in the pages of history and in puranic and epic accounts! It is also said that Ramanujar leapt from the gopuram of that town!
 
@@ -48,7 +48,7 @@ That day Sundarambal was very tired because she had spent a long time rehearsing
 
 Sundari bolted the street door and began removing her clothes so that she could bathe. The full-length mirror in the hall reflected the beauty of her half-clad form.
 
-“Hot water is ready, Amma!” called the maid. Sundari tied around herself a thin cloth that gave some cover above the breasts and below the girdle ornaments, then entered the bathroom. The hot water was washing away all the weariness of dancing.
+“Hot water is ready, Amma!” called the maid. Sundari tied around herself a thin cloth that could cover her to some extent from above the breasts down below the girdle ornaments, then entered the bathroom. The hot water was washing away all the weariness of dancing.
 
 <!-- source boundary: scan 73 → scan 74 -->
 
@@ -56,7 +56,7 @@ In the bathroom that little cloth hung abandoned on a wire clothesline. Once the
 
 After standing before the mirror and adorning herself, Sundarambal told the maid to hurry the cooking, then sat on the swing in the hall and rocked gently.
 
-Hearing a knock at the street door, she herself rose and opened it. Two men stood at the entrance ingratiatingly. Their faces made it clear that they belonged to that region.
+Hearing a knock at the street door, she herself rose and opened it. Two men stood at the entrance with ingratiating expressions; their faces made it clear that they belonged to that region.
 
 “We came to arrange a performance—may we come in?”
 
@@ -92,7 +92,7 @@ The two looked at each other and exchanged some meaning through their expression
 
 <!-- source boundary: scan 75 → scan 76 -->
 
-“Chi! Get up! Do you think that because this is a house of the Muse, it is the house of a woman for sale? Leave respectfully!”
+“Chi! Get up! Do you take the home of the Muse of Art for the home of a woman for sale? Leave respectfully!”
 
 “Sundari! Don’t talk so sharply! In a little while these white durais are going to rule this entire region. If you don’t submit to them...?”
 

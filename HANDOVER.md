@@ -112,7 +112,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
-- Part003 — **ACTIVE / GLOSSARY RECONCILED — EDITORIAL REVIEW NEXT**
+- Part003 — **ACTIVE / EDITORIAL REVIEW CLOSED — BILINGUAL REVIEW NEXT**
 - Parts004–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -163,7 +163,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **ACTIVE / GLOSSARY RECONCILED — EDITORIAL REVIEW NEXT**
+- Part003 — **ACTIVE / EDITORIAL REVIEW CLOSED — BILINGUAL REVIEW NEXT**
 - Part003 canonical records — **25/25**
 - Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 bytes — **48,354,306**
@@ -200,7 +200,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-**Part003 English editorial review across all 4 maintained English files / scans54–78.**
+**Part003 whole-Part bilingual review across Tamil + English / scans54–78.**
 
 Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** for scans54–78 with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All 25 canonical records are now `verified` / visual `verified`. Part001 and Part002 remain **FINAL CLOSED / FROZEN**. Do not begin Pass3 until all **25/25** Part003 pages complete Pass2B.
 
@@ -225,7 +225,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - needs-review Tamil / visual pages — **0 / 0**
 - canonical Tamil body changes caused by status sync — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 English editorial review across all 4 maintained English files / scans54–78**
+- exact next activity — **Part003 whole-Part bilingual review across Tamil + English / scans54–78**
 - durable status sync — `PART_003_FINAL_STATUS_SYNC.md`
 
 
@@ -237,7 +237,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - page-map verified rows — **25/25**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 English editorial review across all 4 maintained English files / scans54–78**
+- exact next activity — **Part003 whole-Part bilingual review across Tamil + English / scans54–78**
 - durable documentation sync — `PART_003_DOCUMENTATION_SYNC.md`
 
 
@@ -249,7 +249,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - needs-review Tamil / visual pages — **0 / 0**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 English editorial review across all 4 maintained English files / scans54–78**
+- exact next activity — **Part003 whole-Part bilingual review across Tamil + English / scans54–78**
 - durable archival-ready checkpoint — `PART_003_TAMIL_ARCHIVAL_READY.md`
 
 
@@ -272,7 +272,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - unresolved assembly blockers — **0**
 - incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next gate — **Part003 English editorial review across all 4 maintained English files / scans54–78**
+- exact next gate — **Part003 whole-Part bilingual review across Tamil + English / scans54–78**
 - durable validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 
 
@@ -291,7 +291,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part004 leakage — **0**
 - incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next gate — **Part003 English editorial review across all 4 maintained English files / scans54–78**
+- exact next gate — **Part003 whole-Part bilingual review across Tamil + English / scans54–78**
 - durable controls — `translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
 
 
@@ -304,7 +304,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - canonical / assembled Tamil edits — **0 / 0**
 - unresolved E9 holds — **0**
 - Part004 leakage — **0**
-- exact next gate — **Part003 English editorial review across all 4 maintained English files / scans54–78**
+- exact next gate — **Part003 whole-Part bilingual review across Tamil + English / scans54–78**
 - durable source-check — `translations/en/E9_SOURCE_CHECK.md`
 
 
@@ -319,7 +319,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - frozen Part001/Part002 English edits — **0**
 - Part004 leakage — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
-- exact next gate — **Part003 English editorial review across all 4 maintained English files / scans54–78**
+- exact next gate — **Part003 whole-Part bilingual review across Tamil + English / scans54–78**
 - durable source-check controls — `translations/en/E9_SOURCE_CHECK.md` through `E12_SOURCE_CHECK.md`
 
 
@@ -333,4 +333,16 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - canonical / assembled Tamil edits — **0 / 0**
 - frozen Part001/Part002 English edits — **0**
 - Part004 leakage — **0**
-- exact next gate — **Part003 English editorial review across all 4 maintained English files / scans54–78**
+- exact next gate — **Part003 whole-Part bilingual review across Tamil + English / scans54–78**
+
+
+## Part003 English editorial review downstream state
+
+- Part003 English editorial review — **PASS / CLOSED**
+- files reviewed / edited — **4/4 / 4/4**
+- English-only editorial corrections — **11**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen earlier-Part English edits — **0**
+- Part004 leakage — **0**
+- exact next gate — **Part003 whole-Part bilingual review across Tamil + English / scans54–78**

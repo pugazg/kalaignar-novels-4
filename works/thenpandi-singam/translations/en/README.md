@@ -446,7 +446,7 @@ Incoming 53→54 is **GENUINE CONTINUATION / AUDITED**. Outgoing 78→79 remains
 
 ## Exact next gate
 
-**Part003 English editorial review across all 4 maintained English files / scans54–78.**
+**Part003 whole-Part bilingual review across Tamil + English / scans54–78.**
 
 Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -491,7 +491,7 @@ Durable records:
 
 ## Exact next gate
 
-**Part003 English editorial review across all 4 maintained English files / scans54–78.**
+**Part003 whole-Part bilingual review across Tamil + English / scans54–78.**
 
 Do not begin editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -513,3 +513,22 @@ Do not begin editorial review until glossary reconciliation closes **RECONCILED 
 Durable record: `PART_003_GLOSSARY_RECONCILIATION.md`.
 
 Exact next gate: **Part003 English editorial review across all 4 maintained English files / scans54–78**.
+
+
+## Part003 English editorial review
+
+**PASS / CLOSED**
+
+- maintained English files reviewed — **4/4**
+- files with English-only edits — **4/4**
+- English-only editorial corrections — **11**
+- glossary locks altered — **0**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- Part004 leakage — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `PART_003_TRANSLATION_REVIEW.md`.
+
+Exact next gate: **Part003 whole-Part bilingual review across Tamil + English / scans54–78**.

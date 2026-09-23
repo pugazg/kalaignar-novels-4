@@ -27,7 +27,7 @@ Vairamuthan’s leaf rises like a hill of rabbit meat and venison! Eggs roll abo
 
 Those words must have sounded like sweet music to her—when the two words rang out clearly, Kalyani lost her composure. Yet her hands did not stop. Everything that had been on the silver plate moved onto his leaf.
 
-With no other choice, Vairamuthan suddenly touches her hand to stop her from continuing to serve! The moment his hand falls upon hers, an unknown warmth spreads through her from the crown of her head to the soles of her feet. She does not snatch her hand away. She leaves it joined with his. Could Vairamuthan endure any more than that?
+With no other choice, Vairamuthan suddenly touches her hand to stop her from continuing to serve! The moment his hand touches hers, an unknown warmth spreads through her from the crown of her head to the soles of her feet. She does not snatch her hand away. She leaves it joined with his. Could Vairamuthan endure any more than that?
 
 If even sages who had renounced everything, when confronted by a maiden fashioned by gathering together not only all the beauty found on earth but also the beauty of the heavens, could become Viswamitras at the sight of Menaka, could Vairamuthan’s youth-filled feelings alone remain crippled
 
@@ -41,7 +41,7 @@ and inert? Realizing that she has no wish to withdraw her hand from the hand tha
 
 “Fool! First learn to keep your sister under control!” Vairamuthan lifts a cudgel and raises it against him. Vaalukku Veli, Vallatharayan, Vellai Ayyar and the other guests rush up from their places. Kaadai and Kolathari spill all the feast dishes onto the floor and run. Meganathan stands there pale and shaken.
 
-“Kalyani! Is this the humiliation you bring upon a brother who loves you more broadly than the sea? A disgrace never seen in our lineage! How could you dare sow the seed of a shame unknown in any of the nadus of our people, who are held to be fields in which culture grows? Chi! Having shaken the honour of the clan, you must no longer remain alive! Either you must die, or I must die! I do not have the courage to cut down with my own hand the banner of our lineage that I myself raised. So I shall take the punishment for your fault upon myself.”
+“Kalyani! Is this the humiliation you bring upon a brother whose love for you is vaster than the sea? A disgrace never seen in our lineage! How could you dare sow the seed of a shame unknown in any of the nadus of our people—lands famed as fertile fields of culture? Chi! Having shaken the honour of the clan, you must no longer remain alive! Either you must die, or I must die! I do not have the courage to cut down with my own hand the banner of our lineage that I myself raised. So I shall take the punishment for your fault upon myself.”
 
 <!-- source boundary: scan 64 → scan 65 -->
 
@@ -53,7 +53,7 @@ Only when she regains consciousness and opens her eyes does Kalyani realize that
 
 Her shock does not last long! Afraid that the feast might be disrupted because of her, she immediately gets up and asks her brother Vaalukku Veli to return to the dining hall. Then, seeing the Pattamangalam people standing around where she is, she lowers her head in embarrassment.
 
-Seeing Vairamuthan among them, and seeing that his face has withered with concern because of the shock that had overcome her, gives her great comfort. Vallatharayan asks Vaalukku Veli a question that feels like an axe splitting the centre of his forehead:
+Seeing Vairamuthan among them, his face drawn with concern over her collapse, gives her great comfort. Vallatharayan asks Vaalukku Veli a question that feels like an axe splitting the centre of his forehead:
 
 “Does your sister often suffer seizures like this?”
 
@@ -71,7 +71,7 @@ Now fully recovered, Kalyani stands by the lattice window of her room and keeps 
 
 “How is the food? It is all the handiwork of my sister Kalyani! Why, it was from the exhaustion of cooking that Kalyani even fainted!”
 
-Pattamangalam’s review arrives at once in answer to Paganeri’s affectionate question. Vallatharayan begins describing the food...
+Pattamangalam’s critique comes at once in answer to Paganeri’s affectionate question. Vallatharayan begins describing the food...
 
 <!-- source boundary: scan 66 → scan 67 -->
 
