@@ -253,6 +253,6 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part003 incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part003 outgoing 78→79 — **PENDING direct audit / source-limited**
 - Part003 Pass1 — **COMPLETE / PASS — 25/25 TEXT-COMPLETE — scans54–78**
-- Part003 Pass2A — **IN PROGRESS — 10/25 REVIEWED — 10 corrections / 0 unresolved**
+- Part003 Pass2A — **IN PROGRESS — 20/25 REVIEWED — 15 corrections / 0 unresolved**
 - Part003 verified promotions — **0**
-- exact next activity — **Part003 Pass2A scans64–73 / local pages11–20**
+- exact next activity — **Part003 Pass2A scans74–78 / local pages21–25**
