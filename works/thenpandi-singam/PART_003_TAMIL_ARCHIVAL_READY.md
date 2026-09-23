@@ -170,3 +170,24 @@ Do not begin English until assembled Tamil closes.
 - outgoing 78→79 — **PENDING direct audit / source-limited**
 - exact next gate — **E9 draft + source-check — section14 / scan54**
 - durable controls — `translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
+
+
+## Part003 final closure downstream state
+
+**PART003 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+- Part004 leakage — **0**
+- final-closed Parts — **3**
+- exact next activity — **Part004 source intake when supplied**
+- durable closure — `PART_003_FINAL_CLOSURE.md`

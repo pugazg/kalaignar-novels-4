@@ -127,7 +127,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 final closure — PASS / CLOSED / FROZEN.**
+**Part004 source intake when supplied.**
 
 
 ## Post-reconciliation editorial state
@@ -140,3 +140,24 @@ Outgoing:
 - canonical / assembled Tamil edits — **0 / 0**
 
 Durable record: `PART_003_TRANSLATION_REVIEW.md`.
+
+
+## Part003 final closure downstream state
+
+**PART003 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+- Part004 leakage — **0**
+- final-closed Parts — **3**
+- exact next activity — **Part004 source intake when supplied**
+- durable closure — `PART_003_FINAL_CLOSURE.md`

@@ -288,3 +288,24 @@ Durable Pass2A progress: `PART_003_PASS2A_PROGRESS.md`.
 - outgoing 78→79 — **PENDING direct audit / source-limited**
 - exact next gate — **Part003 English translation planning/setup — reserve E9–E12**
 - durable validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+
+
+## Part003 final closure downstream state
+
+**PART003 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+- Part004 leakage — **0**
+- final-closed Parts — **3**
+- exact next activity — **Part004 source intake when supplied**
+- durable closure — `PART_003_FINAL_CLOSURE.md`
