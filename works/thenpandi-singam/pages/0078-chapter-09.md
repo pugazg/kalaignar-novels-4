@@ -76,4 +76,14 @@ transcription_method: "direct source-image transcription; Part003 Pass1 final ba
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass3, whole-Part audit and final metadata/status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 78; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 66; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->
+## Formal Part003 Pass 3 review
+
+- full rendered-page visual / structural comparison completed against the Part003 source image;
+- displayed-text hierarchy, paragraph/dialogue block structure, reading order, printed pagination where visible, and recurring page furniture: **PASS**;
+- structural result: Part003 terminal standard body page; completes `இடம் என்று / தெரியாமல்`; final supplied fragment `இப்போது உங்கள்` remains visibly open; outgoing 78→79 remains pending direct audit / source-limited;
+- Pass3 textual corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 78; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 66; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->
