@@ -1,0 +1,168 @@
+# தென்பாண்டிச் சிங்கம் — Part004 Source Intake
+
+## Result
+
+**SOURCE INTAKE — COMPLETE / PASS**
+
+This record registers the supplied Part004 source exactly as inspected. It does not perform canonical Pass1 transcription beyond the minimum direct source reading needed for structural intake and the adjacent 78→79 boundary audit.
+
+## Source identity
+
+- work — **தென்பாண்டிச் சிங்கம்**
+- author — **கலைஞர் மு. கருணாநிதி**
+- source family / archive identifier — **TVA_BOK_0065559**
+- exact source filename — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf`
+- byte size — **49,851,018**
+- SHA-256 — `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41`
+- local physical pages — **27**
+- global physical scans — **79–105**
+- local→global mapping — local1=scan79 through local27=scan105
+- embedded/parsed text layer — **absent / unusable**
+- controlling representation — **rendered source page images**
+- source PDF storage rule — **outside Git**
+
+The 27-page physical extent was established directly from the supplied PDF. The global range continues immediately after frozen Part003 scan78.
+
+## First physical scan — local1 / global79
+
+Direct rendered-source inspection establishes:
+
+- printed folio — **67**
+- chapter — **9 continuation and close**
+- page type — standard body continuation followed by chapter-closing ornaments
+- first source text begins:
+
+`மனோரநிலை சரியில்லை. அதனால் பிறகு வருகிறேன். வணக்கம்.”`
+
+- three source-visible chapter-closing ornaments are present at the bottom.
+
+This scan is the direct adjacent witness required to classify frozen Part003's outgoing 78→79 boundary.
+
+## Incoming boundary audit — 78→79
+
+Frozen Part003 scan78 / printed66 ends:
+
+`இப்போது உங்கள்`
+
+Part004 scan79 / printed67 begins:
+
+`மனோரநிலை சரியில்லை. அதனால் பிறகு வருகிறேன். வணக்கம்.”`
+
+The direct sentence therefore continues across the physical split as:
+
+`இப்போது உங்கள் / மனோரநிலை சரியில்லை. அதனால் பிறகு வருகிறேன். வணக்கம்.”`
+
+### Boundary decision
+
+**78→79 = GENUINE CONTINUATION / AUDITED**
+
+- direct adjacent scans compared — **PASS**
+- chapter continuity — **chapter9 → chapter9**
+- printed pagination — **66→67**
+- inferred bridge text — **0**
+- frozen Part003 canonical Tamil body changes — **0**
+- frozen Part003 assembled Tamil body changes — **0**
+- frozen Part003 maintained English body changes — **0**
+- Part004 body text imported into Part003 — **0**
+
+This is boundary-evidence completion only. Part003 remains **FINAL CLOSED / FROZEN**.
+
+## Structural intake landmarks
+
+These are source-intake landmarks only. Pass1 remains responsible for exact canonical transcription and per-page structural classification.
+
+1. local1 / scan79 / printed67 — chapter9 continuation and close; closing ornaments.
+2. local2 / scan80 — illustrated chapter **10** opening; displayed numeral **10**; no source-visible folio.
+3. local11 / scan89 / printed77 — chapter10 close with source-visible closing ornaments.
+4. local12 / scan90 — illustrated chapter **11** opening; displayed numeral **11**; no source-visible folio.
+5. local19 / scan97 — full-page illustration; no source-visible folio / no literary body text.
+6. local20 / scan98 — blank / illustration-verso page with only faint show-through; no source-visible folio / no literary body text.
+7. local23 / scan101 / printed87 — chapter11 close with source-visible closing ornaments.
+8. local24 / scan102 — illustrated chapter **12** opening; displayed numeral **12**; no source-visible folio.
+9. local27 / scan105 / printed91 — chapter12 continuation; Part004 terminal physical scan; source remains open into the next Part.
+
+Visible printed folios directly observed begin at **67** and end at **91**. The illustrated chapter-opening scans80, 90 and 102 have no source-visible folio. Scans97–98 are an inserted illustration leaf / verso and likewise carry no source-visible folio.
+
+## Chapter span
+
+Part004 physically contains:
+
+- chapter9 — final continuation/close at scan79;
+- chapter10 — scans80–89;
+- chapter11 — scans90–101, including the inserted illustration leaf / verso at scans97–98;
+- chapter12 — scans102–105 and still open at the Part boundary.
+
+No Part005 text is inferred.
+
+## Last physical scan — local27 / global105
+
+Direct rendered-source inspection establishes:
+
+- printed folio — **91**
+- chapter — **12 continuation**
+- page type — body
+- final supplied page remains structurally open
+- no source-supported chapter close is visible.
+
+Outgoing boundary:
+
+**105→106 = PENDING direct audit / source-limited**
+
+Part005 has not been supplied, so no boundary classification is fabricated and no continuation text is inferred.
+
+## Registration state
+
+After this intake:
+
+- registered Parts — **4 / 18**
+- registered physical scans — **105**
+- global registered range — **1–105**
+- canonical page records — **78**
+- final-closed Parts — **3**
+- active transcription Part — **Part004**
+- Part004 source intake — **COMPLETE / PASS**
+- Part004 canonical page records — **0/27**
+- Part004 Pass1 — **NOT STARTED**
+- Part005–Part018 — **not registered**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+
+## Part003 freeze protection
+
+Part003 remains **FINAL CLOSED / FROZEN**.
+
+Boundary-evidence completion caused:
+
+- Part003 canonical Tamil body edits — **0**
+- Part003 assembled Tamil body edits — **0**
+- Part003 maintained English body edits — **0**
+- stylistic normalization — **0**
+- inferred continuation — **0**
+
+Only lifecycle/boundary/provenance controls record the newly available 78→79 evidence.
+
+## Canonical Pass1 handoff
+
+Exact next activity:
+
+**Part004 Pass1 — scans79–88 / local pages1–10.**
+
+Pass1 must:
+
+- create one canonical page record per physical scan;
+- use global `scan_page` values **79–88** for the first batch;
+- set `part: 4` and local `part_page: 1–10`;
+- keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
+- transcribe only direct source-visible Tamil;
+- preserve the scan78→79 physical continuation as provenance without copying frozen scan78 body text into scan79;
+- record the illustrated chapter10 opener structurally and use `printed_page: null` where the folio is not source-visible;
+- preserve recurring page furniture as source metadata, not duplicated literary prose;
+- do not infer Part005 / scan106 text.
+
+## Decision
+
+**PART004 SOURCE INTAKE — COMPLETE / PASS**
+
+Part004 is now the active transcription Part.
+
+**STOP here. Pass1 is the next gate.**

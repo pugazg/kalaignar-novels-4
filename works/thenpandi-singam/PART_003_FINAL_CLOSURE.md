@@ -177,3 +177,20 @@ No Part004 metadata is guessed.
 - exact next activity — **Part004 source intake when supplied**
 
 **STOP here. Part003 is FINAL CLOSED / FROZEN.**
+
+
+## Post-freeze Part004 boundary evidence completion
+
+Part004 has now been supplied and registered:
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf`
+- local physical pages — **27**
+- global scans — **79–105**
+- first scan — **scan79 / printed67**
+- direct adjacent comparison — **78→79 = GENUINE CONTINUATION / AUDITED**
+- physical continuation — `இப்போது உங்கள் / மனோரநிலை சரியில்லை. அதனால் பிறகு வருகிறேன். வணக்கம்.”`
+- Part003 canonical / assembled / maintained-English body changes — **0 / 0 / 0**
+- inferred bridge text — **0**
+- Part003 remains — **FINAL CLOSED / FROZEN**
+- Part004 outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 Pass1 scans79–88 / local pages1–10**
