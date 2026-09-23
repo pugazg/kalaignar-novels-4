@@ -66,7 +66,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 release/readiness report.**
+**Part003 release-ready synchronization.**
 
 Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -116,7 +116,7 @@ Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.
 - English files changed — **1/4**
 - terminology corrections — **1**
 - unresolved holds — **0**
-- exact next gate — **Part003 release/readiness report**
+- exact next gate — **Part003 release-ready synchronization**
 
 
 ## English editorial review closure
@@ -128,7 +128,7 @@ Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.
 - unresolved editorial holds — **0**
 - canonical / assembled Tamil edits — **0 / 0**
 - frozen earlier-Part English edits — **0**
-- exact next gate — **Part003 release/readiness report**
+- exact next gate — **Part003 release-ready synchronization**
 
 
 ## Whole-Part bilingual review closure
@@ -141,4 +141,14 @@ Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.
 - files changed — **2/4**
 - unresolved bilingual holds — **0**
 - canonical / assembled Tamil edits — **0 / 0**
-- exact next gate — **Part003 release/readiness report**
+- exact next gate — **Part003 release-ready synchronization**
+
+
+## Release/readiness closure
+
+- release/readiness — **PASS / CLOSED**
+- unresolved blockers — **0**
+- source PDFs in active work tree — **0**
+- canonical / assembled / English body changes — **0 / 0 / 0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+- exact next gate — **Part003 release-ready synchronization**

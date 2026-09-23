@@ -127,7 +127,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 release/readiness report.**
+**Part003 release-ready synchronization.**
 
 
 ## Post-reconciliation editorial state

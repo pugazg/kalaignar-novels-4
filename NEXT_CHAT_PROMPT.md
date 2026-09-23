@@ -1,30 +1,28 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 release-readiness
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 release-ready synchronization
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Part001 and Part002 are **FINAL CLOSED / FROZEN**.
 
-## Part003 closed gates
+## Part003 release state
 
 - canonical Tamil — **25/25 verified**
 - visual fidelity — **25/25 verified**
 - assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
-- E9–E12 — **4/4 SOURCE-CHECKED / COMPLETE**
-- glossary reconciliation — **RECONCILED / PASS — 1 correction**
-- English editorial review — **PASS / CLOSED — 11 corrections**
-- whole-Part bilingual review — **PASS / CLOSED — 3 further English-only corrections**
-- unresolved Tamil/English holds — **0**
+- English E9–E12 — **4/4 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- unresolved blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- E12 terminal fragment — **“Now your”**
 
 ## Exact next activity
 
-Perform **Part003 release/readiness report**.
+Perform **Part003 release-ready synchronization**.
 
-Audit release invariants, control-document consistency, maintained-file inventory, canonical/assembled/English status, source-boundary integrity, unresolved blockers, accidental source-PDF/artifact leakage, and Part004 leakage.
+Synchronize lifecycle/status/navigation controls only. Do not alter canonical Tamil, assembled Tamil body or maintained English body.
 
-Release/readiness must not change canonical, assembled or English literary body text.
+Create `works/thenpandi-singam/PART_003_RELEASE_READY_SYNC.md`.
 
-Create `translations/en/PART_003_RELEASE_REPORT.md`.
-
-If PASS / CLOSED, exact next gate becomes **Part003 release-ready synchronization**.
+After synchronization closes **PASS / CLOSED**, perform **Part003 final closure — PASS / CLOSED / FROZEN**.

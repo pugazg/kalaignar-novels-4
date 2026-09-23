@@ -446,7 +446,7 @@ Incoming 53→54 is **GENUINE CONTINUATION / AUDITED**. Outgoing 78→79 remains
 
 ## Exact next gate
 
-**Part003 release/readiness report.**
+**Part003 release-ready synchronization.**
 
 Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -491,7 +491,7 @@ Durable records:
 
 ## Exact next gate
 
-**Part003 release/readiness report.**
+**Part003 release-ready synchronization.**
 
 Do not begin editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -553,3 +553,18 @@ Exact next gate: **Part003 whole-Part bilingual review across Tamil + English / 
 Durable record: `PART_003_BILINGUAL_REVIEW.md`.
 
 Exact next gate: **Part003 release/readiness report**.
+
+
+## Part003 release/readiness
+
+**PASS / CLOSED**
+
+- unresolved release/readiness blockers — **0**
+- canonical / assembled / English body changes — **0 / 0 / 0**
+- source-PDF paths under active work — **0**
+- Part004 leakage — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `PART_003_RELEASE_REPORT.md`.
+
+Exact next gate: **Part003 release-ready synchronization**.
