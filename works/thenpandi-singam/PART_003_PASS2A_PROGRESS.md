@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS — 20/25 REVIEWED**
+**PASS 2A — COMPLETE / PASS — 25/25 REVIEWED**
 
 Source:
 
@@ -15,15 +15,15 @@ Source:
 
 ## Completed Pass2A scope
 
-Direct textual fidelity review completed for:
+Direct textual fidelity review is complete for:
 
-- global scans — **54–73**
-- local pages — **1–20**
-- canonical records reviewed — **20/25**
-- reviewed pages passing — **20/20**
+- global scans — **54–78**
+- local pages — **1–25**
+- canonical records reviewed — **25/25**
+- reviewed pages passing — **25/25**
 - unresolved textual questions — **0**
 
-For every reviewed scan, Pass2A checked directly against the rendered source image:
+For every Part003 scan, Pass2A checked directly against the rendered source image:
 
 - source wording and visible word boundaries;
 - punctuation, quotation marks and source-visible hyphenation;
@@ -33,7 +33,7 @@ For every reviewed scan, Pass2A checked directly against the rendered source ima
 - physical page-boundary continuations;
 - separation of literary text from illustration / ornaments / blank fields.
 
-## Correction ledger — scans54–73
+## Correction ledger — scans54–78
 
 | Scan | Printed | Before | Source-confirmed after | Classification |
 |---:|:---:|---|---|---|
@@ -52,57 +52,57 @@ For every reviewed scan, Pass2A checked directly against the rendered source ima
 | 72 | 60 | `வயதிருக்கலாம்-வடிவாம்பாள்` | `வயதிருக்கலாம்- வடிவாம்பாள்` | source spacing after hyphen |
 | 72 | 60 | Kural `‘…’` | Kural `“…”` | source quotation marks |
 | 72 | 60 | `செய்யும் மகளிர்` | `செய்யும்மகளிர்` | source word joining |
+| 74 | 62 | `வாங்களேன்!` | `வாருங்களேன்!` | source lexical reading |
+| 78 | 66 | `தெரிந்தால் கூட` | `தெரிந்தால்கூட` | source word joining |
+| 78 | 66 | opening quote absent before `இல்லை! மிகவும் நன்றி.. நான்..` | opening quote restored | source quotation mark |
+| 78 | 66 | `அம்பலக்காரரையும்` | `அம்பலக் காரரையும்` | source word spacing |
 
-Cumulative Pass2A source-text corrections — **15**.
+Pass2A source-text corrections — **19**.
 
-Affected scans — **54, 58, 60, 61, 63, 65, 71, 72**.
+Affected scans — **54, 58, 60, 61, 63, 65, 71, 72, 74, 78**.
 
-Zero-correction reviewed scans — **55, 56, 57, 59, 62, 64, 66, 67, 68, 69, 70, 73**.
+Zero-correction reviewed scans — **55, 56, 57, 59, 62, 64, 66, 67, 68, 69, 70, 73, 75, 76, 77**.
 
-## Batch result — scans64–73
+## Final batch — scans74–78 / local pages21–25
 
-**10/10 REVIEWED / PASS**
+**5/5 REVIEWED / PASS**
 
-- scan64 / printed52 — **0 corrections**
-- scan65 / printed53 — **1 correction**
-- scan66 / printed54 — **0 corrections**
-- scan67 / printed55 — **0 corrections**
-- scan68 / printed56 — **0 corrections**
-- scan69 / printed57 — **0 corrections**
-- scan70 / printed58 — **0 corrections**; chapter8 close / three closing ornaments preserved structurally
-- scan71 / no visible folio — **1 correction**; illustrated chapter9 opening preserved with `printed_page: null`
-- scan72 / printed60 — **3 corrections**
-- scan73 / printed61 — **0 corrections**
+- scan74 / printed62 — **1 correction**
+- scan75 / printed63 — **0 corrections**
+- scan76 / printed64 — **0 corrections**
+- scan77 / printed65 — **0 corrections**
+- scan78 / printed66 — **3 corrections**
+- scan77→78 physical continuation `இடம் என்று / தெரியாமல்` — **PRESERVED / PASS**
+- outgoing 78→79 remains **PENDING direct audit / source-limited**; no Part004 text was inferred.
 
 ## Status discipline
 
 - page status promotions — **0**
-- reviewed scans54–73 remain `status: "needs-review"`
-- reviewed scans54–73 remain `visual_fidelity: "needs-review"`
-- remaining scans74–78 remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- all scans54–78 remain `status: "needs-review"`
+- all scans54–78 remain `visual_fidelity: "needs-review"`
 - Pass2B — **NOT STARTED**
 - Pass3 — **NOT STARTED**
 - Part001 / Part002 — **FINAL CLOSED / FROZEN**
 - Part004 leakage — **0**
 
-## Current accounting
+## Final accounting
 
 - Part003 canonical records — **25/25**
 - Pass1 — **COMPLETE / PASS — 25/25**
-- Pass2A — **20/25 REVIEWED**
-- cumulative Pass2A corrections — **15**
+- Pass2A — **COMPLETE / PASS — 25/25 REVIEWED**
+- Pass2A corrections — **19**
 - unresolved Pass2A questions — **0**
 - verified Part003 pages — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
 
-## Gate state
+## Gate result
 
-**PASS 2A — IN PROGRESS — 20/25 REVIEWED — 15 corrections / 0 unresolved**
+**PASS 2A — COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**
 
-No page is promoted to verified at this stage.
+The direct textual verification gate is closed. No page is promoted to verified at this stage.
 
 ## Exact next activity
 
-**Part003 Pass2A — scans74–78 / local pages21–25.**
+**Part003 Pass2B — scans54–63 / local pages1–10.**
 
-Do not begin Pass2B until all **25/25** Part003 pages complete Pass2A.
+Pass2B must independently reread lexical identity, source-visible spacing/punctuation, source-era forms and historical/reform-sensitive glyphs directly against rendered source pixels. Keep all Part003 records `needs-review` / visual `needs-review`; do not begin Pass3 until Pass2B closes.

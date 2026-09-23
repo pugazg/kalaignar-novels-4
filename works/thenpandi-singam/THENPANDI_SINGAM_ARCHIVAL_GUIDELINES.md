@@ -239,7 +239,7 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part002 release-ready synchronization — **PASS / CLOSED — 0 post-release body drift**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **ACTIVE / PASS2A IN PROGRESS — 10/25 REVIEWED**
+- Part003 — **ACTIVE / PASS2A COMPLETE — PASS2B NEXT**
 - Part001 unresolved English source-check holds — **0**
 - Part001 translated/source-checked English files — **10/10 / 10/10**
 - Part001 canonical Tamil — **26/26 verified**
@@ -253,6 +253,6 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part003 incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part003 outgoing 78→79 — **PENDING direct audit / source-limited**
 - Part003 Pass1 — **COMPLETE / PASS — 25/25 TEXT-COMPLETE — scans54–78**
-- Part003 Pass2A — **IN PROGRESS — 20/25 REVIEWED — 15 corrections / 0 unresolved**
+- Part003 Pass2A — **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**
 - Part003 verified promotions — **0**
-- exact next activity — **Part003 Pass2A scans74–78 / local pages21–25**
+- exact next activity — **Part003 Pass2B scans54–63 / local pages1–10**

@@ -185,15 +185,16 @@ Durable progress: `PART_003_PASS1_PROGRESS.md`.
 ## Downstream Pass2A state
 
 - Part003 Pass1 — **COMPLETE / PASS — 25/25 TEXT-COMPLETE**
-- Part003 Pass2A — **IN PROGRESS — 20/25 REVIEWED**
-- reviewed scans — **54–73 / local pages1–20**
-- Pass2A source-text corrections — **15**
-- affected scans — **54, 58, 60, 61, 63, 65, 71, 72**
+- Part003 Pass2A — **COMPLETE / PASS — 25/25 REVIEWED**
+- reviewed scans — **54–78 / local pages1–25**
+- Pass2A source-text corrections — **19**
+- affected scans — **54, 58, 60, 61, 63, 65, 71, 72, 74, 78**
 - unresolved Pass2A questions — **0**
 - page status promotions — **0**
 - all Part003 pages remain `status: "needs-review"`
 - all Part003 pages remain `visual_fidelity: "needs-review"`
 - Part004 leakage — **0**
-- exact next activity — **Part003 Pass2A scans74–78 / local pages21–25**
+- exact next activity — **Part003 Pass2B scans54–63 / local pages1–10**
 
 Durable Pass2A progress: `PART_003_PASS2A_PROGRESS.md`.
+- Part003 Pass2B — **NOT STARTED**

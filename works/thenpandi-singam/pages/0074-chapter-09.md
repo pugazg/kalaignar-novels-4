@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part003 Pass1 final ba
 
 “ஒரு நிகழ்ச்சிக்கு ஏற்பாடு செய்ய வந்தோம்-உள்ளே வரலாமா?”
 
-“வாங்களேன்!”
+“வாருங்களேன்!”
 
 இருவரும் ஒருவரையொருவர் பார்த்து ஏதோ முகக் குறிப்பால் உணர்த்தியவாறு உள்ளே நுழைந்தார்கள். கூடத்தில் இருந்த இரண்டு நாற்காலிகளைக் காட்டி அவர்களை உட்காரச் சொன்னாள் சுந்தரி!
 
@@ -33,4 +33,13 @@ transcription_method: "direct source-image transcription; Part003 Pass1 final ba
 - source-visible punctuation and paragraph order retained;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 74; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 62; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part003 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against the rendered Part003 source image;
+- source-text corrections: **1**;
+- correction: `வாங்களேன்!` → `வாருங்களேன்!` — source-confirmed lexical reading;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 74; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 62; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->

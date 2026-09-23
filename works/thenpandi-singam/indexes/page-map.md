@@ -79,11 +79,11 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 003 | 18 | 71 | — | chapter 9 opening; illustrated; printed folio not source-visible; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0071-chapter-09.md` |
 | 003 | 19 | 72 | 60 | chapter 9 continuation; completes `நாட்டியப் பேரரசியாக / விளங்கிய`; Pass1 text-complete; Pass2A reviewed / **3 corrections** | needs-review | `pages/0072-chapter-09.md` |
 | 003 | 20 | 73 | 61 | chapter 9 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0073-chapter-09.md` |
-| 003 | 21 | 74 | 62 | chapter 9 continuation; Pass1 text-complete | needs-review | `pages/0074-chapter-09.md` |
-| 003 | 22 | 75 | 63 | chapter 9 continuation; dialogue sequence continues to scan76; Pass1 text-complete | needs-review | `pages/0075-chapter-09.md` |
-| 003 | 23 | 76 | 64 | chapter 9 continuation; Pass1 text-complete | needs-review | `pages/0076-chapter-09.md` |
-| 003 | 24 | 77 | 65 | chapter 9 continuation; physical phrase `இடம் என்று / தெரியாமல்` continues to scan78; Pass1 text-complete | needs-review | `pages/0077-chapter-09.md` |
-| 003 | 25 | 78 | 66 | Part003 terminal chapter9 continuation; ends on open fragment `இப்போது உங்கள்`; 78→79 pending witness; Pass1 text-complete | needs-review | `pages/0078-chapter-09.md` |
+| 003 | 21 | 74 | 62 | chapter 9 continuation; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0074-chapter-09.md` |
+| 003 | 22 | 75 | 63 | chapter 9 continuation; dialogue sequence continues to scan76; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0075-chapter-09.md` |
+| 003 | 23 | 76 | 64 | chapter 9 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0076-chapter-09.md` |
+| 003 | 24 | 77 | 65 | chapter 9 continuation; physical phrase `இடம் என்று / தெரியாமல்` continues to scan78; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0077-chapter-09.md` |
+| 003 | 25 | 78 | 66 | Part003 terminal chapter9 continuation; ends on open fragment `இப்போது உங்கள்`; 78→79 pending witness; Pass1 text-complete; Pass2A reviewed / **3 corrections** | needs-review | `pages/0078-chapter-09.md` |
 
 ## Intake observations
 
@@ -178,5 +178,5 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part003 canonical records: **25/25**
 - Part003 outgoing 78→79: **PENDING direct audit / source-limited**
 - Part003 Pass1: **COMPLETE / PASS — 25/25 TEXT-COMPLETE — scans54–78**
-- Part003 Pass2A: **IN PROGRESS — 20/25 REVIEWED — 15 corrections / 0 unresolved**
-- exact next activity: **Part003 Pass2A scans74–78 / local pages21–25**
+- Part003 Pass2A: **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**
+- exact next activity: **Part003 Pass2B scans54–63 / local pages1–10**
