@@ -66,7 +66,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 whole-Part English glossary reconciliation across E9–E12.**
+**Part003 English editorial review across all 4 maintained English files / scans54–78.**
 
 Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -107,3 +107,13 @@ Do not begin English editorial review until glossary reconciliation closes **REC
 ## Exact next activity
 
 Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.
+
+
+## Glossary reconciliation closure
+
+- whole-Part glossary — **RECONCILED / PASS**
+- English files checked — **4/4**
+- English files changed — **1/4**
+- terminology corrections — **1**
+- unresolved holds — **0**
+- exact next gate — **Part003 English editorial review across all 4 maintained English files / scans54–78**

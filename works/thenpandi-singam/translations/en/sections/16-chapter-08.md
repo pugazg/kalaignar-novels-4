@@ -97,7 +97,7 @@ After Vairamuthan’s words of praise, it was as though a rain of ice fell upon 
 
 At that moment, more than her brother’s teasing, it was Vairamuthan’s praise that gave Kalyani sweetness mixed from sugar-candy and honey.
 
-The feast ends; now comes the scene of taking leave! Kalyani too comes and stands near her brother. Vallatharayan embraces Vaalukku Veli and takes leave. Vairamuthan and Karutha Adappan embrace one another.
+The feast ends; now comes the scene of taking leave! Kalyani too comes and stands near her brother. Vallatharayan embraces Vaalukkuveli and takes leave. Vairamuthan and Karutha Adappan embrace one another.
 
 At that moment Kalyani, half hidden behind a pillar near her brother, unconsciously embraces and strokes the pillar with her hands. Kalyani—Vairamuthan; four eyes meet! It was because Vallatharayan had noticed this from the very beginning, both at the temple and at the place where they held the chariot rope, that he had asked, “Does Kalyani suffer seizures?” His calculation was that perhaps this would cause some change in Vairamuthan’s mind!
 

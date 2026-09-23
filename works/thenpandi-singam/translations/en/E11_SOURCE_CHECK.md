@@ -107,3 +107,12 @@ After excluding YAML and provenance comments:
 - internal source-boundary comments — **8 / 8 retained**
 
 The one-block count difference is expected: the source physically splits Vellai Ayyar’s sentence at scan65→66 around a non-rendering source-boundary comment, while the English renders that one sentence as one continuous literary paragraph. Source content is neither omitted nor duplicated.
+
+
+## Post-source-check glossary reconciliation
+
+Whole-Part reconciliation corrected one source-visible joined name occurrence in this file:
+
+- `வாளுக்குவேலி` — **Vaalukku Veli → Vaalukkuveli**
+
+This is an English-only terminology correction; E11 remains **SOURCE-CHECKED / COMPLETE**.

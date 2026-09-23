@@ -225,7 +225,7 @@ Part004 canonical transcription remains blocked until Part003 final closure.
 
 ## Exact next gate
 
-**Part003 whole-Part English glossary reconciliation across E9–E12.**
+**Part003 English editorial review across all 4 maintained English files / scans54–78.**
 
 
 ## E9 source-check closure
@@ -261,4 +261,4 @@ Durable records: `E9_SOURCE_CHECK.md` through `E12_SOURCE_CHECK.md`.
 
 ## Exact next gate
 
-**Part003 whole-Part English glossary reconciliation across E9–E12.**
+**Part003 English editorial review across all 4 maintained English files / scans54–78.**

@@ -446,7 +446,7 @@ Incoming 53→54 is **GENUINE CONTINUATION / AUDITED**. Outgoing 78→79 remains
 
 ## Exact next gate
 
-**Part003 whole-Part English glossary reconciliation across E9–E12.**
+**Part003 English editorial review across all 4 maintained English files / scans54–78.**
 
 Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -491,6 +491,25 @@ Durable records:
 
 ## Exact next gate
 
-**Part003 whole-Part English glossary reconciliation across E9–E12.**
+**Part003 English editorial review across all 4 maintained English files / scans54–78.**
 
 Do not begin editorial review until glossary reconciliation closes **RECONCILED / PASS**.
+
+
+## Part003 whole-Part glossary reconciliation
+
+**RECONCILED / PASS**
+
+- maintained English files checked — **4/4**
+- English files changed — **1/4**
+- terminology occurrences corrected — **1**
+- source distinction restored — **Vaalukku Veli / Vaalukkuveli**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- Part004 leakage — **0**
+- 78→79 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `PART_003_GLOSSARY_RECONCILIATION.md`.
+
+Exact next gate: **Part003 English editorial review across all 4 maintained English files / scans54–78**.

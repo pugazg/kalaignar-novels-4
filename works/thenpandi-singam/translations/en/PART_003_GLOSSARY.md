@@ -116,7 +116,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 whole-Part English glossary reconciliation across E9–E12.**
+**Part003 English editorial review across all 4 maintained English files / scans54–78.**
 
 
 ## E9 source-check term state
@@ -156,4 +156,22 @@ E12 keeps `வெள்ளைக்காரத் துரை மகனுக�
 
 ## Exact next gate
 
-**Part003 whole-Part English glossary reconciliation across E9–E12.**
+**Part003 English editorial review across all 4 maintained English files / scans54–78.**
+
+
+## Whole-Part reconciliation closure
+
+**RECONCILED / PASS**
+
+- files checked — **4/4**
+- files changed — **1/4**
+- terminology occurrences corrected — **1**
+- corrected source distinction — `வாளுக்குவேலி` → **Vaalukkuveli** in section16
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- Part004 leakage — **0**
+
+Durable record: `PART_003_GLOSSARY_RECONCILIATION.md`.
+
+Exact next gate: **Part003 English editorial review across all 4 maintained English files / scans54–78**.
