@@ -1,6 +1,6 @@
 # Part 003 — English Translation Plan — தென்பாண்டிச் சிங்கம்
 
-Status: **PLANNING/SETUP — COMPLETE / PASS**
+Status: **E9 SOURCE-CHECKED / COMPLETE — E10 NEXT**
 
 This is the control plan for the project-created English translation of **Part003 only**.
 
@@ -216,3 +216,18 @@ Part004 canonical transcription remains blocked until Part003 final closure.
 ## Exact next gate
 
 **E9 draft + source-check — section14 / scan54.**
+
+
+## E9 source-check closure
+
+- E9 — **SOURCE-CHECKED / COMPLETE — section14 / scan54**
+- maintained Part003 English files — **1/4 translated / 1/4 source-checked**
+- Tamil / English literary blocks — **4/4**
+- incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- frozen E8 body changes — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- unresolved E9 holds — **0**
+- Part004 leakage — **0**
+- exact next gate — **E10 draft + source-check — section15 / scans55–61**
+
+Durable record: `E9_SOURCE_CHECK.md`.

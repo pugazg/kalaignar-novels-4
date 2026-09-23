@@ -230,8 +230,8 @@ Controls:
 Planning result:
 - reserved batches — **E5–E8 / 4**
 - planned maintained Part002 English files — **4**
-- translated files — **0/4**
-- source-checked files — **0/4**
+- translated files — **1/4**
+- source-checked files — **1/4**
 - unresolved planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -437,7 +437,7 @@ Planning result:
 
 | Batch | Tamil coverage | Scans | Planned English file | State |
 |---|---|---:|---|---|
-| E9 | section14 — chapter6 Part003 continuation/close | 54 | `sections/14-chapter-06-part003.md` | **PLANNED / NOT STARTED** |
+| E9 | section14 — chapter6 Part003 continuation/close | 54 | `sections/14-chapter-06-part003.md` | **SOURCE-CHECKED / COMPLETE** |
 | E10 | section15 — chapter7 | 55–61 | `sections/15-chapter-07.md` | **PLANNED / NOT STARTED** |
 | E11 | section16 — chapter8 | 62–70 | `sections/16-chapter-08.md` | **PLANNED / NOT STARTED** |
 | E12 | section17 — chapter9 Part003 portion | 71–78 | `sections/17-chapter-09-part003.md` | **PLANNED / NOT STARTED** |
@@ -446,6 +446,25 @@ Incoming 53→54 is **GENUINE CONTINUATION / AUDITED**. Outgoing 78→79 remains
 
 ## Exact next gate
 
-**E9 draft + source-check — section14 / scan54.**
+**E10 draft + source-check — section15 / scans55–61.**
 
-Do not begin E10 until E9 closes **SOURCE-CHECKED / COMPLETE**.
+Do not begin E11 until E10 closes **SOURCE-CHECKED / COMPLETE**.
+
+
+## Part003 E9 source-check
+
+**E9 — SOURCE-CHECKED / COMPLETE.**
+
+- English file — `sections/14-chapter-06-part003.md`
+- Tamil authority — `../../sections/14-chapter-06-part003.md`
+- scans — **54**
+- literary blocks — **4/4**
+- incoming 53→54 audited provenance — **retained**
+- frozen E8 body changes — **0**
+- unresolved E9 holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part004 leakage — **0**
+
+Durable record: `E9_SOURCE_CHECK.md`.
+
+Exact next gate: **E10 draft + source-check — section15 / scans55–61**.

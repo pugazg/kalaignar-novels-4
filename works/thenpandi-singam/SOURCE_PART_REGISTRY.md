@@ -157,7 +157,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **2**
-- Part003: **ACTIVE / ENGLISH PLANNING COMPLETE — E9 NEXT**
+- Part003: **ACTIVE / E9 SOURCE-CHECKED — E10 NEXT**
 - Part003 canonical records: **25/25**
 - Part003 Pass1: **COMPLETE / PASS — 25/25 TEXT-COMPLETE — scans54–78**
 - Part003 Pass2A: **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**
@@ -193,7 +193,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - needs-review Tamil / visual pages — **0 / 0**
 - canonical Tamil body changes caused by status sync — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **E9 draft + source-check — section14 / scan54**
+- exact next activity — **E10 draft + source-check — section15 / scans55–61**
 - durable status sync — `PART_003_FINAL_STATUS_SYNC.md`
 
 
@@ -205,7 +205,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - page-map verified rows — **25/25**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **E9 draft + source-check — section14 / scan54**
+- exact next activity — **E10 draft + source-check — section15 / scans55–61**
 - durable documentation sync — `PART_003_DOCUMENTATION_SYNC.md`
 
 
@@ -217,7 +217,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - needs-review Tamil / visual pages — **0 / 0**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **E9 draft + source-check — section14 / scan54**
+- exact next activity — **E10 draft + source-check — section15 / scans55–61**
 - durable archival-ready checkpoint — `PART_003_TAMIL_ARCHIVAL_READY.md`
 
 
@@ -240,7 +240,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - unresolved assembly blockers — **0**
 - incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next gate — **E9 draft + source-check — section14 / scan54**
+- exact next gate — **E10 draft + source-check — section15 / scans55–61**
 - durable validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 
 
@@ -259,5 +259,18 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part004 leakage — **0**
 - incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next gate — **E9 draft + source-check — section14 / scan54**
+- exact next gate — **E10 draft + source-check — section15 / scans55–61**
 - durable controls — `translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
+
+
+## Part003 E9 English downstream state
+
+- E9 — **SOURCE-CHECKED / COMPLETE — section14 / scan54**
+- Part003 translated/source-checked — **1/4 / 1/4**
+- incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- frozen Part002 E8 body changes — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- unresolved E9 holds — **0**
+- Part004 leakage — **0**
+- exact next gate — **E10 draft + source-check — section15 / scans55–61**
+- durable source-check — `translations/en/E9_SOURCE_CHECK.md`

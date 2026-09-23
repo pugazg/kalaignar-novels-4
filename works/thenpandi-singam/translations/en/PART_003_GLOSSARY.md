@@ -1,6 +1,6 @@
 # Part 003 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **PLANNING LOCK — ACTIVE**
+Status: **E9 SOURCE-CHECKED / E10 NEXT**
 
 This glossary is derived only from verified Part003 Tamil, the closed Part003 assembled Tamil reading layer, and already source-checked project forms from frozen Parts001–002.
 
@@ -116,4 +116,21 @@ Outgoing:
 
 ## Exact next gate
 
-**E9 draft + source-check — section14 / scan54.**
+**E10 draft + source-check — section15 / scans55–61.**
+
+
+## E9 source-check term state
+
+E9 confirmed the planning locks without introducing a new transliteration hold:
+
+- `வாளுக்கு வேலி` → **Vaalukku Veli**
+- `மேகநாதன்` → **Meganathan**
+- `கல்யாணி நாச்சியார்` → **Kalyani Nachiyar**
+- `பட்டமங்கலம்` → **Pattamangalam**
+- audited cross-page `அசைக்க / முடியாத` → source sense **unshakeable** in the E9 opening continuation
+
+- unresolved E9 glossary holds — **0**
+- frozen earlier-Part English edits — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+
+Exact next gate: **E10 draft + source-check — section15 / scans55–61**.
