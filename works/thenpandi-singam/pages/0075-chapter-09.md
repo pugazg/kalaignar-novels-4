@@ -37,7 +37,7 @@ transcription_method: "direct source-image transcription; Part003 Pass1 final ba
 
 “என்ன சொல்கிறீர்கள்?”
 
-“புரியவில்லையா? இன்றைக்கு ராத்திரி துரை முகாம் போட்டிருக்கிற இடத்துக்கு வரணும்! அவரைச் சந்தோஷப்படுத்தணும்! அதுக்காக எவ்வளவு தொகை வேணும்னு கேட்டாலும்...”
+“புரியவில்லையா? இன்னைக்கு ராத்திரி துரை முகாம் போட்டிருக்கிற இடத்துக்கு வரணும்! அவரைச் சந்தோஷப்படுத்தணும்! அதுக்காக எவ்வளவு தொகை வேணும்னு கேட்டாலும்...”
 
 ## Pass 1 notes
 
@@ -54,4 +54,14 @@ transcription_method: "direct source-image transcription; Part003 Pass1 final ba
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, whole-Part audit and final metadata/status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 75; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 63; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+## Formal Part003 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the rendered Part003 source image;
+- lexical / spacing / punctuation corrections: **1**;
+- correction: `இன்றைக்கு` → `இன்னைக்கு` — source-confirmed colloquial lexical form;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass3, whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 75; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 63; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->

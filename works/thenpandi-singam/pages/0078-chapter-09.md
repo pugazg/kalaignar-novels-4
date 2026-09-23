@@ -25,7 +25,7 @@ transcription_method: "direct source-image transcription; Part003 Pass1 final ba
 
 “ஆபத்தில் நீங்கள் செய்த உதவிக்கு எங்கள் வீட்டில் ஒரு கிண்ணம் பாலாவது சாப்பிடுங்கள்.”
 
-“இல்லை! மிகவும் நன்றி.. நான்..” கருத்த ஆதப்பன் ஏதோ கூறிட வாயெடுத்துப் பிறகு நிறுத்திக் கொண்டான்.
+இல்லை! மிகவும் நன்றி.. நான்..” கருத்த ஆதப்பன் ஏதோ கூறிட வாயெடுத்துப் பிறகு நிறுத்திக் கொண்டான்.
 
 “எப்படியோ நல்ல சமயத்தில் வந்தீர்கள்!”
 
@@ -41,7 +41,7 @@ transcription_method: "direct source-image transcription; Part003 Pass1 final ba
 
 “உங்களுக்கு எங்கள் குடும்பத்தைப் பற்றிய விபரங்கள் முழுமையாகத் தெரியாது!”
 
-“தெரியாவிட்டாலும் பாகனேரி அம்பலக் காரரையும் அவர் தம்பி உங்களைப் பற்றியும் கேள்விப்பட்டிருக்கிறேன்...”
+“தெரியாவிட்டாலும் பாகனேரி அம்பலக் காரரையும் அவர் தம்பி உங்களைப் பற்றியும் கேள்விப்பட்டிருக்கிறேன்...” -
 
 “அப்படியா? மகிழ்ச்சி... என் தங்கை கல்யாணிக்கு நடனம் கற்றுத் தர வேண்டுமென்றும் அதுபற்றி விபரமாகப் பேசுவதற்கும் வந்தேன். இப்போது உங்கள்
 
@@ -65,4 +65,15 @@ transcription_method: "direct source-image transcription; Part003 Pass1 final ba
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, whole-Part audit and final metadata/status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 78; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 66; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+## Formal Part003 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the rendered Part003 source image;
+- lexical / spacing / punctuation corrections: **2**;
+- correction: removed the Pass2A-added opening quotation mark before `இல்லை! மிகவும் நன்றி.. நான்..` because the source visibly begins without it;
+- correction: restored source-visible trailing ` -` after `கேள்விப்பட்டிருக்கிறேன்...”`;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass3, whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 78; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 66; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->

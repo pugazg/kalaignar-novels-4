@@ -48,4 +48,13 @@ transcription_method: "direct source-image transcription; Part003 Pass1 final ba
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, whole-Part audit and final metadata/status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 77; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 65; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+## Formal Part003 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the rendered Part003 source image;
+- lexical / spacing / punctuation corrections: **0**;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass3, whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 77; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 65; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->
