@@ -25,7 +25,7 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 
 “அப்படியா? ஏன் கல்யாணி, உண்மைதானா?”
 
-அவள் தலை “ஆம்” என்று அசைந்தது! கன்னங்களும் கண்களும் தாங்கள் கொண்ட வெட்க உணர்வை வெளிப்படுத்தாமல் இருக்க முயன்று தோற்றுப் போயின.
+அவள் தலை “ஆம்” என்று அசைந்தது! கன்னங்களும் கண்களும் தாங்கள் கொண்ட வெட்க உணர்வை வெளிப்படுத்தாமலிருக்க முயன்று தோற்றுப் போயின.
 
 “கல்யாணிக்கு உதவியாக, நான் கூட இன்று அடுக்களைக்குப் போகப் போகிறேன்.”
 
@@ -49,4 +49,14 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, whole-Part audit and final metadata/status synchronization.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 58; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: 46; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+## Formal Part003 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against the rendered Part003 source image;
+- lexical / spacing / punctuation corrections: **1**;
+- correction: `வெளிப்படுத்தாமல் இருக்க` → `வெளிப்படுத்தாமலிருக்க` — source-visible word joining;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending completion of Pass2B, Pass3, whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 58; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: 46; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->
