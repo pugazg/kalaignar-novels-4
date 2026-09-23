@@ -84,6 +84,16 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 003 | 23 | 76 | 64 | chapter 9 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | verified | `pages/0076-chapter-09.md` |
 | 003 | 24 | 77 | 65 | chapter 9 continuation; physical phrase `இடம் என்று / தெரியாமல்` continues to scan78; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | verified | `pages/0077-chapter-09.md` |
 | 003 | 25 | 78 | 66 | Part003 terminal chapter9 continuation; ends on open fragment `இப்போது உங்கள்`; 78→79 pending witness; Pass1 text-complete; Pass2A reviewed / **3 corrections**; Pass2B reviewed / **2 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | verified | `pages/0078-chapter-09.md` |
+| 004 | 1 | 79 | 67 | chapter 9 continuation and close; incoming 78→79 audited; closing ornaments; Pass1 text-complete | needs-review | `pages/0079-chapter-09.md` |
+| 004 | 2 | 80 | — | chapter 10 opening; illustrated; printed folio not source-visible; Pass1 text-complete | needs-review | `pages/0080-chapter-10.md` |
+| 004 | 3 | 81 | 69 | chapter 10 continuation; completes `நான் / கவலைப்படவில்லையண்ணா!`; Pass1 text-complete | needs-review | `pages/0081-chapter-10.md` |
+| 004 | 4 | 82 | 70 | chapter 10 continuation; Pass1 text-complete | needs-review | `pages/0082-chapter-10.md` |
+| 004 | 5 | 83 | 71 | chapter 10 continuation; Pass1 text-complete | needs-review | `pages/0083-chapter-10.md` |
+| 004 | 6 | 84 | 72 | chapter 10 continuation / dialogue; Pass1 text-complete | needs-review | `pages/0084-chapter-10.md` |
+| 004 | 7 | 85 | 73 | chapter 10 continuation; Pass1 text-complete | needs-review | `pages/0085-chapter-10.md` |
+| 004 | 8 | 86 | 74 | chapter 10 continuation; Pass1 text-complete | needs-review | `pages/0086-chapter-10.md` |
+| 004 | 9 | 87 | 75 | chapter 10 continuation; rhythmic dance syllables retained; Pass1 text-complete | needs-review | `pages/0087-chapter-10.md` |
+| 004 | 10 | 88 | 76 | chapter 10 continuation; ends on open fragment `அப்போது அவன்`; Pass1 text-complete | needs-review | `pages/0088-chapter-10.md` |
 
 ## Intake observations
 
@@ -274,3 +284,12 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - final-closed Parts — **3**
 - exact next activity — **Part004 source intake when supplied**
 - durable closure — `PART_003_FINAL_CLOSURE.md`
+
+
+## Part004 Pass1 Batch 1 downstream state
+
+- canonical rows created — **10 / scans79–88**
+- status — **needs-review 10/10**
+- visual fidelity — **needs-review 10/10**
+- unresolved Pass1 holds — **0**
+- exact next activity — **Part004 Pass1 scans89–98 / local pages11–20**
