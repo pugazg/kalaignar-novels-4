@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS — 10/25 REVIEWED**
+**PASS 2B — IN PROGRESS — 20/25 REVIEWED**
 
 Prerequisites:
 
@@ -17,7 +17,7 @@ Scope:
 
 - Part003 overall scans — **54–78**
 - local pages — **1–25**
-- completed Pass2B batch — **scans54–63 / local pages1–10**
+- completed Pass2B coverage — **scans54–73 / local pages1–20**
 - controlling source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 
 ## Pass2B method
@@ -54,18 +54,44 @@ Batch accounting:
 
 Zero-correction reviewed scans — **54, 55, 56, 57, 59, 60, 61, 62, 63**.
 
+## Completed batch 2 — scans64–73 / local pages11–20
+
+**10/10 REVIEWED / PASS**
+
+### Correction ledger
+
+| Scan | Printed | Before | Source-confirmed after | Classification |
+|---:|:---:|---|---|---|
+| 65 | 53 | `நடந்த அத்தனையும்` | `நடந்தது அத்தனையும்` | source lexical / inflectional correction |
+
+Batch accounting:
+
+- reviewed scans — **64–73 / 10 pages**
+- lexical / spacing / punctuation correction occurrences — **1**
+- affected scans — **1 — scan65**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- Part004 leakage — **0**
+- scan70 chapter8 close / three closing ornaments — **PRESERVED**
+- scan71 illustrated chapter9 opening / no source-visible folio — **PRESERVED**
+
+Zero-correction reviewed scans — **64, 66, 67, 68, 69, 70, 71, 72, 73**.
+
 ## Current accounting
 
 - Part003 canonical records — **25/25**
 - Pass1 — **COMPLETE / PASS — 25/25**
 - Pass2A — **COMPLETE / PASS — 25/25 — 19 corrections / 0 unresolved**
-- Pass2B — **IN PROGRESS — 10/25 REVIEWED**
-- Pass2B lexical / spacing / punctuation corrections — **1**
-- Pass2B affected scans — **58**
+- Pass2B — **IN PROGRESS — 20/25 REVIEWED**
+- Pass2B lexical / spacing / punctuation corrections — **2**
+- Pass2B affected scans — **58, 65**
 - Pass2B historical-glyph corrections — **0**
 - unresolved Pass2B questions — **0**
 - verified Part003 pages — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
+
+Cumulative zero-correction Pass2B scans — **54, 55, 56, 57, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73**.
 
 ## Status discipline
 
@@ -77,10 +103,10 @@ Zero-correction reviewed scans — **54, 55, 56, 57, 59, 60, 61, 62, 63**.
 
 ## Gate state
 
-**PASS 2B — IN PROGRESS — 10/25 REVIEWED — 1 lexical/spacing/punctuation correction / 0 historical-glyph corrections / 0 unresolved**
+**PASS 2B — IN PROGRESS — 20/25 REVIEWED — 2 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 
 ## Exact next activity
 
-**Part003 Pass2B — scans64–73 / local pages11–20.**
+**Part003 Pass2B — scans74–78 / local pages21–25.**
 
 Do not begin Pass3 until all **25/25** Part003 pages complete Pass2B.
