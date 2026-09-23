@@ -9,7 +9,7 @@ This ledger records the user's **18 split source PDFs**.
 | 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **ACTIVE / Pass1 10/27** |
+| 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **ACTIVE / Pass1 20/27** |
 | 005 | pending | pending | pending | pending | pending | blocked | not started |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
@@ -339,7 +339,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - inserted illustration leaf / verso — scans97–98; no literary body text / no source-visible folio
 - last scan — printed page **91**, chapter12 open continuation
 - outgoing 105→106 — **PENDING direct audit / source-limited**
-- canonical Part004 page records — **10/27**
+- canonical Part004 page records — **20/27**
 - exact intake record — `SOURCE_INTAKE_PART_004.md`
 
 
@@ -360,10 +360,22 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 
 ## Part004 Pass1 Batch 1 state
 
-- Part004 Pass1 — **ACTIVE — 10/27 TEXT-COMPLETE**
-- completed scans — **79–88**
-- canonical Part004 records — **10/27**
-- total canonical page records — **88**
-- needs-review / visual needs-review — **10/10 / 10/10**
+- Part004 Pass1 — **ACTIVE — 20/27 TEXT-COMPLETE**
+- completed scans — **79–98**
+- canonical Part004 records — **20/27**
+- total canonical page records — **98**
+- needs-review / visual needs-review — **20/20 / 20/20**
 - unresolved Pass1 holds — **0**
-- exact next activity — **Part004 Pass1 scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+
+
+## Part004 Pass1 Batch 2 state
+
+- Part004 Pass1 — **ACTIVE — 20/27 TEXT-COMPLETE**
+- completed scans — **79–98**
+- canonical Part004 records — **20/27**
+- total canonical page records — **98**
+- needs-review / visual needs-review — **20/20 / 20/20**
+- unresolved Pass1 holds — **0**
+- scans97–98 — **illustration / blank structural records; no literary body text**
+- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**

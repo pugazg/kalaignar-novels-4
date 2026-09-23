@@ -117,12 +117,12 @@ After this intake:
 - registered Parts — **4 / 18**
 - registered physical scans — **105**
 - global registered range — **1–105**
-- canonical page records — **88**
+- canonical page records — **98**
 - final-closed Parts — **3**
 - active transcription Part — **Part004**
 - Part004 source intake — **COMPLETE / PASS**
-- Part004 canonical page records — **10/27**
-- Part004 Pass1 — **ACTIVE — 10/27 TEXT-COMPLETE**
+- Part004 canonical page records — **20/27**
+- Part004 Pass1 — **ACTIVE — 20/27 TEXT-COMPLETE**
 - Part005–Part018 — **not registered**
 - incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 105→106 — **PENDING direct audit / source-limited**
@@ -165,17 +165,32 @@ Pass1 must:
 
 Part004 is now the active transcription Part.
 
-**Pass1 Batch 1 is complete; scans89–98 are next.**
+**Pass1 Batches 1–2 are complete; final scans99–105 are next.**
 
 
 ## Downstream Pass1 Batch 1 state
 
-- Part004 Pass1 — **ACTIVE — 10/27 TEXT-COMPLETE**
-- completed scans — **79–88 / local pages1–10**
-- status / visual — **needs-review / needs-review on 10/10**
+- Part004 Pass1 — **ACTIVE — 20/27 TEXT-COMPLETE**
+- completed scans — **79–98 / local pages1–20**
+- status / visual — **needs-review / needs-review on 20/20**
 - unresolved Pass1 holds — **0**
-- canonical repository records — **88**
+- canonical repository records — **98**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass1 scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- durable progress — `PART_004_PASS1_PROGRESS.md`
+
+
+## Downstream Pass1 Batch 2 state
+
+- Part004 Pass1 — **ACTIVE — 20/27 TEXT-COMPLETE**
+- completed scans — **79–98 / local pages1–20**
+- canonical Part004 records — **20/27**
+- total canonical repository records — **98**
+- status / visual — **needs-review / needs-review on 20/20**
+- unresolved Pass1 holds — **0**
+- scans97–98 — **non-text illustration leaf / verso represented structurally**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
 - durable progress — `PART_004_PASS1_PROGRESS.md`

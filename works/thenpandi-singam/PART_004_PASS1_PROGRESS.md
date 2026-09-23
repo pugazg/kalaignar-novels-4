@@ -2,15 +2,15 @@
 
 ## Gate
 
-**PASS 1 — ACTIVE — 10/27 TEXT-COMPLETE**
+**PASS 1 — ACTIVE — 20/27 TEXT-COMPLETE**
 
 Completed canonical Pass1 records:
 
-- local pages — **1–10 / 27**
-- global scans — **79–88**
-- canonical Part004 records created — **10**
-- status — **needs-review on 10/10**
-- visual fidelity — **needs-review on 10/10**
+- local pages — **1–20 / 27**
+- global scans — **79–98**
+- canonical Part004 records created — **20**
+- status — **needs-review on 20/20**
+- visual fidelity — **needs-review on 20/20**
 - verified promotions — **0**
 - unresolved Pass1 source-reading holds — **0**
 - frozen Part001–Part003 body edits — **0**
@@ -40,56 +40,86 @@ Completed canonical Pass1 records:
 | 9 | 87 | 75 | 10 | continuation; rhythmic dance syllables retained | TEXT-COMPLETE |
 | 10 | 88 | 76 | 10 | continuation; terminal fragment open to scan89 | TEXT-COMPLETE |
 
+## Batch 2 — scans89–98
+
+| Local | Scan | Printed | Chapter | Structural state | Pass1 |
+|---:|---:|---:|---:|---|---|
+| 11 | 89 | 77 | 10 | completes scan88 fragment; chapter10 close; closing ornaments | TEXT-COMPLETE |
+| 12 | 90 | — | 11 | illustrated chapter11 opening; no visible folio | TEXT-COMPLETE |
+| 13 | 91 | 79 | 11 | continuation | TEXT-COMPLETE |
+| 14 | 92 | 80 | 11 | continuation; terminal `அந்தப்` open to scan93 | TEXT-COMPLETE |
+| 15 | 93 | 81 | 11 | continuation; terminal `அம்பலக்` open to scan94 | TEXT-COMPLETE |
+| 16 | 94 | 82 | 11 | continuation; terminal `தன்னிருக்கையை` open to scan95 | TEXT-COMPLETE |
+| 17 | 95 | 83 | 11 | continuation; terminal `அந்தப் பகுதியில்` open to scan96 | TEXT-COMPLETE |
+| 18 | 96 | 84 | 11 | continuation; speech remains open across inserted non-text leaf | TEXT-COMPLETE |
+| 19 | 97 | — | 11 | full-page illustration; no literary body text | TEXT-COMPLETE |
+| 20 | 98 | — | 11 | illustration verso / blank; faint show-through only; no literary body text | TEXT-COMPLETE |
+
 ## Boundary / cross-page evidence
+
+Confirmed direct physical continuations:
 
 - frozen Part003 scan78 → Part004 scan79 — **GENUINE CONTINUATION / AUDITED**
   - split — `இப்போது உங்கள் / மனோரநிலை சரியில்லை`
 - scan80 → scan81 — `நான் / கவலைப்படவில்லையண்ணா!`
-- scan88 ends on open fragment — **`அப்போது அவன்`**
-- scan89 continuation is deferred to the next Pass1 batch; no wording is inferred into scan88.
-- Part004 outgoing 105→106 — **PENDING direct audit / source-limited**
+- scan88 → scan89 — `அப்போது அவன் / கண்ணிலும் ஆதப்பன் கண்ணிலும்`
+- scan92 → scan93 — `அந்தப் / படங்களை`
+- scan93 → scan94 — `அம்பலக் / காரர்களாகிய`
+- scan94 → scan95 — `தன்னிருக்கையை / விட்டுத்`
+- scan95 → scan96 — `அந்தப் பகுதியில் / பலம் பொருந்திய`
 
-No cross-page reconstruction was invented; each canonical record contains only text visible on that physical scan.
+Scan96 ends with an open speech. Scans97–98 are an inserted non-text illustration leaf / verso, so no literary wording is inferred through those physical scans. Direct continuation must be established from scan99 in the final Pass1 batch.
+
+Part004 outgoing 105→106 — **PENDING direct audit / source-limited**.
+
+No cross-page reconstruction was invented; every canonical record contains only source-visible content from that physical scan.
 
 ## Structural landmarks reached
 
 - scan79 closes chapter9.
 - scan80 opens chapter10; illustrated; no visible folio.
-- scans81–88 continue chapter10.
-- scan88 remains open into scan89.
+- scan89 closes chapter10.
+- scan90 opens chapter11; illustrated; no visible folio.
+- scans91–96 continue chapter11.
+- scan97 is a full-page illustration with no literary body text.
+- scan98 is the illustration verso / blank with faint show-through and no literary body text.
+- chapter11 literary text remains open from scan96 and must be continued only from direct scan99 evidence.
 
 ## Canonical-integrity rules retained
 
-All 10 records use:
+All 20 records use:
 
 - `part: 4`
-- local `part_page: 1–10`
+- local `part_page: 1–20`
 - exact Part004 source filename
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
-- direct source-image transcription
+- direct source-image transcription / structural representation
 - no invented illustration prose
 - no status promotion
 - no Part005 text import
 
 ## Current Pass1 accounting
 
-- Part004 Pass1 — **10/27 TEXT-COMPLETE**
-- canonical Part004 records — **10/27**
-- total canonical repository records — **88**
+- Part004 Pass1 — **20/27 TEXT-COMPLETE**
+- canonical Part004 records — **20/27**
+- total canonical repository records — **98**
 - unresolved Pass1 holds — **0**
 - verified promotions — **0**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
 
 ## Exact next activity
 
-**Part004 Pass1 — scans89–98 / local pages11–20.**
+**Part004 Pass1 final batch — scans99–105 / local pages21–27.**
 
-That batch includes:
+Expected structure from direct intake:
 
-- scan89 / printed77 — chapter10 close;
-- scan90 — illustrated chapter11 opener / no visible folio;
-- scans91–96 — chapter11 body;
-- scan97 — full-page illustration / no literary body text;
-- scan98 — illustration verso / faint show-through / no literary body text.
+- scans99–101 — chapter11 continuation/body;
+- scan101 / printed87 — chapter11 close with closing ornaments;
+- scan102 — illustrated chapter12 opener / no source-visible folio;
+- scans103–105 — chapter12 continuation;
+- scan105 / printed91 — Part004 terminal physical scan, chapter12 still open;
+- outgoing 105→106 — **PENDING direct audit / source-limited**.
 
 Do not infer Part005 / scan106.
