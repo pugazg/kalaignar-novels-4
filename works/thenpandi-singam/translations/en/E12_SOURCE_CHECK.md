@@ -114,3 +114,15 @@ No external standard translation of the Kural was imported; the English was deri
 Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.
 
 Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
+
+
+## Programmatic block-accounting note
+
+After excluding YAML and provenance comments:
+
+- Tamil Markdown literary/display blocks — **66**
+- English Markdown literary/display blocks — **68**
+- internal source-boundary comments — **7 / 7 retained**
+- outgoing pending-boundary comment — **1 / 1 retained**
+
+The two extra English Markdown blocks are formatting-only: the Tamil Kural plus its explanation occur in one source paragraph block, while English keeps the Kural introduction, displayed couplet and source explanation as separate readable blocks. No Tamil literary content is omitted or duplicated.

@@ -151,7 +151,7 @@ The source-limited 78→79 boundary remains pending by design and is preserved w
 
 ## Exact next gate
 
-**E10 draft + source-check — section15 / scans55–61.**
+**Part003 whole-Part English glossary reconciliation across E9–E12.**
 
 The next non-colliding English batch range is **E9–E12**, corresponding to the four maintained Part003 Tamil sections. Planning/setup must close **COMPLETE / PASS** before English literary prose is drafted.
 
@@ -171,7 +171,7 @@ The next non-colliding English batch range is **E9–E12**, corresponding to the
 - Part004 leakage — **0**
 - incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next gate — **E10 draft + source-check — section15 / scans55–61**
+- exact next gate — **Part003 whole-Part English glossary reconciliation across E9–E12**
 - durable controls — `translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
 
 
@@ -184,5 +184,20 @@ The next non-colliding English batch range is **E9–E12**, corresponding to the
 - canonical / assembled Tamil edits — **0 / 0**
 - unresolved E9 holds — **0**
 - Part004 leakage — **0**
-- exact next gate — **E10 draft + source-check — section15 / scans55–61**
+- exact next gate — **Part003 whole-Part English glossary reconciliation across E9–E12**
 - durable source-check — `translations/en/E9_SOURCE_CHECK.md`
+
+
+## Part003 E9–E12 English downstream state
+
+- E9–E12 — **SOURCE-CHECKED / COMPLETE**
+- maintained Part003 English files — **4/4**
+- translated/source-checked — **4/4 / 4/4**
+- physical source coverage — **scans54–78 / 25**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- Part004 leakage — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+- exact next gate — **Part003 whole-Part English glossary reconciliation across E9–E12**
+- durable source-check controls — `translations/en/E9_SOURCE_CHECK.md` through `E12_SOURCE_CHECK.md`

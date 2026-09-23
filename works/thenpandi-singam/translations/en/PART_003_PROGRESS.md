@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**E9 SOURCE-CHECKED / COMPLETE — E10 NEXT**
+**E9–E12 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -31,16 +31,16 @@ Reserved Part003 batches: **E9–E12**.
 | Batch | Tamil assembled coverage | Scans | Planned English file | State |
 |---|---|---:|---|---|
 | **E9** | section14 — chapter6 Part003 continuation/close | 54 | `sections/14-chapter-06-part003.md` | **SOURCE-CHECKED / COMPLETE** |
-| **E10** | section15 — chapter7 | 55–61 | `sections/15-chapter-07.md` | **PLANNED / NOT STARTED** |
-| **E11** | section16 — chapter8 | 62–70 | `sections/16-chapter-08.md` | **PLANNED / NOT STARTED** |
-| **E12** | section17 — chapter9 Part003 portion | 71–78 | `sections/17-chapter-09-part003.md` | **PLANNED / NOT STARTED** |
+| **E10** | section15 — chapter7 | 55–61 | `sections/15-chapter-07.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E11** | section16 — chapter8 | 62–70 | `sections/16-chapter-08.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E12** | section17 — chapter9 Part003 portion | 71–78 | `sections/17-chapter-09-part003.md` | **SOURCE-CHECKED / COMPLETE** |
 
 ## Planning accounting
 
 - reserved Part003 English batches — **4**
 - planned maintained English files — **4**
-- translated — **1/4**
-- source-checked — **1/4**
+- translated — **4/4**
+- source-checked — **4/4**
 - English literary prose drafted in planning — **0**
 - unresolved planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
@@ -66,9 +66,9 @@ Outgoing:
 
 ## Exact next gate
 
-**E10 draft + source-check — section15 / scans55–61.**
+**Part003 whole-Part English glossary reconciliation across E9–E12.**
 
-Do not begin E11 until E10 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
 
 ## E9 closure
@@ -84,3 +84,26 @@ Do not begin E11 until E10 is **SOURCE-CHECKED / COMPLETE**.
 - frozen Part001/Part002 English edits — **0**
 - Part004 leakage — **0**
 - exact next gate — **E10 draft + source-check — section15 / scans55–61**
+
+
+## E9–E12 closure
+
+| Batch | Scans | State |
+|---|---:|---|
+| E9 | 54 | **SOURCE-CHECKED / COMPLETE** |
+| E10 | 55–61 | **SOURCE-CHECKED / COMPLETE** |
+| E11 | 62–70 | **SOURCE-CHECKED / COMPLETE** |
+| E12 | 71–78 | **SOURCE-CHECKED / COMPLETE** |
+
+- maintained Part003 English files — **4/4**
+- translated/source-checked — **4/4 / 4/4**
+- physical source coverage — **54–78 / 25 scans**
+- unresolved source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- Part004 leakage — **0**
+- 78→79 semantic completion — **0**
+
+## Exact next activity
+
+Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.

@@ -87,3 +87,14 @@ Food / household terms such as **rasam**, **veshti** and source honorific/regist
 Perform **E11 draft + source-check — section16 / scans62–70**.
 
 Do not begin E12 until E11 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Programmatic block-accounting note
+
+After excluding YAML and provenance comments:
+
+- Tamil Markdown literary/display blocks — **49**
+- English Markdown literary/display blocks — **49**
+- internal source-boundary comments — **6 / 6 retained**
+
+This supports the recorded **0 omissions / 0 duplicated translated blocks**.

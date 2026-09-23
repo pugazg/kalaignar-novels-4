@@ -1,6 +1,6 @@
 # Part 003 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **E9 SOURCE-CHECKED / E10 NEXT**
+Status: **E9–E12 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**
 
 This glossary is derived only from verified Part003 Tamil, the closed Part003 assembled Tamil reading layer, and already source-checked project forms from frozen Parts001–002.
 
@@ -116,7 +116,7 @@ Outgoing:
 
 ## Exact next gate
 
-**E10 draft + source-check — section15 / scans55–61.**
+**Part003 whole-Part English glossary reconciliation across E9–E12.**
 
 
 ## E9 source-check term state
@@ -134,3 +134,26 @@ E9 confirmed the planning locks without introducing a new transliteration hold:
 - canonical / assembled Tamil edits — **0 / 0**
 
 Exact next gate: **E10 draft + source-check — section15 / scans55–61**.
+
+
+## E10–E12 source-check term state
+
+Source-check confirmed additional Part003 forms across the remaining batches:
+
+- **Vallatharayan, Vairamuthan, Vellai Ayyar, Kaadai, Kolathari**
+- **Ambikapathi, Viswamitra, Menaka, Nala, Damayanti**
+- **Sundarambal / Sundari, Vadivambal / Vadivu, Nathamuni, Lalithangi**
+- **Tirukkottiyur, Kattambur, Maruthu Pandiyars, Velu Nachiyar, Ramanujar**
+- **Colonel Durai / white durais, sepoys, Parangi**
+- **Vaalukku Veli Thevar** where that source form occurs
+
+E12 keeps `வெள்ளைக்காரத் துரை மகனுக்கு` in its immediate contemptuous register as **“that white durai fellow”** rather than adding an external gloss.
+
+- unresolved E9–E12 glossary/source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen earlier-Part English edits — **0**
+- Part004 leakage — **0**
+
+## Exact next gate
+
+**Part003 whole-Part English glossary reconciliation across E9–E12.**

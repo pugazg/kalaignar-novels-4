@@ -96,3 +96,14 @@ Source references to lineage, women’s conduct, marriage expectations and socia
 ## Exact next activity
 
 Perform **E12 draft + source-check — section17 / scans71–78**.
+
+
+## Programmatic block-accounting note
+
+After excluding YAML and provenance comments:
+
+- Tamil Markdown literary/display blocks — **55**
+- English Markdown literary/display blocks — **54**
+- internal source-boundary comments — **8 / 8 retained**
+
+The one-block count difference is expected: the source physically splits Vellai Ayyar’s sentence at scan65→66 around a non-rendering source-boundary comment, while the English renders that one sentence as one continuous literary paragraph. Source content is neither omitted nor duplicated.

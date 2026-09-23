@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 E10 draft + source-check
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 whole-Part English glossary reconciliation
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -15,44 +15,54 @@ Part001 and Part002 are **FINAL CLOSED / FROZEN**.
 - outgoing 78→79 — **PENDING direct audit / source-limited**
 - Part004 leakage — **0**
 
-## English state
+## Part003 English source-check closure
 
 - planning/setup — **COMPLETE / PASS**
 - reserved batches — **E9–E12**
-- E9 — **SOURCE-CHECKED / COMPLETE — section14 / scan54**
-- translated/source-checked — **1/4 / 1/4**
-- unresolved E9 holds — **0**
-- canonical / assembled Tamil edits caused by E9 — **0 / 0**
-- frozen Part002 E8 body changes — **0**
+- E9 — **SOURCE-CHECKED / COMPLETE — scan54**
+- E10 — **SOURCE-CHECKED / COMPLETE — scans55–61**
+- E11 — **SOURCE-CHECKED / COMPLETE — scans62–70**
+- E12 — **SOURCE-CHECKED / COMPLETE — scans71–78**
+- maintained English files — **4/4**
+- translated/source-checked — **4/4 / 4/4**
+- source coverage — **scans54–78 / all 25 supplied Part003 scans**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- Part004 leakage — **0**
+- E12 ends exactly on English fragment **“Now your”**
+- 78→79 semantic completion — **0**
 
-Durable E9 record:
+Durable source-check records:
 
-`works/thenpandi-singam/translations/en/E9_SOURCE_CHECK.md`
+1. `translations/en/E9_SOURCE_CHECK.md`
+2. `translations/en/E10_SOURCE_CHECK.md`
+3. `translations/en/E11_SOURCE_CHECK.md`
+4. `translations/en/E12_SOURCE_CHECK.md`
+
+Maintained English files:
+
+1. `translations/en/sections/14-chapter-06-part003.md`
+2. `translations/en/sections/15-chapter-07.md`
+3. `translations/en/sections/16-chapter-08.md`
+4. `translations/en/sections/17-chapter-09-part003.md`
 
 ## Exact next activity
 
-Perform **E10 draft + source-check — Tamil section15 / scans55–61**.
+Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.
 
-Source Tamil:
+Audit all four maintained Part003 English files against `PART_003_GLOSSARY.md` and frozen earlier-Part source-facing locks.
 
-`works/thenpandi-singam/sections/15-chapter-07.md`
+Reconcile names, titles, source-visible variants, place forms, household terms, literary names and E12 colonial-title/register forms. Make English-only terminology corrections where needed.
 
-Planned English target:
+Requirements:
 
-`works/thenpandi-singam/translations/en/sections/15-chapter-07.md`
+- canonical / assembled Tamil edits — **0 / 0**;
+- frozen Part001/Part002 English edits — **0**;
+- Part004 leakage — **0**;
+- preserve **78→79 PENDING direct audit / source-limited**;
+- do not semantically complete **“Now your”**;
+- create `PART_003_GLOSSARY_RECONCILIATION.md`;
+- update Part003 glossary/progress and English README.
 
-Rules:
-
-- translate only scans55–61 / chapter7;
-- preserve source-visible chapter numeral **7**;
-- preserve source-boundary provenance comments;
-- follow `PART_003_GLOSSARY.md`;
-- preserve paragraph/dialogue order, rhetoric, repetition and source force;
-- add no external historical/social/political explanation;
-- account for every Tamil literary/display block;
-- canonical / assembled Tamil edits must remain **0 / 0** unless a genuine new upstream defect is independently demonstrated;
-- create `E10_SOURCE_CHECK.md`;
-- update Part003 progress, glossary state and English README;
-- do not begin E11 until E10 is **SOURCE-CHECKED / COMPLETE**.
-
-After E10 closes, exact next gate: **E11 draft + source-check — section16 / scans62–70**.
+After reconciliation closes **RECONCILED / PASS**, exact next gate becomes **Part003 English editorial review across all 4 maintained English files / scans54–78**.

@@ -1,6 +1,6 @@
 # Part 003 — English Translation Plan — தென்பாண்டிச் சிங்கம்
 
-Status: **E9 SOURCE-CHECKED / COMPLETE — E10 NEXT**
+Status: **E9–E12 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This is the control plan for the project-created English translation of **Part003 only**.
 
@@ -85,6 +85,16 @@ Planned maintained Part003 English files — **4**.
 
 Translated files at planning closure — **0/4**.  
 Source-checked files at planning closure — **0/4**.
+
+Current downstream closure:
+
+- E9 — **SOURCE-CHECKED / COMPLETE**
+- E10 — **SOURCE-CHECKED / COMPLETE**
+- E11 — **SOURCE-CHECKED / COMPLETE**
+- E12 — **SOURCE-CHECKED / COMPLETE**
+- translated/source-checked — **4/4 / 4/4**
+- physical source coverage — **scans54–78 / all 25 supplied Part003 scans**
+- unresolved English source-check holds — **0**
 
 ## Translation objective
 
@@ -215,7 +225,7 @@ Part004 canonical transcription remains blocked until Part003 final closure.
 
 ## Exact next gate
 
-**E9 draft + source-check — section14 / scan54.**
+**Part003 whole-Part English glossary reconciliation across E9–E12.**
 
 
 ## E9 source-check closure
@@ -231,3 +241,24 @@ Part004 canonical transcription remains blocked until Part003 final closure.
 - exact next gate — **E10 draft + source-check — section15 / scans55–61**
 
 Durable record: `E9_SOURCE_CHECK.md`.
+
+
+## E10–E12 source-check closure
+
+- E10 — **SOURCE-CHECKED / COMPLETE — section15 / scans55–61**
+- E11 — **SOURCE-CHECKED / COMPLETE — section16 / scans62–70**
+- E12 — **SOURCE-CHECKED / COMPLETE — section17 / scans71–78**
+- cumulative E9–E12 maintained English files — **4/4**
+- translated/source-checked — **4/4 / 4/4**
+- source coverage — **scans54–78 / 25**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- Part004 leakage — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+
+Durable records: `E9_SOURCE_CHECK.md` through `E12_SOURCE_CHECK.md`.
+
+## Exact next gate
+
+**Part003 whole-Part English glossary reconciliation across E9–E12.**

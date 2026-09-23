@@ -348,3 +348,18 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - outgoing 78→79 — **PENDING direct audit / source-limited**
 - exact next gate — **E9 draft + source-check — section14 / scan54**
 - durable controls — `translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
+
+
+## Part003 E9–E12 English downstream state
+
+- E9–E12 — **SOURCE-CHECKED / COMPLETE**
+- maintained Part003 English files — **4/4**
+- translated/source-checked — **4/4 / 4/4**
+- physical source coverage — **scans54–78 / 25**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- Part004 leakage — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+- exact next gate — **Part003 whole-Part English glossary reconciliation across E9–E12**
+- durable source-check controls — `translations/en/E9_SOURCE_CHECK.md` through `E12_SOURCE_CHECK.md`

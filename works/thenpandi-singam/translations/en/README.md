@@ -230,8 +230,8 @@ Controls:
 Planning result:
 - reserved batches — **E5–E8 / 4**
 - planned maintained Part002 English files — **4**
-- translated files — **1/4**
-- source-checked files — **1/4**
+- translated files — **4/4**
+- source-checked files — **4/4**
 - unresolved planning holds — **0**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -438,17 +438,17 @@ Planning result:
 | Batch | Tamil coverage | Scans | Planned English file | State |
 |---|---|---:|---|---|
 | E9 | section14 — chapter6 Part003 continuation/close | 54 | `sections/14-chapter-06-part003.md` | **SOURCE-CHECKED / COMPLETE** |
-| E10 | section15 — chapter7 | 55–61 | `sections/15-chapter-07.md` | **PLANNED / NOT STARTED** |
-| E11 | section16 — chapter8 | 62–70 | `sections/16-chapter-08.md` | **PLANNED / NOT STARTED** |
-| E12 | section17 — chapter9 Part003 portion | 71–78 | `sections/17-chapter-09-part003.md` | **PLANNED / NOT STARTED** |
+| E10 | section15 — chapter7 | 55–61 | `sections/15-chapter-07.md` | **SOURCE-CHECKED / COMPLETE** |
+| E11 | section16 — chapter8 | 62–70 | `sections/16-chapter-08.md` | **SOURCE-CHECKED / COMPLETE** |
+| E12 | section17 — chapter9 Part003 portion | 71–78 | `sections/17-chapter-09-part003.md` | **SOURCE-CHECKED / COMPLETE** |
 
 Incoming 53→54 is **GENUINE CONTINUATION / AUDITED**. Outgoing 78→79 remains **PENDING direct audit / source-limited**.
 
 ## Exact next gate
 
-**E10 draft + source-check — section15 / scans55–61.**
+**Part003 whole-Part English glossary reconciliation across E9–E12.**
 
-Do not begin E11 until E10 closes **SOURCE-CHECKED / COMPLETE**.
+Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
 
 ## Part003 E9 source-check
@@ -468,3 +468,29 @@ Do not begin E11 until E10 closes **SOURCE-CHECKED / COMPLETE**.
 Durable record: `E9_SOURCE_CHECK.md`.
 
 Exact next gate: **E10 draft + source-check — section15 / scans55–61**.
+
+
+## Part003 E9–E12 source-check closure
+
+**E9–E12 — SOURCE-CHECKED / COMPLETE.**
+
+- maintained Part003 English files — **4/4**
+- translated/source-checked — **4/4 / 4/4**
+- source coverage — **scans54–78 / all 25 supplied pages**
+- unresolved English source-check holds — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- frozen Part001/Part002 English edits — **0**
+- Part004 leakage — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+
+Durable records:
+- `E9_SOURCE_CHECK.md`
+- `E10_SOURCE_CHECK.md`
+- `E11_SOURCE_CHECK.md`
+- `E12_SOURCE_CHECK.md`
+
+## Exact next gate
+
+**Part003 whole-Part English glossary reconciliation across E9–E12.**
+
+Do not begin editorial review until glossary reconciliation closes **RECONCILED / PASS**.
