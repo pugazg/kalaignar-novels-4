@@ -118,7 +118,7 @@
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **2**
-- Part003: **ACTIVE / PASS2B IN PROGRESS — 10/25 REVIEWED**
+- Part003: **ACTIVE / PASS2B IN PROGRESS — 20/25 REVIEWED**
 - Part003 canonical records: **25/25**
 - Part003 source: `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 bytes: **48,354,306**
@@ -130,8 +130,8 @@
 - Part003 Pass1: **COMPLETE / PASS — 25/25 TEXT-COMPLETE — scans54–78**
 - Part003 Pass2A: **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**
 - Part003 Pass2A affected scans: **54, 58, 60, 61, 63, 65, 71, 72, 74, 78**
-- Part003 Pass2B: **IN PROGRESS — 10/25 REVIEWED — 1 lexical/spacing/punctuation correction / 0 historical-glyph corrections / 0 unresolved**
-- Part003 Pass2B affected scans: **58**
+- Part003 Pass2B: **IN PROGRESS — 20/25 REVIEWED — 2 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
+- Part003 Pass2B affected scans: **58, 65**
 - Part003 verified promotions: **0**
 - Part002 post-release body drift: **0 / 0 / 0 canonical / assembled / English**
 
@@ -177,8 +177,8 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part003 Pass2B — scans64–73 / local pages11–20.**
+**Part003 Pass2B — scans74–78 / local pages21–25.**
 
-Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **IN PROGRESS — 10/25 REVIEWED** with **1 lexical/spacing/punctuation correction / 0 historical-glyph corrections / 0 unresolved questions**. All Part003 records remain `needs-review` and visual `needs-review`; no verification promotion has occurred. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
+Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **IN PROGRESS — 20/25 REVIEWED** with **2 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. All Part003 records remain `needs-review` and visual `needs-review`; no verification promotion has occurred. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.

@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part003 Pass2B scans64–73**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part003 Pass2B scans74–78**
 
 ## Work
 
@@ -112,7 +112,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
-- Part003 — **ACTIVE / PASS2B IN PROGRESS — 10/25 REVIEWED**
+- Part003 — **ACTIVE / PASS2B IN PROGRESS — 20/25 REVIEWED**
 - Parts004–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -163,7 +163,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **ACTIVE / PASS2B IN PROGRESS — 10/25 REVIEWED**
+- Part003 — **ACTIVE / PASS2B IN PROGRESS — 20/25 REVIEWED**
 - Part003 canonical records — **25/25**
 - Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 bytes — **48,354,306**
@@ -177,9 +177,9 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 Pass2A — **COMPLETE / PASS — 25/25 REVIEWED — scans54–78**
 - Part003 Pass2A corrections / unresolved — **19 / 0**
 - Part003 Pass2A affected scans — **54, 58, 60, 61, 63, 65, 71, 72, 74, 78**
-- Part003 Pass2B — **IN PROGRESS — 10/25 REVIEWED — scans54–63**
-- Part003 Pass2B lexical / spacing / punctuation corrections — **1**
-- Part003 Pass2B affected scans — **58**
+- Part003 Pass2B — **IN PROGRESS — 20/25 REVIEWED — scans54–73**
+- Part003 Pass2B lexical / spacing / punctuation corrections — **2**
+- Part003 Pass2B affected scans — **58, 65**
 - Part003 Pass2B historical-glyph corrections / unresolved — **0 / 0**
 - Part003 verified promotions — **0**
 - Part002 post-release body drift — **0 / 0 / 0 canonical / assembled / English**
@@ -190,7 +190,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
-- continuation gate — **Part003 Pass2B scans64–73 / local pages11–20**
+- continuation gate — **Part003 Pass2B scans74–78 / local pages21–25**
 - Part002 Pass2B final state — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 Pass3 final state — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part003 source PDF to be available there
@@ -198,6 +198,6 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-**Part003 Pass2B — scans64–73 / local pages11–20.**
+**Part003 Pass2B — scans74–78 / local pages21–25.**
 
-Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **IN PROGRESS — 10/25 REVIEWED** for scans54–63 with **1 lexical/spacing/punctuation correction / 0 historical-glyph corrections / 0 unresolved questions**. All 25 canonical records remain `needs-review` / visual `needs-review`; verified promotions remain **0**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**. Do not begin Pass3 until all **25/25** Part003 pages complete Pass2B.
+Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **IN PROGRESS — 20/25 REVIEWED** for scans54–73 with **2 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. All 25 canonical records remain `needs-review` / visual `needs-review`; verified promotions remain **0**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**. Do not begin Pass3 until all **25/25** Part003 pages complete Pass2B.
