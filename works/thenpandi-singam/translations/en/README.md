@@ -446,7 +446,7 @@ Incoming 53→54 is **GENUINE CONTINUATION / AUDITED**. Outgoing 78→79 remains
 
 ## Exact next gate
 
-**Part003 final closure — PASS / CLOSED / FROZEN.**
+**Part004 source intake when supplied.**
 
 Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -491,7 +491,7 @@ Durable records:
 
 ## Exact next gate
 
-**Part003 final closure — PASS / CLOSED / FROZEN.**
+**Part004 source intake when supplied.**
 
 Do not begin editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -582,3 +582,25 @@ Exact next gate: **Part003 release-ready synchronization**.
 Durable record: `../../PART_003_RELEASE_READY_SYNC.md`.
 
 Exact next gate: **Part003 final closure — PASS / CLOSED / FROZEN**.
+
+
+## Part003 final closure downstream state
+
+**PART003 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- Part004 leakage — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+- final-closed Parts — **3**
+- Part004 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part004 source intake when supplied**
+- durable closure — `PART_003_FINAL_CLOSURE.md`

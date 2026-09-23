@@ -118,7 +118,7 @@
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **2**
-- Part003: **ACTIVE / RELEASE-READY SYNC CLOSED — FINAL CLOSURE NEXT**
+- Part003: **FINAL CLOSED / FROZEN**
 - Part003 canonical records: **25/25**
 - Part003 source: `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 bytes: **48,354,306**
@@ -178,7 +178,7 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part003 final closure — PASS / CLOSED / FROZEN.**
+**Part004 source intake when supplied.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records are `verified` and visual `verified`. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
@@ -205,7 +205,7 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - needs-review Tamil / visual pages — **0 / 0**
 - canonical Tamil body changes caused by status sync — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 - durable status sync — `PART_003_FINAL_STATUS_SYNC.md`
 
 
@@ -217,7 +217,7 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - page-map verified rows — **25/25**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 - durable documentation sync — `PART_003_DOCUMENTATION_SYNC.md`
 
 
@@ -229,7 +229,7 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - needs-review Tamil / visual pages — **0 / 0**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 - durable archival-ready checkpoint — `PART_003_TAMIL_ARCHIVAL_READY.md`
 
 
@@ -252,7 +252,7 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - unresolved assembly blockers — **0**
 - incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 - durable validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 
 
@@ -271,7 +271,7 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - Part004 leakage — **0**
 - incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 - durable controls — `translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
 
 
@@ -284,7 +284,7 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - canonical / assembled Tamil edits — **0 / 0**
 - unresolved E9 holds — **0**
 - Part004 leakage — **0**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 - durable source-check — `translations/en/E9_SOURCE_CHECK.md`
 
 
@@ -299,7 +299,7 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - frozen Part001/Part002 English edits — **0**
 - Part004 leakage — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 - durable source-check controls — `translations/en/E9_SOURCE_CHECK.md` through `E12_SOURCE_CHECK.md`
 
 
@@ -313,7 +313,7 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - canonical / assembled Tamil edits — **0 / 0**
 - frozen Part001/Part002 English edits — **0**
 - Part004 leakage — **0**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 
 
 ## Part003 English editorial review downstream state
@@ -325,7 +325,7 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - canonical / assembled Tamil edits — **0 / 0**
 - frozen earlier-Part English edits — **0**
 - Part004 leakage — **0**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 
 
 ## Part003 whole-Part bilingual review downstream state
@@ -337,7 +337,7 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - canonical / assembled Tamil edits — **0 / 0**
 - frozen earlier-Part English edits — **0**
 - Part004 leakage — **0**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 
 
 ## Part003 release/readiness downstream state
@@ -346,7 +346,7 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - unresolved release/readiness blockers — **0**
 - canonical / assembled / English body changes — **0 / 0 / 0**
 - Part004 leakage — **0**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 
 
 ## Part003 release-ready synchronization downstream state
@@ -355,4 +355,26 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - canonical / assembled / English body changes — **0 / 0 / 0**
 - unresolved synchronization blockers — **0**
 - Part004 leakage — **0**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
+
+
+## Part003 final closure downstream state
+
+**PART003 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- Part004 leakage — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+- final-closed Parts — **3**
+- Part004 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part004 source intake when supplied**
+- durable closure — `PART_003_FINAL_CLOSURE.md`

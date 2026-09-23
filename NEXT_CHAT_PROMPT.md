@@ -1,10 +1,17 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part003 final closure
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part004 source intake when supplied
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Part001 and Part002 are **FINAL CLOSED / FROZEN**.
+## Durable frozen state
 
-## Part003 closure prerequisites
+- Part001 — **FINAL CLOSED / FROZEN**
+- Part002 — **FINAL CLOSED / FROZEN**
+- Part003 — **FINAL CLOSED / FROZEN**
+- final-closed Parts — **3**
+
+Do not reopen Parts001–003 merely for stylistic polishing.
+
+## Part003 final state
 
 - canonical Tamil — **25/25 verified**
 - visual fidelity — **25/25 verified**
@@ -15,15 +22,25 @@ Part001 and Part002 are **FINAL CLOSED / FROZEN**.
 - whole-Part bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- unresolved blockers — **0**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved closure blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
+- terminal Tamil — `இப்போது உங்கள்`
+- terminal English — **“Now your”**
+
+Durable closure: `works/thenpandi-singam/PART_003_FINAL_CLOSURE.md`.
+
+## Part004 state
+
+- source attachment — **not supplied**
+- exact filename — **pending**
+- local page count — **pending direct intake**
+- global scan range — **pending direct intake**
+- incoming 78→79 — **PENDING direct audit**
+- canonical records — **0**
 
 ## Exact next activity
 
-Perform **Part003 final closure — PASS / CLOSED / FROZEN**.
+When the user supplies the Part004 PDF, perform **Part004 source intake**. Establish exact source identity and physical extent, use the first Part004 scan as the direct 78→79 witness, and classify the boundary only from direct adjacent-source evidence.
 
-Create `PART_003_FINAL_CLOSURE.md` and synchronize all maintained controls.
-
-Freeze canonical Tamil, assembled Tamil and maintained English against stylistic reopening. Preserve 78→79 as a source-limited boundary ledger item.
-
-After closure, exact next activity is **Part004 source intake when supplied**. Do not guess Part004 metadata.
+Do not guess Part004 metadata before direct intake.

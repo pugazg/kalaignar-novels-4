@@ -66,7 +66,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 final closure — PASS / CLOSED / FROZEN.**
+**Part004 source intake when supplied.**
 
 Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -116,7 +116,7 @@ Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.
 - English files changed — **1/4**
 - terminology corrections — **1**
 - unresolved holds — **0**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 
 
 ## English editorial review closure
@@ -128,7 +128,7 @@ Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.
 - unresolved editorial holds — **0**
 - canonical / assembled Tamil edits — **0 / 0**
 - frozen earlier-Part English edits — **0**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 
 
 ## Whole-Part bilingual review closure
@@ -141,7 +141,7 @@ Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.
 - files changed — **2/4**
 - unresolved bilingual holds — **0**
 - canonical / assembled Tamil edits — **0 / 0**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 
 
 ## Release/readiness closure
@@ -151,7 +151,7 @@ Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.
 - source PDFs in active work tree — **0**
 - canonical / assembled / English body changes — **0 / 0 / 0**
 - outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
 
 
 ## Release-ready synchronization closure
@@ -159,4 +159,26 @@ Perform **Part003 whole-Part English glossary reconciliation across E9–E12**.
 - release-ready synchronization — **PASS / CLOSED**
 - canonical / assembled / English body changes — **0 / 0 / 0**
 - unresolved synchronization blockers — **0**
-- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**
+- exact next activity — **Part004 source intake when supplied**
+
+
+## Part003 final closure downstream state
+
+**PART003 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- Part004 leakage — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+- final-closed Parts — **3**
+- Part004 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part004 source intake when supplied**
+- durable closure — `PART_003_FINAL_CLOSURE.md`
