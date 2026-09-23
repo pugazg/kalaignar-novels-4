@@ -239,7 +239,7 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part002 release-ready synchronization — **PASS / CLOSED — 0 post-release body drift**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **ACTIVE / FINAL STATUS SYNC CLOSED — DOCUMENTATION SYNC NEXT**
+- Part003 — **ACTIVE / DOCUMENTATION SYNC COMPLETE — TAMIL ARCHIVAL-READY NEXT**
 - Part001 unresolved English source-check holds — **0**
 - Part001 translated/source-checked English files — **10/10 / 10/10**
 - Part001 canonical Tamil — **26/26 verified**
@@ -280,5 +280,17 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - needs-review Tamil / visual pages — **0 / 0**
 - canonical Tamil body changes caused by status sync — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 documentation synchronization**
+- exact next activity — **Part003 Tamil archival-ready checkpoint**
 - durable status sync — `PART_003_FINAL_STATUS_SYNC.md`
+
+
+## Part003 documentation synchronization downstream state
+
+- Part003 documentation synchronization — **PASS / COMPLETE**
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- page-map verified rows — **25/25**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 Tamil archival-ready checkpoint**
+- durable documentation sync — `PART_003_DOCUMENTATION_SYNC.md`

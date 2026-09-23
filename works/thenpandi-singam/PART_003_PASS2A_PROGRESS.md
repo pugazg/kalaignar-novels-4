@@ -103,6 +103,18 @@ The direct textual verification gate is closed. No page is promoted to verified 
 
 ## Exact next activity
 
-**Part003 documentation synchronization.**
+**Part003 Tamil archival-ready checkpoint.**
 
 Pass2B must independently reread lexical identity, source-visible spacing/punctuation, source-era forms and historical/reform-sensitive glyphs directly against rendered source pixels. Keep all Part003 records `needs-review` / visual `needs-review`; do not begin Pass3 until Pass2B closes.
+
+
+## Part003 documentation synchronization downstream state
+
+- Part003 documentation synchronization — **PASS / COMPLETE**
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- page-map verified rows — **25/25**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 Tamil archival-ready checkpoint**
+- durable documentation sync — `PART_003_DOCUMENTATION_SYNC.md`

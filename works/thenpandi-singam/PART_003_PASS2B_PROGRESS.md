@@ -119,7 +119,7 @@ The independent lexical / historical-glyph gate is closed. No page is promoted t
 
 ## Exact next activity
 
-**Part003 documentation synchronization.**
+**Part003 Tamil archival-ready checkpoint.**
 
 Pass3 must perform full rendered-page visual / structural verification: displayed hierarchy, paragraph/dialogue block structure, printed pagination, page furniture, illustrated chapter openings, chapter-closing ornaments / blank fields, and physical cross-page continuations. Keep all Part003 records `needs-review` / visual `needs-review` until later gates authorize promotion.
 
@@ -132,3 +132,15 @@ Pass3 must perform full rendered-page visual / structural verification: displaye
 - status promotions — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
 - exact next activity — **Part003 whole-Part audit — scans54–78 / local pages1–25**
+
+
+## Part003 documentation synchronization downstream state
+
+- Part003 documentation synchronization — **PASS / COMPLETE**
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- page-map verified rows — **25/25**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 Tamil archival-ready checkpoint**
+- durable documentation sync — `PART_003_DOCUMENTATION_SYNC.md`
