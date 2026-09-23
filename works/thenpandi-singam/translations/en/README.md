@@ -446,7 +446,7 @@ Incoming 53→54 is **GENUINE CONTINUATION / AUDITED**. Outgoing 78→79 remains
 
 ## Exact next gate
 
-**Part003 release-ready synchronization.**
+**Part003 final closure — PASS / CLOSED / FROZEN.**
 
 Do not begin English editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -491,7 +491,7 @@ Durable records:
 
 ## Exact next gate
 
-**Part003 release-ready synchronization.**
+**Part003 final closure — PASS / CLOSED / FROZEN.**
 
 Do not begin editorial review until glossary reconciliation closes **RECONCILED / PASS**.
 
@@ -568,3 +568,17 @@ Exact next gate: **Part003 release/readiness report**.
 Durable record: `PART_003_RELEASE_REPORT.md`.
 
 Exact next gate: **Part003 release-ready synchronization**.
+
+
+## Part003 release-ready synchronization
+
+**PASS / CLOSED**
+
+- canonical / assembled / English body changes — **0 / 0 / 0**
+- frozen earlier-Part body changes — **0**
+- Part004 leakage — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
+
+Durable record: `../../PART_003_RELEASE_READY_SYNC.md`.
+
+Exact next gate: **Part003 final closure — PASS / CLOSED / FROZEN**.

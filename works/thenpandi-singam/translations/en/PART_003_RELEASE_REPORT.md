@@ -210,3 +210,16 @@ Perform **Part003 release-ready synchronization**.
 That gate must synchronize lifecycle/status/navigation controls without changing canonical Tamil, assembled Tamil or maintained English body text.
 
 After release-ready synchronization, perform **Part003 final closure — PASS / CLOSED / FROZEN**.
+
+
+## Downstream release-ready synchronization state
+
+**RELEASE-READY SYNCHRONIZATION — PASS / CLOSED**
+
+- synchronization record — `../../PART_003_RELEASE_READY_SYNC.md`
+- canonical / assembled / English body changes — **0 / 0 / 0**
+- frozen Part001/Part002 body changes — **0**
+- Part004 leakage — **0**
+- 78→79 source-limited condition — **PENDING / preserved**
+
+Exact next gate: **Part003 final closure — PASS / CLOSED / FROZEN**.

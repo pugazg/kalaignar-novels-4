@@ -116,7 +116,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 release-ready synchronization.**
+**Part003 final closure — PASS / CLOSED / FROZEN.**
 
 
 ## E9 source-check term state
@@ -156,7 +156,7 @@ E12 keeps `வெள்ளைக்காரத் துரை மகனுக�
 
 ## Exact next gate
 
-**Part003 release-ready synchronization.**
+**Part003 final closure — PASS / CLOSED / FROZEN.**
 
 
 ## Whole-Part reconciliation closure

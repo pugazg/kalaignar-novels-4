@@ -344,3 +344,12 @@ Inventory:
 - exact next gate — **Part003 English translation planning/setup — reserve E9–E12**
 
 Durable validation: `../PART_003_ASSEMBLED_TAMIL_VALIDATION.md`.
+
+
+## Part003 release-ready synchronization downstream state
+
+- Part003 release-ready synchronization — **PASS / CLOSED**
+- canonical / assembled / English body changes — **0 / 0 / 0**
+- unresolved synchronization blockers — **0**
+- Part004 leakage — **0**
+- exact next gate — **Part003 final closure — PASS / CLOSED / FROZEN**

@@ -127,7 +127,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part003 release-ready synchronization.**
+**Part003 final closure — PASS / CLOSED / FROZEN.**
 
 
 ## Post-reconciliation editorial state
