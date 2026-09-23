@@ -157,7 +157,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **2**
-- Part003: **ACTIVE / WHOLE-PART AUDIT PASS — FINAL STATUS SYNC NEXT**
+- Part003: **ACTIVE / FINAL STATUS SYNC CLOSED — DOCUMENTATION SYNC NEXT**
 - Part003 canonical records: **25/25**
 - Part003 Pass1: **COMPLETE / PASS — 25/25 TEXT-COMPLETE — scans54–78**
 - Part003 Pass2A: **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**
@@ -170,7 +170,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part002 assembly omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
 - final closure: **PASS / CLOSED / FROZEN**
 - translated/source-checked: **10/10 / 10/10**
-- exact next gate: **Part003 final metadata/status synchronization — scans54–78 / 25 pages**
+- exact next gate: **Part003 documentation synchronization**
 
 
 ## Part003 whole-Part audit downstream state
@@ -183,3 +183,15 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - outgoing 78→79 — **PENDING direct audit / source-limited**
 - exact next activity — **Part003 final metadata/status synchronization — scans54–78 / 25 pages**
 - durable audit — `PART_003_AUDIT.md`
+
+
+## Part003 final metadata/status downstream state
+
+- Part003 final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- canonical Tamil body changes caused by status sync — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 documentation synchronization**
+- durable status sync — `PART_003_FINAL_STATUS_SYNC.md`

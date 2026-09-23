@@ -239,7 +239,7 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part002 release-ready synchronization — **PASS / CLOSED — 0 post-release body drift**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **ACTIVE / WHOLE-PART AUDIT PASS — FINAL STATUS SYNC NEXT**
+- Part003 — **ACTIVE / FINAL STATUS SYNC CLOSED — DOCUMENTATION SYNC NEXT**
 - Part001 unresolved English source-check holds — **0**
 - Part001 translated/source-checked English files — **10/10 / 10/10**
 - Part001 canonical Tamil — **26/26 verified**
@@ -256,7 +256,7 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part003 Pass2A — **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**
 - Part003 Pass2B — **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part003 Pass3 — **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
-- Part003 verified promotions — **0**
+- Part003 verified Tamil / visual pages — **25/25 / 25/25**
 - exact next activity — **Part003 whole-Part audit scans54–78 / local pages1–25**
 
 
@@ -270,3 +270,15 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - outgoing 78→79 — **PENDING direct audit / source-limited**
 - exact next activity — **Part003 final metadata/status synchronization — scans54–78 / 25 pages**
 - durable audit — `PART_003_AUDIT.md`
+
+
+## Part003 final metadata/status downstream state
+
+- Part003 final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- canonical Tamil body changes caused by status sync — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 documentation synchronization**
+- durable status sync — `PART_003_FINAL_STATUS_SYNC.md`

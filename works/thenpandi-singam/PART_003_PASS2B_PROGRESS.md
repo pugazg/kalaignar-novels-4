@@ -119,7 +119,7 @@ The independent lexical / historical-glyph gate is closed. No page is promoted t
 
 ## Exact next activity
 
-**Part003 final metadata/status synchronization — scans54–78 / 25 pages.**
+**Part003 documentation synchronization.**
 
 Pass3 must perform full rendered-page visual / structural verification: displayed hierarchy, paragraph/dialogue block structure, printed pagination, page furniture, illustrated chapter openings, chapter-closing ornaments / blank fields, and physical cross-page continuations. Keep all Part003 records `needs-review` / visual `needs-review` until later gates authorize promotion.
 

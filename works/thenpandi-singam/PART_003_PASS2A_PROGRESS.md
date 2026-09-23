@@ -103,6 +103,6 @@ The direct textual verification gate is closed. No page is promoted to verified 
 
 ## Exact next activity
 
-**Part003 final metadata/status synchronization — scans54–78 / 25 pages.**
+**Part003 documentation synchronization.**
 
 Pass2B must independently reread lexical identity, source-visible spacing/punctuation, source-era forms and historical/reform-sensitive glyphs directly against rendered source pixels. Keep all Part003 records `needs-review` / visual `needs-review`; do not begin Pass3 until Pass2B closes.

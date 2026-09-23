@@ -52,7 +52,7 @@ Part001:
 - Part002 release-ready synchronization — **PASS / CLOSED — 0 post-release body drift**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **ACTIVE / WHOLE-PART AUDIT PASS — FINAL STATUS SYNC NEXT**
+- Part003 — **ACTIVE / FINAL STATUS SYNC CLOSED — DOCUMENTATION SYNC NEXT**
 - Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 local pages / global scans — **25 / 54–78**
 - Part003 canonical records — **25/25**
@@ -63,7 +63,7 @@ Part001:
 - Part003 Pass2A — **COMPLETE / PASS — 25/25 REVIEWED — scans54–78 — 19 corrections / 0 unresolved**
 - Part003 Pass2B — **COMPLETE / PASS — 25/25 REVIEWED — scans54–78 — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part003 Pass3 — **COMPLETE / PASS — 25/25 REVIEWED — scans54–78 — 0 textual corrections / 0 unresolved visual-structural questions**
-- Part003 verified promotions — **0**
+- Part003 verified Tamil / visual pages — **25/25 / 25/25**
 - assembled Tamil — **PASS / CLOSED — 10/10 VERIFIED — 26/26 canonical coverage**
 - English planning/setup — **COMPLETE / PASS**
 - English E1 — **SOURCE-CHECKED / COMPLETE — scans1–12 / 7 files**
@@ -96,9 +96,9 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part003 final metadata/status synchronization — scans54–78 / 25 pages.**
+**Part003 documentation synchronization.**
 
-Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records remain `needs-review` / visual `needs-review`; no verified promotion has occurred. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
+Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
 
 ## Part003 whole-Part audit downstream state
@@ -111,3 +111,15 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - outgoing 78→79 — **PENDING direct audit / source-limited**
 - exact next activity — **Part003 final metadata/status synchronization — scans54–78 / 25 pages**
 - durable audit — `PART_003_AUDIT.md`
+
+
+## Part003 final metadata/status downstream state
+
+- Part003 final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- canonical Tamil body changes caused by status sync — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 documentation synchronization**
+- durable status sync — `PART_003_FINAL_STATUS_SYNC.md`

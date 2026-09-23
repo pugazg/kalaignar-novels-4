@@ -118,7 +118,7 @@
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **2**
-- Part003: **ACTIVE / WHOLE-PART AUDIT PASS — FINAL STATUS SYNC NEXT**
+- Part003: **ACTIVE / FINAL STATUS SYNC CLOSED — DOCUMENTATION SYNC NEXT**
 - Part003 canonical records: **25/25**
 - Part003 source: `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 bytes: **48,354,306**
@@ -178,9 +178,9 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part003 final metadata/status synchronization — scans54–78 / 25 pages.**
+**Part003 documentation synchronization.**
 
-Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records remain `needs-review` and visual `needs-review`; no verification promotion has occurred. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
+Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records are `verified` and visual `verified`. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
 Part001 remains **FINAL CLOSED / FROZEN**.
 
@@ -195,3 +195,15 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - outgoing 78→79 — **PENDING direct audit / source-limited**
 - exact next activity — **Part003 final metadata/status synchronization — scans54–78 / 25 pages**
 - durable audit — `PART_003_AUDIT.md`
+
+
+## Part003 final metadata/status downstream state
+
+- Part003 final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- canonical Tamil body changes caused by status sync — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 documentation synchronization**
+- durable status sync — `PART_003_FINAL_STATUS_SYNC.md`
