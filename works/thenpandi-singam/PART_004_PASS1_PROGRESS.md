@@ -2,15 +2,15 @@
 
 ## Gate
 
-**PASS 1 — ACTIVE — 20/27 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 
-Completed canonical Pass1 records:
+Canonical Part004 coverage:
 
-- local pages — **1–20 / 27**
-- global scans — **79–98**
-- canonical Part004 records created — **20**
-- status — **needs-review on 20/20**
-- visual fidelity — **needs-review on 20/20**
+- local pages — **1–27 / 27**
+- global scans — **79–105 / 27**
+- canonical Part004 records — **27/27**
+- status — **needs-review on 27/27**
+- visual fidelity — **needs-review on 27/27**
 - verified promotions — **0**
 - unresolved Pass1 source-reading holds — **0**
 - frozen Part001–Part003 body edits — **0**
@@ -27,99 +27,85 @@ Completed canonical Pass1 records:
 
 ## Batch 1 — scans79–88
 
-| Local | Scan | Printed | Chapter | Structural state | Pass1 |
-|---:|---:|---:|---:|---|---|
-| 1 | 79 | 67 | 9 | incoming continuation; chapter9 close; closing ornaments | TEXT-COMPLETE |
-| 2 | 80 | — | 10 | illustrated chapter10 opening; no visible folio | TEXT-COMPLETE |
-| 3 | 81 | 69 | 10 | continuation; completes scan80 open sentence | TEXT-COMPLETE |
-| 4 | 82 | 70 | 10 | continuation | TEXT-COMPLETE |
-| 5 | 83 | 71 | 10 | continuation | TEXT-COMPLETE |
-| 6 | 84 | 72 | 10 | continuation / dialogue | TEXT-COMPLETE |
-| 7 | 85 | 73 | 10 | continuation | TEXT-COMPLETE |
-| 8 | 86 | 74 | 10 | continuation | TEXT-COMPLETE |
-| 9 | 87 | 75 | 10 | continuation; rhythmic dance syllables retained | TEXT-COMPLETE |
-| 10 | 88 | 76 | 10 | continuation; terminal fragment open to scan89 | TEXT-COMPLETE |
+- local pages — **1–10**
+- result — **10/10 TEXT-COMPLETE**
+- scan79 closes chapter9
+- scan80 opens illustrated chapter10 / no visible folio
+- scan89 continuation was left for Batch 2
 
 ## Batch 2 — scans89–98
 
+- local pages — **11–20**
+- result — **10/10 TEXT-COMPLETE**
+- scan89 closes chapter10
+- scan90 opens illustrated chapter11 / no visible folio
+- scans97–98 are an inserted full-page illustration + illustration verso / blank with no literary body text
+- scan96 speech remained open across that non-text leaf
+
+## Batch 3 — FINAL — scans99–105
+
 | Local | Scan | Printed | Chapter | Structural state | Pass1 |
 |---:|---:|---:|---:|---|---|
-| 11 | 89 | 77 | 10 | completes scan88 fragment; chapter10 close; closing ornaments | TEXT-COMPLETE |
-| 12 | 90 | — | 11 | illustrated chapter11 opening; no visible folio | TEXT-COMPLETE |
-| 13 | 91 | 79 | 11 | continuation | TEXT-COMPLETE |
-| 14 | 92 | 80 | 11 | continuation; terminal `அந்தப்` open to scan93 | TEXT-COMPLETE |
-| 15 | 93 | 81 | 11 | continuation; terminal `அம்பலக்` open to scan94 | TEXT-COMPLETE |
-| 16 | 94 | 82 | 11 | continuation; terminal `தன்னிருக்கையை` open to scan95 | TEXT-COMPLETE |
-| 17 | 95 | 83 | 11 | continuation; terminal `அந்தப் பகுதியில்` open to scan96 | TEXT-COMPLETE |
-| 18 | 96 | 84 | 11 | continuation; speech remains open across inserted non-text leaf | TEXT-COMPLETE |
-| 19 | 97 | — | 11 | full-page illustration; no literary body text | TEXT-COMPLETE |
-| 20 | 98 | — | 11 | illustration verso / blank; faint show-through only; no literary body text | TEXT-COMPLETE |
+| 21 | 99 | 85 | 11 | resumes scan96 open speech after scans97–98 non-text leaf | TEXT-COMPLETE |
+| 22 | 100 | 86 | 11 | continuation / confrontation | TEXT-COMPLETE |
+| 23 | 101 | 87 | 11 | chapter11 close; closing ornaments | TEXT-COMPLETE |
+| 24 | 102 | — | 12 | illustrated chapter12 opening; no visible folio | TEXT-COMPLETE |
+| 25 | 103 | 89 | 12 | continuation | TEXT-COMPLETE |
+| 26 | 104 | 90 | 12 | continuation; terminal `போன்றவர்களிடத்` open to scan105 | TEXT-COMPLETE |
+| 27 | 105 | 91 | 12 | Part004 terminal continuation; chapter12 remains open | TEXT-COMPLETE |
 
-## Boundary / cross-page evidence
+## Cross-page / structural evidence
 
-Confirmed direct physical continuations:
+Directly retained:
 
-- frozen Part003 scan78 → Part004 scan79 — **GENUINE CONTINUATION / AUDITED**
-  - split — `இப்போது உங்கள் / மனோரநிலை சரியில்லை`
-- scan80 → scan81 — `நான் / கவலைப்படவில்லையண்ணா!`
-- scan88 → scan89 — `அப்போது அவன் / கண்ணிலும் ஆதப்பன் கண்ணிலும்`
-- scan92 → scan93 — `அந்தப் / படங்களை`
-- scan93 → scan94 — `அம்பலக் / காரர்களாகிய`
-- scan94 → scan95 — `தன்னிருக்கையை / விட்டுத்`
-- scan95 → scan96 — `அந்தப் பகுதியில் / பலம் பொருந்திய`
+- 78→79 — **GENUINE CONTINUATION / AUDITED**
+  - `இப்போது உங்கள் / மனோரநிலை சரியில்லை`
+- 80→81 — `நான் / கவலைப்படவில்லையண்ணா!`
+- 88→89 — `அப்போது அவன் / கண்ணிலும் ஆதப்பன் கண்ணிலும்`
+- 92→93 — `அந்தப் / படங்களை`
+- 93→94 — `அம்பலக் / காரர்களாகிய`
+- 94→95 — `தன்னிருக்கையை / விட்டுத்`
+- 95→96 — `அந்தப் பகுதியில் / பலம் பொருந்திய`
+- scans97–98 — non-text inserted illustration leaf / verso; **no inferred bridge wording**
+- scan99 directly resumes the open scan96 speech from source evidence
+- 104→105 — `போன்றவர்களிடத் / திலும்`
 
-Scan96 ends with an open speech. Scans97–98 are an inserted non-text illustration leaf / verso, so no literary wording is inferred through those physical scans. Direct continuation must be established from scan99 in the final Pass1 batch.
+Outgoing:
 
-Part004 outgoing 105→106 — **PENDING direct audit / source-limited**.
+- scan105 / printed91 ends chapter12 in open dialogue on `அது என்னால் முடியும்.`
+- **105→106 = PENDING direct audit / source-limited**
+- Part005 / scan106 imported or inferred — **0**
 
-No cross-page reconstruction was invented; every canonical record contains only source-visible content from that physical scan.
+## Structural inventory
 
-## Structural landmarks reached
+Part004 contains:
 
-- scan79 closes chapter9.
-- scan80 opens chapter10; illustrated; no visible folio.
-- scan89 closes chapter10.
-- scan90 opens chapter11; illustrated; no visible folio.
-- scans91–96 continue chapter11.
-- scan97 is a full-page illustration with no literary body text.
-- scan98 is the illustration verso / blank with faint show-through and no literary body text.
-- chapter11 literary text remains open from scan96 and must be continued only from direct scan99 evidence.
+- scan79 — chapter9 continuation and close
+- scan80 — chapter10 illustrated opener
+- scans81–89 — chapter10 body / close
+- scan90 — chapter11 illustrated opener
+- scans91–96 — chapter11 body
+- scans97–98 — inserted illustration leaf / verso, no literary body
+- scans99–101 — chapter11 resumed body / close
+- scan102 — chapter12 illustrated opener
+- scans103–105 — chapter12 body; open at Part boundary
 
-## Canonical-integrity rules retained
+## Pass1 closure accounting
 
-All 20 records use:
-
-- `part: 4`
-- local `part_page: 1–20`
-- exact Part004 source filename
-- `status: "needs-review"`
-- `visual_fidelity: "needs-review"`
-- direct source-image transcription / structural representation
-- no invented illustration prose
-- no status promotion
-- no Part005 text import
-
-## Current Pass1 accounting
-
-- Part004 Pass1 — **20/27 TEXT-COMPLETE**
-- canonical Part004 records — **20/27**
-- total canonical repository records — **98**
+- Part004 Pass1 — **COMPLETE / PASS**
+- canonical Part004 records — **27/27**
+- total canonical repository records — **105**
+- text-complete — **27/27**
+- needs-review Tamil — **27/27**
+- visual needs-review — **27/27**
 - unresolved Pass1 holds — **0**
 - verified promotions — **0**
+- source-PDF body leakage — **0**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
 
 ## Exact next activity
 
-**Part004 Pass1 final batch — scans99–105 / local pages21–27.**
+**Part004 Pass2A — scans79–88 / local pages1–10.**
 
-Expected structure from direct intake:
-
-- scans99–101 — chapter11 continuation/body;
-- scan101 / printed87 — chapter11 close with closing ornaments;
-- scan102 — illustrated chapter12 opener / no source-visible folio;
-- scans103–105 — chapter12 continuation;
-- scan105 / printed91 — Part004 terminal physical scan, chapter12 still open;
-- outgoing 105→106 — **PENDING direct audit / source-limited**.
-
-Do not infer Part005 / scan106.
+Pass2A must directly re-read rendered source pixels against the canonical records and apply only source-backed textual corrections. Do not promote status during Pass2A.

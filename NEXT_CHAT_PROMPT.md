@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part004 FINAL Pass1 scans99–105
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part004 Pass2A scans79–88
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,55 +13,57 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 - source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf`
 - local pages — **27**
 - global scans — **79–105**
+- source intake — **COMPLETE / PASS**
 - incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 
-## Pass1 current state
+## Pass1 closure
 
-- Batch 1 scans79–88 — **10/10 TEXT-COMPLETE**
-- Batch 2 scans89–98 — **10/10 TEXT-COMPLETE**
-- Part004 Pass1 — **20/27 TEXT-COMPLETE**
-- canonical Part004 records — **20/27**
-- status — **needs-review 20/20**
-- visual fidelity — **needs-review 20/20**
-- unresolved Pass1 holds — **0**
+**PART004 PASS1 — COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+
+- canonical Part004 records — **27/27**
+- source coverage — **scans79–105 / 27**
+- status — **needs-review 27/27**
+- visual fidelity — **needs-review 27/27**
+- unresolved Pass1 source-reading holds — **0**
 - verified promotions — **0**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
 
-Special Batch2 structure:
+Structural inventory:
 
-- scan89 / printed77 — chapter10 close;
-- scan90 — illustrated chapter11 opener / no source-visible folio;
-- scans91–96 — chapter11 body;
-- scan96 ends with an open speech;
-- scan97 — full-page illustration / no literary body;
-- scan98 — illustration verso / blank / faint show-through only;
-- no wording has been inferred through scans97–98.
+- scan79 — chapter9 continuation/close
+- scan80 — illustrated chapter10 opener
+- scan89 — chapter10 close
+- scan90 — illustrated chapter11 opener
+- scans97–98 — inserted non-text illustration leaf / verso
+- scan101 — chapter11 close
+- scan102 — illustrated chapter12 opener
+- scan105 / printed91 — chapter12 open Part004 terminal
+
+Cross-page locks include:
+
+- 78→79 — `இப்போது உங்கள் / மனோரநிலை சரியில்லை`
+- 88→89 — `அப்போது அவன் / கண்ணிலும் ஆதப்பன் கண்ணிலும்`
+- 104→105 — `போன்றவர்களிடத் / திலும்`
+- 105→106 — **PENDING direct audit / source-limited**
 
 Durable progress: `works/thenpandi-singam/PART_004_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Perform **Part004 Pass1 FINAL batch — scans99–105 / local pages21–27**.
-
-Structural expectations from direct intake:
-
-- scans99–101 — chapter11 continuation/body;
-- scan99 must establish the direct literary continuation after the scan97–98 non-text leaf;
-- scan101 / printed87 — chapter11 close with source-visible closing ornaments;
-- scan102 — illustrated chapter12 opener / displayed numeral 12 / no source-visible folio;
-- scans103–105 — chapter12 body;
-- scan105 / printed91 — Part004 terminal physical scan; chapter12 remains open;
-- outgoing 105→106 — **PENDING direct audit / source-limited**.
+Perform **Part004 Pass2A — scans79–88 / local pages1–10**.
 
 Rules:
 
-- create one canonical record per physical scan;
+- directly compare each canonical record against rendered source pixels;
+- review exact Tamil wording, punctuation, spacing/joining, quotation marks and cross-page splits;
+- preserve source-era and colloquial forms;
+- apply only source-backed corrections;
+- record correction accounting per scan;
 - keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- transcribe only direct source-visible Tamil;
-- preserve source spelling, punctuation, spacing, dialogue and page structure;
-- record illustration/opening matter structurally without invented prose;
-- do not infer scan106 / Part005.
+- no status promotions in Pass2A;
+- do not modify frozen Parts001–003;
+- do not infer Part005 / scan106.
 
-After the final batch, close **Part004 Pass1 — COMPLETE / PASS — 27/27 TEXT-COMPLETE** and set exact next gate to **Part004 Pass2A — scans79–88 / local pages1–10**.
+After this batch, continue Pass2A in the maintained 10-page cadence.

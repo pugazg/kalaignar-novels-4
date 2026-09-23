@@ -117,12 +117,12 @@ After this intake:
 - registered Parts — **4 / 18**
 - registered physical scans — **105**
 - global registered range — **1–105**
-- canonical page records — **98**
+- canonical page records — **105**
 - final-closed Parts — **3**
 - active transcription Part — **Part004**
 - Part004 source intake — **COMPLETE / PASS**
-- Part004 canonical page records — **20/27**
-- Part004 Pass1 — **ACTIVE — 20/27 TEXT-COMPLETE**
+- Part004 canonical page records — **27/27**
+- Part004 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Part005–Part018 — **not registered**
 - incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 105→106 — **PENDING direct audit / source-limited**
@@ -165,7 +165,7 @@ Pass1 must:
 
 Part004 is now the active transcription Part.
 
-**Pass1 Batches 1–2 are complete; final scans99–105 are next.**
+**Part004 Pass1 is COMPLETE / PASS — 27/27 TEXT-COMPLETE.**
 
 
 ## Downstream Pass1 Batch 1 state
@@ -177,7 +177,7 @@ Part004 is now the active transcription Part.
 - canonical repository records — **98**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable progress — `PART_004_PASS1_PROGRESS.md`
 
 
@@ -192,5 +192,24 @@ Part004 is now the active transcription Part.
 - scans97–98 — **non-text illustration leaf / verso represented structurally**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
+- durable progress — `PART_004_PASS1_PROGRESS.md`
+
+
+## Downstream Pass1 final closure state
+
+- Part004 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- completed scans — **79–105 / local pages1–27**
+- canonical Part004 records — **27/27**
+- total canonical repository records — **105**
+- needs-review / visual needs-review — **27/27 / 27/27**
+- unresolved Pass1 holds — **0**
+- verified promotions — **0**
+- scan101 — chapter11 close
+- scan102 — illustrated chapter12 opener / no visible folio
+- scan105 — printed91 / chapter12 open terminal
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable progress — `PART_004_PASS1_PROGRESS.md`

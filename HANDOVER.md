@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part003 whole-Part audit scans54–78**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 Pass2A scans79–88**
 
 ## Work
 
@@ -15,7 +15,7 @@
 - supplied-source design: **18 split PDF files**, each <= **50 MB**
 - split basis: **file size; per-Part page counts may vary**
 - source family / archive identifier: **TVA_BOK_0065559**
-- total physical scan count: **78 registered through Part003; Parts004–018 pending**
+- total physical scan count: **105 registered through Part004; Parts005–018 pending**
 - source PDFs remain outside Git
 
 ## Canonical numbering rule
@@ -53,7 +53,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 ## Current state
 
 - repository controls — **INITIALIZED / SYNCHRONIZED**
-- registered Parts — **3/18**
+- registered Parts — **4/18**
 - Part001 source intake — **COMPLETE / PASS**
 - Part001 canonical page records — **26/26 — scans1–26**
 - Part001 Pass1 — **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
@@ -102,7 +102,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - release-ready synchronization — **PASS / CLOSED**
 - final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- active transcription Part — **Part003**
+- active transcription Part — **Part004**
 - Part002 source intake — **COMPLETE / PASS**
 - Part002 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
 - Part002 bytes — **48,679,196**
@@ -113,7 +113,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
 - Part003 — **FINAL CLOSED / FROZEN**
-- Parts004–018 — **not registered**
+- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A NEXT**
+- Parts005–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
 - Part002 Pass2A corrections / unresolved — **1 / 0**
@@ -225,7 +226,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - needs-review Tamil / visual pages — **0 / 0**
 - canonical Tamil body changes caused by status sync — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable status sync — `PART_003_FINAL_STATUS_SYNC.md`
 
 
@@ -237,7 +238,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - page-map verified rows — **25/25**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable documentation sync — `PART_003_DOCUMENTATION_SYNC.md`
 
 
@@ -249,7 +250,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - needs-review Tamil / visual pages — **0 / 0**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable archival-ready checkpoint — `PART_003_TAMIL_ARCHIVAL_READY.md`
 
 
@@ -272,7 +273,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - unresolved assembly blockers — **0**
 - incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 
 
@@ -291,7 +292,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part004 leakage — **0**
 - incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable controls — `translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
 
 
@@ -304,7 +305,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - canonical / assembled Tamil edits — **0 / 0**
 - unresolved E9 holds — **0**
 - Part004 leakage — **0**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable source-check — `translations/en/E9_SOURCE_CHECK.md`
 
 
@@ -319,7 +320,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - frozen Part001/Part002 English edits — **0**
 - Part004 leakage — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable source-check controls — `translations/en/E9_SOURCE_CHECK.md` through `E12_SOURCE_CHECK.md`
 
 
@@ -333,7 +334,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - canonical / assembled Tamil edits — **0 / 0**
 - frozen Part001/Part002 English edits — **0**
 - Part004 leakage — **0**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 
 
 ## Part003 English editorial review downstream state
@@ -345,7 +346,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - canonical / assembled Tamil edits — **0 / 0**
 - frozen earlier-Part English edits — **0**
 - Part004 leakage — **0**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 
 
 ## Part003 whole-Part bilingual review downstream state
@@ -357,7 +358,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - canonical / assembled Tamil edits — **0 / 0**
 - frozen earlier-Part English edits — **0**
 - Part004 leakage — **0**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 
 
 ## Part003 release/readiness downstream state
@@ -366,7 +367,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - unresolved release/readiness blockers — **0**
 - canonical / assembled / English body changes — **0 / 0 / 0**
 - Part004 leakage — **0**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 
 
 ## Part003 release-ready synchronization downstream state
@@ -375,7 +376,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - canonical / assembled / English body changes — **0 / 0 / 0**
 - unresolved synchronization blockers — **0**
 - Part004 leakage — **0**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 
 
 ## Part003 final closure downstream state
@@ -396,7 +397,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - outgoing 78→79 — **PENDING direct audit / source-limited / preserved**
 - final-closed Parts — **3**
 - Part004 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable closure — `PART_003_FINAL_CLOSURE.md`
 
 
@@ -415,7 +416,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
 - Part003 body edits caused by boundary completion — **0 / 0 / 0**
 - outgoing 105→106 — **PENDING direct audit / source-limited**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable intake — `works/thenpandi-singam/SOURCE_INTAKE_PART_004.md`
 
 
@@ -429,7 +430,7 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - unresolved Pass1 source-reading holds — **0**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_004_PASS1_PROGRESS.md`
 
 
@@ -446,5 +447,22 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - verified promotions — **0**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
+- durable progress — `works/thenpandi-singam/PART_004_PASS1_PROGRESS.md`
+
+
+## Part004 Pass1 final closure state
+
+- Part004 source intake — **COMPLETE / PASS**
+- Part004 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- canonical Part004 records — **27/27 / scans79–105**
+- total canonical repository records — **105**
+- needs-review / visual needs-review — **27/27 / 27/27**
+- unresolved Pass1 source-reading holds — **0**
+- verified promotions — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_004_PASS1_PROGRESS.md`

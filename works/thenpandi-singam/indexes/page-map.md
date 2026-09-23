@@ -104,6 +104,13 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 004 | 18 | 96 | 84 | chapter 11 continuation; completes `அந்தப் பகுதியில் / பலம் பொருந்திய`; speech remains open across inserted non-text leaf; Pass1 text-complete | needs-review | `pages/0096-chapter-11.md` |
 | 004 | 19 | 97 | — | full-page illustration; no literary body text; Pass1 structural record complete | needs-review | `pages/0097-chapter-11.md` |
 | 004 | 20 | 98 | — | illustration verso / blank; faint show-through only; no literary body text; Pass1 structural record complete | needs-review | `pages/0098-chapter-11.md` |
+| 004 | 21 | 99 | 85 | chapter 11 continuation; directly resumes open scan96 speech after scans97–98 inserted non-text leaf; Pass1 text-complete | needs-review | `pages/0099-chapter-11.md` |
+| 004 | 22 | 100 | 86 | chapter 11 continuation / confrontation; Pass1 text-complete | needs-review | `pages/0100-chapter-11.md` |
+| 004 | 23 | 101 | 87 | chapter 11 close; three closing ornaments; Pass1 text-complete | needs-review | `pages/0101-chapter-11.md` |
+| 004 | 24 | 102 | — | chapter 12 opening; illustrated; printed folio not source-visible; Pass1 text-complete | needs-review | `pages/0102-chapter-12.md` |
+| 004 | 25 | 103 | 89 | chapter 12 continuation; Pass1 text-complete | needs-review | `pages/0103-chapter-12.md` |
+| 004 | 26 | 104 | 90 | chapter 12 continuation; terminal `போன்றவர்களிடத்` continues to scan105; Pass1 text-complete | needs-review | `pages/0104-chapter-12.md` |
+| 004 | 27 | 105 | 91 | Part004 terminal chapter12 continuation; completes `போன்றவர்களிடத் / திலும்`; open dialogue remains; 105→106 pending witness; Pass1 text-complete | needs-review | `pages/0105-chapter-12.md` |
 
 ## Intake observations
 
@@ -302,7 +309,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - status — **needs-review 10/10**
 - visual fidelity — **needs-review 10/10**
 - unresolved Pass1 holds — **0**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
 
 
 ## Part004 Pass1 Batch 2 downstream state
@@ -313,4 +320,16 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - visual fidelity — **needs-review 20/20**
 - scans97–98 — **non-text illustration/verso structural records**
 - unresolved Pass1 holds — **0**
-- exact next activity — **Part004 Pass1 final scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
+
+
+## Part004 Pass1 final closure downstream state
+
+- Part004 canonical rows — **27/27 / scans79–105**
+- Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- status — **needs-review 27/27**
+- visual fidelity — **needs-review 27/27**
+- unresolved Pass1 holds — **0**
+- scan105 / printed91 — chapter12 open terminal
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
