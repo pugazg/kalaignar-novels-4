@@ -112,7 +112,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - incoming 26→27 — **GENUINE CONTINUATION / AUDITED**
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
-- Part003 — **ACTIVE / PASS3 COMPLETE — WHOLE-PART AUDIT NEXT**
+- Part003 — **ACTIVE / WHOLE-PART AUDIT PASS — FINAL STATUS SYNC NEXT**
 - Parts004–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -163,7 +163,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **ACTIVE / PASS3 COMPLETE — WHOLE-PART AUDIT NEXT**
+- Part003 — **ACTIVE / WHOLE-PART AUDIT PASS — FINAL STATUS SYNC NEXT**
 - Part003 canonical records — **25/25**
 - Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 bytes — **48,354,306**
@@ -192,7 +192,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 ## Continuation control
 
 - `NEXT_CHAT_PROMPT.md` — **CURRENT / SYNCHRONIZED**
-- continuation gate — **Part003 whole-Part audit scans54–78 / local pages1–25**
+- continuation gate — **Part003 final metadata/status synchronization — scans54–78 / 25 pages**
 - Part002 Pass2B final state — **COMPLETE / PASS — 27/27 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part002 Pass3 final state — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 - the source PDF is not stored in Git; direct verification in a new chat requires the Part003 source PDF to be available there
@@ -200,6 +200,18 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-**Part003 whole-Part audit — scans54–78 / local pages1–25.**
+**Part003 final metadata/status synchronization — scans54–78 / 25 pages.**
 
 Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** for scans54–78 with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All 25 canonical records remain `needs-review` / visual `needs-review`; verified promotions remain **0**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**. Do not begin Pass3 until all **25/25** Part003 pages complete Pass2B.
+
+
+## Part003 whole-Part audit downstream state
+
+- Part003 whole-Part audit — **PASS / COMPLETE**
+- canonical coverage — **25/25 / scans54–78**
+- duplicate / omitted scans — **0 / 0**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- page status promotions during audit — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 final metadata/status synchronization — scans54–78 / 25 pages**
+- durable audit — `PART_003_AUDIT.md`

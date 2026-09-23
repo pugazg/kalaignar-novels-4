@@ -181,4 +181,16 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part003 Pass2A: **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**
 - Part003 Pass2B: **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part003 Pass3: **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
-- exact next activity: **Part003 whole-Part audit scans54–78 / local pages1–25**
+- exact next activity: **Part003 final metadata/status synchronization — scans54–78 / 25 pages**
+
+
+## Part003 whole-Part audit downstream state
+
+- Part003 whole-Part audit — **PASS / COMPLETE**
+- canonical coverage — **25/25 / scans54–78**
+- duplicate / omitted scans — **0 / 0**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- page status promotions during audit — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 final metadata/status synchronization — scans54–78 / 25 pages**
+- durable audit — `PART_003_AUDIT.md`

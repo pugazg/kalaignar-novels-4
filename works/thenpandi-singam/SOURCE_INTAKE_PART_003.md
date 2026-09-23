@@ -217,3 +217,15 @@ Durable Pass2A progress: `PART_003_PASS2A_PROGRESS.md`.
 - outgoing 78→79 — **PENDING direct audit / source-limited**
 - exact next activity — **Part003 whole-Part audit scans54–78 / local pages1–25**
 - durable Pass3 progress — `PART_003_PASS3_PROGRESS.md`
+
+
+## Part003 whole-Part audit downstream state
+
+- Part003 whole-Part audit — **PASS / COMPLETE**
+- canonical coverage — **25/25 / scans54–78**
+- duplicate / omitted scans — **0 / 0**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- page status promotions during audit — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 final metadata/status synchronization — scans54–78 / 25 pages**
+- durable audit — `PART_003_AUDIT.md`

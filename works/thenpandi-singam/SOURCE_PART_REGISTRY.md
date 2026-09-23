@@ -157,7 +157,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **2**
-- Part003: **ACTIVE / PASS3 COMPLETE — WHOLE-PART AUDIT NEXT**
+- Part003: **ACTIVE / WHOLE-PART AUDIT PASS — FINAL STATUS SYNC NEXT**
 - Part003 canonical records: **25/25**
 - Part003 Pass1: **COMPLETE / PASS — 25/25 TEXT-COMPLETE — scans54–78**
 - Part003 Pass2A: **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**
@@ -170,4 +170,16 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part002 assembly omissions / duplicates / unsupported insertion / audit-note leakage: **0 / 0 / 0 / 0**
 - final closure: **PASS / CLOSED / FROZEN**
 - translated/source-checked: **10/10 / 10/10**
-- exact next gate: **Part003 whole-Part audit scans54–78 / local pages1–25**
+- exact next gate: **Part003 final metadata/status synchronization — scans54–78 / 25 pages**
+
+
+## Part003 whole-Part audit downstream state
+
+- Part003 whole-Part audit — **PASS / COMPLETE**
+- canonical coverage — **25/25 / scans54–78**
+- duplicate / omitted scans — **0 / 0**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- page status promotions during audit — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 final metadata/status synchronization — scans54–78 / 25 pages**
+- durable audit — `PART_003_AUDIT.md`
