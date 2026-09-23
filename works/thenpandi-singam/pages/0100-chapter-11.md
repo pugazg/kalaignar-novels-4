@@ -15,7 +15,7 @@ transcription_method: "direct source-image transcription; Part004 Pass1 final ba
 
 ## Source transcription
 
-“ஆதப்பா! அப்படியானால் ஒரு ஆடவரசியின் வீட்டில் உனக்கென்ன வேலையப்பா?”
+“ஆதப்பா! அப்படியானால் ஒரு ஆடலரசியின் வீட்டில் உனக்கென்ன வேலையப்பா?”
 
 “ஏன், வேறு எதாவது வேலை இருக்கக்கூடாதா?”
 

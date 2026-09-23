@@ -109,3 +109,18 @@ Part004 contains:
 **Part004 Pass2A — scans79–88 / local pages1–10.**
 
 Pass2A must directly re-read rendered source pixels against the canonical records and apply only source-backed textual corrections. Do not promote status during Pass2A.
+
+
+## Final direct-source re-read
+
+Before handing Pass1 to Pass2A, a final enlarged-pixel check corrected **3 Pass1 transcription slips** without changing gate status:
+
+1. scan99 — `பிரியத்துக்குரிய வளை` → `பிரியத்துக்குரியவளை` (same lexical word across a source line wrap)
+2. scan100 — `ஆடவரசியின்` → `ஆடலரசியின்`
+3. scan103 — `உங்கள் எதிர்க்கும்` → `உங்களை எதிர்க்கும்`
+
+- corrections — **3**
+- unresolved holds — **0**
+- status promotions — **0**
+- Pass1 remains — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
