@@ -1,0 +1,156 @@
+# தென்பாண்டிச் சிங்கம் — Part003 Assembled Tamil Validation
+
+Work: `தென்பாண்டிச் சிங்கம்`  
+Repository: `pugazg/kalaignar-novels-4`  
+Branch: `main`
+
+## Result
+
+**PART003 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED.**
+
+This validation audits the readable Part003 Tamil layer under `sections/` against the verified canonical Part003 `pages/` records.
+
+Assembly used only verified canonical `## Source transcription` blocks plus source-supported displayed chapter numerals.
+
+No Part004 text was used. Frozen Part001/Part002 assembled files were not modified.
+
+## Inventory gate
+
+- assembled files — **4/4**
+- represented Part003 physical scans — **54–78 / 25**
+- canonical source-transcription blocks represented — **25/25**
+- omitted canonical source-transcription blocks — **0**
+- duplicated canonical source-transcription blocks — **0**
+- every Part003 assembled section status — **verified**
+- Part004 assembled/canonical content introduced — **0**
+
+Section inventory:
+
+1. `sections/14-chapter-06-part003.md` — scan54; chapter6 continuation and close
+2. `sections/15-chapter-07.md` — scans55–61
+3. `sections/16-chapter-08.md` — scans62–70
+4. `sections/17-chapter-09-part003.md` — scans71–78; chapter9 remains open at Part boundary
+
+## Exact canonical-text regeneration audit
+
+Each assembled file was independently regenerated from the live verified canonical Part003 source-transcription blocks, with only:
+
+- assembled YAML front matter;
+- source-supported displayed chapter numerals for chapters7–9;
+- non-rendering physical source-boundary provenance comments;
+- the incoming audited 53→54 provenance comment on chapter6 continuation;
+- the final non-rendering pending 78→79 provenance comment.
+
+Exact comparison results:
+
+| Section | Result |
+|---|---|
+| scan54 chapter6 Part003 continuation/close | **EXACT / PASS** |
+| scans55–61 chapter7 | **EXACT / PASS** |
+| scans62–70 chapter8 | **EXACT / PASS** |
+| scans71–78 chapter9 Part003 portion | **EXACT / PASS** |
+
+Audit/review/workflow-note leakage into literary body — **0**.  
+Unsupported Tamil body insertion — **0**.
+
+## Structural / provenance gate
+
+Source-visible order is retained exactly:
+
+1. scan54 — chapter6 continuation and close;
+2. scans55–61 — chapter7;
+3. scans62–70 — chapter8;
+4. scans71–78 — chapter9 Part003 portion, open at scan78.
+
+Special cases:
+
+- illustrated chapter-opening matter at scans55, 62 and 71 generates no invented prose beyond source-supported displayed numerals;
+- chapter-closing ornaments / blank lower fields at scans54, 61 and 70 generate no invented prose;
+- recurring page furniture is not duplicated into the reading layer;
+- incoming chapter6 continuation begins at scan54 without duplicating frozen Part002 scan53 text.
+
+## Cross-page gate
+
+Non-rendering source-boundary comments preserve physical provenance inside assembled units.
+
+Verified continuation boundaries represented without textual invention include:
+
+- 56→57
+- 58→59
+- 59→60 — `வெள்ளித் / தட்டுக்களில்`
+- 60→61 — `அந்த இனிய / செய்திகள்`
+- 63→64 — `ஊனமுற்றுக் / கிடந்து`
+- 65→66
+- 71→72 — `நாட்டியப் பேரரசியாக / விளங்கிய`
+- 75→76
+- 77→78 — `இடம் என்று / தெரியாமல்`
+
+Chapter-transition boundaries 54→55, 61→62 and 70→71 are represented by separate verified assembled sections rather than synthetic prose joins.
+
+No canonical source-transcription block is omitted or duplicated.
+
+## Incoming boundary gate
+
+The Part003 chapter6 continuation begins only at scan54.
+
+- frozen Part002 assembled Tamil modified — **0**
+- Part002 scan53 Tamil duplicated into Part003 assembly — **0**
+- incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- physical split — **`அசைக்க / முடியாத`**
+
+## Outgoing boundary gate
+
+Part003 scan78 remains inside chapter9 and stops exactly on the verified source fragment:
+
+`இப்போது உங்கள்`
+
+The assembled chapter9 Part003 file carries only the non-rendering provenance condition:
+
+**78→79 = PENDING direct audit / source-limited; Part004 not supplied.**
+
+- scan79 / Part004 Tamil imported — **0**
+- Part004 canonical record created — **0**
+- unsupported completion of chapter9 — **0**
+- boundary silently classified — **0**
+
+## Canonical-integrity gate
+
+Assembly is derived only.
+
+Repository comparison from Tamil archival-ready commit `b17d54740a1a05747d9506680d39c14329595cd7` through assembled-body commit `876fa6f4b155bf525aac0ecd38ae880db2c27771` shows only the four new Part003 `sections/` files.
+
+Therefore:
+
+- canonical Part003 `pages/` mutations caused by assembly — **0**
+- canonical Tamil wording corrections during assembly — **0**
+- canonical punctuation corrections during assembly — **0**
+- canonical status changes caused by assembly — **0**
+- page-map authority changes caused by assembly — **0**
+- frozen Part001/Part002 assembled Tamil changes — **0**
+- Part004 body leakage — **0**
+
+Canonical `pages/` remain authoritative for future discrepancy resolution.
+
+## Decision
+
+**ASSEMBLED TAMIL MASTER — PASS / VERIFIED.**
+
+Part003 assembled Tamil is now:
+
+- **4/4 VERIFIED**
+- **PASS / CLOSED**
+- canonical scan coverage — **25/25**
+- omissions — **0**
+- duplicates — **0**
+- unsupported Tamil body insertion — **0**
+- audit/review-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- unresolved assembly blockers — **0**
+
+The source-limited 78→79 boundary remains pending by design and is preserved without importing later text.
+
+## Exact next gate
+
+**Part003 English translation planning/setup.**
+
+The next non-colliding English batch range is **E9–E12**, corresponding to the four maintained Part003 Tamil sections. Planning/setup must close **COMPLETE / PASS** before English literary prose is drafted.

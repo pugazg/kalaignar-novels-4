@@ -65,7 +65,7 @@ After all maintained controls agree on **25/25 verified Tamil + 25/25 verified v
 - page-map verified rows — **25/25**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 assembled Tamil construction + audit**
+- exact next activity — **Part003 English translation planning/setup — reserve E9–E12**
 - durable documentation sync — `PART_003_DOCUMENTATION_SYNC.md`
 
 
@@ -77,5 +77,28 @@ After all maintained controls agree on **25/25 verified Tamil + 25/25 verified v
 - needs-review Tamil / visual pages — **0 / 0**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 assembled Tamil construction + audit**
+- exact next activity — **Part003 English translation planning/setup — reserve E9–E12**
 - durable archival-ready checkpoint — `PART_003_TAMIL_ARCHIVAL_READY.md`
+
+
+## Part003 assembled Tamil downstream state
+
+**PART003 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 4/4 VERIFIED.**
+
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- scans — **54–78**
+- Part003 assembled files — **4/4 VERIFIED**
+- inventory — `14-chapter-06-part003.md`, `15-chapter-07.md`, `16-chapter-08.md`, `17-chapter-09-part003.md`
+- canonical scan coverage — **25/25**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit/review-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- frozen Part001/Part002 assembled Tamil changes — **0**
+- Part004 leakage — **0**
+- unresolved assembly blockers — **0**
+- incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next gate — **Part003 English translation planning/setup — reserve E9–E12**
+- durable validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`

@@ -52,7 +52,7 @@ Part001:
 - Part002 release-ready synchronization — **PASS / CLOSED — 0 post-release body drift**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- Part003 — **ACTIVE / TAMIL ARCHIVAL-READY CLOSED — ASSEMBLY NEXT**
+- Part003 — **ACTIVE / ASSEMBLED TAMIL CLOSED — ENGLISH PLANNING NEXT**
 - Part003 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf`
 - Part003 local pages / global scans — **25 / 54–78**
 - Part003 canonical records — **25/25**
@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part003 assembled Tamil construction + audit.**
+**Part003 English translation planning/setup.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -121,7 +121,7 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - needs-review Tamil / visual pages — **0 / 0**
 - canonical Tamil body changes caused by status sync — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 assembled Tamil construction + audit**
+- exact next activity — **Part003 English translation planning/setup — reserve E9–E12**
 - durable status sync — `PART_003_FINAL_STATUS_SYNC.md`
 
 
@@ -133,7 +133,7 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - page-map verified rows — **25/25**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 assembled Tamil construction + audit**
+- exact next activity — **Part003 English translation planning/setup — reserve E9–E12**
 - durable documentation sync — `PART_003_DOCUMENTATION_SYNC.md`
 
 
@@ -145,5 +145,28 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - needs-review Tamil / visual pages — **0 / 0**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 assembled Tamil construction + audit**
+- exact next activity — **Part003 English translation planning/setup — reserve E9–E12**
 - durable archival-ready checkpoint — `PART_003_TAMIL_ARCHIVAL_READY.md`
+
+
+## Part003 assembled Tamil downstream state
+
+**PART003 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 4/4 VERIFIED.**
+
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- scans — **54–78**
+- Part003 assembled files — **4/4 VERIFIED**
+- inventory — `14-chapter-06-part003.md`, `15-chapter-07.md`, `16-chapter-08.md`, `17-chapter-09-part003.md`
+- canonical scan coverage — **25/25**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit/review-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- frozen Part001/Part002 assembled Tamil changes — **0**
+- Part004 leakage — **0**
+- unresolved assembly blockers — **0**
+- incoming 53→54 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next gate — **Part003 English translation planning/setup — reserve E9–E12**
+- durable validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
