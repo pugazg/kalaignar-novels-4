@@ -97,5 +97,17 @@ Do not promote page status during the audit itself. Final metadata/status synchr
 - page-map verified rows — **25/25**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 Tamil archival-ready checkpoint**
+- exact next activity — **Part003 assembled Tamil construction + audit**
 - durable documentation sync — `PART_003_DOCUMENTATION_SYNC.md`
+
+
+## Part003 Tamil archival-ready downstream state
+
+- Part003 Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 assembled Tamil construction + audit**
+- durable archival-ready checkpoint — `PART_003_TAMIL_ARCHIVAL_READY.md`

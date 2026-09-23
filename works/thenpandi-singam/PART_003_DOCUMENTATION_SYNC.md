@@ -49,7 +49,7 @@ The current Part003 state has been synchronized across:
 - incoming boundary consistently represented as **53→54 GENUINE CONTINUATION / AUDITED**
 - outgoing boundary consistently represented as **78→79 PENDING direct audit / source-limited**
 - Part004 canonical leakage — **0**
-- exact next gate — **Part003 Tamil archival-ready checkpoint**
+- exact next gate — **Part003 assembled Tamil construction + audit**
 
 The Pass2B source-backed reversal of the scan78 Pass2A-added opening quotation mark is retained consistently; current canonical Tamil remains authoritative.
 
@@ -77,3 +77,15 @@ The one open outgoing boundary is an explicit source-availability condition, not
 Perform **Part003 Tamil archival-ready checkpoint**.
 
 Do not begin assembled Tamil construction until that checkpoint closes. Do not begin English.
+
+
+## Part003 Tamil archival-ready downstream state
+
+- Part003 Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 assembled Tamil construction + audit**
+- durable archival-ready checkpoint — `PART_003_TAMIL_ARCHIVAL_READY.md`

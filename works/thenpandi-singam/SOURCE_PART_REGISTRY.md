@@ -157,7 +157,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - final-closed Parts: **2**
-- Part003: **ACTIVE / DOCUMENTATION SYNC COMPLETE — TAMIL ARCHIVAL-READY NEXT**
+- Part003: **ACTIVE / TAMIL ARCHIVAL-READY CLOSED — ASSEMBLY NEXT**
 - Part003 canonical records: **25/25**
 - Part003 Pass1: **COMPLETE / PASS — 25/25 TEXT-COMPLETE — scans54–78**
 - Part003 Pass2A: **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**
@@ -193,7 +193,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - needs-review Tamil / visual pages — **0 / 0**
 - canonical Tamil body changes caused by status sync — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 Tamil archival-ready checkpoint**
+- exact next activity — **Part003 assembled Tamil construction + audit**
 - durable status sync — `PART_003_FINAL_STATUS_SYNC.md`
 
 
@@ -205,5 +205,17 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - page-map verified rows — **25/25**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - outgoing 78→79 — **PENDING direct audit / source-limited**
-- exact next activity — **Part003 Tamil archival-ready checkpoint**
+- exact next activity — **Part003 assembled Tamil construction + audit**
 - durable documentation sync — `PART_003_DOCUMENTATION_SYNC.md`
+
+
+## Part003 Tamil archival-ready downstream state
+
+- Part003 Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil — **25/25 verified**
+- visual fidelity — **25/25 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- outgoing 78→79 — **PENDING direct audit / source-limited**
+- exact next activity — **Part003 assembled Tamil construction + audit**
+- durable archival-ready checkpoint — `PART_003_TAMIL_ARCHIVAL_READY.md`
