@@ -19,7 +19,7 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 
 இறுதியாக, வெள்ளை அய்யர் குறிப்பிட்ட அந்த நடன ஆசிரியை அருகாமையில் உள்ள திருக்கோட்டியூரில்தான் இருந்தாள். திருமாலுக்குரிய திருத்தலங்களில் ஒன்று அந்த ஊர். இந்த ஊர்க் கோயில் தேர் திருவிழாக்களின் போது பட்டமங்கலத்து அம்பலக்காரருக்கு கோயில் சார்பாகப் பரிவட்ட மரியாதைகள் நடைபெறுவதுண்டு.
 
-ஆலயத்தைச் சுற்றி அழகிய வீதிகளும், எதிரே ஒரு குளமும், பூசைக்குத் தேவையான மலர்களை விளைவிக்க ஒரு பூந்தோட்டமும், தங்கக் கவசம் கொண்ட எழில்மிகு கோபுரமும், திருக்கோட்டியூருக்குத் தனிக் கவர்ச்சி! அந்த ஊர்த் தேர் மருது பாண்டியர்களின் உபயம்.
+ஆலயத்தைச் சுற்றி அழகிய வீதிகளும், எதிரேயொரு குளமும், பூசைக்குத் தேவையான மலர்களை விளைவிக்க ஒரு பூந்தோட்டமும், தங்கக் கவசம் கொண்ட எழில்மிகு கோபுரமும், திருக்கோட்டியூருக்குத் தனிக் கவர்ச்சி! அந்த ஊர்த் தேர் மருது பாண்டியர்களின் உபயம்.
 
 வெள்ளையரை எதிர்த்து வீரப்போர் புரிந்த சிவகங்கைச் சீமையின் அரசியார் வேலுநாச்சியார் போர்க்காலத் தேவைக்காக அமைத்திட்ட கற்சாந்தினால் ஆன கட்டிடம் ஒன்றும் அங்கே இருக்கிறது.
 
@@ -35,4 +35,13 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 - final phrase continues physically to scan72;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 71; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 18; அச்சுப் பக்கம்: SOURCE-NOT-VISIBLE; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part003 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against the rendered Part003 source image;
+- source-text corrections: **1**;
+- correction: `எதிரே ஒரு` → `எதிரேயொரு` — source-visible word joining;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 71; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 18; அச்சுப் பக்கம்: SOURCE-NOT-VISIBLE; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->

@@ -19,7 +19,7 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 
 “அண்ணா! அண்ணா!” என அலறிக் கல்யாணி மூர்ச்சித்து விழுந்து விட்டாள்!
 
-மூர்ச்சை தெளிந்து கண் விழித்த போதுதான்-வாளுக்கு வேலி எந்தக் காயமுமின்றித் தன்னருகே நின்றிருப்பதையும்-இதற்கு முன்பு நடந்த அத்தனையும் வைரமுத்தனின் மீது அவளுக்கேற்பட்ட அடங்காத காதல் கற்பனையின் குறும்புச் சேட்டையென்பதையும்-கல்யாணியினால் உணர முடிந்தது!
+மூர்ச்சை தெளிந்து கண் விழித்த போதுதான்-வாளுக்கு வேலி எந்தக் காயமுமின்றித் தன்னருகே நின்றிருப்பதையும்-இதற்கு முன்பு நடந்த அத்தனையும் வைரமுத்தனின் மீது அவளுக்கேற்பட்ட அடங்காத காதல் கற்பனையின் குறும்புச் சேட்டையென்பதையும் - கல்யாணியினால் உணர முடிந்தது!
 
 அவளுக்கு ஏற்பட்ட அதிர்ச்சி அதிகநேரம் நீடிக்கவில்லை! தன்னால் விருந்து ஏற்பாடு கெட்டுவிடக் கூடாதேயென்று உடனே எழுந்து அண்ணன் வாளுக்கு வேலியை விருந்துக் கூடத்திற்குச் செல்லுமாறு கேட்டுக் கொண்டாள்! அப்போது, தானிருக்குமிடத்தைச் சுற்றிப் பட்டமங்கலத்துக்காரர்கள் நிற்பதைப் பார்த்து நாணித் தலை குனிந்து கொண்டாள்!
 
@@ -37,4 +37,13 @@ transcription_method: "direct source-image transcription; Part003 Pass1 batch sc
 - final direct speech remains physically open and continues to scan66;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 65; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 12; அச்சுப் பக்கம்: 53; PASS 1 TEXT-COMPLETE / needs-review -->
+## Formal Part003 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against the rendered Part003 source image;
+- source-text corrections: **1**;
+- correction: `சேட்டையென்பதையும்-கல்யாணியினால்` → `சேட்டையென்பதையும் - கல்யாணியினால்` — source-visible punctuation / spacing around separator hyphen;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass2B, Pass3, whole-Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 65; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 12; அச்சுப் பக்கம்: 53; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
