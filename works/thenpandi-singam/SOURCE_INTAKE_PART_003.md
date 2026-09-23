@@ -194,14 +194,15 @@ Durable progress: `PART_003_PASS1_PROGRESS.md`.
 - all Part003 pages remain `status: "needs-review"`
 - all Part003 pages remain `visual_fidelity: "needs-review"`
 - Part004 leakage — **0**
-- exact next activity — **Part003 Pass2B scans74–78 / local pages21–25**
+- exact next activity — **Part003 Pass3 scans54–78 / local pages1–25**
 
 Durable Pass2A progress: `PART_003_PASS2A_PROGRESS.md`.
-- Part003 Pass2B — **IN PROGRESS — 20/25 REVIEWED**
-- reviewed Pass2B scans — **54–73 / local pages1–20**
-- Pass2B lexical / spacing / punctuation corrections — **2**
-- Pass2B affected scans — **58, 65**
+- Part003 Pass2B — **COMPLETE / PASS — 25/25 REVIEWED**
+- reviewed Pass2B scans — **54–78 / local pages1–25**
+- Pass2B lexical / spacing / punctuation corrections — **5**
+- Pass2B affected scans — **58, 65, 75, 78**
 - Pass2B historical-glyph corrections — **0**
 - unresolved Pass2B questions — **0**
 - Pass2B status promotions — **0**
+- Part003 Pass3 — **NOT STARTED**
 - durable Pass2B progress — `PART_003_PASS2B_PROGRESS.md`
