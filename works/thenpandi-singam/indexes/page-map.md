@@ -94,16 +94,16 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 004 | 8 | 86 | 74 | chapter 10 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0086-chapter-10.md` |
 | 004 | 9 | 87 | 75 | chapter 10 continuation; rhythmic dance syllables retained; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **1 correction / 0 historical-glyph corrections** | needs-review | `pages/0087-chapter-10.md` |
 | 004 | 10 | 88 | 76 | chapter 10 continuation; ends on open fragment `அப்போது அவன்`; Pass1 text-complete; Pass2A reviewed / **1 correction**; Pass2B reviewed / **2 corrections / 0 historical-glyph corrections** | needs-review | `pages/0088-chapter-10.md` |
-| 004 | 11 | 89 | 77 | chapter 10 continuation and close; completes `அப்போது அவன் / கண்ணிலும்`; closing ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0089-chapter-10.md` |
-| 004 | 12 | 90 | — | chapter 11 opening; illustrated; printed folio not source-visible; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0090-chapter-11.md` |
-| 004 | 13 | 91 | 79 | chapter 11 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0091-chapter-11.md` |
-| 004 | 14 | 92 | 80 | chapter 11 continuation; terminal `அந்தப்` continues to scan93; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0092-chapter-11.md` |
-| 004 | 15 | 93 | 81 | chapter 11 continuation; completes `அந்தப் / படங்களை`; terminal `அம்பலக்` continues to scan94; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0093-chapter-11.md` |
-| 004 | 16 | 94 | 82 | chapter 11 continuation; completes `அம்பலக் / காரர்களாகிய`; terminal `தன்னிருக்கையை` continues to scan95; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0094-chapter-11.md` |
-| 004 | 17 | 95 | 83 | chapter 11 continuation; completes `தன்னிருக்கையை / விட்டுத்`; terminal `அந்தப் பகுதியில்` continues to scan96; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0095-chapter-11.md` |
-| 004 | 18 | 96 | 84 | chapter 11 continuation; completes `அந்தப் பகுதியில் / பலம் பொருந்திய`; speech remains open across inserted non-text leaf; Pass1 text-complete; Pass2A reviewed / **2 corrections** | needs-review | `pages/0096-chapter-11.md` |
-| 004 | 19 | 97 | — | full-page illustration; no literary body text; Pass1 structural record complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0097-chapter-11.md` |
-| 004 | 20 | 98 | — | illustration verso / blank; faint show-through only; no literary body text; Pass1 structural record complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0098-chapter-11.md` |
+| 004 | 11 | 89 | 77 | chapter 10 continuation and close; completes `அப்போது அவன் / கண்ணிலும்`; closing ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0089-chapter-10.md` |
+| 004 | 12 | 90 | — | chapter 11 opening; illustrated; printed folio not source-visible; Pass1 text-complete; Pass2A reviewed / **1 correction**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0090-chapter-11.md` |
+| 004 | 13 | 91 | 79 | chapter 11 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **2 corrections / 0 historical-glyph corrections** | needs-review | `pages/0091-chapter-11.md` |
+| 004 | 14 | 92 | 80 | chapter 11 continuation; terminal `அந்தப்` continues to scan93; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0092-chapter-11.md` |
+| 004 | 15 | 93 | 81 | chapter 11 continuation; completes `அந்தப் / படங்களை`; terminal `அம்பலக்` continues to scan94; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0093-chapter-11.md` |
+| 004 | 16 | 94 | 82 | chapter 11 continuation; completes `அம்பலக் / காரர்களாகிய`; terminal `தன்னிருக்கையை` continues to scan95; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0094-chapter-11.md` |
+| 004 | 17 | 95 | 83 | chapter 11 continuation; completes `தன்னிருக்கையை / விட்டுத்`; terminal `அந்தப் பகுதியில்` continues to scan96; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **1 correction / 0 historical-glyph corrections** | needs-review | `pages/0095-chapter-11.md` |
+| 004 | 18 | 96 | 84 | chapter 11 continuation; completes `அந்தப் பகுதியில் / பலம் பொருந்திய`; speech remains open across inserted non-text leaf; Pass1 text-complete; Pass2A reviewed / **2 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0096-chapter-11.md` |
+| 004 | 19 | 97 | — | full-page illustration; no literary body text; Pass1 structural record complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0097-chapter-11.md` |
+| 004 | 20 | 98 | — | illustration verso / blank; faint show-through only; no literary body text; Pass1 structural record complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0098-chapter-11.md` |
 | 004 | 21 | 99 | 85 | chapter 11 continuation; directly resumes open scan96 speech after scans97–98 inserted non-text leaf; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0099-chapter-11.md` |
 | 004 | 22 | 100 | 86 | chapter 11 continuation / confrontation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0100-chapter-11.md` |
 | 004 | 23 | 101 | 87 | chapter 11 close; three closing ornaments; Pass1 text-complete; Pass2A reviewed / **2 corrections** | needs-review | `pages/0101-chapter-11.md` |
@@ -309,7 +309,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - status — **needs-review 10/10**
 - visual fidelity — **needs-review 10/10**
 - unresolved Pass1 holds — **0**
-- exact next activity — **Part004 Pass2B scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
 
 
 ## Part004 Pass1 Batch 2 downstream state
@@ -320,7 +320,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - visual fidelity — **needs-review 20/20**
 - scans97–98 — **non-text illustration/verso structural records**
 - unresolved Pass1 holds — **0**
-- exact next activity — **Part004 Pass2B scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
 
 
 ## Part004 Pass1 final closure downstream state
@@ -332,7 +332,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - unresolved Pass1 holds — **0**
 - scan105 / printed91 — chapter12 open terminal
 - outgoing 105→106 — **PENDING direct audit / source-limited**
-- exact next activity — **Part004 Pass2B scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
 
 
 ## Part004 Pass2A Batch 1 downstream state
@@ -343,7 +343,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - unresolved Pass2A questions — **0**
 - status remains — **needs-review 27/27**
 - visual fidelity remains — **needs-review 27/27**
-- exact next activity — **Part004 Pass2B scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
 
 
 ## Part004 Pass2A Batch 2 downstream state
@@ -355,7 +355,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - unresolved Pass2A questions — **0**
 - status remains — **needs-review 27/27**
 - visual fidelity remains — **needs-review 27/27**
-- exact next activity — **Part004 Pass2B scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
 
 
 ## Part004 Pass2A final closure downstream state
@@ -367,7 +367,7 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - status remains — **needs-review 27/27**
 - visual fidelity remains — **needs-review 27/27**
 - outgoing 105→106 — **PENDING direct audit / source-limited**
-- exact next activity — **Part004 Pass2B scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
 
 
 ## Part004 Pass2B Batch 1 downstream state
@@ -380,4 +380,17 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - unresolved Pass2B questions — **0**
 - status remains — **needs-review 27/27**
 - visual fidelity remains — **needs-review 27/27**
-- exact next activity — **Part004 Pass2B scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
+
+
+## Part004 Pass2B Batch 2 downstream state
+
+- reviewed rows — **20 / scans79–98**
+- cumulative lexical / spacing / punctuation corrections — **12**
+- Batch 2 corrections — **3** on scans **91, 95**
+- historical-glyph corrections — **0**
+- scans97–98 — **non-text structural review PASS**
+- unresolved Pass2B questions — **0**
+- status remains — **needs-review 27/27**
+- visual fidelity remains — **needs-review 27/27**
+- exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**

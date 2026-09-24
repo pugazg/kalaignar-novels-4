@@ -173,3 +173,17 @@ Before handing Pass1 to Pass2A, a final enlarged-pixel check corrected **3 Pass1
 - status promotions — **0**
 - exact next activity — **Part004 Pass2B scans89–98 / local pages11–20**
 - durable progress — `PART_004_PASS2B_PROGRESS.md`
+
+
+## Downstream Pass2B Batch 2 state
+
+- Part004 Pass2B — **ACTIVE — 20/27 REVIEWED**
+- reviewed scans — **79–98 / local pages1–20**
+- cumulative lexical / spacing / punctuation corrections — **12**
+- Batch 2 corrections — **3** on scans **91, 95**
+- historical-glyph corrections — **0**
+- scans97–98 — **structural non-text records reviewed / PASS**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+- exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
+- durable progress — `PART_004_PASS2B_PROGRESS.md`

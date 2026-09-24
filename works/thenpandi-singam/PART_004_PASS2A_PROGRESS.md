@@ -124,3 +124,14 @@ The historical Pass2A ledger above remains preserved as the record of that gate.
 - Pass2B historical-glyph corrections — **0**
 - unresolved Pass2B questions — **0**
 - exact next activity — **Part004 Pass2B scans89–98 / local pages11–20**
+
+
+## Downstream Pass2B Batch 2 state
+
+- Part004 Pass2B — **ACTIVE — 20/27 REVIEWED**
+- cumulative lexical / spacing / punctuation corrections — **12**
+- historical-glyph corrections — **0**
+- Batch 2 corrections — **3 / scans91, 95**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+- exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
