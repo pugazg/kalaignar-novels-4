@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — ACTIVE — 20/27 REVIEWED**
+**PASS 2B — COMPLETE / PASS — 27/27 REVIEWED**
 
 Source:
 
@@ -18,14 +18,14 @@ Source:
 
 Fresh source audit completed for:
 
-- global scans — **79–98**
-- local pages — **1–20**
-- reviewed records — **20/27**
-- reviewed pages passing — **20/20**
+- global scans — **79–105**
+- local pages — **1–27**
+- reviewed records — **27/27**
+- reviewed pages passing — **27/27**
 - unresolved Pass2B questions — **0**
 - status promotions — **0**
 
-Pass2B independently checks lexical fidelity, source-visible joining/spacing, punctuation and quotation marks, source-era forms, historical glyphs, cross-page continuity, and structural non-text pages.
+Pass2B independently checked lexical fidelity, source-visible joining/spacing, punctuation and quotation marks, source-era forms, historical glyphs, cross-page continuity, and structural non-text / illustrated pages.
 
 ## Batch 1 — scans79–88
 
@@ -57,38 +57,53 @@ Zero-correction reviewed scans — **89, 90, 92, 93, 94, 96, 97, 98**.
 
 Historical-glyph corrections — **0**.
 
-## Structural review — scans97–98
+## Final batch — scans99–105
 
-- scan97 — **full-page illustration / no literary body text / PASS**
-- scan98 — **illustration verso / blank / faint show-through only / no literary body text / PASS**
-- invented prose — **0**
-- scan96 open speech remains source-limited across the inserted non-text leaf; no bridge wording is invented through scans97–98.
+Correction ledger:
 
-## Boundary checks
+| Scan | Printed | Before | Source-confirmed after | Classification |
+|---:|:---:|---|---|---|
+| 99 | 85 | `கருத்த ஆதப்பனை` | `கறுத்த ஆதப்பனை` | source lexical form |
+| 99 | 85 | `அவன் அண்ணனுக்குத் தெய்வ வாக்கு!` | `அவன் அண்ணனுக்கு தெய்வ வாக்கு!` | source wording / sandhi; Pass2A superseded |
+| 100 | 86 | `வாளா இருக்கப் பட்டமங்கலத்து` | `வாளாவிருக்கப் பட்டமங்கலத்து` | source-visible joining |
+| 100 | 86 | `முன்னால் சென்று “முதலில்` | `முன்னால் சென்று-“முதலில்` | source punctuation |
+| 100 | 86 | `வீழ்த்திவிட்டு பிறகு` | `வீழ்த்திவிட்டுப் பிறகு` | source lexical / sandhi form |
+| 101 | 87 | `‘பலம்’` | `“பலம்”` | source quotation marks; Pass2A superseded |
+| 101 | 87 | `‘பலவீனத்தில்’` | `“பலவீனத்தில்”` | source quotation marks; Pass2A superseded |
 
-- 88→89 `அப்போது அவன் / கண்ணிலும் ஆதப்பன் கண்ணிலும்` — **PRESERVED / PASS**
-- 92→93 `அந்தப் / படங்களை` — **PRESERVED / PASS**
-- 93→94 `அம்பலக் / காரர்களாகிய` — **PRESERVED / PASS**
-- 94→95 `தன்னிருக்கையை / விட்டுத்` — **PRESERVED / PASS**
-- 95→96 `அந்தப் பகுதியில் / பலம் பொருந்திய` — **PRESERVED / PASS**
-- scan96 → scans97–98 — non-text inserted leaf; no bridge wording invented.
-- direct literary continuation at scan99 remains for the final Pass2B batch.
+Final-batch lexical / spacing / punctuation corrections — **7**.
 
-## Current accounting
+Affected final-batch scans — **99, 100, 101**.
+
+Zero-correction reviewed scans — **102, 103, 104, 105**.
+
+Historical-glyph corrections — **0**.
+
+## Structural and boundary review
+
+- scan96 → scans97–98 → scan99 — direct literary continuation is preserved: scan96 ends `முன் யோசனையுடன்`; scans97–98 are the inserted non-text illustration leaf / verso; scan99 resumes `திருக்கோட்டியூர் சுந்தரியிடம்...`; no bridge wording is invented.
+- scan101 — chapter **11** close preserved with three closing ornaments and intentional blank lower field.
+- scan102 — illustrated chapter **12** opener preserved with displayed numeral **12**, mounted-warrior illustration and no source-visible printed folio.
+- 104→105 — physical continuation `போன்றவர்களிடத் / திலும்` directly verified and preserved.
+- outgoing 105→106 — **PENDING direct audit / source-limited**; Part005 / scan106 is not inferred.
+
+## Final accounting
 
 - Part004 canonical records — **27/27**
-- Pass2B — **ACTIVE — 20/27 REVIEWED**
-- cumulative Pass2B lexical / spacing / punctuation corrections — **12**
+- Part004 Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
+- cumulative lexical / spacing / punctuation corrections — **19**
 - cumulative historical-glyph corrections — **0**
-- affected scans — **81, 82, 84, 85, 87, 88, 91, 95**
+- affected scans — **81, 82, 84, 85, 87, 88, 91, 95, 99, 100, 101**
+- Pass2A readings superseded by fresh Pass2B evidence — **5 occurrences / scans82, 88, 99, 101**
 - unresolved Pass2B questions — **0**
-- reviewed pages remain `needs-review` / visual `needs-review`
+- status / visual promotions — **0 / 0**
+- all Part004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 
 ## Exact next activity
 
-**Part004 Pass2B FINAL — scans99–105 / local pages21–27.**
+**Part004 Pass3 — scans79–88 / local pages1–10.**
 
-After that batch, close Pass2B as **COMPLETE / PASS — 27/27 REVIEWED** and set the exact next gate to **Part004 Pass3 — scans79–88 / local pages1–10**.
+Perform the full-page visual / structural review against rendered source pixels. Do not promote status during Pass3; final metadata/status synchronization is a later gate.
