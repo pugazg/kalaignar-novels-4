@@ -284,3 +284,24 @@ The next non-colliding English batch range is **E13–E16**, corresponding to th
 - durable review — `translations/en/PART_004_EDITORIAL_REVIEW.md`
 - exact next activity — **Part004 whole-Part bilingual review across scans79–105**
 
+## Part004 whole-Part bilingual review downstream state
+
+**PART004 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+
+- pairs — **4/4 PASS**
+- physical source coverage — **scans79–105 / 27**
+- literary/display blocks — **144 Tamil / 144 English**
+- provenance comments — **25 / 25 EXACT**
+- editorial repair sites rechecked — **35/35**
+- further bilingual English-only corrections — **6**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- scans97–98 — **non-literary provenance only**
+- 104→105 — **physical continuation preserved**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- durable review — `translations/en/PART_004_BILINGUAL_REVIEW.md`
+- exact next activity — **Part004 release/readiness report**
+
