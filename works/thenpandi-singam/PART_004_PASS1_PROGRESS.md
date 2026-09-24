@@ -201,3 +201,16 @@ Before handing Pass1 to Pass2A, a final enlarged-pixel check corrected **3 Pass1
 - exact next activity — **Part004 Tamil archival-ready checkpoint**
 - durable documentation sync — `PART_004_DOCUMENTATION_SYNC.md`
 
+## Part004 Tamil archival-ready downstream state
+
+- Part004 Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- canonical Tamil/body changes caused by checkpoint — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 assembled Tamil construction + audit**
+- durable archival-ready checkpoint — `PART_004_TAMIL_ARCHIVAL_READY.md`
+
