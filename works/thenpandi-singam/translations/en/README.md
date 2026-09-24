@@ -755,3 +755,29 @@ Exact next gate: **Part004 whole-Part English glossary reconciliation across E13
 - durable review — `PART_004_EDITORIAL_REVIEW.md`
 - exact next gate — **Part004 whole-Part bilingual review across scans79–105**
 
+## Part004 whole-Part bilingual review closure
+
+**PART004 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+
+- scope — **E13–E16 / 4 Tamil-English pairs / scans79–105**
+- pairs — **4/4 PASS**
+- literary/display blocks — **144 Tamil / 144 English**
+- provenance comments — **25 / 25 EXACT**
+- editorial repair sites rechecked — **35/35**
+- further bilingual English-only corrections — **6**
+- E13 / E14 / E15 / E16 bilingual corrections — **1 / 2 / 2 / 1**
+- files changed by bilingual review — **4/4 English only**
+- unresolved bilingual holds — **0**
+- source-visible glossary variant mismatches — **0**
+- E14 scan87 jati lines — **3/3 preserved**
+- scans97–98 — **non-literary provenance only**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- 104→105 — **physical continuation preserved**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- final E16 quotation — **intentionally open / preserved**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- Part005 leakage — **0**
+- durable review — `PART_004_BILINGUAL_REVIEW.md`
+- exact next gate — **Part004 release/readiness report**
+
