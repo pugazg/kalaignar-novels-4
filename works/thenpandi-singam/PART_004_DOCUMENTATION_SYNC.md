@@ -134,3 +134,21 @@ Do not begin assembled Tamil construction until that checkpoint closes.
 - exact next activity — **Part004 English translation planning/setup — reserve E13–E16**
 - durable validation — `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
 
+## Part004 English planning downstream state
+
+**PART004 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- reserved batches — **E13–E16 / 4**
+- planned maintained English files — **4**
+- batch map — **E13 section18/scan79; E14 section19/scans80–89; E15 section20/scans90–101; E16 section21/scans102–105**
+- translated/source-checked — **0/4 / 0/4**
+- unresolved planning holds — **0**
+- English literary prose drafted during planning — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next gate — **E13 draft + source-check — section18 / scan79**
+- durable controls — `translations/en/PART_004_TRANSLATION_PLAN.md`, `translations/en/PART_004_GLOSSARY.md`, `translations/en/PART_004_PROGRESS.md`
+
