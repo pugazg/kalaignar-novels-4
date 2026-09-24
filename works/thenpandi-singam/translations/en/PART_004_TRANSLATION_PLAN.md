@@ -1,6 +1,6 @@
 # Part 004 — English Translation Plan — தென்பாண்டிச் சிங்கம்
 
-Status: **E13–E16 SOURCE-CHECKED / GLOSSARY RECONCILED / EDITORIAL REVIEW PASS — BILINGUAL REVIEW PASS — RELEASE/READINESS NEXT**
+Status: **E13–E16 SOURCE-CHECKED / GLOSSARY RECONCILED / EDITORIAL REVIEW PASS — FINAL CLOSED / FROZEN**
 
 This is the control plan for the project-created English translation of **Part004 only**.
 
@@ -344,4 +344,29 @@ Part005 canonical transcription remains blocked until Part004 final closure.
 - Part005 leakage — **0**
 - durable review — `PART_004_BILINGUAL_REVIEW.md`
 - exact next gate — **Part004 release/readiness report**
+
+## Part004 final closure downstream state
+
+**PART004 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- source scans — **79–105 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- canonical / assembled / maintained-English body changes after release-ready sync — **0 / 0 / 0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- scans97–98 — **non-literary provenance only**
+- outgoing 105→106 — **PENDING direct audit / source-limited / preserved**
+- final-closed Parts — **4**
+- Part005 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part005 source intake when supplied**
+- durable closure — `../../PART_004_FINAL_CLOSURE.md`
 
