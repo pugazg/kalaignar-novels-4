@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part005 source intake when supplied**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part005 Pass1 scans106–115**
 
 ## Work
 
@@ -15,7 +15,7 @@
 - supplied-source design: **18 split PDF files**, each <= **50 MB**
 - split basis: **file size; per-Part page counts may vary**
 - source family / archive identifier: **TVA_BOK_0065559**
-- total physical scan count: **105 registered through Part004; Parts005–018 pending**
+- total physical scan count: **132 registered through Part005; Parts006–018 pending**
 - source PDFs remain outside Git
 
 ## Canonical numbering rule
@@ -53,7 +53,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 ## Current state
 
 - repository controls — **INITIALIZED / SYNCHRONIZED**
-- registered Parts — **4/18**
+- registered Parts — **5/18**
 - Part001 source intake — **COMPLETE / PASS**
 - Part001 canonical page records — **26/26 — scans1–26**
 - Part001 Pass1 — **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
@@ -899,4 +899,21 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part005 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
 - exact next activity — **Part005 source intake when supplied**
 - durable closure — `PART_004_FINAL_CLOSURE.md`
+
+## Part005 source-intake current state
+
+- Part005 source intake — **COMPLETE / PASS**
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf`
+- bytes / SHA-256 — **48,768,215** / `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b`
+- local pages / scans — **27 / 106–132**
+- registered Parts / scans — **5/18 / 132**
+- final-closed Parts — **4**
+- active transcription Part — **Part005**
+- canonical Part005 records — **0/27**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- frozen Part004 body edits caused by boundary completion — **0 / 0 / 0 canonical / assembled / English**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Parts006–018 — **not registered**
+- exact next activity — **Part005 Pass1 scans106–115 / local pages1–10**
+- durable intake — `works/thenpandi-singam/SOURCE_INTAKE_PART_005.md`
 
