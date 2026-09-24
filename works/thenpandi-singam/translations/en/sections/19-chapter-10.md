@@ -13,15 +13,15 @@ status: "source-checked"
 
 # 10
 
-“They have seized many territories! They are still going on seizing them. And if, going one step beyond even that, the white durais take part in the cruel game of seizing the honour of our women too, dying would be far better than living by enduring it, Anna!”
+“They have seized many territories! They are still going on seizing them. And if the white durais go a step further and take part in the cruel game of seizing the honour of our women too, dying would be far better than living by enduring it, Anna!”
 
-“What can we do, Thambi? Once the petty kings and palayakkarars, scattered like a sack of gooseberries spilled open, have given themselves over to clashing with one another and betraying one another, the Thenpandi land has become an open house! When even kings who ruled by marking out borders over expanses of hundreds and thousands of square kals have today become slaves of the English, how much can our territories—comprising thirty villages, over which our Ambalakkarars exercise authority—amount to?”
+“What can we do, Thambi? Once the petty kings and palayakkarars, scattered like a sack of gooseberries spilled open, have given themselves over to clashing with one another and betraying one another, the Thenpandi land has become an open house! When even kings who ruled by marking out borders over expanses of hundreds and thousands of square kals have today become slaves of the English, what, then, do our territories—comprising thirty villages, over which our Ambalakkarars exercise authority—amount to?”
 
 “I am not worried, Anna, about rule and authority having been lost, or about what more may yet be lost—
 
 <!-- source boundary: scan 80 → scan 81 -->
 
-the frenzy of the white lords is not stopping with power; it is trying to turn the women of our towns too into objects of pleasure for their night feasts!”
+the frenzy of the white lords does not stop at power; it is trying to turn the women of our towns too into objects of pleasure for their night feasts!”
 
 “I understand, my boy! But you yourself said a little while ago that the middlemen for that work are Tamils born on this very soil!”
 
@@ -31,17 +31,17 @@ Vellai Ayyar was also present during this conversation between Adappan, who had 
 
 <!-- source boundary: scan 81 → scan 82 -->
 
-Even though Vaalukkuveli understood that Vellai Ayyar was speaking only for Paganeri’s good, he had resolved that if Colonel Durai, enraged by his younger brother’s action, undertook anything at all, they must face it with courage!
+Even though Vaalukkuveli understood that Vellai Ayyar was speaking only for Paganeri’s good, he had resolved that if Colonel Durai, enraged by his younger brother’s action, undertook anything at all, he must face it with courage!
 
 “Ayyar avargale! I can understand your good heart! But there is one thing—it is natural to be defeated by those who march with armies to invade territories and establish their domination! War means one must meet either victory or defeat! But if the people of a defeated land are trampled and crushed more and more because of that, even worms must surely turn into tigers! How can young men like Adappan bear to watch the honour of a Tamil woman being plundered before their very eyes?”
 
-“White domination—their administration—their dispensation of justice—is spreading little by little! There is no other way; we are enduring it! For someone now to make an effort, bring together all the rulers here, unite them and form a single front against the English is not immediately possible! Each king has reduced his valour and daring to the thought that it is enough to look after his palace, income and prosperous life.”
+“White domination—their administration—their dispensation of justice—is spreading little by little! There is no other way; we are enduring it! For someone now to make an effort, bring together all the rulers here, unite them and form a single front against the English is not immediately possible! Each king has shrunk his valour and daring down to the thought that looking after his palace, income and prosperous life is enough.”
 
 <!-- source boundary: scan 82 → scan 83 -->
 
 “A life of slavery is itself a life of shame! And if, as a direct challenge to our self-respect, they say: give us your land... give us a woman every day for our pleasure... and we accept even that, then why should these bodies go on walking about like donkeys carrying bundles of life?”
 
-Through practical experience Vaalukku Veli had understood the enemy’s strength, the country’s lack of unity and the fact that foreign domination had laid foundations strong enough to remain unshaken for some time. Vellai Ayyar agreed word for word with the worried words Vaalukku Veli spoke from an open heart, yet he felt that Vaalukku Veli and Adappan need not suffer by becoming Colonel Durai’s enemies over an incident at the house of a dancer, Sundarambal.
+Through practical experience Vaalukku Veli had understood the enemy’s strength, the country’s lack of unity and the fact that foreign domination had laid foundations strong enough to remain unshaken for some time. Vellai Ayyar agreed, word for word, with the anxious words Vaalukku Veli had spoken openly, yet he felt that Vaalukku Veli and Adappan need not suffer by becoming Colonel Durai’s enemies over an incident at the house of a dancer, Sundarambal.
 
 “The English have guns in their hands, Ambalakkarar...” Before Vellai Ayyar could finish saying this...
 
@@ -53,7 +53,7 @@ Through practical experience Vaalukku Veli had understood the enemy’s strength
 
 “It has gone over our heads! What fear is left now? That white beast seems to be raging because younger brother Adappan beat his men and chased them away...”
 
-Having said this, Meganathan stood there agitated, biting a blade of grass. Vaalukku Veli rose upright like a vengai. He got to his feet, shook Meganathan by the shoulder and thundered like an exploding shell, “And so?”
+Having said this, Meganathan stood there agitated, biting a blade of grass. Vaalukku Veli straightened like a vengai. Rising to his feet, he shook Meganathan by the shoulder and thundered like an exploding shell, “And so?”
 
 “An invitation has come from Colonel Durai! Vaalukkuveli Thevar and Karutha Adappan are to meet that Durai at once!”
 
@@ -81,11 +81,11 @@ Kalyani Nachiyar, who had heard all the news through the two cooks Kaadai and Ko
 
 “Anna! The very fact that the land has become enslaved is troubling my heart! On top of that, are women too to become slaves to those white fanatics?”
 
-“Ah! A self-respecting Tamil woman; my beloved little sister!”
+“Ah! A self-respecting Tamil woman—my beloved little sister!”
 
 He held her cheeks in both hands and kissed the crown of her head. She came as far as the entrance and saw them off.
 
-“Kalyani! I am going to meet Colonel Durai by way of Tirukkottiyur! On the way back I will meet that Sundarambal and appoint her as your teacher for your dance training.”
+“Kalyani! I am going to meet Colonel Durai by way of Tirukkottiyur! On the way back I will meet that Sundarambal and appoint her as your dance teacher.”
 
 <!-- source boundary: scan 85 → scan 86 -->
 
@@ -93,9 +93,9 @@ Vaalukkuveli and Adappan climbed into the chariot carriage. As soon as Adappan f
 
 Though they did not know why or where the Paganeri Ambalakkarar was going, word that he was passing through Tirukkottiyur spread throughout the town. The people of Kottiyur stood in groups along the streets to watch. They waited at their doorways for Vaalukku Veli’s arrival.
 
-Apart from festival times, meetings of the Ambalakkarars of all the nadus held in public halls over various affairs, and temple visits, Vaalukku Veli had not cultivated the habit of going out often; so people would run in waves out of eagerness to see him. That day too was just the same!
+Apart from festival times, meetings of the Ambalakkarars of all the nadus held in public halls over various affairs, and temple visits, Vaalukku Veli did not make a habit of going out often; so people would run in waves out of eagerness to see him. That day too was just the same!
 
-Because the news had come suddenly, young men climbed over the wall of the temple flower garden, plucked flowers and waited to shower them toward his carriage when he came.
+Because the news had come suddenly, young men climbed over the wall of the temple flower garden, plucked flowers and waited to shower them over his carriage as he passed.
 
 At the same time, a rehearsal for a new dance performance had begun and was under way at Sundarambal’s house in Tirukkottiyur. Sundari and Vadivu danced with great concentration, the anklet bells on their feet chiming. Nathamuni’s hand-cymbals rang together with a brisk “jati.” Lalithangi watched with wide eyes, delighted as the two young deer leapt and danced.
 
@@ -107,7 +107,7 @@ Just then the maid came running excitedly from the street side and cried, overfl
 
 “He is king of Paganeri; I am queen of Bharatanatyam! Are power and status greater than mastery of art? All right, all right! Let us attend to the rehearsal.”
 
-Sundari answered indifferently and turned her attention back to the dance. Though Vadivambal danced in the hall, all her thoughts remained at the doorway. There was a holiness in Sundari’s beauty. The light of a standing lamp could be seen in Sundari’s eyes! Lightning flashed in Vadivu’s eyes! In Sundari’s walk, dress, speech and every movement, composure itself seemed to dance Bharatanatyam! Vadivu’s gait, on the other hand, was a cavalry charge! Her dress was like unsilvered glass that helped display the body! She and composure stood far apart; that was why, without even understanding her elder sister’s rebuke, she let her mind run outside! Nathamuni’s “jati” continued!
+Sundari answered indifferently and turned her attention back to the dance. Though Vadivambal danced in the hall, all her thoughts remained at the doorway. There was a holiness in Sundari’s beauty. The light of a standing lamp could be seen in Sundari’s eyes! Lightning flashed in Vadivu’s eyes! In Sundari’s walk, dress, speech and every movement, composure itself seemed to dance Bharatanatyam! Vadivu’s gait, on the other hand, was a cavalry charge! Her dress was like unsilvered glass, revealing the body! She and composure stood far apart; that was why, without even understanding her elder sister’s rebuke, she let her mind run outside! Nathamuni’s “jati” continued!
 
 Takka taa kidat takka...
 
@@ -133,4 +133,4 @@ eyes and Adappan’s eyes was the carriage of the Pattamangalam Ambalakkarar!
 
 Harnessed to fine-bred bulls, with “Pattamangalam” written on silk screens on both sides, the carriage stood gleaming at the entrance to the camp!
 
-Wondering among themselves whether Colonel Durai might have summoned Vallatharayan too, the Paganeri brothers approached the large tent and sent word through the gate guard that the two of them had arrived. The guard who went inside immediately ran back out and said, “Durai is calling you,” then led them into the tent. At the same moment, elder brother and younger brother ran their hands over the swords at their waists and entered.
+Wondering whether Colonel Durai might have summoned Vallatharayan too, the Paganeri brothers approached the large tent and sent word through the gate guard that the two of them had arrived. The guard who went inside immediately ran back out and said, “Durai is calling you,” then led them into the tent. At the same moment, elder brother and younger brother ran their hands over the swords at their waists and entered.
