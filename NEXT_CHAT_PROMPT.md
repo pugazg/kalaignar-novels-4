@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part004 whole-Part English glossary reconciliation
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part004 English editorial review
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -15,18 +15,22 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **COMPLETE / PASS / CLOSED — 4/4 VERIFIED**
 - English planning/setup — **COMPLETE / PASS**
-- E13 — **SOURCE-CHECKED / COMPLETE**
-- E14 — **SOURCE-CHECKED / COMPLETE**
-- E15 — **SOURCE-CHECKED / COMPLETE**
-- E16 — **SOURCE-CHECKED / COMPLETE**
-- cumulative translated/source-checked — **4/4 / 4/4**
+- E13–E16 — **4/4 SOURCE-CHECKED / COMPLETE**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- maintained English files — **4/4**
 - English source coverage — **scans79–105 / 27 of 27**
-- unresolved E13–E16 holds — **0**
-- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 105→106 — **PENDING direct audit / source-limited**
-- canonical / assembled Tamil edits caused by E13–E16 — **0 / 0**
+- unresolved glossary conflicts — **0**
+- source-visible `வாளுக்கு வேலி / வாளுக்குவேலி` English variant mismatches — **0**
+- glossary reconciliation English-body repairs — **3 occurrences / E14+E15 only**
+- canonical / assembled Tamil edits caused by reconciliation — **0 / 0**
 - frozen Part001–Part003 English edits — **0**
 - Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+
+Durable reconciliation:
+
+`works/thenpandi-singam/translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
 
 Maintained Part004 English files:
 
@@ -35,32 +39,30 @@ Maintained Part004 English files:
 3. `translations/en/sections/20-chapter-11.md`
 4. `translations/en/sections/21-chapter-12-part004.md`
 
-Durable batch checks:
-
-- `translations/en/E13_SOURCE_CHECK.md`
-- `translations/en/E14_SOURCE_CHECK.md`
-- `translations/en/E15_SOURCE_CHECK.md`
-- `translations/en/E16_SOURCE_CHECK.md`
-
 ## Exact next activity
 
-Perform **Part004 whole-Part English glossary reconciliation across E13–E16**.
+Perform **Part004 English editorial review across all 4 maintained English files / scans79–105**.
 
-Requirements:
+Review requirements:
 
-- reconcile `translations/en/PART_004_GLOSSARY.md` against all four maintained Part004 English files and their Tamil authorities;
-- verify recurring names, titles, places, institutional terms, source variants, jati handling, political/historical source-framing terms and boundary vocabulary;
-- distinguish deliberate source-visible variation from accidental English inconsistency;
-- do not normalize source-visible Tamil variants merely for style;
-- do not use outside historical standardization as textual authority;
+- review grammar, syntax, punctuation, readability, dialogue flow and paragraph continuity;
+- keep verified Tamil / assembled Tamil as controlling authority;
+- preserve all source-derived information, speaker attribution, rhetorical force, repetition and source order;
+- preserve deliberate source-visible name/spacing variants locked by `PART_004_GLOSSARY.md` and `PART_004_GLOSSARY_RECONCILIATION.md`;
+- do not use outside historical/political knowledge to rewrite, standardize, correct or expand the literary source;
+- preserve E14 scan87 jati display material exactly as maintained unless a source-backed defect is demonstrated;
 - preserve scans97–98 as non-literary provenance only;
-- preserve incoming 78→79 and outgoing 105→106 boundary locks;
-- preserve the open E16 terminal quotation at scan105;
-- English body edits are allowed only for demonstrated glossary/source consistency defects;
+- preserve all physical-source provenance comments and cross-page continuations;
+- preserve the E16 104→105 physical continuation;
+- preserve the final E16 quotation as intentionally open at scan105;
+- preserve **105→106 PENDING direct audit / source-limited**;
+- do not import or infer Part005 / scan106;
+- English body edits are allowed only where readability can be improved without changing source meaning or source-form locks;
+- after any edit, revalidate Tamil↔English literary-block counts and provenance-comment counts/text/order;
 - canonical / assembled Tamil edits — **0 / 0** unless a genuine upstream source defect is independently demonstrated;
 - frozen Part001–Part003 English edits — **0**;
 - Part005 leakage — **0**.
 
-Create `works/thenpandi-singam/translations/en/PART_004_GLOSSARY_RECONCILIATION.md`.
+Create `works/thenpandi-singam/translations/en/PART_004_EDITORIAL_REVIEW.md`.
 
-If reconciliation closes **RECONCILED / PASS**, advance to **Part004 English editorial review across all 4 maintained English files / scans79–105**.
+If editorial review closes **PASS / CLOSED**, advance to **Part004 whole-Part bilingual review across scans79–105**.
