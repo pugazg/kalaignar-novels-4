@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 E16 draft + source-check**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 whole-Part English glossary reconciliation**
 
 ## Work
 
@@ -113,7 +113,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
 - Part003 — **FINAL CLOSED / FROZEN**
-- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning PASS / E13–E15 SOURCE-CHECKED / E16 NEXT**
+- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning PASS / E13–E16 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**
 - Parts005–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -778,4 +778,20 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part005 leakage — **0**
 - exact next activity — **E16 draft + source-check — section21 / scans102–105**
 - durable source-check — `translations/en/E15_SOURCE_CHECK.md`
+
+## Part004 E16 English downstream state
+
+- E16 — **SOURCE-CHECKED / COMPLETE — section21 / scans102–105**
+- maintained Part004 English files — **4/4 translated / 4/4 source-checked**
+- Tamil / English literary blocks — **16/16**
+- provenance comments — **4/4 retained**
+- 104→105 physical continuation — **PASS / preserved**
+- cumulative Part004 English source coverage — **scans79–105 / 27 of 27 scans**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- canonical / assembled Tamil edits caused by E16 — **0 / 0**
+- frozen E13–E15 and Part001–Part003 English edits — **0**
+- unresolved E16 holds — **0**
+- Part005 leakage — **0**
+- exact next activity — **Part004 whole-Part English glossary reconciliation across E13–E16**
+- durable source-check — `translations/en/E16_SOURCE_CHECK.md`
 
