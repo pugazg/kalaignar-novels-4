@@ -45,4 +45,16 @@ transcription_method: "direct source-image transcription; Part004 Pass1 final ba
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 105; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 91; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part004 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part004 source pixels, independently of Pass2A conclusions;
+- incoming 104→105 continuation `போன்றவர்களிடத் / திலும்` is directly verified and preserved;
+- outgoing 105→106 remains **PENDING direct audit / source-limited**; no Part005 / scan106 wording is inferred;
+- lexical / spacing / punctuation corrections: **0**;
+- historical-glyph corrections: **0**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 105; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 91; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
