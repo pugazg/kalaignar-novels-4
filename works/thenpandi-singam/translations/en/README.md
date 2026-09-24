@@ -624,3 +624,22 @@ Exact next gate: **Part003 final closure — PASS / CLOSED / FROZEN**.
 - exact next gate — **E13 draft + source-check — section18 / scan79**
 - durable controls — `PART_004_TRANSLATION_PLAN.md`, `PART_004_GLOSSARY.md`, `PART_004_PROGRESS.md`
 
+## Part004 E13 source-check
+
+**E13 — SOURCE-CHECKED / COMPLETE.**
+
+- English file — `sections/18-chapter-09-part004.md`
+- Tamil authority — `../../sections/18-chapter-09-part004.md`
+- scans — **79**
+- literary blocks — **7/7**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- frozen Part003 E12 body changes — **0**
+- unresolved E13 holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- Part005 leakage — **0**
+
+Durable record: `E13_SOURCE_CHECK.md`.
+
+Exact next gate: **E14 draft + source-check — section19 / scans80–89**.
+
