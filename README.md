@@ -178,7 +178,7 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part004 Pass1 final scans99–105 / local pages21–27.**
+**Part004 Tamil archival-ready checkpoint.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records are `verified` and visual `verified`. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
@@ -528,3 +528,25 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - Part005 leakage — **0**
 - exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
 - durable progress — `works/thenpandi-singam/PART_004_PASS2B_PROGRESS.md`
+
+## Part004 documentation synchronization state
+
+- Part004 documentation synchronization — **PASS / COMPLETE**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — 9 corrections / 0 unresolved**
+- Pass2B — **COMPLETE / PASS — 27/27 REVIEWED — 19 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
+- Pass3 — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- canonical Tamil/body changes caused by documentation sync — **0**
+- frozen Part001–Part003 body changes — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 Tamil archival-ready checkpoint**
+- durable documentation sync — `PART_004_DOCUMENTATION_SYNC.md`
+
