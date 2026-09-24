@@ -178,7 +178,7 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part004 whole-Part bilingual review across scans79–105.**
+**Part004 release/readiness report.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records are `verified` and visual `verified`. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
@@ -714,4 +714,25 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - unresolved editorial holds — **0**
 - durable review — `translations/en/PART_004_EDITORIAL_REVIEW.md`
 - exact next activity — **Part004 whole-Part bilingual review across scans79–105**
+
+## Part004 whole-Part bilingual review downstream state
+
+**PART004 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+
+- pairs — **4/4 PASS**
+- physical source coverage — **scans79–105 / 27**
+- literary/display blocks — **144 Tamil / 144 English**
+- provenance comments — **25 / 25 EXACT**
+- editorial repair sites rechecked — **35/35**
+- further bilingual English-only corrections — **6**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- scans97–98 — **non-literary provenance only**
+- 104→105 — **physical continuation preserved**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- durable review — `translations/en/PART_004_BILINGUAL_REVIEW.md`
+- exact next activity — **Part004 release/readiness report**
 
