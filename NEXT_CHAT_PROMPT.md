@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part004 release/readiness report
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part005 source intake when supplied
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -7,35 +7,40 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part002 — **FINAL CLOSED / FROZEN**
 - Part003 — **FINAL CLOSED / FROZEN**
+- Part004 — **FINAL CLOSED / FROZEN**
 
-## Part004 completed chain
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely for stylistic polishing.
 
+## Part004 final closure
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf`
+- scans — **79–105 / 27**
 - canonical Tamil — **27/27 verified**
 - visual fidelity — **27/27 verified**
-- Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
 - E13–E16 — **4/4 SOURCE-CHECKED / COMPLETE**
 - glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED**
 - whole-Part bilingual review — **PASS / CLOSED**
-- Tamil / English literary-display blocks — **144 / 144**
-- provenance comments — **25 / 25 EXACT**
-- English-only glossary repairs — **3**
-- English-only editorial repairs — **35**
-- further bilingual English-only corrections — **6**
-- unresolved Tamil/English holds — **0**
-- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
-- scans97–98 — **non-literary provenance only**
-- 104→105 — **physical continuation preserved**
-- outgoing 105→106 — **PENDING direct audit / source-limited**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved closure blockers — **0**
+- source-PDF paths in active tree — **0**
 - Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- scans97–98 — **non-literary illustration/blank / preserved**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- durable closure — `works/thenpandi-singam/PART_004_FINAL_CLOSURE.md`
+
+## Part005 state
+
+**NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+
+No Part005 filename, page count, scan range, checksum, byte size or boundary text is to be guessed.
 
 ## Exact next activity
 
-Perform **Part004 release/readiness report**.
+When the user supplies the Part005 PDF, perform **Part005 source intake + direct 105→106 boundary audit**.
 
-Create `works/thenpandi-singam/translations/en/PART_004_RELEASE_REPORT.md`.
-
-The gate must verify complete Part004 Tamil/assembled/English readiness and source-boundary/source-PDF exclusion conditions. It must cause canonical Tamil / assembled Tamil / maintained English body changes of **0 / 0 / 0**.
-
-If **PASS / CLOSED**, immediately proceed to **Part004 release-ready synchronization**, then **Part004 final closure — PASS / CLOSED / FROZEN**. Do not stop between those gates.
+Until then, **STOP. Part004 is FINAL CLOSED / FROZEN.**
