@@ -17,7 +17,7 @@ Just as the Paganeri brothers had expected, Vallatharayan of Pattamangalam and U
 
 Colonel Durai sat in a high chair upholstered with velvet, one leg crossed over the other, smoking a long cigar. Four or five wooden chairs had been placed around that seat. Vallatharayan and Urangappuli sat in those chairs.
 
-The moment he saw Vaalukku Veli, Colonel Durai, without reducing his arrogance of authority even slightly, remained seated and said, “Come! Come! Both of you sit down!” pointing with the cigar in his hand toward the chairs lying there.
+The moment he saw Vaalukku Veli, Colonel Durai, without setting aside even a little of his arrogance of authority, remained seated and said, “Come! Come! Both of you sit down!” pointing with the cigar in his hand toward the chairs there.
 
 Vaalukkuveli merely nodded his head gently, sat down on a chair with one leg crossed over the other, looked at Vallatharayan and asked, “When did the Pattamangalam people arrive?”
 
@@ -31,7 +31,7 @@ Vaalukkuveli merely nodded his head gently, sat down on a chair with one leg cro
 
 “Oh! Vallatharayan says no, and you say the same!” The white officer burst into a loud, meaningless laugh.
 
-Realizing that the situation was different from what he had imagined—that he had been summoned so the Colonel could pour out his anger over Adappan beating and driving away Colonel Durai’s men at Tirukkottiyur—Vaalukkuveli looked at his younger brother. But Adappan’s eyes did not look at his elder brother; without blinking, they were fixed on a coloured painting hung on one side of the tent.
+Realizing that the situation was different from what he had imagined—that he had been summoned so the Colonel could pour out his anger over Adappan beating and driving away Colonel Durai’s men at Tirukkottiyur—Vaalukkuveli looked at his younger brother. But Adappan did not look at his elder brother; his unblinking eyes were fixed on a coloured painting hanging on one side of the tent.
 
 A tamarind tree! A three-legged stool beneath it! On the white area below the stool were the words “Kayatharu”! Kattabomman on the stool! A hanging rope around his neck! Beside it, another coloured painting! Ettappan smiling on a throne! A scene as though an English officer were placing a crown upon his head!
 
@@ -39,9 +39,9 @@ What lesson did those paintings convey? Submit to the English and rule will rema
 
 <!-- source boundary: scan 91 → scan 92 -->
 
-How much arrogance and swollen pride of power must those Parangi officers possess, to hang such a picture right inside the tent and threaten petty kings and palayakkarars with it...
+How much arrogance and swollen pride in their power must those Parangi officers have, to hang such a picture right inside the tent and threaten petty kings and palayakkarars with it...
 
-What use is there blaming them? Should not the blame fall instead upon the Ettappans who roam about drooling at the mouth, determined somehow to live and cling to some position or other! Flame flashed from Adappan’s eyes! He sat in that tent like a rumbling volcano!
+What use is there in blaming them? Should not the blame fall instead upon the Ettappans who roam about drooling at the mouth, determined somehow to live and cling to some position or other! Flame flashed from Adappan’s eyes! He sat in that tent like a rumbling volcano!
 
 Colonel Durai looked at Vaalukku Veli and began to speak. “I have summoned the people of Paganeri and Pattamangalam for an essential matter.”
 
@@ -69,7 +69,7 @@ The voice of the valiant Vaalukkuveli trembled! His warrior heart pounded when h
 
 must gather all the Ambalakkarars and announce that you are supporting the Maruthu brothers. After that announcement, arrange a feast attended by all the Ambalakkarars of the Kallar nadus. The chief guests at it will be the two Maruthu Pandiyars! While the feast is under way, the white troops will surround the feast hall. Periya Maruthu and Chinna Maruthu will be arrested. How is my strategy! If this strategy is to succeed, both of you must stand with me.”
 
-A fiery breath escaped Vaalukkuveli! Adappan’s heartbeats became thunderclaps! In a situation where emperors, petty kings and palayakkarars had fallen and lain surrendered, how could Ambalakkarars, who were merely lords of a few villages bearing the name of a nadu, stop the growth of English domination?
+A fiery breath escaped Vaalukkuveli! Adappan’s heartbeats became thunderclaps! In a situation where emperors, petty kings and palayakkarars had fallen and surrendered, how could Ambalakkarars, who were merely lords of a few villages bearing the name of a nadu, stop the growth of English domination?
 
 “You must have told this idea to my friend, Pattamangalam Ambalakkarar Vallatharayan; what was his reply?” At Vaalukku Veli’s question, the white durai answered with a great laugh.
 
@@ -95,11 +95,11 @@ Vaalukku Veli’s explanation, overflowing with resolve and firmness, and his ca
 
 powerful Ambalakkarars of that region.
 
-“Vaalukku Veli! I admire your courage and resolve,” said the durai, and Urangappuli could not bear hearing it!
+“Vaalukku Veli! I admire your courage and resolve,” said the durai. Urangappuli could not bear to hear it!
 
-“When did he speak any courage on his own? He merely heard what our Ambalakkarar, Pattamangalam Vallatharayan, had said and then the Paganeri man sang the refrain after him.”
+“When did he ever speak bravely on his own? He merely heard what our Ambalakkarar, Pattamangalam Vallatharayan, had said and then the Paganeri man sang the refrain after him.”
 
-Urangappuli felt pleased that through this mockery he had belittled Vaalukku Veli. When Vaalukkuveli merely smiled silently without attaching importance to his words, Urangappuli gained still more courage.
+Urangappuli felt pleased that through this mockery he had belittled Vaalukku Veli. When Vaalukkuveli merely smiled in silence, paying no heed to his words, Urangappuli gained still more courage.
 
 “If you had first summoned Paganeri Ambalakkarar Vaalukkuveli and asked him to help in the plot to capture the Maruthu Pandiyars, he would have said ‘Yes, Prabhu’ and given you a ‘salaam’!”
 
@@ -107,7 +107,7 @@ Adappan leapt up!
 
 “Urangappuli! Control your tongue! I will not allow you to speak any further!”
 
-Vaalukkuveli calmed his younger brother, who stood like a live coal. Adappan would not settle down. The dagger at his waist had come into his hand!
+Vaalukkuveli calmed his younger brother, who stood like a live coal. Adappan would not settle down. The dagger at his waist was already in his hand!
 
 Looking at Colonel Durai, Urangappuli said, “Prabhu! Instead of asking all of us about this plan, with a little forethought you could have
 
@@ -119,13 +119,13 @@ Looking at Colonel Durai, Urangappuli said, “Prabhu! Instead of asking all of 
 
 told Sundari of Tirukkottiyur and made Karutha Adappan agree to it. If she says something, it is Vedic scripture to Adappan! If Adappan says something, it is divine scripture to his elder brother! The job could have been done easily through Sundari!” he said with a laugh.
 
-“What connection is there between Sundari and me? Why is Urangappuli making up all this needless trouble?”
+“What connection is there between Sundari and me? Why is Urangappuli stirring up all this needless trouble?”
 
 Colonel Durai interrupted.
 
-“Adappa! There too a mistake happened! My men did not know that Sundari was your beloved woman...”
+“Adappa! A mistake happened there too! My men did not know that Sundari was your beloved woman...”
 
-Before the Durai could finish what he had begun to say, Adappan grew still angrier. “Wrong idea! A very, very wrong idea! Sundarambal is a respectable dancer... your men entered there... and created a disturbance!” he said.
+Before the Durai could finish what he was saying, Adappan grew still angrier. “Wrong idea! A very, very wrong idea! Sundarambal is a respectable dancer... your men entered there... and created a disturbance!” he said.
 
 “They must have invited her for a dance performance.”
 
@@ -133,7 +133,7 @@ Before the Durai could finish what he had begun to say, Adappan grew still angri
 
 “Is that so? Is that why you became angry?...”
 
-Urangappuli did not remain quiet! He prodded Adappan again!
+Urangappuli did not remain quiet! He provoked Adappan again!
 
 “Why else—would he not be angry? When someone grabs and drags away the woman dear to him...”
 
@@ -145,7 +145,7 @@ Urangappuli did not remain quiet! He prodded Adappan again!
 
 “Why, could there not have been some other business?”
 
-“There simply could not! If there was, there could be only two kinds of business! One, the business of being a bridegroom—or the business of acting as a broker for that dasi...”
+“There simply could not have been! If there was any business, it could only have been one of two kinds! One, the business of being a bridegroom—or the business of acting as a broker for that dasi...”
 
 Before Adappan could ask, “What did you say, you wretch?” Vaalukkuveli’s rough hand came down hard on Urangappuli’s cheek! From that blow, Urangappuli felt as though the whole world were spinning. His vision went dark!
 
@@ -161,10 +161,10 @@ After hearing that challenge, was Pattamangalam Vallatharayan such a coward that
 
 “The time you came today is not right for you, nor is it right for me—if necessary, we can meet another day! You may go now!” Colonel Durai said, sitting in his chair and smoking his cigar.
 
-The Paganeri brothers and the Pattamangalam brothers-in-law left the tent, making one wonder at what moment this volcano might explode and scatter apart!
+The Paganeri brothers and the Pattamangalam brothers-in-law left the tent, as though this volcano might erupt and scatter apart at any moment!
 
 After they had gone, Colonel Durai laughed and took a cup of liquor in his hand.
 
 “Our ‘strength’ is not in our army or our weapons! It lies in the disunited ‘weakness’ of people like these.”
 
-The white officer’s mouth pronounced just this with grandeur!
+The white officer’s mouth grandly uttered only this!
