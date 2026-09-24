@@ -214,3 +214,23 @@ Before handing Pass1 to Pass2A, a final enlarged-pixel check corrected **3 Pass1
 - exact next activity — **Part004 assembled Tamil construction + audit**
 - durable archival-ready checkpoint — `PART_004_TAMIL_ARCHIVAL_READY.md`
 
+## Part004 assembled Tamil downstream state
+
+**PART004 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 4/4 VERIFIED.**
+
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- assembled files — **4/4 VERIFIED**
+- canonical scan coverage — **27/27 / scans79–105**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit/review-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- frozen Part001–Part003 assembled Tamil changes — **0**
+- Part005 leakage — **0**
+- unresolved assembly blockers — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 English translation planning/setup — reserve E13–E16**
+- durable validation — `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
+
