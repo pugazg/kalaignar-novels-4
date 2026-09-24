@@ -21,7 +21,7 @@ transcription_method: "direct source-image transcription; Part004 Pass1 final ba
 
 அவர்கள் போனபிறகு கர்னல் துரை சிரித்துக் கொண்டே மதுக் கோப்பையைக் கையில் எடுத்தான்!
 
-“நமது “பலம்” நமது படையிலும், படைக் கலன்களிலும் இல்லை! இதோ இவர்களைப் போன்றவர்களின் ஒற்றுமையற்ற “பலவீனத்தில்” தான் இருக்கிறது.”
+“நமது ‘பலம்’ நமது படையிலும், படைக் கலன்களிலும் இல்லை! இதோ இவர்களைப் போன்றவர்களின் ஒற்றுமையற்ற ‘பலவீனத்தில்’ தான் இருக்கிறது.”
 
 வெள்ளை அதிகாரியின் வாய் இதைத்தான் கம்பீரமாக உச்சரித்தது!
 
@@ -32,4 +32,15 @@ transcription_method: "direct source-image transcription; Part004 Pass1 final ba
 - chapter 11 closes on this scan;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 101; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 23; அச்சுப் பக்கம்: 87; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part004 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against rendered Part004 source pixels;
+- source-text corrections: **2**;
+- correction: `“பலம்”` → `‘பலம்’` — source nested quotation marks;
+- correction: `“பலவீனத்தில்”` → `‘பலவீனத்தில்’` — source nested quotation marks;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 101; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 23; அச்சுப் பக்கம்: 87; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
