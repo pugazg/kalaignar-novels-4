@@ -106,3 +106,14 @@ Do not promote page status during the audit itself. Final metadata/status synchr
 - exact next activity — **Part004 final metadata/status synchronization — scans79–105 / 27 pages**
 - durable audit — `PART_004_AUDIT.md`
 
+## Part004 final metadata/status downstream state
+
+- Part004 final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- canonical Tamil body changes caused by status sync — **0**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 documentation synchronization**
+- durable status sync — `PART_004_FINAL_STATUS_SYNC.md`
+
