@@ -67,7 +67,7 @@ The voice of the valiant Vaalukkuveli trembled! His warrior heart pounded when h
 
 <!-- source boundary: scan 93 → scan 94 -->
 
-must gather all the Ambalakkarars and announce that you are supporting the Maruthu brothers. After that announcement, arrange a feast attended by all the Ambalakkarars of the Kallar nadus. The chief guests at it will be the two Maruthu Pandiyars! While the feast is under way, the white troops will surround the feast hall. Periya Maruthu and Chinna Maruthu will be arrested. How is my strategy! If this strategy is to succeed, both of you must stand with me.”
+must gather all the Ambalakkarars and announce that you are supporting the Maruthu brothers. After that announcement, arrange a feast attended by all the Ambalakkarars of the Kallar nadus. The chief guests at it will be the two Maruthu Pandiyars! While the feast is under way, the white troops will surround the feast hall. Periya Maruthu and Chinna Maruthu will be arrested. How about my war strategy! If this strategy is to succeed, both of you must stand with me.”
 
 A fiery breath escaped Vaalukkuveli! Adappan’s heartbeats became thunderclaps! In a situation where emperors, petty kings and palayakkarars had fallen and surrendered, how could Ambalakkarars, who were merely lords of a few villages bearing the name of a nadu, stop the growth of English domination?
 
@@ -107,7 +107,7 @@ Adappan leapt up!
 
 “Urangappuli! Control your tongue! I will not allow you to speak any further!”
 
-Vaalukkuveli calmed his younger brother, who stood like a live coal. Adappan would not settle down. The dagger at his waist was already in his hand!
+Vaalukkuveli calmed his younger brother, who stood like a live coal. Adappan would not settle down. The dagger at his waist was now in his hand!
 
 Looking at Colonel Durai, Urangappuli said, “Prabhu! Instead of asking all of us about this plan, with a little forethought you could have
 
