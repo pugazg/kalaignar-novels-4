@@ -178,7 +178,7 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part004 whole-Part English glossary reconciliation across E13–E16.**
+**Part004 English editorial review across all 4 maintained English files / scans79–105.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records are `verified` and visual `verified`. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
@@ -666,4 +666,27 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - Part005 leakage — **0**
 - exact next activity — **Part004 whole-Part English glossary reconciliation across E13–E16**
 - durable source-check — `translations/en/E16_SOURCE_CHECK.md`
+
+## Part004 whole-Part English glossary reconciliation downstream state
+
+**PART004 WHOLE-PART ENGLISH GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- scope — **E13–E16 / 4 maintained English files / scans79–105**
+- maintained/source-checked English — **4/4 / 4/4**
+- source coverage — **27/27 scans**
+- block-count mismatches — **0**
+- provenance-comment mismatches — **0**
+- deliberate source-visible variants preserved — **PASS**
+- accidental English source-form inconsistencies corrected — **3 occurrences**
+- affected English files — **E14 / E15**
+- remaining `வாளுக்கு வேலி / வாளுக்குவேலி` English variant mismatches — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- scans97–98 — **non-literary provenance only**
+- 104→105 — **physical continuation preserved**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- durable reconciliation — `translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
+- exact next activity — **Part004 English editorial review across all 4 maintained English files / scans79–105**
 
