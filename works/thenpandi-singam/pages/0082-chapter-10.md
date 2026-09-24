@@ -15,7 +15,7 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 
 ## Source transcription
 
-வெள்ளை அய்யர், பாகனேரியின் நன்மைக்காகத்தான் பேசுகிறார் என்று வாளுக்குவேலி புரிந்து கொண்டாலும் கூட, தனது தம்பியின் செயலுக்காகக் கர்னல் துரை ஆத்திரப்பட்டு எந்தக் காரியத்திலாவது ஈடுபடுவானேயானால் அதனை வீரத்தோடு சந்தித்தே தீரவேண்டுமென்று உறுதி கொண்டிருந்தான்!
+வெள்ளை அய்யர், பாகனேரியின் நன்மைக்காகத்தான் பேசுகிறார் என்று வாளுக்கு வேலி புரிந்து கொண்டாலும் கூட, தனது தம்பியின் செயலுக்காகக் கர்னல் துரை ஆத்திரப்பட்டு எந்தக் காரியத்திலாவது ஈடுபடுவானேயானால் அதனை வீரத்தோடு சந்தித்தே தீரவேண்டுமென்று உறுதி கொண்டிருந்தான்!
 
 “அய்யர் அவர்களே! உங்கள் நல்ல உள்ளத்தை அறிந்துகொள்ள முடிகிறது என்னால்! ஆனால் ஒன்று-நாடுகளை ஆக்கிரமித்து ஆதிக்கத்தை நிலைநாட்டப் படைகொண்டு தாக்குவோரிடம் தோற்று விடுவது இயற்கை! போர் என்றால் வெற்றி, தோல்வி இரண்டில் ஒன்றைச் சந்தித்தே ஆக வேண்டும்! அதற்காகத் தோற்றுப்போன நாட்டின் மக்களை மேலும், மேலும் மிதித்து நசுக்கிக் கொண்டேயிருந்தால் புழுக்கள்கூடப் புலியாகித்தானே தீரவேண்டும்! ஆதப்பனைப் போன்ற இளைஞர்கள்; தங்கள் கண் எதிரிலேயே தமிழ்ப் பெண்ணின் மானம் சூறையாடப் படுவதை எப்படித் தாங்கிக் கொண்டிருக்க முடியும்?”
 
@@ -28,4 +28,14 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 - recurring page furniture is excluded from literary transcription;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 82; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 70; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part004 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against rendered Part004 source pixels;
+- source-text corrections: **1**;
+- correction: `வாளுக்குவேலி புரிந்து கொண்டாலும்` → `வாளுக்கு வேலி புரிந்து கொண்டாலும்` — source-visible name spacing;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 82; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 70; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->

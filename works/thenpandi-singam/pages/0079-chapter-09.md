@@ -20,7 +20,7 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 
 சுந்தராம்பாளின் பதிலை எதிர்பார்க்காமலேயே வாசல்வரையில் சென்றுவிட்ட கருத்த ஆதப்பன் அவளைத் திரும்பிப் பார்த்து, “கதவைத் தாழிட்டுக் கொள்ளுங்கள்! ஜாக்கிரதை! உதவி எதுவும் தேவைப்பட்டால் உடனே பாகனேரிக்குச் சொல்லி அனுப்புங்கள்!” என எச்சரித்துவிட்டுத் தெருவில் தயாராக நின்ற தனது குதிரையிலேறிப் புறப்பட்டான்.
 
-சுந்தராம்பாள், அந்தக் கர்னல் துரையின் ஆட்களைச் சபித்துக் கொண்டே பெருமூச்செறிந்த வண்ணம் ஊஞ்சலில் உட்கார்ந்தாள். வேலைக்காரி அவளருகே வந்து “அம்மா! அம்பலக்கார அய்யாவின் தம்பி அந்த ஆதப்பன் வரவேண்டிய எவ்வளவு விபரீதமாப் போயிருக்கும்!” என்றாள் நடுக்கத்துடன்!
+சுந்தராம்பாள் அந்தக் கர்னல் துரையின் ஆட்களைச் சபித்துக் கொண்டே பெருமூச்செறிந்த வண்ணம் ஊஞ்சலில் உட்கார்ந்தாள். வேலைக்காரி அவளருகே வந்து “அம்மா! அம்பலக்கார அய்யாவின் தம்பி அந்த ஆதப்பன் வரவேண்டிய எவ்வளவு விபரீதமாப் போயிருக்கும்!” என்றாள் நடுக்கத்துடன்!
 
 “ஆமாண்டி! ஆனால் எனக்கு இன்னொரு பயம்! அந்த ஆதப்பனாலே என்ன விபரீதம் நேருமோன்னு! தலைவலி போய் திருகு வலி வந்துடாம நல்லவேளை தப்பிச்சேன்.”
 
@@ -39,4 +39,14 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 - chapter 9 closes on this scan;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 79; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 67; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part004 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against rendered Part004 source pixels;
+- source-text corrections: **1**;
+- correction: `சுந்தராம்பாள், அந்தக் கர்னல்` → `சுந்தராம்பாள் அந்தக் கர்னல்` — source punctuation;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 79; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 67; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
