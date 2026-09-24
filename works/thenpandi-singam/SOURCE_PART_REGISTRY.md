@@ -9,7 +9,7 @@ This ledger records the user's **18 split source PDFs**.
 | 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **ACTIVE / Pass1 COMPLETE — Pass2A NEXT** |
+| 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **VERIFIED / DOCUMENTATION SYNC PASS — TAMIL ARCHIVAL-READY NEXT** |
 | 005 | pending | pending | pending | pending | pending | blocked | not started |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
@@ -463,3 +463,25 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
 - exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
+
+## Part004 documentation synchronization state
+
+- Part004 documentation synchronization — **PASS / COMPLETE**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — 9 corrections / 0 unresolved**
+- Pass2B — **COMPLETE / PASS — 27/27 REVIEWED — 19 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
+- Pass3 — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- canonical Tamil/body changes caused by documentation sync — **0**
+- frozen Part001–Part003 body changes — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 Tamil archival-ready checkpoint**
+- durable documentation sync — `PART_004_DOCUMENTATION_SYNC.md`
+
