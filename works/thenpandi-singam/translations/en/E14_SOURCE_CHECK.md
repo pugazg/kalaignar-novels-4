@@ -185,3 +185,16 @@ The scan88 block also contains earlier source `வாளுக்கு வே�
 - E14 remains **SOURCE-CHECKED / COMPLETE**
 - durable reconciliation — `PART_004_GLOSSARY_RECONCILIATION.md`
 
+## Post-E14 Part004 English editorial review note
+
+The later Part004 whole-Part English editorial review made **13 English-only readability/grammar repairs** in this maintained E14 file.
+
+- literary/display block count changed — **0**
+- provenance comments changed — **0**
+- source order changed — **0**
+- glossary-locked source variants broken — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part005 leakage — **0**
+- E14 remains **SOURCE-CHECKED / COMPLETE**
+- durable editorial review — `PART_004_EDITORIAL_REVIEW.md`
+
