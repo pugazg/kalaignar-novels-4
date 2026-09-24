@@ -1,6 +1,6 @@
 # Part 004 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **PLANNING COMPLETE / PASS — E13 NEXT**
+Status: **E13 SOURCE-CHECKED / COMPLETE — E14 NEXT**
 
 This glossary is derived only from verified Part004 Tamil, the closed Part004 assembled Tamil reading layer, and already source-checked project forms from frozen Parts001–003.
 
@@ -135,3 +135,25 @@ Outgoing:
 ## Exact next gate
 
 **E13 draft + source-check — section18 / scan79.**
+
+## E13 source-check term state
+
+E13 confirmed the existing locks and established these Part004-local renderings from scan79:
+
+- `கருத்த ஆதப்பன்` → **Karutha Adappan**
+- `சுந்தராம்பாள்` / `சுந்தரி` → **Sundarambal / Sundari**
+- `பாகனேரி` → **Paganeri**
+- `அம்பலக்கார அய்யா` → **Ambalakkarar Ayya**
+- `கர்னல் துரை` → **Colonel Durai**
+- `திருகு வலி` → **screw-pain** — source-concrete idiom retained rather than replaced by an unrelated English proverb
+- `சபலம்` → **weakness** in Sundari’s own quoted statement
+- `பூஜை மாடம்` → **worship alcove**
+- `நடராசர்` → **Nataraja**
+
+- unresolved E13 glossary/source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen earlier-Part English edits — **0**
+- Part005 leakage — **0**
+
+Exact next gate: **E14 draft + source-check — section19 / scans80–89**.
+
