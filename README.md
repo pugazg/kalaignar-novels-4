@@ -178,7 +178,7 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part004 English translation planning/setup — reserve E13–E16.**
+**Part004 E13 draft + source-check — section18 / scan79.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records are `verified` and visual `verified`. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
@@ -587,4 +587,23 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - exact next activity — **Part004 English translation planning/setup — reserve E13–E16**
 - durable validation — `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
+
+## Part004 English translation planning state
+
+**PART004 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- reserved batches — **E13–E16 / 4**
+- planned maintained English files — **4**
+- batch map — **E13 section18/scan79; E14 section19/scans80–89; E15 section20/scans90–101; E16 section21/scans102–105**
+- translated/source-checked — **0/4 / 0/4**
+- physical source coverage planned — **scans79–105 / 27**
+- unresolved planning holds — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- English literary prose drafted in planning — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next gate — **E13 draft + source-check — section18 / scan79**
+- durable controls — `PART_004_TRANSLATION_PLAN.md`, `PART_004_GLOSSARY.md`, `PART_004_PROGRESS.md`
 
