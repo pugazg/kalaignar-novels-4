@@ -107,3 +107,17 @@ Historical-glyph corrections — **0**.
 **Part004 Pass3 — scans79–88 / local pages1–10.**
 
 Perform the full-page visual / structural review against rendered source pixels. Do not promote status during Pass3; final metadata/status synchronization is a later gate.
+
+## Part004 documentation synchronization downstream state
+
+- Part004 documentation synchronization — **PASS / COMPLETE**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- canonical Tamil/body changes caused by documentation sync — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 Tamil archival-ready checkpoint**
+- durable documentation sync — `PART_004_DOCUMENTATION_SYNC.md`
+
