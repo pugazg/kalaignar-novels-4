@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part004 Pass2B FINAL scans99–105 / local pages21–27.**
+**Part004 Pass3 — scans79–88 / local pages1–10.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -444,3 +444,21 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Part005 leakage — **0**
 - exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
 - durable progress — `works/thenpandi-singam/PART_004_PASS2B_PROGRESS.md`
+
+## Part004 Pass2B final closure state
+
+- Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
+- lexical / spacing / punctuation corrections — **19**
+- historical-glyph corrections — **0**
+- affected scans — **81, 82, 84, 85, 87, 88, 91, 95, 99, 100, 101**
+- Pass2A readings superseded by fresh Pass2B evidence — **5 occurrences / scans82, 88, 99, 101**
+- unresolved Pass2B questions — **0**
+- status / visual promotions — **0 / 0**
+- Part004 canonical records — **27/27 needs-review / visual needs-review**
+- chapter11 close at scan101 and illustrated chapter12 opener at scan102 — **PRESERVED / PASS**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- exact next action — **Part004 Pass3 — scans79–88 / local pages1–10**
+- durable progress — `PART_004_PASS2B_PROGRESS.md`
+
