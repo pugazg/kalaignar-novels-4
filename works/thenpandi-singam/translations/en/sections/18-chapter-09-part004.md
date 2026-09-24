@@ -20,7 +20,7 @@ Without waiting for Sundarambal’s reply, Karutha Adappan, who had already reac
 
 Cursing Colonel Durai’s men, Sundarambal let out a deep sigh and sat on the swing. The maid came near her and said, trembling, “Amma! If even Ambalakkarar Ayya’s younger brother, that Adappan, had to come here, things must have become terribly dangerous!”
 
-“Yes, girl! But I have another fear! What sort of trouble might come from that Adappan! Good thing I escaped before one headache went away only for a screw-pain to take its place.”
+“Yes, girl! But I have another fear! What sort of trouble might come from that Adappan! Good thing I escaped without one headache giving way to a screw-pain.”
 
 “No, Amma—he seems like a good young man, Amma!”
 
