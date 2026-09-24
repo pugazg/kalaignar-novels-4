@@ -108,3 +108,19 @@ Directly preserved:
 **Part004 Pass2B — scans79–88 / local pages1–10.**
 
 Pass2B must perform a fresh lexical/spacing/punctuation/historical-glyph audit against rendered source pixels. Do not promote status during Pass2B.
+
+
+## Downstream Pass2B supersession state
+
+Fresh Pass2B pixel review superseded two earlier Pass2A source readings:
+
+1. scan82 — `வாளுக்கு வேலி` restored to source `வாளுக்குவேலி`;
+2. scan88 — `அஃதன்றி` restored to source `அஃதன்னியில்`.
+
+The historical Pass2A ledger above remains preserved as the record of that gate. Current canonical source authority follows Pass2B.
+
+- Pass2B Batch 1 — **10/27 REVIEWED**
+- Pass2B lexical / spacing / punctuation corrections — **9**
+- Pass2B historical-glyph corrections — **0**
+- unresolved Pass2B questions — **0**
+- exact next activity — **Part004 Pass2B scans89–98 / local pages11–20**
