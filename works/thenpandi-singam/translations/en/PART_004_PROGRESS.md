@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**E13–E15 SOURCE-CHECKED / COMPLETE — E16 NEXT**
+**E13–E16 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -33,7 +33,7 @@ Reserved Part004 batches: **E13–E16**.
 | **E13** | section18 — chapter9 Part004 continuation/close | 79 | `sections/18-chapter-09-part004.md` | **SOURCE-CHECKED / COMPLETE** |
 | **E14** | section19 — chapter10 | 80–89 | `sections/19-chapter-10.md` | **SOURCE-CHECKED / COMPLETE** |
 | **E15** | section20 — chapter11 | 90–101 | `sections/20-chapter-11.md` | **SOURCE-CHECKED / COMPLETE** |
-| **E16** | section21 — chapter12 Part004 portion | 102–105 | `sections/21-chapter-12-part004.md` | **PLANNED / NOT STARTED** |
+| **E16** | section21 — chapter12 Part004 portion | 102–105 | `sections/21-chapter-12-part004.md` | **SOURCE-CHECKED / COMPLETE** |
 
 ## Planning accounting
 
@@ -151,4 +151,23 @@ Outgoing:
 - Part005 leakage — **0**
 - exact next gate — **E16 draft + source-check — section21 / scans102–105**
 - durable source-check — `E15_SOURCE_CHECK.md`
+
+## E16 closure
+
+- E16 — **SOURCE-CHECKED / COMPLETE**
+- English file — `sections/21-chapter-12-part004.md`
+- source — Tamil section21 / scans102–105
+- translated/source-checked — **4/4 / 4/4 cumulative**
+- Tamil / English literary blocks — **16 / 16**
+- provenance comments — **4 / 4 retained**
+- 104→105 physical continuation — **PASS / preserved**
+- cumulative Part004 English source coverage — **79–105 / 27 scans**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- omitted / duplicated blocks — **0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen E13–E15 and Part001–Part003 English edits — **0**
+- unresolved source-check holds — **0**
+- Part005 leakage — **0**
+- exact next gate — **Part004 whole-Part English glossary reconciliation across E13–E16**
+- durable source-check — `E16_SOURCE_CHECK.md`
 
