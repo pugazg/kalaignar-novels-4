@@ -57,7 +57,7 @@ paintings drew the attention of Vaalukkuveli and Vallatharayan.
 
 “Poor man! My concern is that the fate that befell this Kattabomman should not befall Periya Maruthu and Chinna Maruthu! What are we asking of the Maruthu Pandiyars? We are only telling them: submit to us, pay tribute, and carry on your administration without obstructing our authority. Could there be any better compromise than this?... Hmm! Somehow, they are going about seeking their own downfall. You know that I have set out with the intention of capturing them by any means. It is in connection with that that I seek the help of you two. That is why I sent word asking you to come.”
 
-Colonel Durai kept looking directly at Vaalukku Veli’s face.
+Colonel Durai kept looking directly at Vaalukkuveli’s face.
 
 “What help do you expect from us in capturing the Maruthu brothers?”
 
