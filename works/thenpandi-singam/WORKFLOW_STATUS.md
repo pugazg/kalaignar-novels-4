@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part004 E14 draft + source-check — section19 / scans80–89.**
+**Part004 E15 draft + source-check — section20 / scans90–101.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -636,4 +636,19 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Part005 leakage — **0**
 - exact next activity — **E14 draft + source-check — section19 / scans80–89**
 - durable source-check — `translations/en/E13_SOURCE_CHECK.md`
+
+## Part004 E14 English downstream state
+
+- E14 — **SOURCE-CHECKED / COMPLETE — section19 / scans80–89**
+- maintained Part004 English files — **2/4 translated / 2/4 source-checked**
+- Tamil / English literary blocks — **53/53**
+- internal physical source-boundary comments — **9/9 retained**
+- scan87 jati display lines — **3/3 represented**
+- cumulative Part004 English source coverage — **scans79–89 / 11 of 27 scans**
+- canonical / assembled Tamil edits caused by E14 — **0 / 0**
+- frozen E13 and Part001–Part003 English edits — **0**
+- unresolved E14 holds — **0**
+- Part005 leakage — **0**
+- exact next activity — **E15 draft + source-check — section20 / scans90–101**
+- durable source-check — `translations/en/E14_SOURCE_CHECK.md`
 
