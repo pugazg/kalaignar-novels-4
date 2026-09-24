@@ -168,3 +168,20 @@ Unsupported military detail — **0**.
 Perform **E15 draft + source-check — section20 / scans90–101**.
 
 Do not alter frozen E13–E14 or earlier-Part English merely for stylistic polishing; reopen only for a demonstrated source-backed defect.
+
+## Post-E14 whole-Part glossary reconciliation note
+
+The later Part004 whole-Part glossary reconciliation found two English-only source-form consistency defects in this already source-checked E14 file:
+
+- scan86 source `வாளுக்குவேலியும்` — **Vaalukku Veli** → **Vaalukkuveli**
+- scan88 later source `வாளுக்குவேலி` — **Vaalukku Veli** → **Vaalukkuveli**
+
+The scan88 block also contains earlier source `வாளுக்கு வேலியின்`; that occurrence correctly remains **Vaalukku Veli’s**.
+
+- literary block count changed — **0**
+- provenance comments changed — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- meaning/content additions — **0**
+- E14 remains **SOURCE-CHECKED / COMPLETE**
+- durable reconciliation — `PART_004_GLOSSARY_RECONCILIATION.md`
+
