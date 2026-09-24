@@ -89,7 +89,7 @@ He held her cheeks in both hands and kissed the crown of her head. She came as f
 
 <!-- source boundary: scan 85 → scan 86 -->
 
-Vaalukku Veli and Adappan climbed into the chariot carriage. As soon as Adappan flicked the horses onward, the carriage set off, slicing through the wind.
+Vaalukkuveli and Adappan climbed into the chariot carriage. As soon as Adappan flicked the horses onward, the carriage set off, slicing through the wind.
 
 Though they did not know why or where the Paganeri Ambalakkarar was going, word that he was passing through Tirukkottiyur spread throughout the town. The people of Kottiyur stood in groups along the streets to watch. They waited at their doorways for Vaalukku Veli’s arrival.
 
@@ -125,7 +125,7 @@ The place where Colonel Durai was staying was an open ground between long-walled
 
 Around that tent, in the smaller tents, white soldiers sat smoking and talking. Beside the bush-choked enclosure wall, English soldiers carrying guns stood sentry.
 
-Vaalukku Veli’s horse-drawn chariot came to a halt at the entrance to that camp. Adappan patted the horses and drew the carriage aside. With his natural majesty, Vaalukku Veli stepped down from the carriage and began striding proudly toward the camp entrance. At that moment, what appeared simultaneously before his
+Vaalukku Veli’s horse-drawn chariot came to a halt at the entrance to that camp. Adappan patted the horses and drew the carriage aside. With his natural majesty, Vaalukkuveli stepped down from the carriage and began striding proudly toward the camp entrance. At that moment, what appeared simultaneously before his
 
 <!-- source boundary: scan 88 → scan 89 -->
 
