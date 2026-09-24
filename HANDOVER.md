@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 assembled Tamil construction + audit**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 English translation planning/setup — reserve E13–E16**
 
 ## Work
 
@@ -113,7 +113,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
 - Part003 — **FINAL CLOSED / FROZEN**
-- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil NEXT**
+- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning NEXT**
 - Parts005–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -693,4 +693,26 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - exact next activity — **Part004 assembled Tamil construction + audit**
 - durable archival-ready checkpoint — `PART_004_TAMIL_ARCHIVAL_READY.md`
+
+## Part004 assembled Tamil state
+
+**PART004 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 4/4 VERIFIED.**
+
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- scans — **79–105**
+- assembled files — **4/4 VERIFIED**
+- inventory — `18-chapter-09-part004.md`, `19-chapter-10.md`, `20-chapter-11.md`, `21-chapter-12-part004.md`
+- canonical scan coverage — **27/27**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit/review-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- frozen Part001–Part003 assembled Tamil changes — **0**
+- Part005 leakage — **0**
+- unresolved assembly blockers — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 English translation planning/setup — reserve E13–E16**
+- durable validation — `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
 
