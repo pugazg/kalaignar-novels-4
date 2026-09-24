@@ -114,3 +114,17 @@ The English adds:
 Perform **E14 draft + source-check — section19 / scans80–89**.
 
 Do not alter frozen E13 or earlier-Part English merely for stylistic polishing; reopen only for a demonstrated source-backed defect.
+
+## Post-E13 Part004 English editorial review note
+
+The later Part004 whole-Part English editorial review made **3 English-only readability/grammar repairs** in this maintained E13 file.
+
+- literary/display block count changed — **0**
+- provenance comments changed — **0**
+- source order changed — **0**
+- glossary-locked source variants broken — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part005 leakage — **0**
+- E13 remains **SOURCE-CHECKED / COMPLETE**
+- durable editorial review — `PART_004_EDITORIAL_REVIEW.md`
+
