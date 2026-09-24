@@ -149,3 +149,14 @@ Before handing Pass1 to Pass2A, a final enlarged-pixel check corrected **3 Pass1
 - status promotions — **0**
 - exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
 - durable progress — `PART_004_PASS2A_PROGRESS.md`
+
+
+## Downstream Pass2A final closure state
+
+- Part004 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
+- total source-text correction occurrences — **9**
+- affected scans — **79, 82, 88, 90, 96, 99, 101**
+- unresolved Pass2A questions — **0**
+- status promotions — **0**
+- exact next activity — **Part004 Pass2B scans79–88 / local pages1–10**
+- durable progress — `PART_004_PASS2A_PROGRESS.md`

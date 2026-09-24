@@ -177,7 +177,7 @@ Part004 is now the active transcription Part.
 - canonical repository records — **98**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2B scans79–88 / local pages1–10**
 - durable progress — `PART_004_PASS1_PROGRESS.md`
 
 
@@ -192,7 +192,7 @@ Part004 is now the active transcription Part.
 - scans97–98 — **non-text illustration leaf / verso represented structurally**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2B scans79–88 / local pages1–10**
 - durable progress — `PART_004_PASS1_PROGRESS.md`
 
 
@@ -211,7 +211,7 @@ Part004 is now the active transcription Part.
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2B scans79–88 / local pages1–10**
 - durable progress — `PART_004_PASS1_PROGRESS.md`
 
 
@@ -225,7 +225,7 @@ Part004 is now the active transcription Part.
 - status / visual promotions — **0 / 0**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2B scans79–88 / local pages1–10**
 
 
 ## Part004 Pass2A Batch 2 state
@@ -240,4 +240,16 @@ Part004 is now the active transcription Part.
 - status / visual promotions — **0 / 0**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
+- exact next activity — **Part004 Pass2B scans79–88 / local pages1–10**
+
+
+## Part004 Pass2A final closure state
+
+- Part004 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
+- total Pass2A correction occurrences — **9**
+- affected scans — **79, 82, 88, 90, 96, 99, 101**
+- unresolved Pass2A questions — **0**
+- status / visual promotions — **0 / 0**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- exact next activity — **Part004 Pass2B scans79–88 / local pages1–10**
