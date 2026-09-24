@@ -95,3 +95,20 @@ The open outgoing 105→106 boundary is an explicit source-availability conditio
 Perform **Part004 Tamil archival-ready checkpoint**.
 
 Do not begin assembled Tamil construction until that checkpoint closes.
+
+## Part004 Tamil archival-ready downstream state
+
+- Part004 Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- page-map verified rows — **27/27**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- canonical Tamil/body changes caused by checkpoint — **0**
+- frozen Part001–Part003 body changes — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 assembled Tamil construction + audit**
+- durable archival-ready checkpoint — `PART_004_TAMIL_ARCHIVAL_READY.md`
+
