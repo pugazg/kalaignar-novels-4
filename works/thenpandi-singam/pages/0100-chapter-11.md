@@ -27,7 +27,7 @@ transcription_method: "direct source-image transcription; Part004 Pass1 final ba
 
 “எப்படி அவமானப்படுத்துவீர்? இதோ நானே உம்மைச் சந்திக்கிறேன்! உம், நடக்கட்டும் உமது பழி வாங்கும் படலம்!” ஆதப்பன் கர்ச்சனை செய்தான்.
 
-அந்த அறைகூவலைக் கேட்ட பிறகும் வாளா இருக்கப் பட்டமங்கலத்து வல்லத்தரையன் என்ன கோழையா? உடைவாளை எடுத்து ஓங்கினான். அப்போது வாளுக்குவேலி, வல்லத்தரையனின் முன்னால் சென்று “முதலில் என்னை வீழ்த்திவிட்டு பிறகு என் தம்பியை வீழ்த்தும்!” என்று நெஞ்சை நிமிர்த்திக் கொண்டு நின்றான்.
+அந்த அறைகூவலைக் கேட்ட பிறகும் வாளாவிருக்கப் பட்டமங்கலத்து வல்லத்தரையன் என்ன கோழையா? உடைவாளை எடுத்து ஓங்கினான். அப்போது வாளுக்குவேலி, வல்லத்தரையனின் முன்னால் சென்று-“முதலில் என்னை வீழ்த்திவிட்டுப் பிறகு என் தம்பியை வீழ்த்தும்!” என்று நெஞ்சை நிமிர்த்திக் கொண்டு நின்றான்.
 
 “போதும்! போதும்! உங்கள் சண்டையை நிறுத்துங்கள்” என்று கர்னல் துரை குறுக்கிட்டான். உருவிய வாட்களும், ஓங்கிய கட்டாரிகளும் உறைகளில் புகுந்தன!
 
@@ -47,4 +47,17 @@ transcription_method: "direct source-image transcription; Part004 Pass1 final ba
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 100; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 86; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part004 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part004 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **3**;
+- correction: `வாளா இருக்கப் பட்டமங்கலத்து` → `வாளாவிருக்கப் பட்டமங்கலத்து` — source-visible joining across the printed line break;
+- correction: `முன்னால் சென்று “முதலில்` → `முன்னால் சென்று-“முதலில்` — source punctuation;
+- correction: `வீழ்த்திவிட்டு பிறகு` → `வீழ்த்திவிட்டுப் பிறகு` — source lexical / sandhi form;
+- historical-glyph corrections: **0**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 100; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 86; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
