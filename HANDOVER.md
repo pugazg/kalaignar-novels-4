@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 English translation planning/setup — reserve E13–E16**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 E13 draft + source-check**
 
 ## Work
 
@@ -113,7 +113,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
 - Part003 — **FINAL CLOSED / FROZEN**
-- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning NEXT**
+- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning PASS / E13 NEXT**
 - Parts005–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -715,4 +715,23 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - exact next activity — **Part004 English translation planning/setup — reserve E13–E16**
 - durable validation — `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
+
+## Part004 English translation planning state
+
+**PART004 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+
+- reserved batches — **E13–E16 / 4**
+- planned maintained English files — **4**
+- batch map — **E13 section18/scan79; E14 section19/scans80–89; E15 section20/scans90–101; E16 section21/scans102–105**
+- translated/source-checked — **0/4 / 0/4**
+- physical source coverage planned — **scans79–105 / 27**
+- unresolved planning holds — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- English literary prose drafted in planning — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next gate — **E13 draft + source-check — section18 / scan79**
+- durable controls — `PART_004_TRANSLATION_PLAN.md`, `PART_004_GLOSSARY.md`, `PART_004_PROGRESS.md`
 
