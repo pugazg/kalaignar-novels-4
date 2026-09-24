@@ -643,3 +643,24 @@ Durable record: `E13_SOURCE_CHECK.md`.
 
 Exact next gate: **E14 draft + source-check — section19 / scans80–89**.
 
+## Part004 E14 source-check
+
+**E14 — SOURCE-CHECKED / COMPLETE.**
+
+- English file — `sections/19-chapter-10.md`
+- Tamil authority — `../../sections/19-chapter-10.md`
+- scans — **80–89**
+- literary blocks — **53/53**
+- physical source-boundary comments — **9/9 retained**
+- scan87 jati lines — **3/3 retained as display material**
+- cumulative translated/source-checked — **2/4 / 2/4**
+- cumulative Part004 source coverage — **scans79–89 / 11 of 27**
+- unresolved E14 holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen E13 / earlier-Part English edits — **0**
+- Part005 leakage — **0**
+
+Durable record: `E14_SOURCE_CHECK.md`.
+
+Exact next gate: **E15 draft + source-check — section20 / scans90–101**.
+
