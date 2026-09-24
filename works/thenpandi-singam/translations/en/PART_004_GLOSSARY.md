@@ -1,6 +1,6 @@
 # Part 004 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **E13–E15 SOURCE-CHECKED / COMPLETE — E16 NEXT**
+Status: **E13–E16 SOURCE-CHECKED / COMPLETE — WHOLE-PART RECONCILIATION NEXT**
 
 This glossary is derived only from verified Part004 Tamil, the closed Part004 assembled Tamil reading layer, and already source-checked project forms from frozen Parts001–003.
 
@@ -208,4 +208,39 @@ E15 confirmed prior locks and established these source-facing renderings:
 - Part005 leakage — **0**
 
 Exact next gate: **E16 draft + source-check — section21 / scans102–105**.
+
+## E16 source-check term state
+
+E16 establishes these source-facing renderings from scans102–105:
+
+- `அக்னியூ` → **Agniyu**
+- `மதுரை நாயக்கர்` → **Madurai Nayakkar**
+- `சந்தாசாகிப்` → **Chandasaagib**
+- `ராணி மீனாட்சி` → **Rani Meenakshi**
+- `பங்காரு நாயக்கர்` → **Bangaru Nayakkar**
+- `மராத்தியர்கள்` → **Marathas**
+- `முகம்மதியர்` / `முகம்மதியர்களின் ஆட்சி` → **Muhammadans / Muhammadan rule**
+- `நவாப்புக்கள்` → **Nawabs**
+- `திருச்சி` → **Tiruchi**
+- `ஜல்லிப்பட்டி` → **Jallipatti**
+- `விருப்பாட்சி` → **Viruppatchi**
+- `கோபால நாயக்கர்` → **Gopal Nayakkar**
+- `முத்துவேல் நாயக்கர்` → **Muthuvel Nayakkar**
+- `வைரமுத்தன்` → **Vairamuthan**
+- `திண்டுக்கல்` → **Dindukkal**
+
+Named associates are source-facing transliterations only; no external biographical standardization is imported.
+
+E16 also locks:
+
+- 104→105 sentence/list continuation — **physical boundary preserved**
+- 105→106 — **PENDING direct audit / source-limited**
+- final English quotation remains **open**, matching the supplied Tamil boundary.
+
+- unresolved E16 glossary/source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen E13–E15 / earlier-Part English edits — **0**
+- Part005 leakage — **0**
+
+Exact next gate: **Part004 whole-Part English glossary reconciliation across E13–E16**.
 
