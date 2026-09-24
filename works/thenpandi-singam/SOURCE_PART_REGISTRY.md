@@ -9,7 +9,7 @@ This ledger records the user's **18 split source PDFs**.
 | 001 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_001_pages_1-26.pdf` | 26 | 1–26 | 49,818,511 | `73e4879c416368cb1789138aacfdbfa18ef84a3722f9074c41b590aff176ea8f` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT** |
+| 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | pending | pending | pending | pending | pending | blocked | not started |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
@@ -670,4 +670,39 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - durable review — `translations/en/PART_004_BILINGUAL_REVIEW.md`
 - exact next activity — **Part004 release/readiness report**
+
+## Part004 release/readiness and release-ready synchronization
+
+- release/readiness — **PASS / CLOSED**
+- release/readiness record — `translations/en/PART_004_RELEASE_REPORT.md`
+- release-ready synchronization — **PASS / CLOSED**
+- release-ready record — `PART_004_RELEASE_READY_SYNC.md`
+- canonical / assembled / maintained-English body changes in these gates — **0 / 0 / 0**
+- unresolved release/synchronization blockers — **0**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+
+## Part004 final closure downstream state
+
+**PART004 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- source scans — **79–105 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- canonical / assembled / maintained-English body changes after release-ready sync — **0 / 0 / 0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- scans97–98 — **non-literary provenance only**
+- outgoing 105→106 — **PENDING direct audit / source-limited / preserved**
+- final-closed Parts — **4**
+- Part005 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part005 source intake when supplied**
+- durable closure — `PART_004_FINAL_CLOSURE.md`
 
