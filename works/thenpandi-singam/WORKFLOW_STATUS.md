@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part004 release/readiness report.**
+**Part005 source intake when supplied.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -751,4 +751,40 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - durable review — `translations/en/PART_004_BILINGUAL_REVIEW.md`
 - exact next activity — **Part004 release/readiness report**
+
+## Part004 release/readiness and release-ready synchronization
+
+- release/readiness — **PASS / CLOSED**
+- release/readiness record — `translations/en/PART_004_RELEASE_REPORT.md`
+- release-ready synchronization — **PASS / CLOSED**
+- release-ready record — `PART_004_RELEASE_READY_SYNC.md`
+- canonical / assembled / maintained-English body changes in these gates — **0 / 0 / 0**
+- unresolved release/synchronization blockers — **0**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+
+## Part004 final closure downstream state
+
+**PART004 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- source scans — **79–105 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- canonical / assembled / maintained-English body changes after release-ready sync — **0 / 0 / 0**
+- source PDFs in active Git tree — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- scans97–98 — **non-literary provenance only**
+- outgoing 105→106 — **PENDING direct audit / source-limited / preserved**
+- final-closed Parts — **4**
+- Part005 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part005 source intake when supplied**
+- durable closure — `PART_004_FINAL_CLOSURE.md`
 
