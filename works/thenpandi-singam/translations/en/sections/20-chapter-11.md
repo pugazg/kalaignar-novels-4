@@ -71,7 +71,7 @@ must gather all the Ambalakkarars and announce that you are supporting the Marut
 
 A fiery breath escaped Vaalukkuveli! Adappan’s heartbeats became thunderclaps! In a situation where emperors, petty kings and palayakkarars had fallen and lain surrendered, how could Ambalakkarars, who were merely lords of a few villages bearing the name of a nadu, stop the growth of English domination?
 
-“You must have told this idea to my friend, Pattamangalam Ambalakkarar Vallatharayan; what was his reply?” At Vaalukku Veli’s question, the white durai’s son answered with a great laugh.
+“You must have told this idea to my friend, Pattamangalam Ambalakkarar Vallatharayan; what was his reply?” At Vaalukku Veli’s question, the white durai answered with a great laugh.
 
 “The Pattamangalam man lacks that much maturity! ‘Betray the Maruthu Pandiyars? My heart will never, ever agree to that’—he refused!”
 
@@ -95,7 +95,7 @@ Vaalukku Veli’s explanation, overflowing with resolve and firmness, and his ca
 
 powerful Ambalakkarars of that region.
 
-“Vaalukku Veli! I admire your courage and resolve,” said the durai’s son, and Urangappuli could not bear hearing it!
+“Vaalukku Veli! I admire your courage and resolve,” said the durai, and Urangappuli could not bear hearing it!
 
 “When did he speak any courage on his own? He merely heard what our Ambalakkarar, Pattamangalam Vallatharayan, had said and then the Paganeri man sang the refrain after him.”
 
