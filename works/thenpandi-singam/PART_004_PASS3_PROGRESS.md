@@ -93,3 +93,16 @@ Perform the **Part004 whole-Part audit — scans79–105 / local pages1–27**.
 Audit continuous physical coverage, duplicate/omission counts, `part_page` continuity, source-filename consistency, printed-page mapping, Pass2A/Pass2B/Pass3 evidence, structural inventory, cross-page joins, correction ledgers, incoming 78→79 disposition, and the explicit source-limited 105→106 boundary condition.
 
 Do not promote page status during the audit itself. Final metadata/status synchronization is a separate gate.
+
+## Part004 whole-Part audit downstream state
+
+- Part004 whole-Part audit — **PASS / COMPLETE**
+- canonical coverage — **27/27 / scans79–105**
+- duplicate / omitted canonical scans — **0 / 0**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- page-status promotions during audit — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 final metadata/status synchronization — scans79–105 / 27 pages**
+- durable audit — `PART_004_AUDIT.md`
+
