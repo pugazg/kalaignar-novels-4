@@ -1,6 +1,6 @@
 # Part 004 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **E13–E14 SOURCE-CHECKED / COMPLETE — E15 NEXT**
+Status: **E13–E15 SOURCE-CHECKED / COMPLETE — E16 NEXT**
 
 This glossary is derived only from verified Part004 Tamil, the closed Part004 assembled Tamil reading layer, and already source-checked project forms from frozen Parts001–003.
 
@@ -181,4 +181,31 @@ Source-visible name variation remains preserved in English handling, including *
 - Part005 leakage — **0**
 
 Exact next gate: **E15 draft + source-check — section20 / scans90–101**.
+
+## E15 source-check term state
+
+E15 confirmed prior locks and established these source-facing renderings:
+
+- `கயத்தாறு` → **Kayatharu**
+- `கட்டபொம்மன்` → **Kattabomman**
+- `எட்டப்பன்` → **Ettappan**
+- `பெரிய மருது` / `சின்ன மருது` → **Periya Maruthu / Chinna Maruthu**
+- `கப்பம்` → **tribute**
+- `கள்ளர் நாடுகள்` → **Kallar nadus**
+- `பிரபு` → **Prabhu**
+- `சலாம்` → **salaam**
+- `வேத வாக்கு` → **Vedic scripture**
+- `தெய்வ வாக்கு` → **divine scripture**
+- `தாசி` → **dasi**
+- `கட்டாரி` → **dagger**
+- `பலம் / பலவீனம்` → **strength / weakness**
+
+`துரைமகன்` is handled contextually as **durai / white durai**, not as literal kinship language.
+
+- unresolved E15 glossary/source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen E13–E14 / earlier-Part English edits — **0**
+- Part005 leakage — **0**
+
+Exact next gate: **E16 draft + source-check — section21 / scans102–105**.
 
