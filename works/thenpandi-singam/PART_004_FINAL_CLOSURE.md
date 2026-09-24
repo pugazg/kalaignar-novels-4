@@ -192,3 +192,20 @@ No Part005 metadata is guessed.
 - exact next activity — **Part005 source intake when supplied**
 
 **STOP here. Part004 is FINAL CLOSED / FROZEN.**
+
+## Post-freeze Part005 boundary evidence completion
+
+Part005 has now been supplied and registered:
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf`
+- local physical pages — **27**
+- global scans — **106–132**
+- first scan — **scan106 / printed92**
+- direct adjacent comparison — **105→106 = GENUINE CONTINUATION / AUDITED**
+- physical continuation — `அது என்னால் முடியும். / மலையோடு மோதிக்கொள்ளாதே என்று எச்சரிக்கை செய்து பாகனேரியை உங்கள் வழிக்குக் கொண்டு வருவது என் பொறுப்பு! அவசரப்பட்டுப் பாகனேரி மீது பகை கொள்ள வேண்டாமென்பது என் கருத்து.”`
+- frozen Part004 canonical / assembled / maintained-English body changes — **0 / 0 / 0**
+- inferred bridge text — **0**
+- Part004 remains — **FINAL CLOSED / FROZEN**
+- Part005 outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass1 scans106–115 / local pages1–10**
+
