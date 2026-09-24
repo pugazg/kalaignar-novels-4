@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part004 Tamil archival-ready checkpoint
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part004 assembled Tamil construction + audit
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,47 +8,41 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 - Part002 — **FINAL CLOSED / FROZEN**
 - Part003 — **FINAL CLOSED / FROZEN**
 
-## Part004 verified Tamil state
+## Part004 Tamil archival state
 
 - source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf`
-- source SHA-256 — `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41`
 - canonical records — **27/27 / scans79–105**
-- Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — 9 corrections / 0 unresolved**
-- Pass2B — **COMPLETE / PASS — 27/27 REVIEWED — 19 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
-- Pass3 — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map rows — **27/27 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
 - whole-Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
 - documentation synchronization — **PASS / COMPLETE**
-- canonical Tamil — **27/27 verified**
-- visual fidelity — **27/27 verified**
-- page-map verified rows — **27/27**
-- needs-review Tamil / visual pages — **0 / 0**
+- Tamil archival-ready — **PASS / CLOSED**
 - unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
 - incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 105→106 — **PENDING direct audit / source-limited**
-- canonical Tamil/body changes caused by documentation sync — **0**
-- frozen Part001–Part003 body changes — **0**
-- Part005 leakage — **0**
 
-Durable documentation sync: `works/thenpandi-singam/PART_004_DOCUMENTATION_SYNC.md`.
+Durable checkpoint: `works/thenpandi-singam/PART_004_TAMIL_ARCHIVAL_READY.md`.
 
 ## Exact next activity
 
-Perform **Part004 Tamil archival-ready checkpoint**.
+Perform **Part004 assembled Tamil construction + audit** for scans79–105.
 
 Requirements:
 
-- confirm all Part004 canonical records are **verified 27/27**;
-- confirm visual fidelity is **verified 27/27**;
-- confirm page-map Part004 rows are **verified 27/27** and lifecycle annotations are synchronized through Pass3;
-- confirm whole-Part audit, final status sync and documentation sync are all closed/passed;
-- confirm unresolved Tamil/glyph/visual/structural/documentation blockers — **0**;
-- preserve scans97–98 as illustration / blank structural records;
-- preserve incoming **78→79 GENUINE CONTINUATION / AUDITED**;
-- preserve outgoing **105→106 PENDING direct audit / source-limited**;
-- canonical Tamil body changes — **0**;
-- frozen Part001–Part003 body changes — **0**;
+- derive assembled Tamil only from verified Part004 canonical `pages/`;
+- preserve exact canonical wording, punctuation, spacing/source-era forms and reading order;
+- preserve scan79 as the continuation and close of chapter9;
+- preserve chapter10, chapter11 and chapter12 ordering;
+- exclude recurring page furniture, audit/review notes, closing ornaments, scan97 illustration content and scan98 blank/verso content from literary body text;
+- preserve physical continuations, including 96→97–98→99 and 104→105;
+- stop exactly at scan105; do not infer or import scan106 / Part005;
+- retain **105→106 PENDING direct audit / source-limited** only as provenance/control metadata;
+- validate physical scan coverage **27/27**, omissions **0**, duplicates **0**, unsupported Tamil body insertion **0**, audit-note leakage **0**;
+- canonical page mutations caused by assembly — **0**;
+- frozen Part001–Part003 assembled Tamil changes — **0**;
 - Part005 leakage — **0**.
 
-If the checkpoint passes, create `works/thenpandi-singam/PART_004_TAMIL_ARCHIVAL_READY.md`, close Part004 Tamil archival-ready as **PASS / CLOSED**, and set the exact next activity to **Part004 assembled Tamil construction + audit**.
+Create/update the necessary Part004 assembled Tamil section files and create `works/thenpandi-singam/PART_004_ASSEMBLED_TAMIL_VALIDATION.md`. If the audit passes, close Part004 assembled Tamil as **PASS / CLOSED / VERIFIED** and advance to **Part004 English translation planning/setup**.
