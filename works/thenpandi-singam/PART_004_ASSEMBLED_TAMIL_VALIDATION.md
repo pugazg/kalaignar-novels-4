@@ -190,3 +190,18 @@ The next non-colliding English batch range is **E13–E16**, corresponding to th
 - exact next activity — **E14 draft + source-check — section19 / scans80–89**
 - durable source-check — `translations/en/E13_SOURCE_CHECK.md`
 
+## Part004 E14 English downstream state
+
+- E14 — **SOURCE-CHECKED / COMPLETE — section19 / scans80–89**
+- maintained Part004 English files — **2/4 translated / 2/4 source-checked**
+- Tamil / English literary blocks — **53/53**
+- internal physical source-boundary comments — **9/9 retained**
+- scan87 jati display lines — **3/3 represented**
+- cumulative Part004 English source coverage — **scans79–89 / 11 of 27 scans**
+- canonical / assembled Tamil edits caused by E14 — **0 / 0**
+- frozen E13 and Part001–Part003 English edits — **0**
+- unresolved E14 holds — **0**
+- Part005 leakage — **0**
+- exact next activity — **E15 draft + source-check — section20 / scans90–101**
+- durable source-check — `translations/en/E14_SOURCE_CHECK.md`
+
