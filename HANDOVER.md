@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 whole-Part English glossary reconciliation**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 English editorial review**
 
 ## Work
 
@@ -113,7 +113,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
 - Part003 — **FINAL CLOSED / FROZEN**
-- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning PASS / E13–E16 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**
+- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning PASS / E13–E16 SOURCE-CHECKED / GLOSSARY RECONCILED / EDITORIAL REVIEW NEXT**
 - Parts005–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -794,4 +794,27 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part005 leakage — **0**
 - exact next activity — **Part004 whole-Part English glossary reconciliation across E13–E16**
 - durable source-check — `translations/en/E16_SOURCE_CHECK.md`
+
+## Part004 whole-Part English glossary reconciliation downstream state
+
+**PART004 WHOLE-PART ENGLISH GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- scope — **E13–E16 / 4 maintained English files / scans79–105**
+- maintained/source-checked English — **4/4 / 4/4**
+- source coverage — **27/27 scans**
+- block-count mismatches — **0**
+- provenance-comment mismatches — **0**
+- deliberate source-visible variants preserved — **PASS**
+- accidental English source-form inconsistencies corrected — **3 occurrences**
+- affected English files — **E14 / E15**
+- remaining `வாளுக்கு வேலி / வாளுக்குவேலி` English variant mismatches — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- scans97–98 — **non-literary provenance only**
+- 104→105 — **physical continuation preserved**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- durable reconciliation — `translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
+- exact next activity — **Part004 English editorial review across all 4 maintained English files / scans79–105**
 
