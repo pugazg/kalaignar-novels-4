@@ -1,0 +1,175 @@
+# தென்பாண்டிச் சிங்கம் — Part005 Source Intake
+
+## Result
+
+**SOURCE INTAKE — COMPLETE / PASS**
+
+This record registers the supplied Part005 source exactly as inspected. It does not perform canonical Pass1 transcription beyond the minimum direct source reading needed for structural intake and the adjacent 105→106 boundary audit.
+
+## Source identity
+
+- work — **தென்பாண்டிச் சிங்கம்**
+- author — **கலைஞர் மு. கருணாநிதி**
+- source family / archive identifier — **TVA_BOK_0065559**
+- exact source filename — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf`
+- byte size — **48,768,215**
+- SHA-256 — `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b`
+- local physical pages — **27**
+- global physical scans — **106–132**
+- local→global mapping — local1=scan106 through local27=scan132
+- embedded/parsed text layer — **absent / unusable**
+- controlling representation — **rendered source page images**
+- source PDF storage rule — **outside Git**
+
+The 27-page physical extent was established directly from the supplied PDF. The global range continues immediately after frozen Part004 scan105.
+
+## First physical scan — local1 / global106
+
+Direct rendered-source inspection establishes:
+
+- printed folio — **92**
+- chapter — **12 continuation**
+- page type — standard body continuation
+- first source text begins:
+
+`மலையோடு மோதிக்கொள்ளாதே என்று எச்சரிக்கை செய்து பாகனேரியை உங்கள் வழிக்குக் கொண்டு வருவது என் பொறுப்பு! அவசரப்பட்டுப் பாகனேரி மீது பகை கொள்ள வேண்டாமென்பது என் கருத்து.”`
+
+This scan is the direct adjacent witness required to classify frozen Part004's outgoing 105→106 boundary.
+
+## Incoming boundary audit — 105→106
+
+Frozen Part004 scan105 / printed91 ends:
+
+`“அப்படியானால் நான் வாளுக்குவேலிக்கு அறிவுரை கூறித் திருத்துகிறேன். அது என்னால் முடியும்.`
+
+Part005 scan106 / printed92 begins:
+
+`மலையோடு மோதிக்கொள்ளாதே என்று எச்சரிக்கை செய்து பாகனேரியை உங்கள் வழிக்குக் கொண்டு வருவது என் பொறுப்பு! அவசரப்பட்டுப் பாகனேரி மீது பகை கொள்ள வேண்டாமென்பது என் கருத்து.”`
+
+The direct dialogue therefore continues across the physical split as:
+
+`அது என்னால் முடியும். / மலையோடு மோதிக்கொள்ளாதே என்று எச்சரிக்கை செய்து பாகனேரியை உங்கள் வழிக்குக் கொண்டு வருவது என் பொறுப்பு! அவசரப்பட்டுப் பாகனேரி மீது பகை கொள்ள வேண்டாமென்பது என் கருத்து.”`
+
+### Boundary decision
+
+**105→106 = GENUINE CONTINUATION / AUDITED**
+
+- direct adjacent scans compared — **PASS**
+- chapter continuity — **chapter12 → chapter12**
+- printed pagination — **91→92**
+- open quotation on scan105 closes on scan106 — **PASS**
+- inferred bridge text — **0**
+- frozen Part004 canonical Tamil body changes — **0**
+- frozen Part004 assembled Tamil body changes — **0**
+- frozen Part004 maintained English body changes — **0**
+- Part005 body text imported into Part004 — **0**
+
+This is boundary-evidence completion only. Part004 remains **FINAL CLOSED / FROZEN**.
+
+## Structural intake landmarks
+
+These are source-intake landmarks only. Pass1 remains responsible for exact canonical transcription and per-page structural classification.
+
+1. local1 / scan106 / printed92 — chapter12 continuation from frozen scan105.
+2. local4 / scan109 / printed95 — chapter12 body followed by source-visible `குறிப்பு:` and an English-language historical reference note beginning on this page.
+3. local5 / scan110 / printed96 — continuation of the English reference note; chapter12 close with source-visible closing ornaments.
+4. local6 / scan111 — illustrated chapter **13** opening; displayed numeral **13**; no source-visible folio.
+5. local14 / scan119 / printed105 — chapter13 close with source-visible closing ornaments.
+6. local15 / scan120 — illustrated chapter **14** opening; displayed numeral **14**; no source-visible folio.
+7. local16 / scan121 — full-page illustration; no source-visible folio / no literary body text.
+8. local17 / scan122 — illustration-verso / intentional blank with show-through; no source-visible folio / no literary body text.
+9. local18 / scan123 / printed107 — chapter14 prose resumes after the inserted non-text leaf.
+10. local24 / scan129 / printed113 — chapter14 close with source-visible closing ornaments.
+11. local25 / scan130 — illustrated chapter **15** opening; displayed numeral **15**; no source-visible folio.
+12. local27 / scan132 / printed116 — chapter15 continuation; Part005 terminal physical scan; source remains open into the next Part.
+
+Visible printed folios directly observed begin at **92** and end at **116**. The illustrated chapter-opening scans111, 120 and 130 have no source-visible folio. Scans121–122 are an inserted illustration leaf / verso and likewise carry no source-visible folio.
+
+## Chapter span
+
+Part005 physically contains:
+
+- chapter12 — continuation and close across scans106–110;
+- chapter13 — scans111–119;
+- chapter14 — scans120–129, including inserted illustration / verso scans121–122;
+- chapter15 — scans130–132 and still open at the Part boundary.
+
+No Part006 text is inferred.
+
+## Last physical scan — local27 / global132
+
+Direct rendered-source inspection establishes:
+
+- printed folio — **116**
+- chapter — **15 continuation**
+- page type — body
+- final supplied page remains structurally open
+- terminal visible source fragment begins an unfinished dialogue:
+
+`“நீதானே திருக்கோட்டியூர் சுந்தரியோட தங்கச்சி வடிவாம்பாள்! உன்னை நாங்க செட்டியார் வீட்டுக்`
+
+No source-supported completion is available in Part005.
+
+Outgoing boundary:
+
+**132→133 = PENDING direct audit / source-limited**
+
+Part006 has not been supplied, so no boundary classification is fabricated and no continuation text is inferred.
+
+## Registration state
+
+After this intake:
+
+- registered Parts — **5 / 18**
+- registered physical scans — **132**
+- global registered range — **1–132**
+- canonical page records — **105**
+- final-closed Parts — **4**
+- active transcription Part — **Part005**
+- Part005 source intake — **COMPLETE / PASS**
+- Part005 canonical page records — **0/27**
+- Part005 Pass1 — **NOT STARTED**
+- Parts006–018 — **not registered**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+
+## Part004 freeze protection
+
+Part004 remains **FINAL CLOSED / FROZEN**.
+
+Boundary-evidence completion caused:
+
+- Part004 canonical Tamil body edits — **0**
+- Part004 assembled Tamil body edits — **0**
+- Part004 maintained English body edits — **0**
+- stylistic normalization — **0**
+- inferred continuation — **0**
+
+Only lifecycle/boundary/provenance controls record the newly available 105→106 evidence.
+
+## Canonical Pass1 handoff
+
+Exact next activity:
+
+**Part005 Pass1 — scans106–115 / local pages1–10.**
+
+Pass1 must:
+
+- create one canonical page record per physical scan;
+- use global `scan_page` values **106–115** for the first batch;
+- set `part: 5` and local `part_page: 1–10`;
+- keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
+- transcribe only direct source-visible text;
+- preserve the scan105→106 physical continuation as provenance without copying frozen scan105 body text into scan106;
+- preserve the source-visible English reference note on scans109–110 exactly as source material;
+- record the illustrated chapter13 opener structurally and use `printed_page: null` where the folio is not source-visible;
+- preserve recurring page furniture as source metadata, not duplicated literary prose;
+- do not infer Part006 / scan133 text.
+
+## Decision
+
+**PART005 SOURCE INTAKE — COMPLETE / PASS**
+
+Part005 is now the active transcription Part.
+
+**Exact next activity: Part005 Pass1 scans106–115 / local pages1–10.**
