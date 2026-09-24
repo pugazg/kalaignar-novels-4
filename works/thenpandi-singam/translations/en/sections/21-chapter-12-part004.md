@@ -15,7 +15,7 @@ status: "source-checked"
 
 “Yes! What doubt is there about that?” Vellai Ayyar said with a laugh as he came and stood before the Colonel. “Come, Mr. Vellai! The Paganeri and Pattamangalam Ambalakkarars have only just come and gone,” Colonel Durai said, holding out a beautiful liquor cup to him.
 
-“You know that I will not touch this,” Vellai Ayyar said, refusing it with his hand as he sat down on a chair.
+“You know that I will not touch this,” Vellai Ayyar said, waving it away with his hand as he sat down on a chair.
 
 The man called Agniyu—one of the English officers moving about with troops, sworn to subdue or destroy the Maruthu Pandiyars—was the one respectfully addressed as Colonel Durai. Though the two Ambalakkarars had refused to help his plot, there was one thing that gave Colonel Agniyu great delight: the powerful Paganeri Ambalakkarar and the Pattamangalam Ambalakkarar were ready at any moment to clash with one another!
 
@@ -27,7 +27,7 @@ The man called Agniyu—one of the English officers moving about with troops, sw
 
 “Madurai Nayakkar? Who is he? Unable to withstand Chandasaagib’s forces, Rani Meenakshi, with no other way left, drank poison and died! After that, some Bangaru Nayakkar joined with the Marathas, opposed Muhammadan rule, and he too was killed... After that, the Nawabs who rule Madurai nadu are people connected with our rule, are they not! Which Nayakkar—in which Madurai—gave this Karutha Adappan an award?”
 
-“Mr. Agniyu! Though the name is Madurai nadu, in the final period it was Tiruchi that served as the capital of the Nayakkar rule of Madurai nadu! Even then, Madurai had an influence of its own! When Madurai nadu passed into Muhammadan hands, it was at the capital Tiruchi that Rani Meenakshi killed herself! After the Muhammadans came to power, Madurai was not under their direct attention! Some freedom fighters opposing you have even made camps of some of Madurai’s mansions and towered buildings—the enduring memorials of the Nayakkar kings—which are not of concern to the Nawabs! Surely all this has not failed to reach your ears until now!”
+“Mr. Agniyu! Though the name is Madurai nadu, in the final period it was Tiruchi that served as the capital of the Nayakkar rule of Madurai nadu! Even then, Madurai had an influence of its own! When Madurai nadu passed into Muhammadan hands, it was at the capital Tiruchi that Rani Meenakshi killed herself! After the Muhammadans came to power, Madurai was not under their direct attention! Some freedom fighters opposing you have even made camps of some of Madurai’s mansions and towered buildings—the enduring memorials of the Nayakkar kings—which are not of concern to the Nawabs! Surely all this must have reached your ears by now!”
 
 <!-- source boundary: scan 103 → scan 104 -->
 
@@ -39,7 +39,7 @@ The man called Agniyu—one of the English officers moving about with troops, sw
 
 <!-- source boundary: scan 104 → scan 105 -->
 
-—I hear that Vaalukku Veli and Karutha Adappan do indeed have secret connections with them as well. Pattamangalam alone has so far kept out of everything. But whether he and his younger brother Vairamuthan like our rule or not, it is clear that they do not want the Thenpandi region to become enslaved and acquire the nature of betrayal. That too, in a way, is a policy of opposition to us! On behalf of the Kallar nadus, Perumal Sami Pillai and Kalyana Thevar have aligned with Maruthu and Gopal Nayakkar against us—and they have even secretly met Gopal Nayakkar at Dindukkal.”
+—I hear that Vaalukku Veli and Karutha Adappan do indeed have secret connections with them as well. Pattamangalam alone has so far kept out of everything. But whether he and his younger brother Vairamuthan like our rule or not, it is clear that they do not want the Thenpandi region to become enslaved and develop the habit of betraying others. That too, in a way, is a policy of opposition to us! On behalf of the Kallar nadus, Perumal Sami Pillai and Kalyana Thevar have aligned with Maruthu and Gopal Nayakkar against us—and they have even secretly met Gopal Nayakkar at Dindukkal.”
 
 Looking at Colonel Durai in amazement, his eyes bright, Vellai Ayyar showered him with words of praise.
 
