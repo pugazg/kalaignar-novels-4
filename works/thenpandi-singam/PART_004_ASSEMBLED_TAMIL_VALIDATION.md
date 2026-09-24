@@ -176,3 +176,17 @@ The next non-colliding English batch range is **E13–E16**, corresponding to th
 - exact next gate — **E13 draft + source-check — section18 / scan79**
 - durable controls — `PART_004_TRANSLATION_PLAN.md`, `PART_004_GLOSSARY.md`, `PART_004_PROGRESS.md`
 
+## Part004 E13 English downstream state
+
+- E13 — **SOURCE-CHECKED / COMPLETE — section18 / scan79**
+- maintained Part004 English files — **1/4 translated / 1/4 source-checked**
+- Tamil / English literary blocks — **7/7**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- frozen Part003 E12 body changes — **0**
+- canonical / assembled Tamil edits caused by E13 — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- unresolved E13 holds — **0**
+- Part005 leakage — **0**
+- exact next activity — **E14 draft + source-check — section19 / scans80–89**
+- durable source-check — `translations/en/E13_SOURCE_CHECK.md`
+
