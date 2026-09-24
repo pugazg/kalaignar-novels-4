@@ -1,6 +1,6 @@
 # Part 004 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **E13–E16 SOURCE-CHECKED / COMPLETE — WHOLE-PART RECONCILIATION NEXT**
+Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This glossary is derived only from verified Part004 Tamil, the closed Part004 assembled Tamil reading layer, and already source-checked project forms from frozen Parts001–003.
 
@@ -243,4 +243,39 @@ E16 also locks:
 - Part005 leakage — **0**
 
 Exact next gate: **Part004 whole-Part English glossary reconciliation across E13–E16**.
+
+## Whole-Part reconciliation closure
+
+**RECONCILED / PASS**
+
+Deliberate source-visible variant locks now include:
+
+- `வாளுக்கு வேலி` → **Vaalukku Veli**
+- `வாளுக்குவேலி` → **Vaalukkuveli**
+- `வாளுக்குவேலித் தேவர்` → **Vaalukkuveli Thevar**
+- `கருத்த ஆதப்பன்` / `கறுத்த ஆதப்பன்` → **Karutha Adappan**, with Tamil source distinction preserved upstream
+- `மேகநாதன்` / vocative `மேகநாதா` → **Meganathan / Meganatha**
+- `நாதமுனி` / `நாத முனி` → **Nathamuni**
+- `மருதுபாண்டியர்` / `மருது பாண்டியர்` → **Maruthu Pandiyars**
+- `மருது சகோதரர்கள்` → **Maruthu brothers**
+- `பெரிய மருது` / `சின்ன மருது` → **Periya Maruthu / Chinna Maruthu**
+
+Whole-Part source-form audit corrected three accidental English spacing normalizations:
+
+1. E14 scan86 — **Vaalukku Veli** → **Vaalukkuveli**
+2. E14 scan88 — later closed-form occurrence → **Vaalukkuveli**, while the earlier spaced source occurrence remains **Vaalukku Veli’s**
+3. E15 scan93 — **Vaalukku Veli’s** → **Vaalukkuveli’s**
+
+Post-repair automated mismatch count for the spaced/closed Vaalukku source forms — **0**.
+
+`Colonel Durai`, `Agniyu`, `Colonel Agniyu`, contextual durai forms, source-era political/historical terms, jati display lines, scans97–98 structural provenance and the open 105→106 boundary remain source-controlled and are not globally normalized.
+
+- unresolved glossary conflicts — **0**
+- English body occurrences changed — **3**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part005 leakage — **0**
+
+Durable record: `PART_004_GLOSSARY_RECONCILIATION.md`.
+
+Exact next gate: **Part004 English editorial review across all 4 maintained English files / scans79–105**.
 
