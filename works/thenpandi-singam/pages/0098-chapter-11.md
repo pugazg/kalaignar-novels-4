@@ -26,4 +26,14 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 - no wording is inferred toward scan99;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 98; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: SOURCE-NOT-VISIBLE; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part004 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against rendered Part004 source pixels;
+- structural check: illustration verso / blank with faint show-through confirmed; no literary body text is source-visible; no prose invented;
+- source-text corrections: **0**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 98; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: SOURCE-NOT-VISIBLE; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->

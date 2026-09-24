@@ -17,11 +17,11 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 
 பலம் பொருந்திய அம்பலக்காரர்களைப் பகைத்துக் கொள்ளத் தேவையில்லையென்று ஒரு முடிவுக்கு வந்தான்.
 
-“வாளுக்கு வேலி! உமது வீரத்தையும் உறுதியையும் பாராட்டுகிறேன்” - என்று துரை மகன் சொன்னதை உறங்காப்புலியால் பொறுத்துக் கொள்ள முடியவில்லை!
+“வாளுக்கு வேலி! உமது வீரத்தையும் உறுதியையும் பாராட்டுகிறேன்”- என்று துரை மகன் சொன்னதை உறங்காப்புலியால் பொறுத்துக் கொள்ள முடியவில்லை!
 
 “அவராக எங்கே வீரம் பேசினார்? எங்கள் அம்பலக்காரர் பட்டமங்கலத்து வல்லத்தரையர் என்ன சொன்னார் என்று கேட்டுக் கொண்டுதானே அதற்குப் பாகனேரியார் பின்பாட்டுப் பாடியிருக்கிறார்.”
 
-இப்படியொரு ஏவனத்தின் மூலம் வாளுக்கு வேலியைத் தாழ்த்தி விட்டதாக உறங்காப்புலிக்கு ஒரு மகிழ்ச்சி! வாளுக்குவேலி, அவன் பேச்சைப் பொருட்படுத்தாமல் மெளனமாகப் புன்னகை புரிந்ததால் அவனுக்கு மேலும் துணிவு பிறந்தது!
+இப்படியொரு ஏளனத்தின் மூலம் வாளுக்கு வேலியைத் தாழ்த்தி விட்டதாக உறங்காப்புலிக்கு ஒரு மகிழ்ச்சி! வாளுக்குவேலி, அவன் பேச்சைப் பொருட்படுத்தாமல் மெளனமாகப் புன்னகை புரிந்ததால் அவனுக்கு மேலும் துணிவு பிறந்தது!
 
 “மருது பாண்டியரைப் பிடிப்பதற்கான சூழ்ச்சிக்கு உதவிட வேண்டுமென்று முதலிலேயே பாகனேரி அம்பலக்காரர் வாளுக்குவேலியை அழைத்துக் கேட்டிருப்பீர்களேயானால் அவர் “சரி பிரபு” என்று “சலாம்” போட்டிருப்பார்!”
 
@@ -42,4 +42,15 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 - direct continuation must be established from scan99 in the next Pass1 batch;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 96; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 18; அச்சுப் பக்கம்: 84; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part004 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against rendered Part004 source pixels;
+- source-text corrections: **2**;
+- correction: `பாராட்டுகிறேன்” - என்று` → `பாராட்டுகிறேன்”- என்று` — source punctuation / spacing;
+- correction: `இப்படியொரு ஏவனத்தின் மூலம்` → `இப்படியொரு ஏளனத்தின் மூலம்` — source lexical reading;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 96; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 18; அச்சுப் பக்கம்: 84; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->

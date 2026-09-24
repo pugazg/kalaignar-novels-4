@@ -32,4 +32,13 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 - terminal fragment `தன்னிருக்கையை` continues directly to scan95;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 94; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 82; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part004 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against rendered Part004 source pixels;
+- source-text corrections: **0**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 94; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 82; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->

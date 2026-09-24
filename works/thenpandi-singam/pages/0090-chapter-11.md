@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 
 வாளுக்கு வேலியைக் கண்டவுடன் கர்னல் துரை அந்த அதிகார மமதை சற்றுக்கூடக் குறையாமல் உட்கார்ந்தபடியே “வாங்க! வாங்க! ரெண்டு பேரும் உட்காருங்க!” என்று அங்குக்கிடந்த நாற்காலிகளைத் தன் கையிலிருந்த புகைச் சுருட்டால் சுட்டிக் காட்டினான்.
 
-வாளுக்குவேலி தலையை மட்டும் மெல்ல அசைத்து விட்டு ஒரு நாற்காலியில் அமர்ந்து கால்மீது கால் போட்டுக் கொண்டு, வல்லத்தரையனைப் பார்த்து “பட்டமங்கலத்தார் எப்போது வந்தீர்கள்?” என்று வினவினான்.
+வாளுக்குவேலி தலையை மட்டும் மெல்ல அசைத்துவிட்டு ஒரு நாற்காலியில் அமர்ந்து கால்மீது கால் போட்டுக் கொண்டு, வல்லத்தரையனைப் பார்த்து “பட்டமங்கலத்தார் எப்போது வந்தீர்கள்?” என்று வினவினான்.
 
 “சற்று முன்புதான்!” என்று பதில் அளித்தான் வல்லத்தரையன்.
 
@@ -34,4 +34,14 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 - illustration generates no invented prose;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 90; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 12; அச்சுப் பக்கம்: SOURCE-NOT-VISIBLE; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part004 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical-boundary comparison completed against rendered Part004 source pixels;
+- source-text corrections: **1**;
+- correction: `அசைத்து விட்டு ஒரு நாற்காலியில்` → `அசைத்துவிட்டு ஒரு நாற்காலியில்` — source word joining;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 90; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 12; அச்சுப் பக்கம்: SOURCE-NOT-VISIBLE; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
