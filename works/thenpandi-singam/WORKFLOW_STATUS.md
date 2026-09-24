@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part004 whole-Part English glossary reconciliation across E13–E16.**
+**Part004 English editorial review across all 4 maintained English files / scans79–105.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -682,4 +682,27 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Part005 leakage — **0**
 - exact next activity — **Part004 whole-Part English glossary reconciliation across E13–E16**
 - durable source-check — `translations/en/E16_SOURCE_CHECK.md`
+
+## Part004 whole-Part English glossary reconciliation downstream state
+
+**PART004 WHOLE-PART ENGLISH GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- scope — **E13–E16 / 4 maintained English files / scans79–105**
+- maintained/source-checked English — **4/4 / 4/4**
+- source coverage — **27/27 scans**
+- block-count mismatches — **0**
+- provenance-comment mismatches — **0**
+- deliberate source-visible variants preserved — **PASS**
+- accidental English source-form inconsistencies corrected — **3 occurrences**
+- affected English files — **E14 / E15**
+- remaining `வாளுக்கு வேலி / வாளுக்குவேலி` English variant mismatches — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- scans97–98 — **non-literary provenance only**
+- 104→105 — **physical continuation preserved**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- durable reconciliation — `translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
+- exact next activity — **Part004 English editorial review across all 4 maintained English files / scans79–105**
 
