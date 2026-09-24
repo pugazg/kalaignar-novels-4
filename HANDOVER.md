@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 E13 draft + source-check**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 E14 draft + source-check**
 
 ## Work
 
@@ -113,7 +113,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
 - Part003 — **FINAL CLOSED / FROZEN**
-- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning PASS / E13 NEXT**
+- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning PASS / E13 SOURCE-CHECKED / E14 NEXT**
 - Parts005–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -734,4 +734,18 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - exact next gate — **E13 draft + source-check — section18 / scan79**
 - durable controls — `PART_004_TRANSLATION_PLAN.md`, `PART_004_GLOSSARY.md`, `PART_004_PROGRESS.md`
+
+## Part004 E13 English downstream state
+
+- E13 — **SOURCE-CHECKED / COMPLETE — section18 / scan79**
+- maintained Part004 English files — **1/4 translated / 1/4 source-checked**
+- Tamil / English literary blocks — **7/7**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- frozen Part003 E12 body changes — **0**
+- canonical / assembled Tamil edits caused by E13 — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- unresolved E13 holds — **0**
+- Part005 leakage — **0**
+- exact next activity — **E14 draft + source-check — section19 / scans80–89**
+- durable source-check — `translations/en/E13_SOURCE_CHECK.md`
 
