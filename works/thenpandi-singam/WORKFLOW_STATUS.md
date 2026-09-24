@@ -18,9 +18,9 @@
 ## Source state
 
 - expected split files: **18**
-- registered: **4 / 18**
-- registered source physical scans: **105**
-- complete-source physical extent: **105 registered through Part004; pending Parts005–018**
+- registered: **5 / 18**
+- registered source physical scans: **132**
+- complete-source physical extent: **132 registered through Part005; pending Parts006–018**
 - source family: **TVA_BOK_0065559**
 - Part001 source intake: **COMPLETE / PASS**
 - Part001 canonical page records: **26/26 — scans1–26**
@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part005 source intake when supplied.**
+**Part005 Pass1 scans106–115 / local pages1–10.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -787,4 +787,21 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Part005 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
 - exact next activity — **Part005 source intake when supplied**
 - durable closure — `PART_004_FINAL_CLOSURE.md`
+
+## Part005 source intake current state
+
+- Part005 source intake — **COMPLETE / PASS**
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf`
+- bytes / SHA-256 — **48,768,215** / `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b`
+- local pages / scans — **27 / 106–132**
+- registered Parts / scans — **5/18 / 132**
+- final-closed Parts — **4**
+- active transcription Part — **Part005**
+- canonical Part005 records — **0/27**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- frozen Part004 body edits caused by boundary completion — **0 / 0 / 0 canonical / assembled / English**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Parts006–018 — **not registered**
+- exact next activity — **Part005 Pass1 scans106–115 / local pages1–10**
+- durable intake — `works/thenpandi-singam/SOURCE_INTAKE_PART_005.md`
 
