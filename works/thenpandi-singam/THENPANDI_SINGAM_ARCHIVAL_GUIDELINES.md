@@ -566,3 +566,28 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - exact next activity — **Part005 source intake when supplied**
 - durable closure — `PART_004_FINAL_CLOSURE.md`
 
+## Part005 source intake downstream state
+
+**PART005 SOURCE INTAKE — COMPLETE / PASS**
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf`
+- bytes — **48,768,215**
+- SHA-256 — `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b`
+- local pages — **27**
+- global scans — **106–132**
+- registered Parts / scans — **5/18 / 132**
+- canonical Part005 records — **0/27**
+- active transcription Part — **Part005**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- frozen Part004 canonical / assembled / maintained-English body changes — **0 / 0 / 0**
+- chapter12 continuation/close — **scans106–110**
+- chapter13 opener — **scan111**
+- chapter14 opener — **scan120**
+- scans121–122 — **illustration / illustration-verso blank / no literary body**
+- chapter15 opener — **scan130**
+- last supplied scan — **132 / printed116 / chapter15 open**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- exact next activity — **Part005 Pass1 scans106–115 / local pages1–10**
+- durable intake — `SOURCE_INTAKE_PART_005.md`
+
