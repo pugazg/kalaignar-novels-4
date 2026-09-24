@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 Pass2A scans79–88**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 Pass3 scans79–88**
 
 ## Work
 
@@ -113,7 +113,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
 - Part003 — **FINAL CLOSED / FROZEN**
-- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A NEXT**
+- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 NEXT**
 - Parts005–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -549,3 +549,23 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part005 leakage — **0**
 - exact next activity — **Part004 Pass2B FINAL scans99–105 / local pages21–27**
 - durable progress — `works/thenpandi-singam/PART_004_PASS2B_PROGRESS.md`
+
+## Part004 Pass2B final closure state
+
+- Part004 Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
+- cumulative lexical / spacing / punctuation corrections — **19**
+- cumulative historical-glyph corrections — **0**
+- affected scans — **81, 82, 84, 85, 87, 88, 91, 95, 99, 100, 101**
+- Pass2A readings superseded by fresh Pass2B evidence — **5 occurrences / scans82, 88, 99, 101**
+- unresolved Pass2B questions — **0**
+- status / visual promotions — **0 / 0**
+- all Part004 pages remain — **needs-review / visual needs-review**
+- scan101 chapter11 close — **PRESERVED / PASS**
+- scan102 illustrated chapter12 opener — **PRESERVED / PASS**
+- 104→105 continuation `போன்றவர்களிடத் / திலும்` — **PRESERVED / PASS**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- exact next activity — **Part004 Pass3 — scans79–88 / local pages1–10**
+- durable progress — `works/thenpandi-singam/PART_004_PASS2B_PROGRESS.md`
+
