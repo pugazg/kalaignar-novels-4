@@ -1,6 +1,6 @@
 # Part 004 — English Translation Plan — தென்பாண்டிச் சிங்கம்
 
-Status: **E13–E16 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
+Status: **E13–E16 SOURCE-CHECKED / GLOSSARY RECONCILED — EDITORIAL REVIEW NEXT**
 
 This is the control plan for the project-created English translation of **Part004 only**.
 
@@ -270,4 +270,27 @@ Part005 canonical transcription remains blocked until Part004 final closure.
 - Part005 leakage — **0**
 - exact next gate — **Part004 whole-Part English glossary reconciliation across E13–E16**
 - durable source-check — `E16_SOURCE_CHECK.md`
+
+## Part004 whole-Part glossary reconciliation
+
+**PART004 WHOLE-PART ENGLISH GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- scope — **E13–E16 / 4 maintained English files / scans79–105**
+- maintained English — **4/4 source-checked**
+- block-count mismatches after reconciliation — **0**
+- provenance-comment mismatches — **0**
+- deliberate source-visible variants preserved — **PASS**
+- accidental English source-variant inconsistencies corrected — **3 occurrences**
+- affected English files — **E14 / E15**
+- E13 body changes — **0**
+- E14 body changes — **2 occurrences**
+- E15 body changes — **1 occurrence**
+- E16 body changes — **0**
+- remaining `வாளுக்கு வேலி` / `வாளுக்குவேலி` English variant mismatches — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- Part005 leakage — **0**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- durable reconciliation — `PART_004_GLOSSARY_RECONCILIATION.md`
+- exact next gate — **Part004 English editorial review across all 4 maintained English files / scans79–105**
 
