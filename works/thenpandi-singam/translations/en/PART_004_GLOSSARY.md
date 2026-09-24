@@ -1,6 +1,6 @@
 # Part 004 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+Status: **WHOLE-PART RECONCILED / EDITORIAL REVIEW PASS — BILINGUAL REVIEW NEXT**
 
 This glossary is derived only from verified Part004 Tamil, the closed Part004 assembled Tamil reading layer, and already source-checked project forms from frozen Parts001–003.
 
@@ -278,4 +278,29 @@ Post-repair automated mismatch count for the spaced/closed Vaalukku source forms
 Durable record: `PART_004_GLOSSARY_RECONCILIATION.md`.
 
 Exact next gate: **Part004 English editorial review across all 4 maintained English files / scans79–105**.
+
+## Part004 English editorial review closure
+
+**PART004 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- scope — **E13–E16 / 4 maintained English files / scans79–105**
+- English-only editorial repairs — **35**
+- E13 / E14 / E15 / E16 repairs — **3 / 13 / 16 / 3**
+- literary/display blocks — **144 Tamil / 144 English**
+- provenance comments — **25 Tamil / 25 English**
+- block-count mismatches — **0**
+- provenance-comment mismatches — **0**
+- source-visible glossary variant mismatches — **0**
+- E14 scan87 jati lines — **3/3 unchanged**
+- scans97–98 — **non-literary provenance only / 0 English prose**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- 104→105 — **physical continuation preserved**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- final E16 quotation — **intentionally open / preserved**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- Part005 leakage — **0**
+- unresolved editorial holds — **0**
+- durable review — `PART_004_EDITORIAL_REVIEW.md`
+- exact next gate — **Part004 whole-Part bilingual review across scans79–105**
 
