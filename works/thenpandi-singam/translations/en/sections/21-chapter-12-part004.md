@@ -39,7 +39,7 @@ The man called Agniyu—one of the English officers moving about with troops, sw
 
 <!-- source boundary: scan 104 → scan 105 -->
 
-—I hear that Vaalukku Veli and Karutha Adappan do indeed have secret connections with them as well. Pattamangalam alone has so far kept out of everything. But whether he and his younger brother Vairamuthan like our rule or not, it is clear that they do not want the Thenpandi region to become enslaved and develop the habit of betraying others. That too, in a way, is a policy of opposition to us! On behalf of the Kallar nadus, Perumal Sami Pillai and Kalyana Thevar have aligned with Maruthu and Gopal Nayakkar against us—and they have even secretly met Gopal Nayakkar at Dindukkal.”
+—I hear that Vaalukku Veli and Karutha Adappan do indeed have secret connections with them as well. The Pattamangalam man alone has so far kept out of everything. But whether he and his younger brother Vairamuthan like our rule or not, it is clear that they do not want the Thenpandi region to become enslaved and develop the habit of betraying others. That too, in a way, is a policy of opposition to us! On behalf of the Kallar nadus, Perumal Sami Pillai and Kalyana Thevar have aligned with Maruthu and Gopal Nayakkar against us—and they have even secretly met Gopal Nayakkar at Dindukkal.”
 
 Looking at Colonel Durai in amazement, his eyes bright, Vellai Ayyar showered him with words of praise.
 
