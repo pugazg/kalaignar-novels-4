@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part004 Tamil archival-ready checkpoint.**
+**Part004 assembled Tamil construction + audit.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -565,4 +565,20 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - exact next activity — **Part004 Tamil archival-ready checkpoint**
 - durable documentation sync — `PART_004_DOCUMENTATION_SYNC.md`
+
+## Part004 Tamil archival-ready state
+
+- Part004 Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- unresolved Tamil/glyph/visual/structural/documentation blockers — **0**
+- canonical Tamil/body changes caused by checkpoint — **0**
+- frozen Part001–Part003 body changes — **0**
+- Part005 leakage — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 assembled Tamil construction + audit**
+- durable archival-ready checkpoint — `PART_004_TAMIL_ARCHIVAL_READY.md`
 
