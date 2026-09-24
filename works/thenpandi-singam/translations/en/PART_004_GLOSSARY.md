@@ -1,6 +1,6 @@
 # Part 004 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **E13 SOURCE-CHECKED / COMPLETE — E14 NEXT**
+Status: **E13–E14 SOURCE-CHECKED / COMPLETE — E15 NEXT**
 
 This glossary is derived only from verified Part004 Tamil, the closed Part004 assembled Tamil reading layer, and already source-checked project forms from frozen Parts001–003.
 
@@ -156,4 +156,29 @@ E13 confirmed the existing locks and established these Part004-local renderings 
 - Part005 leakage — **0**
 
 Exact next gate: **E14 draft + source-check — section19 / scans80–89**.
+
+## E14 source-check term state
+
+E14 confirmed prior project locks and established these source-facing Part004 renderings:
+
+- `பாளையக்காரர்கள்` → **palayakkarars**
+- `சதுரக் கற்கள்` → **square kals** — source measure retained without external conversion
+- `பிராந்தி` → **brandy**
+- `“ரம்”மும் ... ஒரு ரம்பையும்` → **“rum” ... a Rambha** — source wordplay preserved without explanatory interpolation
+- `ஒலை` → **ola**
+- `ஜதி` → **jati**
+- `பரத நாட்டியம்` → **Bharatanatyam**
+- institutional `நாடு` → **nadu** in the all-nadus gathering context
+- `பீரங்கி வண்டிகள்` → **cannon carriages**
+- `“பாரா” கொடுத்துக் கொண்டிருந்தார்கள்` → **stood sentry**
+- rhythmic lines retained as **Takka taa kidat takka... / Takkajimi...Takkajimi.. / Taam...takidatakka**
+
+Source-visible name variation remains preserved in English handling, including **Vaalukku Veli / Vaalukkuveli / Vaalukkuveli Thevar** by occurrence.
+
+- unresolved E14 glossary/source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen earlier-Part / E13 English edits — **0**
+- Part005 leakage — **0**
+
+Exact next gate: **E15 draft + source-check — section20 / scans90–101**.
 
