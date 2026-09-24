@@ -200,3 +200,16 @@ The later Part004 whole-Part glossary reconciliation found one English-only sour
 - E15 remains **SOURCE-CHECKED / COMPLETE**
 - durable reconciliation — `PART_004_GLOSSARY_RECONCILIATION.md`
 
+## Post-E15 Part004 English editorial review note
+
+The later Part004 whole-Part English editorial review made **16 English-only readability/grammar repairs** in this maintained E15 file.
+
+- literary/display block count changed — **0**
+- provenance comments changed — **0**
+- source order changed — **0**
+- glossary-locked source variants broken — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part005 leakage — **0**
+- E15 remains **SOURCE-CHECKED / COMPLETE**
+- durable editorial review — `PART_004_EDITORIAL_REVIEW.md`
+
