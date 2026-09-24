@@ -1,6 +1,6 @@
 # Part 004 — English Translation Plan — தென்பாண்டிச் சிங்கம்
 
-Status: **E13–E15 SOURCE-CHECKED / COMPLETE — E16 NEXT**
+Status: **E13–E16 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This is the control plan for the project-created English translation of **Part004 only**.
 
@@ -254,4 +254,20 @@ Part005 canonical transcription remains blocked until Part004 final closure.
 - Part005 leakage — **0**
 - exact next gate — **E16 draft + source-check — section21 / scans102–105**
 - durable source-check — `E15_SOURCE_CHECK.md`
+
+## E16 source-check closure
+
+- E16 — **SOURCE-CHECKED / COMPLETE — section21 / scans102–105**
+- maintained Part004 English files — **4/4 translated / 4/4 source-checked**
+- Tamil / English literary blocks — **16/16**
+- provenance comments — **4/4 retained**
+- 104→105 physical continuation — **PASS / preserved**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- cumulative Part004 English source coverage — **scans79–105 / 27 of 27 scans**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen E13–E15 and Part001–Part003 English edits — **0**
+- unresolved E16 holds — **0**
+- Part005 leakage — **0**
+- exact next gate — **Part004 whole-Part English glossary reconciliation across E13–E16**
+- durable source-check — `E16_SOURCE_CHECK.md`
 
