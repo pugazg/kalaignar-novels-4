@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part004 E16 draft + source-check — section21 / scans102–105.**
+**Part004 whole-Part English glossary reconciliation across E13–E16.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -666,4 +666,20 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Part005 leakage — **0**
 - exact next activity — **E16 draft + source-check — section21 / scans102–105**
 - durable source-check — `translations/en/E15_SOURCE_CHECK.md`
+
+## Part004 E16 English downstream state
+
+- E16 — **SOURCE-CHECKED / COMPLETE — section21 / scans102–105**
+- maintained Part004 English files — **4/4 translated / 4/4 source-checked**
+- Tamil / English literary blocks — **16/16**
+- provenance comments — **4/4 retained**
+- 104→105 physical continuation — **PASS / preserved**
+- cumulative Part004 English source coverage — **scans79–105 / 27 of 27 scans**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- canonical / assembled Tamil edits caused by E16 — **0 / 0**
+- frozen E13–E15 and Part001–Part003 English edits — **0**
+- unresolved E16 holds — **0**
+- Part005 leakage — **0**
+- exact next activity — **Part004 whole-Part English glossary reconciliation across E13–E16**
+- durable source-check — `translations/en/E16_SOURCE_CHECK.md`
 
