@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — ACTIVE — 10/27 REVIEWED**
+**PASS 2B — ACTIVE — 20/27 REVIEWED**
 
 Source:
 
@@ -18,80 +18,77 @@ Source:
 
 Fresh source audit completed for:
 
-- global scans — **79–88**
-- local pages — **1–10**
-- reviewed records — **10/27**
-- reviewed pages passing — **10/10**
+- global scans — **79–98**
+- local pages — **1–20**
+- reviewed records — **20/27**
+- reviewed pages passing — **20/20**
 - unresolved Pass2B questions — **0**
 - status promotions — **0**
 
-Pass2B independently checked:
+Pass2B independently checks lexical fidelity, source-visible joining/spacing, punctuation and quotation marks, source-era forms, historical glyphs, cross-page continuity, and structural non-text pages.
 
-- lexical fidelity;
-- source-visible joining / spacing;
-- punctuation and quotation marks;
-- source-era forms;
-- historical glyphs / glyph-like source forms;
-- cross-page continuity;
-- chapter / display structure.
+## Batch 1 — scans79–88
 
-## Correction ledger — Batch 1 scans79–88
+Lexical / spacing / punctuation corrections — **9**.
+
+Affected scans — **81, 82, 84, 85, 87, 88**.  
+Historical-glyph corrections — **0**.
+
+Fresh Pass2B evidence superseded two Pass2A readings:
+
+1. scan82 — `வாளுக்கு வேலி` restored to source `வாளுக்குவேலி`;
+2. scan88 — `அஃதன்றி` restored to source `அஃதன்னியில்`.
+
+## Batch 2 — scans89–98
+
+Correction ledger:
 
 | Scan | Printed | Before | Source-confirmed after | Classification |
 |---:|:---:|---|---|---|
-| 81 | 69 | `காலை காப்பிக்குப் பதில்` | `காலைக் காப்பிக்குப் பதில்` | source sandhi / word form |
-| 82 | 70 | `நன்மைக்காகத்தான் பேசுகிறார்` | `நன்மைக்காகத் தான் பேசுகிறார்` | source-visible spacing |
-| 82 | 70 | `வாளுக்கு வேலி புரிந்து கொண்டாலும்` | `வாளுக்குவேலி புரிந்து கொண்டாலும்` | source-visible joined name; supersedes Pass2A spacing change |
-| 84 | 72 | `வாளுக்கு வேலித் தேவரும்` | `வாளுக்குவேலித் தேவரும்` | source-visible joined name |
-| 84 | 72 | `நிலைமைக்கேற்ப முடிவெடுப்பது` | `நிலைமைக் கேற்ப முடிவெடுப்பது` | source-visible spacing |
-| 85 | 73 | `அமர்த்தி விட்டுவருகிறேன்` | `அமர்த்தி விட்டு வருகிறேன்` | source-visible word spacing |
-| 87 | 75 | `நாதமுனியின் ஜதி தொடர்ந்தது!` | `நாதமுனியின் ‘ஜதி’ தொடர்ந்தது!` | source quotation marks |
-| 88 | 76 | `வாளுக்கு வேலி செல்லும்` | `வாளுக்குவேலி செல்லும்` | source-visible joined name |
-| 88 | 76 | `அஃதன்றி புதர் மண்டிய` | `அஃதன்னியில் புதர் மண்டிய` | source lexical form; supersedes Pass2A reading |
+| 91 | 79 | `‘கயத்தாறு’` | `“கயத்தாறு”` | source quotation marks |
+| 91 | 79 | `கருத்த ஆதப்பனின்` | `கறுத்த ஆதப்பனின்` | source lexical form |
+| 95 | 83 | `உங்களிருவரையும் நம்பித்தான் இந்தத் திட்டமே` | `உங்களிருவரையும் நம்பித்தான். இந்தத் திட்டமே` | source punctuation |
 
-Batch lexical / spacing / punctuation corrections — **9**.
+Batch 2 lexical / spacing / punctuation corrections — **3**.
 
-Affected scans — **81, 82, 84, 85, 87, 88**.
+Affected scans — **91, 95**.
 
-Zero-correction reviewed scans — **79, 80, 83, 86**.
+Zero-correction reviewed scans — **89, 90, 92, 93, 94, 96, 97, 98**.
 
 Historical-glyph corrections — **0**.
 
-## Pass2A supersession notes
+## Structural review — scans97–98
 
-Fresh Pass2B pixel review found two Pass2A conclusions that did not match the rendered source and therefore restored the source forms:
-
-1. scan82 — Pass2A had changed `வாளுக்குவேலி` to `வாளுக்கு வேலி`; Pass2B restores **`வாளுக்குவேலி`**.
-2. scan88 — Pass2A had changed `அஃதன்னியில்` to `அஃதன்றி`; Pass2B restores **`அஃதன்னியில்`**.
-
-These are source-evidence corrections, not stylistic reversions.
+- scan97 — **full-page illustration / no literary body text / PASS**
+- scan98 — **illustration verso / blank / faint show-through only / no literary body text / PASS**
+- invented prose — **0**
+- scan96 open speech remains source-limited across the inserted non-text leaf; no bridge wording is invented through scans97–98.
 
 ## Boundary checks
 
-- 78→79 — **PRESERVED / PASS**
-- 80→81 — `நான் / கவலைப்படவில்லையண்ணா!` — **PRESERVED / PASS**
-- scan88 terminal `அப்போது அவன்` — **PRESERVED / PASS**
-- scan89 wording imported into scan88 — **0**
-
-## Status discipline
-
-- reviewed scans79–88 remain `status: "needs-review"`
-- reviewed scans79–88 remain `visual_fidelity: "needs-review"`
-- status promotions — **0**
-- frozen Part001–Part003 body edits — **0**
-- Part005 leakage — **0**
+- 88→89 `அப்போது அவன் / கண்ணிலும் ஆதப்பன் கண்ணிலும்` — **PRESERVED / PASS**
+- 92→93 `அந்தப் / படங்களை` — **PRESERVED / PASS**
+- 93→94 `அம்பலக் / காரர்களாகிய` — **PRESERVED / PASS**
+- 94→95 `தன்னிருக்கையை / விட்டுத்` — **PRESERVED / PASS**
+- 95→96 `அந்தப் பகுதியில் / பலம் பொருந்திய` — **PRESERVED / PASS**
+- scan96 → scans97–98 — non-text inserted leaf; no bridge wording invented.
+- direct literary continuation at scan99 remains for the final Pass2B batch.
 
 ## Current accounting
 
 - Part004 canonical records — **27/27**
-- Pass2B — **ACTIVE — 10/27 REVIEWED**
-- cumulative Pass2B lexical / spacing / punctuation corrections — **9**
+- Pass2B — **ACTIVE — 20/27 REVIEWED**
+- cumulative Pass2B lexical / spacing / punctuation corrections — **12**
 - cumulative historical-glyph corrections — **0**
+- affected scans — **81, 82, 84, 85, 87, 88, 91, 95**
 - unresolved Pass2B questions — **0**
-- verified Part004 pages — **0**
+- reviewed pages remain `needs-review` / visual `needs-review`
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
 
 ## Exact next activity
 
-**Part004 Pass2B — scans89–98 / local pages11–20.**
+**Part004 Pass2B FINAL — scans99–105 / local pages21–27.**
 
-Maintain the 10-page cadence. Scans97–98 are non-text structural records and must still receive a fresh Pass2B review without invented prose.
+After that batch, close Pass2B as **COMPLETE / PASS — 27/27 REVIEWED** and set the exact next gate to **Part004 Pass3 — scans79–88 / local pages1–10**.

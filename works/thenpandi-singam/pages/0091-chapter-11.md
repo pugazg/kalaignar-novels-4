@@ -23,9 +23,9 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 
 திருக்கோட்டியூரில் கர்னல் துரையின் ஆட்களை ஆதப்பன் அடித்து விரட்டியது குறித்து தனது ஆத்திரத்தைக் கொட்டத்தான் அழைத்திருப்பான் என்று நினைத்ததற்கு மாறாக நிலைமை இருப்பதை உணர்ந்து, தம்பியைப் பார்த்தான் வாளுக்குவேலி! தம்பி ஆதப்பனின் கண்களோ அண்ணனைப் பார்க்காமல் அந்தக் கூடாரத்தில் ஒரு பகுதியில் மாட்டப்பட்டிருந்த ஒரு வண்ண ஓவியத்தையே இமை கொட்டாமல் பார்த்துக் கொண்டிருந்தன.
 
-ஒரு புளிய மரம்! அந்த மரத்தின் கீழே முக்காலி! முக்காலிக்குக் கீழேயுள்ள வெள்ளைப் பகுதியில் ‘கயத்தாறு’ என்ற எழுத்துக்கள்! முக்காலியின் மீது கட்டபொம்மன்! அவன் கழுத்திலே தூக்குக் கயிறு! அதற்கடுத்து இன்னொரு வண்ண ஓவியம்! சிம்மாசனத்திலே சிரித்த முகத்துடன் எட்டப்பன்! அவன் தலையில் ஒரு ஆங்கிலேய அதிகாரி மகுடம் சூட்டுவது போன்ற காட்சி!
+ஒரு புளிய மரம்! அந்த மரத்தின் கீழே முக்காலி! முக்காலிக்குக் கீழேயுள்ள வெள்ளைப் பகுதியில் “கயத்தாறு” என்ற எழுத்துக்கள்! முக்காலியின் மீது கட்டபொம்மன்! அவன் கழுத்திலே தூக்குக் கயிறு! அதற்கடுத்து இன்னொரு வண்ண ஓவியம்! சிம்மாசனத்திலே சிரித்த முகத்துடன் எட்டப்பன்! அவன் தலையில் ஒரு ஆங்கிலேய அதிகாரி மகுடம் சூட்டுவது போன்ற காட்சி!
 
-அந்த ஓவியங்கள் புரியும் உபதேசம்தான் என்ன? ஆங்கிலேயர்க்கு அடங்கிப் போனால் ஆட்சி நிலைக்கும்! அடங்காவிட்டால் ஆவி பிரியும்! கருத்த ஆதப்பனின் உள்ளம் கனலாகத் தகித்தது.
+அந்த ஓவியங்கள் புரியும் உபதேசம்தான் என்ன? ஆங்கிலேயர்க்கு அடங்கிப் போனால் ஆட்சி நிலைக்கும்! அடங்காவிட்டால் ஆவி பிரியும்! கறுத்த ஆதப்பனின் உள்ளம் கனலாகத் தகித்தது.
 
 ## Pass 1 notes
 
@@ -43,4 +43,16 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 91; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 79; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part004 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part004 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **2**;
+- correction: `‘கயத்தாறு’` → `“கயத்தாறு”` — source quotation marks;
+- correction: `கருத்த ஆதப்பனின் உள்ளம் கனலாகத் தகித்தது.` → `கறுத்த ஆதப்பனின் உள்ளம் கனலாகத் தகித்தது.` — source lexical form;
+- historical-glyph corrections: **0**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 91; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 79; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
