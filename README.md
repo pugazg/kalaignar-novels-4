@@ -178,7 +178,7 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part005 source intake when supplied.**
+**Part005 Pass1 scans106–115 / local pages1–10.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records are `verified` and visual `verified`. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
@@ -771,4 +771,29 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - Part005 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
 - exact next activity — **Part005 source intake when supplied**
 - durable closure — `PART_004_FINAL_CLOSURE.md`
+
+## Part005 source intake downstream state
+
+**PART005 SOURCE INTAKE — COMPLETE / PASS**
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf`
+- bytes — **48,768,215**
+- SHA-256 — `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b`
+- local pages — **27**
+- global scans — **106–132**
+- registered Parts / scans — **5/18 / 132**
+- canonical Part005 records — **0/27**
+- active transcription Part — **Part005**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- frozen Part004 canonical / assembled / maintained-English body changes — **0 / 0 / 0**
+- chapter12 continuation/close — **scans106–110**
+- chapter13 opener — **scan111**
+- chapter14 opener — **scan120**
+- scans121–122 — **illustration / illustration-verso blank / no literary body**
+- chapter15 opener — **scan130**
+- last supplied scan — **132 / printed116 / chapter15 open**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- exact next activity — **Part005 Pass1 scans106–115 / local pages1–10**
+- durable intake — `SOURCE_INTAKE_PART_005.md`
 
