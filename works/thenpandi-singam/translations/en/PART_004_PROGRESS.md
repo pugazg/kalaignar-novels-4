@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS — E13 NEXT**
+**E13 SOURCE-CHECKED / COMPLETE — E14 NEXT**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -30,7 +30,7 @@ Reserved Part004 batches: **E13–E16**.
 
 | Batch | Tamil assembled coverage | Scans | Planned English file | State |
 |---|---|---:|---|---|
-| **E13** | section18 — chapter9 Part004 continuation/close | 79 | `sections/18-chapter-09-part004.md` | **PLANNED / NOT STARTED** |
+| **E13** | section18 — chapter9 Part004 continuation/close | 79 | `sections/18-chapter-09-part004.md` | **SOURCE-CHECKED / COMPLETE** |
 | **E14** | section19 — chapter10 | 80–89 | `sections/19-chapter-10.md` | **PLANNED / NOT STARTED** |
 | **E15** | section20 — chapter11 | 90–101 | `sections/20-chapter-11.md` | **PLANNED / NOT STARTED** |
 | **E16** | section21 — chapter12 Part004 portion | 102–105 | `sections/21-chapter-12-part004.md` | **PLANNED / NOT STARTED** |
@@ -98,3 +98,21 @@ Outgoing:
 ## Exact next gate
 
 **E13 draft + source-check — section18 / scan79.**
+
+## E13 closure
+
+- E13 — **SOURCE-CHECKED / COMPLETE**
+- English file — `sections/18-chapter-09-part004.md`
+- source — Tamil section18 / scan79
+- translated/source-checked — **1/4 / 1/4**
+- Tamil / English literary blocks — **7 / 7**
+- omitted / duplicated blocks — **0 / 0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- frozen E12 body changes — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- unresolved source-check holds — **0**
+- Part005 leakage — **0**
+- exact next gate — **E14 draft + source-check — section19 / scans80–89**
+- durable source-check — `E13_SOURCE_CHECK.md`
+
