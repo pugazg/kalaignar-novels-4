@@ -29,7 +29,7 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 
 அவள் கன்னங்களை இரு கைகளால் பிடித்துக் கொண்டு உச்சியில் ஒரு முத்தம் கொடுத்தான். வாயிற்புறம் வரையில் வந்து வழியனுப்பி வைத்தாள்.
 
-“கல்யாணி! கர்னல் துரையைச் சந்திக்கத் திருக்கோட்டியூர் வழியாகத்தான் போகிறேன்! திரும்பி வரும்போது அந்தச் சுந்தராம்பாளைச் சந்தித்து உன் நடனப் பயிற்சிக்கு அவளை ஆசிரியையாக அமர்த்தி விட்டுவருகிறேன்.”
+“கல்யாணி! கர்னல் துரையைச் சந்திக்கத் திருக்கோட்டியூர் வழியாகத்தான் போகிறேன்! திரும்பி வரும்போது அந்தச் சுந்தராம்பாளைச் சந்தித்து உன் நடனப் பயிற்சிக்கு அவளை ஆசிரியையாக அமர்த்தி விட்டு வருகிறேன்.”
 
 ## Pass 1 notes
 
@@ -47,4 +47,15 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 85; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 73; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part004 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part004 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **1**;
+- correction: `அவளை ஆசிரியையாக அமர்த்தி விட்டுவருகிறேன்.` → `அவளை ஆசிரியையாக அமர்த்தி விட்டு வருகிறேன்.` — source-visible word spacing;
+- historical-glyph corrections: **0**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 85; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 73; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
