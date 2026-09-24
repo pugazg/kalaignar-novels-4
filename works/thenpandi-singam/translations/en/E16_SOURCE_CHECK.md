@@ -157,3 +157,17 @@ All planned Part004 English batches **E13–E16 are now source-checked / complet
 Perform **Part004 whole-Part English glossary reconciliation across E13–E16**.
 
 Do not begin Part005. Preserve 105→106 as **PENDING direct audit / source-limited**.
+
+## Post-E16 Part004 English editorial review note
+
+The later Part004 whole-Part English editorial review made **3 English-only readability/grammar repairs** in this maintained E16 file.
+
+- literary/display block count changed — **0**
+- provenance comments changed — **0**
+- source order changed — **0**
+- glossary-locked source variants broken — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part005 leakage — **0**
+- E16 remains **SOURCE-CHECKED / COMPLETE**
+- durable editorial review — `PART_004_EDITORIAL_REVIEW.md`
+
