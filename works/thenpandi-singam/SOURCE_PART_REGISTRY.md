@@ -366,7 +366,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - total canonical page records — **105**
 - needs-review / visual needs-review — **27/27 / 27/27**
 - unresolved Pass1 holds — **0**
-- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
+- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
 
 
 ## Part004 Pass1 Batch 2 state
@@ -378,7 +378,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - needs-review / visual needs-review — **27/27 / 27/27**
 - unresolved Pass1 holds — **0**
 - scans97–98 — **illustration / blank structural records; no literary body text**
-- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
+- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
 
 
 ## Part004 Pass1 final closure state
@@ -391,4 +391,17 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - verified promotions — **0**
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
+- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
+
+
+## Part004 Pass2A Batch 1 state
+
+- Part004 Pass2A — **ACTIVE — 10/27 REVIEWED**
+- reviewed scans — **79–88**
+- corrections — **3**
+- affected scans — **79, 82, 88**
+- unresolved Pass2A questions — **0**
+- status / visual promotions — **0 / 0**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**

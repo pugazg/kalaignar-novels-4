@@ -177,7 +177,7 @@ Part004 is now the active transcription Part.
 - canonical repository records — **98**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
+- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
 - durable progress — `PART_004_PASS1_PROGRESS.md`
 
 
@@ -192,7 +192,7 @@ Part004 is now the active transcription Part.
 - scans97–98 — **non-text illustration leaf / verso represented structurally**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
+- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
 - durable progress — `PART_004_PASS1_PROGRESS.md`
 
 
@@ -211,5 +211,18 @@ Part004 is now the active transcription Part.
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A scans79–88 / local pages1–10**
+- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
 - durable progress — `PART_004_PASS1_PROGRESS.md`
+
+
+## Part004 Pass2A Batch 1 state
+
+- Part004 Pass2A — **ACTIVE — 10/27 REVIEWED**
+- reviewed scans — **79–88**
+- corrections — **3**
+- affected scans — **79, 82, 88**
+- unresolved Pass2A questions — **0**
+- status / visual promotions — **0 / 0**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
