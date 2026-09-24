@@ -51,4 +51,15 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 94; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 82; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
+
+## Formal Part004 Pass 3 review
+
+- full rendered-page visual / structural comparison completed against the Part004 source image;
+- displayed-text hierarchy, paragraph/dialogue block structure, reading order, printed pagination where visible, and recurring page furniture: **PASS**;
+- structural result: standard chapter 11 body page; printed folio **82** and author header are correct; opening `காரர்களாகிய` completes scan93's `அம்பலக் / காரர்களாகிய`; the page ends with the source-visible open fragment `தன்னிருக்கையை` for scan95.
+- Pass3 textual corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized during Pass3.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 94; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 82; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->
