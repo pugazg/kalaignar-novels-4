@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part004 Pass3 — scans79–88 / local pages1–10.**
+**Part004 Pass3 — scans89–98 / local pages11–20.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -461,4 +461,22 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Part005 leakage — **0**
 - exact next action — **Part004 Pass3 — scans79–88 / local pages1–10**
 - durable progress — `PART_004_PASS2B_PROGRESS.md`
+
+## Part004 Pass3 Batch 1 state
+
+- Pass3 — **ACTIVE — 10/27 REVIEWED**
+- reviewed scans — **79–88 / local pages1–10**
+- textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status / visual promotions — **0 / 0**
+- chapter9 close at scan79 — **PRESERVED / PASS**
+- illustrated chapter10 opener at scan80 — **PRESERVED / PASS**
+- printed folios in reviewed batch — **67, 69–76**
+- scan87 displayed rhythmic / jati lines — **PRESERVED / PASS**
+- 88→89 boundary `அப்போது அவன் / கண்ணிலும் ஆதப்பன் கண்ணிலும்` — **DIRECTLY WITNESSED / PASS**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next action — **Part004 Pass3 — scans89–98 / local pages11–20**
+- durable progress — `PART_004_PASS3_PROGRESS.md`
 
