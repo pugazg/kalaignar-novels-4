@@ -374,3 +374,34 @@ Durable validation: `../PART_003_ASSEMBLED_TAMIL_VALIDATION.md`.
 - final-closed Parts — **3**
 - exact next activity — **Part004 source intake when supplied**
 - durable closure — `PART_003_FINAL_CLOSURE.md`
+
+## Part004 assembled Tamil state
+
+**PART004 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 4/4 VERIFIED.**
+
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- scans — **79–105**
+- Part004 assembled files — **4/4 VERIFIED**
+
+Inventory:
+
+1. `18-chapter-09-part004.md` — scan79
+2. `19-chapter-10.md` — scans80–89
+3. `20-chapter-11.md` — scans90–101
+4. `21-chapter-12-part004.md` — scans102–105
+
+- canonical scan coverage — **27/27**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit/review-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- frozen Part001–Part003 assembled Tamil changes — **0**
+- Part005 leakage — **0**
+- unresolved assembly blockers — **0**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next gate — **Part004 English translation planning/setup — reserve E13–E16**
+
+Durable validation: `../PART_004_ASSEMBLED_TAMIL_VALIDATION.md`.
+
