@@ -51,7 +51,7 @@ Through practical experience Vaalukku Veli had understood the enemy’s strength
 
 <!-- source boundary: scan 83 → scan 84 -->
 
-“It has gone over our heads! What fear is left now? That white beast seems to be raging because younger brother Adappan beat his men and chased them away...”
+“Things have gone beyond control! What fear is left now? That white beast seems to be raging because younger brother Adappan beat his men and chased them away...”
 
 Having said this, Meganathan stood there agitated, biting a blade of grass. Vaalukku Veli straightened like a vengai. Rising to his feet, he shook Meganathan by the shoulder and thundered like an exploding shell, “And so?”
 
@@ -119,7 +119,7 @@ Taam...takidatakka
 
 Sundari’s anklet bells rang! With no other way out, Vadivambal too danced along with her elder sister!... In the street, the sound of the hooves of the horses harnessed to Vaalukkuveli’s chariot carriage! In Sundari’s house, the sound of Bharatanatyam anklet bells!...
 
-Receiving the clamorous welcome of the people of Tirukkottiyur, yet carrying a storm in his mind even amid that happiness, Vaalukkuveli and Adappan hurried toward the place where Colonel Durai was staying.
+Receiving the clamorous welcome of the people of Tirukkottiyur, yet carrying a storm in their minds even amid that happiness, Vaalukkuveli and Adappan hurried toward the place where Colonel Durai was staying.
 
 The place where Colonel Durai was staying was an open ground between long-walled enclosures overgrown with bushes! Seven or eight tents had been erected there, sturdy yet temporary. Even from some distance away, one could understand that Colonel Durai had made his camp in the large tent guarded by two cannon carriages standing open-mouthed before it.
 
