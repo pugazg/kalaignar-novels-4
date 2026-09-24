@@ -366,7 +366,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - total canonical page records — **105**
 - needs-review / visual needs-review — **27/27 / 27/27**
 - unresolved Pass1 holds — **0**
-- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
 
 
 ## Part004 Pass1 Batch 2 state
@@ -378,7 +378,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - needs-review / visual needs-review — **27/27 / 27/27**
 - unresolved Pass1 holds — **0**
 - scans97–98 — **illustration / blank structural records; no literary body text**
-- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
 
 
 ## Part004 Pass1 final closure state
@@ -391,7 +391,7 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - verified promotions — **0**
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
 
 
 ## Part004 Pass2A Batch 1 state
@@ -404,4 +404,19 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - status / visual promotions — **0 / 0**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
+
+
+## Part004 Pass2A Batch 2 state
+
+- Part004 Pass2A — **ACTIVE — 20/27 REVIEWED**
+- reviewed scans — **79–98**
+- cumulative corrections — **6**
+- Batch 2 corrections — **3**
+- affected Batch 2 scans — **90, 96**
+- scans97–98 — **non-text illustration/verso reviewed / PASS**
+- unresolved Pass2A questions — **0**
+- status / visual promotions — **0 / 0**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**

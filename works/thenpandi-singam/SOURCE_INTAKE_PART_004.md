@@ -177,7 +177,7 @@ Part004 is now the active transcription Part.
 - canonical repository records — **98**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
 - durable progress — `PART_004_PASS1_PROGRESS.md`
 
 
@@ -192,7 +192,7 @@ Part004 is now the active transcription Part.
 - scans97–98 — **non-text illustration leaf / verso represented structurally**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
 - durable progress — `PART_004_PASS1_PROGRESS.md`
 
 
@@ -211,7 +211,7 @@ Part004 is now the active transcription Part.
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
 - durable progress — `PART_004_PASS1_PROGRESS.md`
 
 
@@ -225,4 +225,19 @@ Part004 is now the active transcription Part.
 - status / visual promotions — **0 / 0**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- exact next activity — **Part004 Pass2A scans89–98 / local pages11–20**
+- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
+
+
+## Part004 Pass2A Batch 2 state
+
+- Part004 Pass2A — **ACTIVE — 20/27 REVIEWED**
+- reviewed scans — **79–98**
+- cumulative corrections — **6**
+- Batch 2 corrections — **3**
+- affected Batch 2 scans — **90, 96**
+- scans97–98 — **non-text illustration/verso reviewed / PASS**
+- unresolved Pass2A questions — **0**
+- status / visual promotions — **0 / 0**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- exact next activity — **Part004 Pass2A FINAL scans99–105 / local pages21–27**
