@@ -2,29 +2,26 @@
 
 ## Gate
 
-**PASS 3 — ACTIVE — 20/27 REVIEWED**
+**PASS 3 — COMPLETE / PASS — 27/27 REVIEWED**
 
 Prerequisites:
 
 - Part004 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Part004 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
+- Part004 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — 9 corrections / 0 unresolved**
 - Part004 Pass2B — **COMPLETE / PASS — 27/27 REVIEWED — 19 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**
 - incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 
-Current scope:
+Scope:
 
-- reviewed global scans — **79–98**
-- reviewed local Part004 pages — **1–20**
-- reviewed records — **20/27**
-- cumulative Pass3 textual corrections — **0**
-- unresolved visual / structural questions — **0**
-- status promotions — **0**
+- global scans — **79–105**
+- local Part004 pages — **1–27**
+- reviewed records — **27/27**
 - controlling source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf`
 
 ## Method
 
-For every reviewed physical scan:
+For every physical scan 79–105:
 
 - the full rendered source page was visually compared to the canonical record;
 - displayed-text hierarchy, paragraph/dialogue block structure and reading order were checked;
@@ -33,71 +30,66 @@ For every reviewed physical scan:
 - meaningful physical continuations across adjacent scans were verified;
 - canonical Tamil was changed only if direct visual / structural evidence required it.
 
-Pass3 has introduced **0 textual corrections** through scan98.
+Pass3 introduced **0 textual corrections**.
 
-All reviewed Part004 pages deliberately remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass3 does not authorize status promotion.
+All Part004 pages deliberately remain `status: "needs-review"` / `visual_fidelity: "needs-review"` until the whole-Part audit and final metadata/status synchronization.
 
-## Structural inventory — Batch 1 / scans79–88
+## Structural inventory
 
-| Scan | Printed | Structural result |
-|---:|:---:|---|
+| Scan(s) | Printed | Structural result |
+|---|:---:|---|
 | 79 | 67 | chapter 9 continuation and close; three closing ornaments; intentional blank lower field |
 | 80 | — | illustrated chapter 10 opener; displayed numeral **10**; mounted-warrior illustration; no source-visible folio |
-| 81 | 69 | standard chapter 10 body page; work-title header |
-| 82 | 70 | standard chapter 10 body page; author header |
-| 83 | 71 | standard chapter 10 body page; work-title header |
-| 84 | 72 | standard chapter 10 body page; author header |
-| 85 | 73 | standard chapter 10 body page; work-title header |
-| 86 | 74 | standard chapter 10 body page; author header |
-| 87 | 75 | standard chapter 10 body page; work-title header; displayed rhythmic / jati lines at foot |
-| 88 | 76 | standard chapter 10 body page; author header; terminal open fragment `அப்போது அவன்` |
-
-## Structural inventory — Batch 2 / scans89–98
-
-| Scan | Printed | Structural result |
-|---:|:---:|---|
-| 89 | 77 | chapter 10 continuation and close; three closing ornaments; intentional blank lower field |
+| 81–88 | 69–76 | chapter 10 body sequence |
+| 89 | 77 | chapter 10 close; three closing ornaments; intentional blank lower field |
 | 90 | — | illustrated chapter 11 opener; displayed numeral **11**; mounted-warrior illustration; no source-visible folio |
-| 91 | 79 | standard chapter 11 body page; work-title header |
-| 92 | 80 | standard chapter 11 body page; author header; terminal open fragment `அந்தப்` |
-| 93 | 81 | standard chapter 11 body page; work-title header; completes `அந்தப் / படங்களை`; terminal open fragment `அம்பலக்` |
-| 94 | 82 | standard chapter 11 body page; author header; completes `அம்பலக் / காரர்களாகிய`; terminal open fragment `தன்னிருக்கையை` |
-| 95 | 83 | standard chapter 11 body page; work-title header; completes `தன்னிருக்கையை / விட்டுத்`; terminal open `அந்தப் பகுதியில்` |
-| 96 | 84 | standard chapter 11 body page; author header; completes `அந்தப் பகுதியில் / பலம் பொருந்திய`; open speech ends at `கொஞ்சம் முன் யோசனையுடன்` |
+| 91–96 | 79–84 | chapter 11 body sequence |
 | 97 | — | inserted full-page illustration; no literary body text; no source-visible folio |
 | 98 | — | illustration verso / intentional blank with faint show-through; no literary body text; no source-visible folio |
+| 99–100 | 85–86 | chapter 11 body sequence after inserted non-text leaf |
+| 101 | 87 | chapter 11 close; three closing ornaments; substantial intentional blank lower field |
+| 102 | — | illustrated chapter 12 opener; displayed numeral **12**; mounted-warrior illustration; no source-visible folio |
+| 103–105 | 89–91 | chapter 12 continuation; scan105 ends open at Part boundary |
 
-Recurring body-page headers alternate the work title and author line with the source-visible folio. These page-furniture elements remain structural metadata and are not duplicated into canonical literary prose.
+Recurring body-page headers alternate the work title and author line with the source-visible folio. These source page-furniture elements remain structural metadata and are not duplicated into canonical literary prose.
 
 ## Cross-page states confirmed
 
 - 78→79 — **GENUINE CONTINUATION / AUDITED upstream**; Part003 remains frozen;
-- 79→80 — chapter **9→10** transition; no prose continuation invented;
+- 79→80 — chapter **9→10** transition;
 - 80→81 — open sentence / direct-speech continuation preserved;
-- 88→89 — `அப்போது அவன் / கண்ணிலும் ஆதப்பன் கண்ணிலும்` — **DIRECTLY VERIFIED / PASS**;
-- 89→90 — chapter **10→11** transition; chapter10 closes before the illustrated chapter11 opener;
+- 88→89 — `அப்போது அவன் / கண்ணிலும் ஆதப்பன் கண்ணிலும்` — **PRESERVED / PASS**;
+- 89→90 — chapter **10→11** transition;
 - 92→93 — `அந்தப் / படங்களை` — **PRESERVED / PASS**;
 - 93→94 — `அம்பலக் / காரர்களாகிய` — **PRESERVED / PASS**;
 - 94→95 — `தன்னிருக்கையை / விட்டுத்` — **PRESERVED / PASS**;
 - 95→96 — `அந்தப் பகுதியில் / பலம் பொருந்திய` — **PRESERVED / PASS**;
-- 96→97–98 — source inserts a non-text illustration leaf / verso after the open speech; no bridge wording is invented;
-- direct boundary witness at scan99 confirms the literary continuation resumes `திருக்கோட்டியூர் சுந்தரியிடம்...` after the inserted leaf; scan99 is not counted as Pass3-reviewed in Batch 2.
+- 96→97–98→99 — source inserts a non-text illustration leaf / verso after the open speech; literary prose resumes at scan99 `திருக்கோட்டியூர் சுந்தரியிடம்...`; no bridge wording is invented;
+- 101→102 — chapter **11→12** transition; chapter11 ornaments / blank lower field precede the illustrated chapter12 opener;
+- 103→104 — dialogue / exposition sequence continuation preserved;
+- 104→105 — `போன்றவர்களிடத் / திலும்` — **PRESERVED / PASS**;
+- 105→106 — **PENDING direct audit / source-limited**; scan105 ends on open dialogue `அது என்னால் முடியும்.` and no Part005 / scan106 wording is inferred.
 
-## Batch 2 accounting
+No canonical text is duplicated, silently joined across page records, or inferred beyond scan105 during Pass3.
 
-- reviewed — **10/10**
-- cumulative reviewed — **20/27**
-- Batch 2 Pass3 textual corrections — **0**
-- cumulative Pass3 textual corrections — **0**
+## Final accounting
+
+- reviewed — **27/27**
+- Pass3 textual corrections — **0**
 - unresolved visual / structural questions — **0**
-- status / visual promotions — **0 / 0**
-- scans97–98 non-text structural records — **PASS / PASS**
+- status promotions — **0**
 - frozen Part001–Part003 body edits — **0**
 - Part005 leakage — **0**
-- outgoing 105→106 — **PENDING direct audit / source-limited**
+- outgoing source-limited boundary condition — **1 (105→106 pending)**
+
+## Gate result
+
+**PASS 3 — COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
 
 ## Exact next activity
 
-**Part004 Pass3 FINAL — scans99–105 / local pages21–27.**
+Perform the **Part004 whole-Part audit — scans79–105 / local pages1–27**.
 
-After that batch, if clean, close Part004 Pass3 as **COMPLETE / PASS — 27/27 REVIEWED** and set the next gate to the **Part004 whole-Part audit — scans79–105 / 27 pages**.
+Audit continuous physical coverage, duplicate/omission counts, `part_page` continuity, source-filename consistency, printed-page mapping, Pass2A/Pass2B/Pass3 evidence, structural inventory, cross-page joins, correction ledgers, incoming 78→79 disposition, and the explicit source-limited 105→106 boundary condition.
+
+Do not promote page status during the audit itself. Final metadata/status synchronization is a separate gate.
