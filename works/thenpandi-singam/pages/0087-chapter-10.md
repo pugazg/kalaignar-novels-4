@@ -56,4 +56,15 @@ transcription_method: "direct source-image transcription; Part004 Pass1 batch sc
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 87; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: 75; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
+
+## Formal Part004 Pass 3 review
+
+- full rendered-page visual / structural comparison completed against the Part004 source image;
+- displayed-text hierarchy, paragraph/dialogue block structure, reading order, printed pagination where visible, and recurring page furniture: **PASS**;
+- structural result: standard chapter 10 body page; printed folio **75** and work-title header are correct; the three displayed rhythmic / jati lines at the foot of the page are source-visible literary text and remain separate from the preceding prose paragraph.
+- Pass3 textual corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized during Pass3.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 87; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: 75; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->
