@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part004 Pass3 FINAL — scans99–105 / local pages21–27.**
+**Part004 whole-Part audit — scans79–105 / local pages1–27.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -497,5 +497,22 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Part005 leakage — **0**
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - exact next action — **Part004 Pass3 FINAL — scans99–105 / local pages21–27**
+- durable progress — `PART_004_PASS3_PROGRESS.md`
+
+## Part004 Pass3 final closure state
+
+- Pass3 — **COMPLETE / PASS — 27/27 REVIEWED**
+- textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status / visual promotions — **0 / 0**
+- chapter11 close at scan101 — **PRESERVED / PASS**
+- illustrated chapter12 opener at scan102 — **PRESERVED / PASS**
+- printed folios in final body sequence — **85–87, 89–91**
+- 96→97–98→99 interruption/continuation — **PRESERVED / PASS**
+- 104→105 continuation — **PRESERVED / PASS**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- exact next action — **Part004 whole-Part audit — scans79–105 / local pages1–27**
 - durable progress — `PART_004_PASS3_PROGRESS.md`
 
