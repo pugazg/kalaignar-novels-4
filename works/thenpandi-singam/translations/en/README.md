@@ -685,3 +685,25 @@ Durable record: `E15_SOURCE_CHECK.md`.
 
 Exact next gate: **E16 draft + source-check — section21 / scans102–105**.
 
+## Part004 E16 source-check
+
+**E16 — SOURCE-CHECKED / COMPLETE.**
+
+- English file — `sections/21-chapter-12-part004.md`
+- Tamil authority — `../../sections/21-chapter-12-part004.md`
+- scans — **102–105**
+- literary blocks — **16/16**
+- provenance comments — **4/4 retained**
+- 104→105 physical continuation — **PASS / preserved**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- cumulative translated/source-checked — **4/4 / 4/4**
+- cumulative Part004 source coverage — **scans79–105 / 27 of 27**
+- unresolved E16 holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen E13–E15 / earlier-Part English edits — **0**
+- Part005 leakage — **0**
+
+Durable record: `E16_SOURCE_CHECK.md`.
+
+Exact next gate: **Part004 whole-Part English glossary reconciliation across E13–E16**.
+
