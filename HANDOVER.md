@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 English editorial review**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 whole-Part bilingual review**
 
 ## Work
 
@@ -113,7 +113,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
 - Part003 — **FINAL CLOSED / FROZEN**
-- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning PASS / E13–E16 SOURCE-CHECKED / GLOSSARY RECONCILED / EDITORIAL REVIEW NEXT**
+- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning PASS / E13–E16 SOURCE-CHECKED / GLOSSARY RECONCILED / EDITORIAL REVIEW PASS / BILINGUAL REVIEW NEXT**
 - Parts005–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -817,4 +817,29 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - durable reconciliation — `translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
 - exact next activity — **Part004 English editorial review across all 4 maintained English files / scans79–105**
+
+## Part004 English editorial review downstream state
+
+**PART004 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- scope — **E13–E16 / 4 maintained English files / scans79–105**
+- English-only editorial repairs — **35**
+- E13 / E14 / E15 / E16 repairs — **3 / 13 / 16 / 3**
+- literary/display blocks — **144 Tamil / 144 English**
+- provenance comments — **25 Tamil / 25 English / EXACT**
+- block-count mismatches — **0**
+- provenance-comment mismatches — **0**
+- source-visible glossary variant mismatches — **0**
+- E14 scan87 jati lines — **3/3 unchanged**
+- scans97–98 — **non-literary provenance only / 0 English prose**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- 104→105 — **physical continuation preserved**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- final E16 quotation — **intentionally open / preserved**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- Part005 leakage — **0**
+- unresolved editorial holds — **0**
+- durable review — `translations/en/PART_004_EDITORIAL_REVIEW.md`
+- exact next activity — **Part004 whole-Part bilingual review across scans79–105**
 
