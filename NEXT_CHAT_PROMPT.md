@@ -26,7 +26,6 @@ Do not reopen their canonical Tamil, assembled Tamil or maintained English merel
 - release-ready synchronization — **PASS / CLOSED**
 - final closure — **PASS / CLOSED / FROZEN**
 - unresolved closure blockers — **0**
-- source-PDF paths in active tree — **0**
 - Part005 leakage — **0**
 - incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
 - scans97–98 — **non-literary illustration/blank / preserved**
