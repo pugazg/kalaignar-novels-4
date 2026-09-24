@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 Pass3 scans79–88**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 Pass3 scans89–98**
 
 ## Work
 
@@ -113,7 +113,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
 - Part003 — **FINAL CLOSED / FROZEN**
-- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 NEXT**
+- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 10/27 REVIEWED**
 - Parts005–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -568,4 +568,22 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part005 leakage — **0**
 - exact next activity — **Part004 Pass3 — scans79–88 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_004_PASS2B_PROGRESS.md`
+
+## Part004 Pass3 Batch 1 state
+
+- Part004 Pass3 — **ACTIVE — 10/27 REVIEWED**
+- reviewed scans — **79–88 / local pages1–10**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status / visual promotions — **0 / 0**
+- scan79 — **chapter9 close / three ornaments / intentional blank lower field — PASS**
+- scan80 — **illustrated chapter10 opener / numeral 10 / mounted-warrior illustration / no source-visible folio — PASS**
+- scans81–88 — **standard chapter10 body-page sequence / printed folios69–76 — PASS**
+- scan87 displayed rhythmic / jati lines — **PRESERVED / PASS**
+- 88→89 boundary `அப்போது அவன் / கண்ணிலும் ஆதப்பன் கண்ணிலும்` — **DIRECTLY WITNESSED / PASS**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- exact next activity — **Part004 Pass3 — scans89–98 / local pages11–20**
+- durable progress — `works/thenpandi-singam/PART_004_PASS3_PROGRESS.md`
 
