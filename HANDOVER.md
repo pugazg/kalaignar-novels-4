@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 E14 draft + source-check**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part004 E15 draft + source-check**
 
 ## Work
 
@@ -113,7 +113,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - outgoing Part002 / incoming Part003 53→54 — **GENUINE CONTINUATION / AUDITED**
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
 - Part003 — **FINAL CLOSED / FROZEN**
-- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning PASS / E13 SOURCE-CHECKED / E14 NEXT**
+- Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning PASS / E13–E14 SOURCE-CHECKED / E15 NEXT**
 - Parts005–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
@@ -748,4 +748,19 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part005 leakage — **0**
 - exact next activity — **E14 draft + source-check — section19 / scans80–89**
 - durable source-check — `translations/en/E13_SOURCE_CHECK.md`
+
+## Part004 E14 English downstream state
+
+- E14 — **SOURCE-CHECKED / COMPLETE — section19 / scans80–89**
+- maintained Part004 English files — **2/4 translated / 2/4 source-checked**
+- Tamil / English literary blocks — **53/53**
+- internal physical source-boundary comments — **9/9 retained**
+- scan87 jati display lines — **3/3 represented**
+- cumulative Part004 English source coverage — **scans79–89 / 11 of 27 scans**
+- canonical / assembled Tamil edits caused by E14 — **0 / 0**
+- frozen E13 and Part001–Part003 English edits — **0**
+- unresolved E14 holds — **0**
+- Part005 leakage — **0**
+- exact next activity — **E15 draft + source-check — section20 / scans90–101**
+- durable source-check — `translations/en/E14_SOURCE_CHECK.md`
 
