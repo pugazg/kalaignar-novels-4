@@ -224,3 +224,21 @@ The later Part004 whole-Part English editorial review made **13 English-only rea
 - durable review — `PART_004_BILINGUAL_REVIEW.md`
 - exact next gate — **Part004 release/readiness report**
 
+## Part004 final closure downstream state
+
+**PART004 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- E13–E16 maintained/source-checked English — **4/4 / 4/4**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- Part005 leakage — **0**
+- outgoing 105→106 — **PENDING direct audit / source-limited / preserved**
+- exact next activity — **Part005 source intake when supplied**
+- durable closure — `../../PART_004_FINAL_CLOSURE.md`
+
