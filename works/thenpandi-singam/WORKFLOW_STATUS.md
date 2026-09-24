@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part004 whole-Part audit — scans79–105 / local pages1–27.**
+**Part004 final metadata/status synchronization — scans79–105 / 27 pages.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -515,4 +515,25 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Part005 leakage — **0**
 - exact next action — **Part004 whole-Part audit — scans79–105 / local pages1–27**
 - durable progress — `PART_004_PASS3_PROGRESS.md`
+
+## Part004 whole-Part audit state
+
+- whole-Part audit — **PASS / COMPLETE**
+- physical / canonical coverage — **27/27 / scans79–105**
+- duplicate / omitted scans — **0 / 0**
+- `part_page` — **continuous 1–27**
+- source filename consistency — **27/27**
+- Pass2A corrections — **9**
+- Pass2B lexical / spacing / punctuation corrections — **19**
+- Pass2B historical-glyph corrections — **0**
+- Pass3 textual corrections — **0**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- page-status promotions during audit — **0**
+- current Part004 status / visual — **needs-review 27/27 / needs-review 27/27**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 105→106 — **PENDING direct audit / source-limited**
+- frozen Part001–Part003 body edits — **0**
+- Part005 leakage — **0**
+- exact next action — **Part004 final metadata/status synchronization — scans79–105 / 27 pages**
+- durable audit — `PART_004_AUDIT.md`
 
