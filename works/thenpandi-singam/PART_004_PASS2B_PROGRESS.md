@@ -154,3 +154,22 @@ Perform the full-page visual / structural review against rendered source pixels.
 - exact next activity — **Part004 English translation planning/setup — reserve E13–E16**
 - durable validation — `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
 
+## Part004 final closure downstream state
+
+**PART004 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- Part005 leakage — **0**
+- outgoing 105→106 — **PENDING direct audit / source-limited / preserved**
+- exact next activity — **Part005 source intake when supplied**
+- durable closure — `PART_004_FINAL_CLOSURE.md`
+
