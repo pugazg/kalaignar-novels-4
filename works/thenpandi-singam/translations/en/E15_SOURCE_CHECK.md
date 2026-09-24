@@ -186,3 +186,17 @@ Tamil authority was unchanged.
 Perform **E16 draft + source-check — section21 / scans102–105**.
 
 Preserve outgoing **105→106 = PENDING direct audit / source-limited** and do not import, infer or semantically complete Part005 / scan106.
+
+## Post-E15 whole-Part glossary reconciliation note
+
+The later Part004 whole-Part glossary reconciliation found one English-only source-form consistency defect in this already source-checked E15 file:
+
+- scan93 source `வாளுக்குவேலியின்` — **Vaalukku Veli’s** → **Vaalukkuveli’s**
+
+- literary block count changed — **0**
+- provenance comments changed — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- meaning/content additions — **0**
+- E15 remains **SOURCE-CHECKED / COMPLETE**
+- durable reconciliation — `PART_004_GLOSSARY_RECONCILIATION.md`
+
