@@ -178,7 +178,7 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part004 E13 draft + source-check — section18 / scan79.**
+**Part004 E14 draft + source-check — section19 / scans80–89.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records are `verified` and visual `verified`. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
@@ -606,4 +606,18 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - outgoing 105→106 — **PENDING direct audit / source-limited**
 - exact next gate — **E13 draft + source-check — section18 / scan79**
 - durable controls — `PART_004_TRANSLATION_PLAN.md`, `PART_004_GLOSSARY.md`, `PART_004_PROGRESS.md`
+
+## Part004 E13 English downstream state
+
+- E13 — **SOURCE-CHECKED / COMPLETE — section18 / scan79**
+- maintained Part004 English files — **1/4 translated / 1/4 source-checked**
+- Tamil / English literary blocks — **7/7**
+- incoming 78→79 — **GENUINE CONTINUATION / AUDITED**
+- frozen Part003 E12 body changes — **0**
+- canonical / assembled Tamil edits caused by E13 — **0 / 0**
+- frozen Part001–Part003 English edits — **0**
+- unresolved E13 holds — **0**
+- Part005 leakage — **0**
+- exact next activity — **E14 draft + source-check — section19 / scans80–89**
+- durable source-check — `translations/en/E13_SOURCE_CHECK.md`
 
