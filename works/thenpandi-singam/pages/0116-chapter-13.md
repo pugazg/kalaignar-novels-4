@@ -44,4 +44,15 @@ transcription_method: "direct source-image transcription; Part005 Pass1 batch sc
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 116; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 102; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part005 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part005 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **0**;
+- historical-glyph corrections: **0**;
+- chapter13 body / printed folio 102 and dialogue structure rechecked / **PASS**;
+- Pass2A readings superseded by fresh Pass2B evidence: **0**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 116; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 102; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->
