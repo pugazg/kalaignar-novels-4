@@ -2,15 +2,15 @@
 
 ## Gate
 
-**PASS 1 — ACTIVE — 10/27 TEXT-COMPLETE**
+**PASS 1 — ACTIVE — 20/27 TEXT-COMPLETE**
 
 Canonical Part005 coverage:
 
-- local pages — **1–10 / 27**
-- global scans — **106–115 / 27**
-- canonical Part005 records — **10/27**
-- status — **needs-review on 10/10**
-- visual fidelity — **needs-review on 10/10**
+- local pages — **1–20 / 27**
+- global scans — **106–125 / 27**
+- canonical Part005 records — **20/27**
+- status — **needs-review on 20/20**
+- visual fidelity — **needs-review on 20/20**
 - verified promotions — **0**
 - unresolved Pass1 source-reading holds — **0**
 - frozen Part001–Part004 body edits — **0**
@@ -106,3 +106,50 @@ Enlarged rendered-source reread corrected **2 Pass1 transcription slips** before
 **Part005 Pass1 — scans116–125 / local pages11–20.**
 
 Process **10 source pages**. Keep canonical records at `needs-review` / visual `needs-review`; do not promote status during Pass1.
+
+## Batch 2 — scans116–125
+
+| Local | Scan | Printed | Chapter | Structural state | Pass1 |
+|---:|---:|---:|---:|---|---|
+| 11 | 116 | 102 | 13 | body continuation | TEXT-COMPLETE |
+| 12 | 117 | 103 | 13 | body continuation / confrontation | TEXT-COMPLETE |
+| 13 | 118 | 104 | 13 | body continuation | TEXT-COMPLETE |
+| 14 | 119 | 105 | 13 | chapter13 close; three closing ornaments | TEXT-COMPLETE |
+| 15 | 120 | — | 14 | illustrated chapter14 opener; no visible folio; terminal `குறுகிக்` open across inserted leaf | TEXT-COMPLETE |
+| 16 | 121 | — | 14 | full-page illustration; no literary body | TEXT-COMPLETE |
+| 17 | 122 | — | 14 | illustration verso / blank; no literary body | TEXT-COMPLETE |
+| 18 | 123 | 107 | 14 | resumes scan120 after non-text leaf with `காட்சியளித்தது.` | TEXT-COMPLETE |
+| 19 | 124 | 108 | 14 | body continuation; terminal `அம்பலக்காரர்` open to scan125 | TEXT-COMPLETE |
+| 20 | 125 | 109 | 14 | completes `அம்பலக்காரர் / மேல் என்ன குற்றம்?` | TEXT-COMPLETE |
+
+## Batch 2 cross-page / structural evidence
+
+- scan119 — chapter13 closes; three source-visible closing ornaments are structural, not literary prose
+- scan120 — illustrated chapter14 opener; no source-visible printed folio
+- scan120 terminal — `கூனிக் குறுகிக்`
+- scans121–122 — inserted non-text illustration leaf / verso; **no inferred prose**
+- scan123 opening — `காட்சியளித்தது.`; direct continuation is `கூனிக் குறுகிக் / காட்சியளித்தது.`
+- 124→125 — `அம்பலக்காரர் / மேல் என்ன குற்றம்?`
+- scan126 is outside this iteration and no continuation text is inferred
+
+## Batch 2 accounting
+
+- canonical files created — **10**
+- cumulative canonical Part005 records — **20/27**
+- scans represented — **106–125**
+- Batch 2 scans — **116–125**
+- Batch 2 text-complete — **10/10**
+- cumulative text-complete — **20/27**
+- needs-review Tamil / visual — **20/20 / 20/20**
+- non-literary structural records — **2 / scans121–122**
+- unresolved Pass1 holds — **0**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+
+## Exact next activity — UPDATED
+
+**Part005 Pass1 FINAL — scans126–132 / local pages21–27.**
+
+Process the remaining **7 source pages**. Keep canonical records at `needs-review` / visual `needs-review`; do not promote status during Pass1. Preserve the chapter15 opener at scan130 structurally and leave outgoing **132→133 PENDING direct audit / source-limited**.
+
