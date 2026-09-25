@@ -19,7 +19,7 @@ transcription_method: "direct source-image transcription; Part005 Pass1 batch sc
 
 திருமணப் பந்தலில் நடைபெற்ற நிகழ்ச்சிகளும் ஒப்பனை அறையில் நடைபெற்ற வாதப் பிரதிவாதங்களும் சுந்தரியின் மனத்திரையில் மீண்டும் உருண்டோடின!
 
-வாளுக்குவேலி வருகையால் கலை நிகழ்ச்சிக்கு இடையூறு ஏற்பட்டதற்காக அவரிடம் தனது மனக்குறையை வெளியிட்டிருக்க வேண்டுமே தவிர அதை யொரு கடுமையான வாக்கு வாதமாக ஆக்கி அவரது வீரத்தையே இழிந்திருக்கக் கூடாது என்ற தெளிவு, கொஞ்சம் கொஞ்சமாகச் சுந்தராம்பாளின் நெஞ்சில் சுரக்கத் தொடங்கியது.
+வாளுக்குவேலி வருகையால் கலை நிகழ்ச்சிக்கு இடையூறு ஏற்பட்டதற்காக அவரிடம் தனது மனக்குறையை வெளியிட்டிருக்க வேண்டுமே தவிர அதை யொரு கடுமையான வாக்கு வாதமாக ஆக்கி அவரது வீரத்தையே இகழ்ந்திருக்கக் கூடாது என்ற தெளிவு, கொஞ்சம் கொஞ்சமாகச் சுந்தராம்பாளின் நெஞ்சில் சுரக்கத் தொடங்கியது.
 
 இருந்தாலும் அவளாக வலுவில் சென்று மன்னிப்புக் கேட்டுக் கொள்வதுபோல அவரது தங்கைக்கு நடனம் கற்றுத் தரச் செல்வதை அவள் மனம் ஒப்பவில்லை. தன்னை நோக்கி அவர் கையை ஓங்கி அடிக்க வந்த அந்தச் செயலை அவளால் மறந்து விட முடியவில்லை.
 
@@ -32,4 +32,15 @@ transcription_method: "direct source-image transcription; Part005 Pass1 batch sc
 - scan126 is outside this Pass1 iteration and no continuation is inferred;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 125; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 109; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part005 Pass 2A review
+
+- strict direct-source reread completed against rendered Part005 source pixels;
+- exact wording, visible word boundaries, punctuation, dialogue/quotation structure, displayed text, printed pagination and physical page structure checked;
+- source-text corrections: **1**;
+- correction: `இழிந்திருக்கக்` → `இகழ்ந்திருக்கக்` — source-visible wording;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 125; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 109; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
