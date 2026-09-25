@@ -925,3 +925,25 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 Pass2B scans106–115 / local pages1–10**
 - durable progress — `PART_005_PASS2A_PROGRESS.md`
+
+## Part005 Pass2B Batch 1 downstream state
+
+- Part005 Pass2B — **ACTIVE — 10/27 REVIEWED**
+- reviewed — **scans106–115 / local pages1–10**
+- lexical / spacing / punctuation corrections — **2**
+- correction sites:
+  - scan108 — `“மேஜர் கிரே” கொல்லப்பட்டு` → `“மேஜர் கிரே”, கொல்லப்பட்டு`
+  - scan114 — `விழி இரண்டு வேல்! வேல்!` → `விழி யிரண்டும் வேல்! வேல்!`
+- affected scans — **108, 114**
+- zero-correction scans — **106, 107, 109, 110, 111, 112, 113, 115**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **0**
+- scans109–110 source-visible English historical/reference note — **PASS / unchanged**
+- unresolved Pass2B questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass2B scans116–125 / local pages11–20**
+- durable progress — `PART_005_PASS2B_PROGRESS.md`
