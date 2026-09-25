@@ -52,4 +52,15 @@ Marudu and associates of Kattabomman. Gopala Nayak
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 109; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 95; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part005 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part005 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **0**;
+- historical-glyph corrections: **0**;
+- source-visible English historical/reference note opening and line-break hyphenation rechecked exactly / **PASS**;
+- external normalization / correction of the English note — **0**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 109; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 95; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->
