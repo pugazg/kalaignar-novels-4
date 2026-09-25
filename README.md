@@ -858,3 +858,20 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - exact next activity — **Part005 Pass2A scans106–115 / local pages1–10**
 - durable Pass1 record — `PART_005_PASS1_PROGRESS.md`
 
+## Part005 Pass2A Batch 1 downstream state
+
+- Part005 Pass2A — **ACTIVE — 10/27 REVIEWED**
+- reviewed — **scans106–115 / local pages1–10**
+- source-text correction occurrences — **3**
+- affected scans — **113, 115**
+- zero-correction scans — **106–112, 114**
+- scans109–110 source-visible English reference note — **PASS**
+- unresolved Pass2A questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass2A scans116–125 / local pages11–20**
+- durable progress — `PART_005_PASS2A_PROGRESS.md`
+
