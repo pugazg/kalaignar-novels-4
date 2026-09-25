@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part005 Pass1 FINAL scans126–132
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part005 Pass2A scans106–115
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,45 +17,42 @@ Do not reopen their canonical Tamil, assembled Tamil or maintained English merel
 - global scans — **106–132**
 - controlling authority — **direct rendered source pixels**
 - source intake — **COMPLETE / PASS**
-- Pass1 — **ACTIVE — 20/27 TEXT-COMPLETE**
-- completed — **scans106–125 / local pages1–20**
-- canonical Part005 records — **20/27**
-- status / visual — **needs-review / needs-review on 20/20**
+- Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- canonical Part005 records — **27/27**
+- status / visual — **needs-review / needs-review on 27/27**
 - unresolved Pass1 holds — **0**
+- verified promotions during Pass1 — **0**
 
-## Locked evidence
+## Locked structural evidence
 
 - incoming **105→106 — GENUINE CONTINUATION / AUDITED**
-- frozen Parts001–004 body edits — **0**
-- scan110 — chapter12 close
-- scan111 — illustrated chapter13 opener
+- scan110 — chapter12 close after source-visible English historical/reference note
+- scan111 — illustrated chapter13 opener / no visible folio
 - scan119 — chapter13 close / three closing ornaments
-- scan120 — illustrated chapter14 opener / no source-visible folio
+- scan120 — illustrated chapter14 opener / no visible folio
 - scans121–122 — **illustration / illustration-verso blank / no literary body**
-- 120→121–122→123 — `கூனிக் குறுகிக் / காட்சியளித்தது.` / no invented bridge
-- 124→125 — `அம்பலக்காரர் / மேல் என்ன குற்றம்?`
-- scan130 — illustrated chapter15 opener
-- scan132 / printed116 — chapter15 remains open
+- 120→121–122→123 — `கூனிக் குறுகிக் / காட்சியளித்தது.` with no invented bridge
+- scan129 — chapter14 close / three closing ornaments
+- scan130 — illustrated chapter15 opener / no visible folio
+- scan132 / printed116 — chapter15 open terminal dialogue
 - outgoing **132→133 — PENDING direct audit / source-limited**
 - Part006 leakage — **0**
 
-Durable progress: `works/thenpandi-singam/PART_005_PASS1_PROGRESS.md`.
+Durable Pass1 record: `works/thenpandi-singam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Perform **Part005 Pass1 FINAL scans126–132 / local pages21–27**.
+Perform **Part005 Pass2A scans106–115 / local pages1–10**.
 
 Requirements:
 
-- create canonical page records for physical scans126–132 only;
-- set `part: 5`, `part_page: 21–27`;
-- keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- preserve source-visible wording, punctuation, paragraphing, displayed text and printed folios;
-- preserve all direct cross-page continuations;
-- scan130 is an illustrated chapter15 opener; use `printed_page: null` if no folio is source-visible;
-- scan132 remains the supplied Part005 terminal chapter15 continuation;
-- do not infer scan133 / Part006 text;
-- preserve outgoing **132→133 PENDING direct audit / source-limited**;
-- frozen Parts001–004 body edits — **0**.
+- strict direct-source reread of canonical records scans106–115;
+- compare wording, word boundaries, punctuation, dialogue/quotation structure, displayed text, printed folios and page structure against rendered source pixels;
+- preserve the source-visible English historical/reference note across scans109–110 exactly as source material;
+- record only source-backed corrections;
+- keep `status: "needs-review"` and `visual_fidelity: "needs-review"` throughout Pass2A;
+- do not promote canonical or visual status during Pass2A;
+- preserve frozen Parts001–004 with **0 body edits**;
+- do not infer Part006 / scan133 material.
 
-Process the remaining **7 source pages** and, if complete with no holds, close **Part005 Pass1 — COMPLETE / PASS — 27/27 TEXT-COMPLETE** and advance to **Part005 Pass2A scans106–115 / local pages1–10**.
+Process **10 source pages** in this Pass2A iteration.
