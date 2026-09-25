@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — ACTIVE — 10/27 REVIEWED**
+**PASS 2A — ACTIVE — 20/27 REVIEWED**
 
 Source:
 
@@ -76,8 +76,56 @@ Scans109–110 were reread directly against source pixels.
 - frozen Parts001–004 body edits — **0**
 - Part006 leakage — **0**
 
+## Batch 2 — scans116–125
+
+Direct textual fidelity review completed for:
+
+- global scans — **116–125 / 10**
+- local pages — **11–20 / 10**
+- canonical records reviewed — **20/27 cumulative**
+- reviewed pages passing — **10/10**
+- unresolved textual questions — **0**
+- status promotions — **0**
+
+Pass2A checked exact wording, visible word boundaries, punctuation, dialogue/quotation structure, displayed text, printed pagination and physical page structure. Scans121–122 were reread as non-literary structural records only.
+
+## Batch 2 corrections
+
+Corrections — **1 occurrence on 1 scan**:
+
+1. scan125 — `இழிந்திருக்கக்` → `இகழ்ந்திருக்கக்` — source-visible wording.
+
+Affected scan — **125**.
+
+Zero-correction scans — **116, 117, 118, 119, 120, 121, 122, 123, 124**.
+
+## Batch 2 boundary / structure validation
+
+- 115→116 — dance-hall/crowd sequence into the `வாளுக்கு வேலித் தேவர் வாழ்க!` response — **PASS**
+- scan119 — chapter13 close / three closing ornaments — **PASS**
+- scan120 — illustrated chapter14 opener / displayed numeral 14 / no visible folio — **PASS**
+- scan121 — full-page illustration / no literary body text / no visible folio — **PASS**
+- scan122 — illustration verso / intentional blank / faint show-through only / no literary body text / no visible folio — **PASS**
+- 120→121–122→123 — `கூனிக் குறுகிக் / காட்சியளித்தது.` — **PASS**
+- 124→125 — `அம்பலக்காரர் / மேல் என்ன குற்றம்?` — **PASS**
+- invented bridge text — **0**
+
+## Pass2A Batch 2 accounting
+
+- reviewed — **20/27 cumulative**
+- cumulative source-text correction occurrences — **4**
+- cumulative affected scans — **3 / 113, 115, 125**
+- cumulative zero-correction reviewed scans — **17**
+- unresolved Pass2A questions — **0**
+- status promotions — **0**
+- all Part005 pages remain `status: "needs-review"`
+- all Part005 pages remain `visual_fidelity: "needs-review"`
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+
 ## Exact next activity
 
-**Part005 Pass2A scans116–125 / local pages11–20.**
+**Part005 Pass2A FINAL scans126–132 / local pages21–27.**
 
-Process **10 source pages** with the same strict direct-source textual fidelity review. Do not promote canonical or visual status during Pass2A.
+Process the remaining **7 source pages** with the same strict direct-source textual fidelity review. Record source-backed corrections only, do not promote canonical or visual status during Pass2A, and do not infer scan133 / Part006.
