@@ -123,16 +123,16 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 005 | 9 | 114 | 100 | chapter13 dance-performance continuation; source-visible displayed song lines; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0114-chapter-13.md` |
 | 005 | 10 | 115 | 101 | chapter13 dance-performance continuation; multiple displayed stanzas; Pass1 text-complete; Pass2A reviewed / **2 corrections** | needs-review | `pages/0115-chapter-13.md` |
 
-| 005 | 11 | 116 | 102 | chapter13 continuation; Pass1 text-complete | needs-review | `pages/0116-chapter-13.md` |
-| 005 | 12 | 117 | 103 | chapter13 continuation / confrontation; Pass1 text-complete | needs-review | `pages/0117-chapter-13.md` |
-| 005 | 13 | 118 | 104 | chapter13 continuation; Pass1 text-complete | needs-review | `pages/0118-chapter-13.md` |
-| 005 | 14 | 119 | 105 | chapter13 close; three closing ornaments; Pass1 text-complete | needs-review | `pages/0119-chapter-13.md` |
-| 005 | 15 | 120 | — | illustrated chapter14 opening; displayed numeral 14; no source-visible folio; terminal `குறுகிக்` remains open across scans121–122; Pass1 text-complete | needs-review | `pages/0120-chapter-14.md` |
-| 005 | 16 | 121 | — | full-page illustration; no literary body text; Pass1 structural record complete | needs-review | `pages/0121-chapter-14.md` |
-| 005 | 17 | 122 | — | illustration verso / blank; faint show-through only; no literary body text; Pass1 structural record complete | needs-review | `pages/0122-chapter-14.md` |
-| 005 | 18 | 123 | 107 | chapter14 continuation; resumes `கூனிக் குறுகிக் / காட்சியளித்தது.` after scans121–122 non-text leaf; Pass1 text-complete | needs-review | `pages/0123-chapter-14.md` |
-| 005 | 19 | 124 | 108 | chapter14 continuation; terminal `அம்பலக்காரர்` continues to scan125; Pass1 text-complete | needs-review | `pages/0124-chapter-14.md` |
-| 005 | 20 | 125 | 109 | chapter14 continuation; completes `அம்பலக்காரர் / மேல் என்ன குற்றம்?`; Pass1 text-complete | needs-review | `pages/0125-chapter-14.md` |
+| 005 | 11 | 116 | 102 | chapter13 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0116-chapter-13.md` |
+| 005 | 12 | 117 | 103 | chapter13 continuation / confrontation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0117-chapter-13.md` |
+| 005 | 13 | 118 | 104 | chapter13 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0118-chapter-13.md` |
+| 005 | 14 | 119 | 105 | chapter13 close; three closing ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0119-chapter-13.md` |
+| 005 | 15 | 120 | — | illustrated chapter14 opening; displayed numeral 14; no source-visible folio; terminal `குறுகிக்` remains open across scans121–122; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0120-chapter-14.md` |
+| 005 | 16 | 121 | — | full-page illustration; no literary body text; Pass1 structural record complete; Pass2A structural review **PASS / 0 corrections** | needs-review | `pages/0121-chapter-14.md` |
+| 005 | 17 | 122 | — | illustration verso / blank; faint show-through only; no literary body text; Pass1 structural record complete; Pass2A structural review **PASS / 0 corrections** | needs-review | `pages/0122-chapter-14.md` |
+| 005 | 18 | 123 | 107 | chapter14 continuation; resumes `கூனிக் குறுகிக் / காட்சியளித்தது.` after scans121–122 non-text leaf; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0123-chapter-14.md` |
+| 005 | 19 | 124 | 108 | chapter14 continuation; terminal `அம்பலக்காரர்` continues to scan125; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0124-chapter-14.md` |
+| 005 | 20 | 125 | 109 | chapter14 continuation; completes `அம்பலக்காரர் / மேல் என்ன குற்றம்?`; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0125-chapter-14.md` |
 
 | 005 | 21 | 126 | 110 | chapter14 continuation; terminal `அவளது` continues to scan127; Pass1 text-complete | needs-review | `pages/0126-chapter-14.md` |
 | 005 | 22 | 127 | 111 | chapter14 continuation; completes `அவளது / தன்மான உணர்வுக்குக் குறைவாகத் தெரிந்தது!`; Pass1 text-complete | needs-review | `pages/0127-chapter-14.md` |
@@ -577,5 +577,27 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - frozen Parts001–004 body edits — **0**
 - Part006 leakage — **0**
 - exact next activity — **Part005 Pass2A scans116–125 / local pages11–20**
+- durable progress — `PART_005_PASS2A_PROGRESS.md`
+
+## Part005 Pass2A Batch 2 downstream state
+
+- Part005 Pass2A — **ACTIVE — 20/27 REVIEWED**
+- reviewed rows — **scans116–125 / local pages11–20**
+- cumulative reviewed rows — **scans106–125 / local pages1–20**
+- Batch 2 source-text correction occurrences — **1**
+- Batch 2 affected scans — **125**
+- Batch 2 zero-correction scans — **116–124**
+- cumulative source-text correction occurrences — **4**
+- cumulative affected scans — **113, 115, 125**
+- scans121–122 — **non-literary structural review PASS / no invented text**
+- 120→121–122→123 — **`கூனிக் குறுகிக் / காட்சியளித்தது.` PASS / no bridge wording**
+- 124→125 — **`அம்பலக்காரர் / மேல் என்ன குற்றம்?` PASS**
+- unresolved Pass2A questions — **0**
+- status remains — **needs-review 27/27**
+- visual fidelity remains — **needs-review 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- exact next activity — **Part005 Pass2A FINAL scans126–132 / local pages21–27**
 - durable progress — `PART_005_PASS2A_PROGRESS.md`
 
