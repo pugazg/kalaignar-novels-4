@@ -883,3 +883,24 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - exact next activity — **Part005 Pass2A scans116–125 / local pages11–20**
 - durable progress — `PART_005_PASS2A_PROGRESS.md`
 
+## Part005 Pass2A Batch 2 downstream state
+
+- Part005 Pass2A — **ACTIVE — 20/27 REVIEWED**
+- reviewed — **scans116–125 / local pages11–20**
+- cumulative reviewed — **scans106–125 / local pages1–20**
+- Batch 2 source-text correction occurrences — **1 / scan125**
+- Batch 2 correction — `இழிந்திருக்கக்` → `இகழ்ந்திருக்கக்`
+- Batch 2 zero-correction scans — **116–124**
+- cumulative source-text correction occurrences — **4**
+- cumulative affected scans — **113, 115, 125**
+- scans121–122 structural review — **PASS / no literary text invented**
+- 120→121–122→123 continuation — **PASS / no bridge wording**
+- 124→125 continuation — **PASS**
+- unresolved Pass2A questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass2A FINAL scans126–132 / local pages21–27**
+- durable progress — `PART_005_PASS2A_PROGRESS.md`
