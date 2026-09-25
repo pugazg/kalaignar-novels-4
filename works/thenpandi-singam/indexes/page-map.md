@@ -112,16 +112,16 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 004 | 26 | 104 | 90 | chapter 12 continuation; terminal `போன்றவர்களிடத்` continues to scan105; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | verified | `pages/0104-chapter-12.md` |
 | 004 | 27 | 105 | 91 | Part004 terminal chapter12 continuation; completes `போன்றவர்களிடத் / திலும்`; open dialogue remains; 105→106 pending witness; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | verified | `pages/0105-chapter-12.md` |
 
-| 005 | 1 | 106 | 92 | chapter12 continuation; direct 105→106 boundary witness / **GENUINE CONTINUATION / AUDITED**; Pass1 text-complete | needs-review | `pages/0106-chapter-12.md` |
-| 005 | 2 | 107 | 93 | chapter12 continuation; Pass1 text-complete | needs-review | `pages/0107-chapter-12.md` |
-| 005 | 3 | 108 | 94 | chapter12 continuation; terminal `மேஜர்` continues to scan109; Pass1 text-complete | needs-review | `pages/0108-chapter-12.md` |
-| 005 | 4 | 109 | 95 | chapter12 continuation; completes `மேஜர் / கிரேயைக்`; source-visible `குறிப்பு:` English reference note begins and continues to scan110; Pass1 text-complete | needs-review | `pages/0109-chapter-12.md` |
-| 005 | 5 | 110 | 96 | English reference-note continuation; chapter12 close; three closing ornaments; Pass1 text-complete | needs-review | `pages/0110-chapter-12.md` |
-| 005 | 6 | 111 | — | illustrated chapter13 opening; displayed numeral 13; no source-visible folio; Pass1 text-complete | needs-review | `pages/0111-chapter-13.md` |
-| 005 | 7 | 112 | 98 | chapter13 continuation; terminal `சுந்தராம்பாள்` continues to scan113; Pass1 text-complete | needs-review | `pages/0112-chapter-13.md` |
-| 005 | 8 | 113 | 99 | chapter13 continuation; completes `சுந்தராம்பாள் / வடிவாம்பாள் நடனக் கச்சேரி!`; Pass1 text-complete | needs-review | `pages/0113-chapter-13.md` |
-| 005 | 9 | 114 | 100 | chapter13 dance-performance continuation; source-visible displayed song lines; Pass1 text-complete | needs-review | `pages/0114-chapter-13.md` |
-| 005 | 10 | 115 | 101 | chapter13 dance-performance continuation; multiple displayed stanzas; Pass1 text-complete | needs-review | `pages/0115-chapter-13.md` |
+| 005 | 1 | 106 | 92 | chapter12 continuation; direct 105→106 boundary witness / **GENUINE CONTINUATION / AUDITED**; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0106-chapter-12.md` |
+| 005 | 2 | 107 | 93 | chapter12 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0107-chapter-12.md` |
+| 005 | 3 | 108 | 94 | chapter12 continuation; terminal `மேஜர்` continues to scan109; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0108-chapter-12.md` |
+| 005 | 4 | 109 | 95 | chapter12 continuation; completes `மேஜர் / கிரேயைக்`; source-visible `குறிப்பு:` English reference note begins and continues to scan110; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0109-chapter-12.md` |
+| 005 | 5 | 110 | 96 | English reference-note continuation; chapter12 close; three closing ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0110-chapter-12.md` |
+| 005 | 6 | 111 | — | illustrated chapter13 opening; displayed numeral 13; no source-visible folio; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0111-chapter-13.md` |
+| 005 | 7 | 112 | 98 | chapter13 continuation; terminal `சுந்தராம்பாள்` continues to scan113; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0112-chapter-13.md` |
+| 005 | 8 | 113 | 99 | chapter13 continuation; completes `சுந்தராம்பாள் / வடிவாம்பாள் நடனக் கச்சேரி!`; Pass1 text-complete; Pass2A reviewed / **1 corrections** | needs-review | `pages/0113-chapter-13.md` |
+| 005 | 9 | 114 | 100 | chapter13 dance-performance continuation; source-visible displayed song lines; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0114-chapter-13.md` |
+| 005 | 10 | 115 | 101 | chapter13 dance-performance continuation; multiple displayed stanzas; Pass1 text-complete; Pass2A reviewed / **2 corrections** | needs-review | `pages/0115-chapter-13.md` |
 
 | 005 | 11 | 116 | 102 | chapter13 continuation; Pass1 text-complete | needs-review | `pages/0116-chapter-13.md` |
 | 005 | 12 | 117 | 103 | chapter13 continuation / confrontation; Pass1 text-complete | needs-review | `pages/0117-chapter-13.md` |
@@ -561,4 +561,21 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part006 leakage — **0**
 - exact next activity — **Part005 Pass2A scans106–115 / local pages1–10**
 - durable progress — `PART_005_PASS1_PROGRESS.md`
+
+## Part005 Pass2A Batch 1 downstream state
+
+- Part005 Pass2A — **ACTIVE — 10/27 REVIEWED**
+- reviewed rows — **scans106–115 / local pages1–10**
+- source-text correction occurrences — **3**
+- affected scans — **113, 115**
+- zero-correction scans — **106–112, 114**
+- source-visible English reference note scans109–110 — **PASS**
+- unresolved Pass2A questions — **0**
+- status remains — **needs-review 27/27**
+- visual fidelity remains — **needs-review 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- exact next activity — **Part005 Pass2A scans116–125 / local pages11–20**
+- durable progress — `PART_005_PASS2A_PROGRESS.md`
 
