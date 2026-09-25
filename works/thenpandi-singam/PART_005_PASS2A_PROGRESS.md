@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — ACTIVE — 20/27 REVIEWED**
+**PASS 2A — COMPLETE / PASS — 27/27 REVIEWED**
 
 Source:
 
@@ -124,8 +124,66 @@ Zero-correction scans — **116, 117, 118, 119, 120, 121, 122, 123, 124**.
 - Part006 leakage — **0**
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 
+## Batch 3 — FINAL — scans126–132
+
+Direct textual fidelity review completed for:
+
+- global scans — **126–132 / 7**
+- local pages — **21–27 / 7**
+- canonical records reviewed — **27/27 cumulative**
+- reviewed pages passing — **7/7**
+- unresolved textual questions — **0**
+- status promotions — **0**
+
+Pass2A checked exact wording, visible word boundaries, punctuation, dialogue/quotation structure, displayed text, printed pagination and physical page structure.
+
+## Batch 3 corrections
+
+Corrections — **3 occurrences on 2 scans**:
+
+1. scan126 — `சௌக்கியமோ?` → `செளக்கியமோ?` — source-visible orthographic form.
+2. scan131 — `அனுப்பப்படுகிறது` → `அனுப்பப்படு கிறது` — source-visible line-break word form.
+3. scan131 — `வேண்டுமென்றுதான்` → `வேண்டும் மென்றுதான்` — source-visible spacing / line-break form.
+
+Affected scans — **126, 131**.
+
+Zero-source-text-correction final-batch scans — **127, 128, 129, 130, 132**.
+
+Documentation-only note fix:
+
+- scan128 Pass1 structural note `தனல்` → `தணல்`; canonical source transcription was already correct and this is **not counted** as a source-text correction.
+
+## Final-batch boundary / structure validation
+
+- 125→126 — narrative continuation into வெள்ளை அய்யர் joining the discussion — **PASS**
+- 126→127 — `அவளது / தன்மான உணர்வுக்குக் குறைவாகத் தெரிந்தது!` — **PASS**
+- 128→129 — `தம்பி ஆதப்பனின் தணல் உள்ளத்திற்கு / அடிக்கடி தண்ணீர் ஊற்றி...` — **PASS**
+- scan129 — chapter14 close / three closing ornaments — **PASS**
+- scan130 — illustrated chapter15 opener / displayed numeral 15 / no source-visible folio — **PASS**
+- 130→131 — `அவனது மைத்துனன் / உறங்காப்புலி...` — **PASS**
+- scan132 — chapter15 open terminal dialogue preserved — **PASS**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- scan133 / Part006 wording inferred or imported — **0**
+
+## Final Pass2A accounting
+
+- Part005 canonical records — **27/27**
+- Part005 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
+- total Pass2A source-text correction occurrences — **7**
+- affected scans — **113, 115, 125, 126, 131**
+- affected scans count — **5**
+- zero-source-text-correction scans — **22**
+- unresolved Pass2A questions — **0**
+- status promotions — **0**
+- all Part005 pages remain `status: "needs-review"`
+- all Part005 pages remain `visual_fidelity: "needs-review"`
+- verified Part005 pages — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+
 ## Exact next activity
 
-**Part005 Pass2A FINAL scans126–132 / local pages21–27.**
+**Part005 Pass2B — scans106–115 / local pages1–10.**
 
-Process the remaining **7 source pages** with the same strict direct-source textual fidelity review. Record source-backed corrections only, do not promote canonical or visual status during Pass2A, and do not infer scan133 / Part006.
+Perform a fresh lexical / spacing / punctuation / historical-glyph audit against the rendered source pixels. Do not promote canonical or visual status during Pass2B.
