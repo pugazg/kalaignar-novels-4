@@ -896,3 +896,24 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 Pass2A FINAL scans126–132 / local pages21–27**
 - durable progress — `PART_005_PASS2A_PROGRESS.md`
+
+## Part005 Pass2A FINAL downstream state
+
+- Part005 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
+- final batch — **scans126–132 / local pages21–27**
+- final-batch source-text corrections — **3 occurrences / scans126, 131**
+- final-batch correction details:
+  - scan126 — `சௌக்கியமோ?` → `செளக்கியமோ?`
+  - scan131 — `அனுப்பப்படுகிறது` → `அனுப்பப்படு கிறது`
+  - scan131 — `வேண்டுமென்றுதான்` → `வேண்டும் மென்றுதான்`
+- scan128 Pass1 note typo — `தனல்` → `தணல்`; canonical body already correct / not counted as source-text correction
+- cumulative source-text correction occurrences — **7**
+- cumulative affected scans — **113, 115, 125, 126, 131**
+- unresolved Pass2A questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass2B scans106–115 / local pages1–10**
+- durable progress — `PART_005_PASS2A_PROGRESS.md`
