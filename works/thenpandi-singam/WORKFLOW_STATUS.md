@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part005 Pass1 scans106–115 / local pages1–10.**
+**Part005 Pass1 scans116–125 / local pages11–20.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -804,4 +804,22 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Parts006–018 — **not registered**
 - exact next activity — **Part005 Pass1 scans106–115 / local pages1–10**
 - durable intake — `works/thenpandi-singam/SOURCE_INTAKE_PART_005.md`
+
+## Part005 Pass1 Batch 1 downstream state
+
+- Part005 Pass1 — **ACTIVE — 10/27 TEXT-COMPLETE**
+- completed scans — **106–115 / local pages1–10**
+- canonical Part005 records — **10/27**
+- total canonical repository records — **115**
+- status / visual fidelity — **needs-review / needs-review on 10/10**
+- source-backed final reread corrections — **2 / scans112, 114**
+- unresolved Pass1 holds — **0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- scan110 — chapter12 close after source-visible English reference note
+- scan111 — illustrated chapter13 opener / no visible folio
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass1 scans116–125 / local pages11–20**
+- durable progress — `PART_005_PASS1_PROGRESS.md`
 
