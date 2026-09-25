@@ -119,7 +119,7 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 005 | 5 | 110 | 96 | English reference-note continuation; chapter12 close; three closing ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0110-chapter-12.md` |
 | 005 | 6 | 111 | — | illustrated chapter13 opening; displayed numeral 13; no source-visible folio; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0111-chapter-13.md` |
 | 005 | 7 | 112 | 98 | chapter13 continuation; terminal `சுந்தராம்பாள்` continues to scan113; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0112-chapter-13.md` |
-| 005 | 8 | 113 | 99 | chapter13 continuation; completes `சுந்தராம்பாள் / வடிவாம்பாள் நடனக் கச்சேரி!`; Pass1 text-complete; Pass2A reviewed / **1 corrections** | needs-review | `pages/0113-chapter-13.md` |
+| 005 | 8 | 113 | 99 | chapter13 continuation; completes `சுந்தராம்பாள் / வடிவாம்பாள் நடனக் கச்சேரி!`; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0113-chapter-13.md` |
 | 005 | 9 | 114 | 100 | chapter13 dance-performance continuation; source-visible displayed song lines; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0114-chapter-13.md` |
 | 005 | 10 | 115 | 101 | chapter13 dance-performance continuation; multiple displayed stanzas; Pass1 text-complete; Pass2A reviewed / **2 corrections** | needs-review | `pages/0115-chapter-13.md` |
 
