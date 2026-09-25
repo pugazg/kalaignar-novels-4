@@ -123,6 +123,17 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 005 | 9 | 114 | 100 | chapter13 dance-performance continuation; source-visible displayed song lines; Pass1 text-complete | needs-review | `pages/0114-chapter-13.md` |
 | 005 | 10 | 115 | 101 | chapter13 dance-performance continuation; multiple displayed stanzas; Pass1 text-complete | needs-review | `pages/0115-chapter-13.md` |
 
+| 005 | 11 | 116 | 102 | chapter13 continuation; Pass1 text-complete | needs-review | `pages/0116-chapter-13.md` |
+| 005 | 12 | 117 | 103 | chapter13 continuation / confrontation; Pass1 text-complete | needs-review | `pages/0117-chapter-13.md` |
+| 005 | 13 | 118 | 104 | chapter13 continuation; Pass1 text-complete | needs-review | `pages/0118-chapter-13.md` |
+| 005 | 14 | 119 | 105 | chapter13 close; three closing ornaments; Pass1 text-complete | needs-review | `pages/0119-chapter-13.md` |
+| 005 | 15 | 120 | — | illustrated chapter14 opening; displayed numeral 14; no source-visible folio; terminal `குறுகிக்` remains open across scans121–122; Pass1 text-complete | needs-review | `pages/0120-chapter-14.md` |
+| 005 | 16 | 121 | — | full-page illustration; no literary body text; Pass1 structural record complete | needs-review | `pages/0121-chapter-14.md` |
+| 005 | 17 | 122 | — | illustration verso / blank; faint show-through only; no literary body text; Pass1 structural record complete | needs-review | `pages/0122-chapter-14.md` |
+| 005 | 18 | 123 | 107 | chapter14 continuation; resumes `கூனிக் குறுகிக் / காட்சியளித்தது.` after scans121–122 non-text leaf; Pass1 text-complete | needs-review | `pages/0123-chapter-14.md` |
+| 005 | 19 | 124 | 108 | chapter14 continuation; terminal `அம்பலக்காரர்` continues to scan125; Pass1 text-complete | needs-review | `pages/0124-chapter-14.md` |
+| 005 | 20 | 125 | 109 | chapter14 continuation; completes `அம்பலக்காரர் / மேல் என்ன குற்றம்?`; Pass1 text-complete | needs-review | `pages/0125-chapter-14.md` |
+
 ## Intake observations
 
 These are source-intake landmarks only; Pass1 remains responsible for canonical classification and transcription:
@@ -498,5 +509,26 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - outgoing Part005 132→133 — **PENDING direct audit / source-limited**
 - Part006 leakage — **0**
 - exact next activity — **Part005 Pass1 scans116–125 / local pages11–20**
+- durable progress — `PART_005_PASS1_PROGRESS.md`
+
+## Part005 Pass1 Batch 2 downstream state
+
+- Part005 Pass1 — **ACTIVE — 20/27 TEXT-COMPLETE**
+- completed scans — **106–125 / local pages1–20**
+- Batch 2 — **scans116–125 / local pages11–20 / 10/10 TEXT-COMPLETE**
+- canonical Part005 records — **20/27**
+- status — **needs-review 20/20**
+- visual fidelity — **needs-review 20/20**
+- scan119 — chapter13 close / three closing ornaments
+- scan120 — illustrated chapter14 opener / no visible folio
+- scans121–122 — **non-text illustration / verso structural records**
+- 120→121–122→123 — open `குறுகிக் / காட்சியளித்தது.` continuation preserved without invented bridge
+- 124→125 — `அம்பலக்காரர் / மேல் என்ன குற்றம்?`
+- unresolved Pass1 holds — **0**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass1 FINAL scans126–132 / local pages21–27**
 - durable progress — `PART_005_PASS1_PROGRESS.md`
 
