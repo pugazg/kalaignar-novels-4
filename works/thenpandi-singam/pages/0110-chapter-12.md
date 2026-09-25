@@ -33,4 +33,14 @@ Modern History, Madurai University, Madurai).
 - chapter 12 closes on this scan;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 110; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: 96; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part005 Pass 2A review
+
+- strict direct-source reread completed against rendered Part005 source pixels;
+- exact wording, visible word boundaries, punctuation, dialogue/quotation structure, displayed text, printed pagination and physical page structure checked;
+- source-text corrections: **0**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 110; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: 96; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
