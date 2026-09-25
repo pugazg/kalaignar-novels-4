@@ -10,7 +10,7 @@ This ledger records the user's **18 split source PDFs**.
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **ACTIVE — PASS1 20/27** |
+| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **PASS1 COMPLETE / PASS — PASS2A NEXT** |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
@@ -767,4 +767,26 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 Pass1 FINAL scans126–132 / local pages21–27**
 - durable progress — `PART_005_PASS1_PROGRESS.md`
+
+## Part005 Pass1 FINAL downstream state
+
+- Part005 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- completed scans — **106–132 / local pages1–27**
+- canonical Part005 records — **27/27**
+- total canonical repository records — **132**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- verified promotions during Pass1 — **0**
+- non-literary structural records — **2 / scans121–122**
+- chapter12 close — **scan110**
+- chapter13 opener / close — **scans111 / 119**
+- chapter14 opener / close — **scans120 / 129**
+- chapter15 opener — **scan130**
+- final-batch direct-source corrections — **2 / scans128, 131**
+- unresolved Pass1 holds — **0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- exact next activity — **Part005 Pass2A scans106–115 / local pages1–10**
+- durable Pass1 record — `PART_005_PASS1_PROGRESS.md`
 
