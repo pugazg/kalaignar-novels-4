@@ -15,7 +15,7 @@ transcription_method: "direct source-image transcription; Part005 Pass1 final ba
 
 ## Source transcription
 
-உறங்காப்புலி மூலமாக வெல்ஷ் துரைக்கு அனுப்பப்படுகிறது என்பதை வாளுக்கு வேலி முன்கூட்டியே தெரிந்து கொண்ட காரணத்தால் அந்தக் கடிதம் எப்படியும் வெல்ஷ் துரையின் கையில் கிடைக்காமல் செய்துவிட வேண்டுமென்றுதான் அந்த முயற்சியில் ஈடுபட ஆதப்பனை அனுப்பியிருக்கிறான்.
+உறங்காப்புலி மூலமாக வெல்ஷ் துரைக்கு அனுப்பப்படு கிறது என்பதை வாளுக்கு வேலி முன்கூட்டியே தெரிந்து கொண்ட காரணத்தால் அந்தக் கடிதம் எப்படியும் வெல்ஷ் துரையின் கையில் கிடைக்காமல் செய்துவிட வேண்டும் மென்றுதான் அந்த முயற்சியில் ஈடுபட ஆதப்பனை அனுப்பியிருக்கிறான்.
 
 மானாமதுரைக்கும் பார்த்திபனூருக்கும் இடையே பாசறைகள் அமைத்துக் கொண்டு பறங்கியர் பட்டாளத்தைச் சிதற அடிப்பதற்குத் தயார்ப்படுத்திக் கொண்டுள்ள விடுதலைப் படையினர் விழிப்புடன் இருக்க வேண்டுமேயானால் வெல்ஷுக்குக் கர்னல் அக்னியூ அனுப்பியுள்ள கடிதம் பற்றிய விவரம் விடுதலைப் போர்த் தளபதிகளுக்குத் தெரிந்தாக வேண்டும்.
 
@@ -30,4 +30,15 @@ transcription_method: "direct source-image transcription; Part005 Pass1 final ba
 - source line-break forms are retained for Pass1 where printed, including `அனுப்பப்படு கிறது` and `வேண்டும் மென்றுதான்`;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 131; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 26; அச்சுப் பக்கம்: 115; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part005 Pass 2A review
+
+- strict direct-source reread completed against rendered Part005 source pixels;
+- exact wording, visible word boundaries, punctuation, dialogue/quotation structure, displayed text, printed pagination and physical page structure checked;
+- source-text corrections: **2**;
+- correction: `அனுப்பப்படுகிறது` → `அனுப்பப்படு கிறது` — source-visible line-break word form;
+- correction: `வேண்டுமென்றுதான்` → `வேண்டும் மென்றுதான்` — source-visible spacing / line-break form;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 131; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 26; அச்சுப் பக்கம்: 115; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
