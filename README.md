@@ -11,8 +11,8 @@
 - source packaging: **18 split PDF Parts prepared by the user**
 - split-file size policy: each source Part is **not more than 50 MB**
 - source family / archive identifier: **TVA_BOK_0065559**
-- complete physical extent: **105 registered scans through Part004; Parts005–018 pending**
-- registered Parts: **4/18**
+- complete physical extent: **132 registered scans through Part005; Parts006–018 pending**
+- registered Parts: **5/18**
 - canonical `scan_page`: global across the complete work; **never resets at a Part boundary**
 - source PDFs committed to Git: **0**
 
@@ -794,6 +794,24 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - last supplied scan — **132 / printed116 / chapter15 open**
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - Part006 leakage — **0**
-- exact next activity — **Part005 Pass1 scans106–115 / local pages1–10**
+- exact next activity — **Part005 Pass1 scans116–125 / local pages11–20**
 - durable intake — `SOURCE_INTAKE_PART_005.md`
+
+## Part005 Pass1 Batch 1 downstream state
+
+- Part005 Pass1 — **ACTIVE — 10/27 TEXT-COMPLETE**
+- completed scans — **106–115 / local pages1–10**
+- canonical Part005 records — **10/27**
+- total canonical repository records — **115**
+- status / visual fidelity — **needs-review / needs-review on 10/10**
+- source-backed final reread corrections — **2 / scans112, 114**
+- unresolved Pass1 holds — **0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- scan110 — chapter12 close after source-visible English reference note
+- scan111 — illustrated chapter13 opener / no visible folio
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass1 scans116–125 / local pages11–20**
+- durable progress — `PART_005_PASS1_PROGRESS.md`
 
