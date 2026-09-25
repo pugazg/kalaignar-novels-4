@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part005 Pass2B scans116–125**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part005 Pass2B FINAL scans126–132**
 
 ## Work
 
@@ -1058,4 +1058,29 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part006 leakage — **0**
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 Pass2B scans116–125 / local pages11–20**
+- durable progress — `PART_005_PASS2B_PROGRESS.md`
+
+## Part005 Pass2B Batch 2 downstream state
+
+- Part005 Pass2B — **ACTIVE — 20/27 REVIEWED**
+- reviewed — **scans116–125 / local pages11–20**
+- cumulative reviewed — **scans106–125 / local pages1–20**
+- Batch 2 lexical / spacing / punctuation corrections — **0**
+- Batch 2 historical-glyph corrections — **0**
+- Batch 2 Pass2A supersessions — **0**
+- Batch 2 zero-correction scans — **116–125**
+- cumulative Pass2B lexical / spacing / punctuation corrections — **2 / scans108, 114**
+- cumulative historical-glyph corrections — **0**
+- cumulative Pass2A supersessions — **0**
+- scans121–122 structural review — **PASS / no literary text invented**
+- 120→121–122→123 continuation — **PASS / no bridge wording**
+- 124→125 continuation — **PASS**
+- scan125 Pass2A `இகழ்ந்திருக்கக்` — **PASS / retained**
+- unresolved Pass2B questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass2B FINAL scans126–132 / local pages21–27**
 - durable progress — `PART_005_PASS2B_PROGRESS.md`
