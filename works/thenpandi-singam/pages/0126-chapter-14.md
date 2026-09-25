@@ -15,7 +15,7 @@ transcription_method: "direct source-image transcription; Part005 Pass1 final ba
 
 ## Source transcription
 
-அவர்களுக்குப் பக்கபலமாக அந்தநேரம் பார்த்து வெள்ளை அய்யரும் வந்து சேர்ந்தார்! “என்ன லலிதா! சௌக்கியமோ? பார்த்து ரொம்ப நாள் ஆச்சு!” என்று லலிதாங்கியிடம் ஒரு அசட்டுச் சிரிப்புடன் நின்றார். அவருக்கு மரியாதை காட்டுகிற வகையில் சுந்தரியும் வடிவும் எழுந்து “வாங்க சுவாமிகளே!” என்று வணக்கம் தெரிவித்தனர்.
+அவர்களுக்குப் பக்கபலமாக அந்தநேரம் பார்த்து வெள்ளை அய்யரும் வந்து சேர்ந்தார்! “என்ன லலிதா! செளக்கியமோ? பார்த்து ரொம்ப நாள் ஆச்சு!” என்று லலிதாங்கியிடம் ஒரு அசட்டுச் சிரிப்புடன் நின்றார். அவருக்கு மரியாதை காட்டுகிற வகையில் சுந்தரியும் வடிவும் எழுந்து “வாங்க சுவாமிகளே!” என்று வணக்கம் தெரிவித்தனர்.
 
 “எல்லாம் கேள்விப்பட்டுத்தான் வந்திருக்கிறேன். ஒரு பக்கத்திலே கும்பினிக்காரனுக்கும் மருது பாண்டியருக்கும் போராட்டம்! அது என்ன ஆகுமோ! எப்படி முடியுமோ, தெரியாது! அதற்கிடையில் வாளுக்கு வேலித் தேவருக்கும் சுந்தராம்பாளுக்கும் ஒரு போராட்டமா? இது நல்லாயில்லையே! வாளுக்கு வேலிக்கு எவ்வளவோ பிரச்சினை! சமீப காலமாக கர்னல் அக்னியூ ஒருகண் வச்சிருக்கிறான் அவர்மேலே! அவர் இங்கிலீஷ்காரர்களையும் வெளிப்படையாக விரோதிக்க முடியாது! அதற்காக விடுதலைப் போராட்டம் நடத்துகிறவர்களையும் விட்டுவிட முடியாது! இந்த மாதிரி நிலையிலே அந்த மனிதர், கயிற்றின் மேலே நடந்து கொண்டிருக்கிறார். அத்தனை பிரச்சினைகளுக்கிடையிலே அவருக்கு அவர் தங்கை கல்யாணி நாச்சியார் ஒரு பெரிய பிரச்சினை! தங்கை மேல் அவருக்கு உயிர்! இல்லாவிட்டால் சுந்தராம்பாளைத் தேடிக்கொண்டு அவ்வளவு பெரிய அம்பலக்காரர் வருவாரோ?”
 
@@ -28,4 +28,14 @@ transcription_method: "direct source-image transcription; Part005 Pass1 final ba
 - terminal `அவளது` continues directly to scan127;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 126; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 110; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part005 Pass 2A review
+
+- strict direct-source reread completed against rendered Part005 source pixels;
+- exact wording, visible word boundaries, punctuation, dialogue/quotation structure, displayed text, printed pagination and physical page structure checked;
+- source-text corrections: **1**;
+- correction: `சௌக்கியமோ?` → `செளக்கியமோ?` — source-visible orthographic form;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 126; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: 110; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
