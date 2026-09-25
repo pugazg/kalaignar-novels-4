@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part005 Pass1 batch sc
 
 துணைத் தளபதி கர்னலுக்குப் பட்டாளத்து முறைப்படி வணக்கம் தெரிவித்துவிட்டு, செய்தியைப் பதட்டத்துடன் சொன்னான்.
 
-“நமது படைகளில் ஒன்று மருதுபாண்டியர் படைகளை எதிர்ப்பதற்குத் திருப்புவனத்தை விட்டுத் திருப்பாச்சேத்திக்குப் புறப்பட்டு வந்தது. அந்த எட்டுக்கல் தொலைவுக்குள் மருதுவின் வீரர்களால் நமது படைக்கு ஏற்பட்ட சேதம் மிகப் பெரிது! ஆற்றல் நிறைந்த “மேஜர் கிரே” கொல்லப்பட்டு விட்டார். பிளாக்கர், கோல், பார்மின்டன், ஸ்டுவர்ட் என்ற தளபதிகள் கடுமையான காயங்களுக்கு ஆளாகியிருக்கிறார்கள். பல வீரர்கள் உயிரிழந்தார்கள். போரில் சுடப்பட்டுக் கொல்லப்பட்ட மேஜர் கிரேயின் உடலைக் கண்டதுண்டமாக்கிப் போட்டுவிட்டனர் மருதுப் படையினர்!”
+“நமது படைகளில் ஒன்று மருதுபாண்டியர் படைகளை எதிர்ப்பதற்குத் திருப்புவனத்தை விட்டுத் திருப்பாச்சேத்திக்குப் புறப்பட்டு வந்தது. அந்த எட்டுக்கல் தொலைவுக்குள் மருதுவின் வீரர்களால் நமது படைக்கு ஏற்பட்ட சேதம் மிகப் பெரிது! ஆற்றல் நிறைந்த “மேஜர் கிரே”, கொல்லப்பட்டு விட்டார். பிளாக்கர், கோல், பார்மின்டன், ஸ்டுவர்ட் என்ற தளபதிகள் கடுமையான காயங்களுக்கு ஆளாகியிருக்கிறார்கள். பல வீரர்கள் உயிரிழந்தார்கள். போரில் சுடப்பட்டுக் கொல்லப்பட்ட மேஜர் கிரேயின் உடலைக் கண்டதுண்டமாக்கிப் போட்டுவிட்டனர் மருதுப் படையினர்!”
 
 துணைத் தளபதி சொன்ன செய்தி கேட்டு, கர்னல் அக்னியூ அதிர்ச்சி அடைந்தான்! ஆத்திரம் கொண்டான்! மூக்கு முட்டக் குடித்திருந்ததால் ஏறியிருந்த மயக்கம் தெளிந்தது!
 
@@ -45,4 +45,15 @@ transcription_method: "direct source-image transcription; Part005 Pass1 batch sc
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 108; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 94; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part005 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part005 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **1**;
+- correction: `“மேஜர் கிரே” கொல்லப்பட்டு` → `“மேஜர் கிரே”, கொல்லப்பட்டு` — source punctuation;
+- historical-glyph corrections: **0**;
+- 108→109 terminal `மேஜர் / கிரேயைக்` continuation rechecked / **PASS**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 108; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 94; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->
