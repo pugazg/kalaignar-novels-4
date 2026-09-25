@@ -36,4 +36,14 @@ transcription_method: "direct source-image transcription; Part005 Pass1 final ba
 - three source-visible closing ornaments are structural and are not promoted to prose;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 129; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 113; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part005 Pass 2A review
+
+- strict direct-source reread completed against rendered Part005 source pixels;
+- exact wording, visible word boundaries, punctuation, dialogue/quotation structure, displayed text, printed pagination and physical page structure checked;
+- source-text corrections: **0**;
+- chapter14 closing three ornaments rechecked as structural only / **PASS**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 129; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 113; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
