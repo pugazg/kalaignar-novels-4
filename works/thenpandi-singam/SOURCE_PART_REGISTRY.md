@@ -10,7 +10,7 @@ This ledger records the user's **18 split source PDFs**.
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **ENGLISH PLANNING PASS / COMPLETE — E17 NEXT** |
+| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **E17 SOURCE-CHECKED / COMPLETE — E18 NEXT** |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1118,3 +1118,23 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part006 leakage — **0**
 - exact next gate — **E17 draft + source-check — section22 / scans106–110**
 - durable controls — `translations/en/PART_005_TRANSLATION_PLAN.md`, `PART_005_GLOSSARY.md`, `PART_005_PROGRESS.md`
+
+## Part005 E17 English downstream state
+
+**E17 — SOURCE-CHECKED / COMPLETE.**
+
+- English file — `translations/en/sections/22-chapter-12-part005.md`
+- Tamil authority — `sections/22-chapter-12-part005.md`
+- source scans — **106–110**
+- cumulative Part005 translated/source-checked — **1/4 / 1/4**
+- Tamil / English literary-source blocks — **23 / 23**
+- provenance comments — **5 / 5**
+- source-visible English note on scans109–110 — **EXACT / preserved as source-language material**
+- omitted / duplicated blocks — **0 / 0**
+- unresolved E17 source-check holds — **0**
+- canonical / assembled Tamil edits caused by E17 — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- Part006 leakage — **0**
+- exact next gate — **E18 draft + source-check — section23 / scans111–119**
+- durable source-check — `translations/en/E17_SOURCE_CHECK.md`
