@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part005 E18 draft + source-check — section23 / scans111–119
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part005 whole-Part English glossary reconciliation — E17–E20
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–004 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to translate Part005.
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to reconcile Part005 English.
 
 ## Part005 Tamil authority
 
@@ -19,103 +19,104 @@ Source:
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **COMPLETE / PASS / CLOSED — 4/4 VERIFIED**
 
-Part005 assembled Tamil:
-
-1. `sections/22-chapter-12-part005.md` — scans106–110
-2. `sections/23-chapter-13.md` — scans111–119
-3. `sections/24-chapter-14.md` — scans120–129
-4. `sections/25-chapter-15-part005.md` — scans130–132
-
-## English state
+## Part005 English state
 
 Planning/setup — **COMPLETE / PASS**
 
-Reserved batches:
+Maintained/source-checked English:
 
-- E17 — section22 / scans106–110
-- E18 — section23 / scans111–119
-- E19 — section24 / scans120–129
-- E20 — section25 / scans130–132
+- **E17** — `translations/en/sections/22-chapter-12-part005.md` — scans106–110 — **SOURCE-CHECKED / COMPLETE**
+- **E18** — `translations/en/sections/23-chapter-13.md` — scans111–119 — **SOURCE-CHECKED / COMPLETE**
+- **E19** — `translations/en/sections/24-chapter-14.md` — scans120–129 — **SOURCE-CHECKED / COMPLETE**
+- **E20** — `translations/en/sections/25-chapter-15-part005.md` — scans130–132 — **SOURCE-CHECKED / COMPLETE**
 
-E17 is now **SOURCE-CHECKED / COMPLETE**.
+Durable source checks:
 
-E17 closure:
+- `translations/en/E17_SOURCE_CHECK.md`
+- `translations/en/E18_SOURCE_CHECK.md`
+- `translations/en/E19_SOURCE_CHECK.md`
+- `translations/en/E20_SOURCE_CHECK.md`
 
-- English file — `translations/en/sections/22-chapter-12-part005.md`
-- durable source-check — `translations/en/E17_SOURCE_CHECK.md`
-- Tamil / English literary-source blocks — **23 / 23**
-- provenance comments — **5 / 5**
-- scans109–110 source-visible English historical/reference note — **EXACT / preserved**
-- omitted / duplicated blocks — **0 / 0**
-- unresolved E17 source-check holds — **0**
-- cumulative Part005 translated/source-checked — **1/4 / 1/4**
-- canonical / assembled Tamil edits caused by E17 — **0 / 0**
+Cumulative state:
+
+- translated/source-checked — **4/4 / 4/4**
+- physical English source coverage — **scans106–132 / 27 of 27**
+- unresolved E17–E20 source-check holds — **0**
+- canonical / assembled Tamil edits caused by English drafting — **0 / 0**
 - frozen Parts001–004 English edits — **0**
-- incoming **105→106 = GENUINE CONTINUATION / AUDITED**
 - Part006 leakage — **0**
 
-## E18 Tamil source
+## Locked batch evidence
 
-Tamil source section:
+### E17
 
-`works/thenpandi-singam/sections/23-chapter-13.md`
+- Tamil / English blocks — **23 / 23**
+- provenance comments — **5 / 5**
+- scans109–110 source-visible English historical/reference note — **EXACT / preserved as source-language material**
+- incoming **105→106 = GENUINE CONTINUATION / AUDITED**
 
-Coverage:
+### E18
 
-- scans — **111–119**
-- source-visible chapter numeral — **13**
-- scan111 — chapter13 opening
-- scan112→113 — physical continuation `சுந்தராம்பாள் / வடிவாம்பாள் நடனக் கச்சேரி!`
-- scans114–115 — displayed dance-song / stanza material
-- scan115→116 — transition from performance to Vaalukkuveli’s arrival
-- scans116–119 — dressing-room confrontation
-- scan119 — chapter13 close
+- Tamil / English blocks — **68 / 68**
+- provenance comments — **8 / 8**
+- displayed dance-song / stanza material — **preserved in source order**
+- 112→113 continuation — **preserved**
+- chapter13 close — **preserved**
+
+### E19
+
+- Tamil / English blocks — **49 / 49**
+- provenance comments — **9 / 9 EXACT**
+- scans121–122 — **non-literary provenance only / 0 English literary prose**
+- 120→121–122→123 — **preserved / no bridge wording**
+- chapter14 close — **preserved**
+
+### E20
+
+- Tamil / English blocks — **14 / 14**
+- provenance comments — **3 / 3 EXACT**
+- chapter15 stops exactly at scan132
+- outgoing **132→133 = PENDING direct audit / source-limited**
+- Part006 / scan133 semantic completion — **0**
 
 ## Exact next activity
 
-Perform **E18 draft + source-check — section23 / scans111–119**.
+Perform **Part005 whole-Part English glossary reconciliation across E17–E20**.
 
-Create:
+Reconcile:
 
-- `works/thenpandi-singam/translations/en/sections/23-chapter-13.md`
-- `works/thenpandi-singam/translations/en/E18_SOURCE_CHECK.md`
+- `translations/en/PART_005_GLOSSARY.md`
+- all maintained English files E17–E20
+- all four E17–E20 source-check records
+- already source-checked frozen Part001–Part004 glossary forms where the identical Tamil form recurs.
 
-Update:
+Requirements:
 
-- `translations/en/PART_005_GLOSSARY.md` only for E18 source-backed translation decisions;
-- `translations/en/PART_005_PROGRESS.md`;
-- `translations/en/README.md`;
-- maintained Part005 lifecycle/control docs;
-- `NEXT_CHAT_PROMPT.md`.
-
-Translation rules:
-
-- translate only from verified Part005 canonical / assembled Tamil;
-- canonical Tamil remains controlling authority;
-- preserve source-visible chapter numeral **13**;
-- preserve speaker agency, chronology, dialogue turns, rhetoric, repetition, exclamation and paragraph/display structure;
-- preserve the dance-song / displayed performance material as literary/display text rather than explanatory prose;
-- do not add music/dance theory not stated by the source;
-- preserve source short/full name variants such as `சுந்தராம்பாள் / சுந்தரி`, `வடிவாம்பாள் / வடிவு` using already source-checked project forms where applicable;
-- any new source-specific term or name handling must be recorded in the Part005 glossary;
-- preserve physical source-boundary provenance comments;
-- do not add external historical, religious, social or literary commentary;
-- canonical Tamil edits caused by E18 — **0**;
-- assembled Tamil edits caused by E18 — **0**;
+- one consistent source-facing English form for each identical Tamil source form unless a source/context distinction is deliberately documented;
+- preserve distinct Tamil variants rather than cosmetically normalizing them;
+- detect conflicting transliterations, title renderings, place forms, kinship/address terms, military/colonial vocabulary and dance/performance terminology;
+- preserve scans109–110 source-visible English note **exactly**; do not normalize it to project glossary forms;
+- preserve E18 displayed-song choices as literary translation choices, not glossary facts;
+- preserve scans121–122 as non-literary provenance only;
+- preserve outgoing **132→133 = PENDING direct audit / source-limited**;
+- do not import Part006 / scan133 wording;
+- English prose corrections during reconciliation must be limited to demonstrated glossary inconsistencies and documented explicitly;
+- canonical Tamil edits — **0**;
+- assembled Tamil edits — **0**;
 - frozen Parts001–004 English edits — **0**;
 - Part006 leakage — **0**.
 
-Source-check requirements:
+Create:
 
-- every Tamil literary/display block must have exactly one corresponding maintained English block;
-- displayed song/stanza blocks must remain visibly distinct and in source order;
-- omitted / duplicated blocks — **0**;
-- provenance-comment sequence — **exact / auditable**;
-- 112→113 physical continuation — **preserved**;
-- 114→115 displayed-song / narration sequence — **preserved**;
-- scan119 chapter close — **preserved**;
-- unresolved E18 source-check holds — **0** before closure.
+- `works/thenpandi-singam/translations/en/PART_005_GLOSSARY_RECONCILIATION.md`
 
-If E18 closes **SOURCE-CHECKED / COMPLETE**, exact next gate:
+Update:
 
-**E19 draft + source-check — section24 / scans120–129.**
+- Part005 glossary/progress/translation plan;
+- English README;
+- maintained lifecycle/control documents;
+- `NEXT_CHAT_PROMPT.md`.
+
+If glossary reconciliation closes **RECONCILED / PASS**, exact next gate:
+
+**Part005 English editorial review across E17–E20.**
