@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Pass1 scans133–142
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Pass1 scans143–152
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,75 +18,66 @@ Controlling source:
 - SHA-256 — `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346`
 - local physical pages — **27**
 - global scans — **133–159**
-- local→global — **local1=scan133 … local27=scan159**
-- embedded/parsed text — **absent / unusable**
 - controlling representation — **rendered source page images**
 - source PDF — **outside Git**
 - source intake — **COMPLETE / PASS**
-- canonical Part006 records — **0/27**
-- Part006 Pass1 — **NOT STARTED**
 
-Durable intake:
+## Part006 Pass1 current state
 
-`works/thenpandi-singam/SOURCE_INTAKE_PART_006.md`
+- Pass1 — **ACTIVE — 10/27 TEXT-COMPLETE**
+- completed — **scans133–142 / local pages1–10**
+- canonical Part006 records — **10/27**
+- status — **needs-review on 10/10**
+- visual fidelity — **needs-review on 10/10**
+- source-backed reread corrections — **1 / scan133**
+- unresolved Pass1 holds — **0**
+- incoming **132→133 = GENUINE CONTINUATION / AUDITED**
+- frozen Part005 body changes — **0 / 0 / 0 canonical / assembled / English**
+- Part007 leakage — **0**
+- outgoing **159→160 = PENDING direct audit / source-limited**
 
-## Boundary state
+Durable progress:
 
-Incoming:
+`works/thenpandi-singam/PART_006_PASS1_PROGRESS.md`
 
-- frozen Part005 scan132 / printed116 ends at `... உன்னை நாங்க செட்டியார் வீட்டுக்`
-- Part006 scan133 / printed117 begins `கல்யாணத்திலே பார்த்தோமே!”`
-- **132→133 = GENUINE CONTINUATION / AUDITED**
-- physical continuation — `உன்னை நாங்க செட்டியார் வீட்டுக் / கல்யாணத்திலே பார்த்தோமே!”`
-- frozen Part005 canonical / assembled / maintained-English body changes — **0 / 0 / 0**
-- Part005 remains **FINAL CLOSED / FROZEN**
+## Completed Batch 1 landmarks
 
-Outgoing:
-
-- final supplied Part006 scan — **159 / printed143**
-- **159→160 = PENDING direct audit / source-limited**
-- Part007 is not supplied / registered
-- Part007 wording inferred or imported — **0**
-
-## Structural intake landmarks
-
-- scan133 / local1 / printed117 — chapter15 continuation
-- scan137 / local5 / printed121 — chapter15 close / closing ornaments
-- scan138 / local6 — illustrated chapter16 opener / displayed numeral16 / no source-visible folio
-- scan146 / local14 / printed130 — chapter16 close / closing ornaments
-- scan147 / local15 — illustrated chapter17 opener / displayed numeral17 / no source-visible folio
-- scan154 / local22 / printed138 — chapter17 close / closing ornaments
-- scan155 / local23 — illustrated chapter18 opener / displayed numeral18 / no source-visible folio
-- scan159 / local27 / printed143 — chapter18 body / supplied terminal scan / no source-visible chapter-close ornament
+- scan133 / printed117 — chapter15 continuation; closes frozen scan132 dialogue
+- scan137 / printed121 — chapter15 close / three closing ornaments
+- scan138 — illustrated chapter16 opener / displayed numeral16 / no source-visible folio
+- 138→139 — `விடுதலை / வீரர்கள்`
+- 139→140 — `அண்ணாந்து / நோக்கினான்.`
+- 140→141 — `ஆதப்பனின் / செவிகளில்`
+- 141→142 — `திரும்பிப் பார்த்து / விட்டு இன்னும்...`
 
 ## Exact next activity
 
-Perform **Part006 Pass1 — scans133–142 / local pages1–10**.
+Perform **Part006 Pass1 — scans143–152 / local pages11–20**.
 
 Requirements:
 
-- create one canonical page record per physical scan for **133–142**;
-- set `part: 6`, `part_page: 1–10`;
+- create one canonical page record per physical scan for **143–152**;
+- set `part: 6`, `part_page: 11–20`;
 - map printed folios only when source-visible;
 - keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 - transcribe only direct source-visible Tamil / source-language material;
-- preserve exact visible spelling, spacing, punctuation and dialogue/quotation structure;
+- preserve exact source spelling, punctuation, dialogue/quotation structure and physical continuations;
 - preserve recurring work-title / author / folio furniture as metadata rather than duplicated literary prose;
-- preserve the **132→133 genuine continuation** as provenance without copying frozen scan132 text into scan133;
-- scan137 — record chapter15 close / closing ornaments structurally;
-- scan138 — record illustrated chapter16 opener / displayed numeral16 / `printed_page: null`;
+- scan146 — verify and record chapter16 close / closing ornaments structurally;
+- scan147 — verify and record illustrated chapter17 opener / displayed numeral17 / `printed_page: null`;
+- inspect every 142→143 through 151→152 physical boundary directly from the source; do not invent bridge wording;
 - do not infer or import Part007 / scan160;
 - external-source comparison — **0**;
 - frozen Parts001–005 canonical / assembled / maintained-English body edits — **0 / 0 / 0**.
 
 Update:
 
-- Part006 Pass1 progress;
-- page map / source registry as appropriate;
-- source-intake downstream state;
+- `PART_006_PASS1_PROGRESS.md`;
+- `indexes/page-map.md`;
+- source registry / source-intake downstream state;
 - lifecycle/control documents;
 - `NEXT_CHAT_PROMPT.md`.
 
 After this batch, exact next activity should be:
 
-**Part006 Pass1 scans143–152 / local pages11–20.**
+**Part006 Pass1 FINAL scans153–159 / local pages21–27.**
