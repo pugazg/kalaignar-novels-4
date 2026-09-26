@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part005 whole-Part audit
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part005 final metadata-status synchronization
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,89 +20,68 @@ Do not reopen their canonical Tamil, assembled Tamil or maintained English merel
 - Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — 7 source-text corrections / 0 unresolved**
 - Pass2B — **COMPLETE / PASS — 27/27 REVIEWED — 4 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 1 Pass2A supersession / 0 unresolved**
 - Pass3 — **COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
+- whole-Part audit — **PASS / COMPLETE**
 - status / visual — **needs-review / needs-review on 27/27**
-- status promotions through Pass3 — **0**
+- status promotions through audit — **0**
 
-## Locked correction accounting
+Durable audit: `works/thenpandi-singam/PART_005_AUDIT.md`.
 
-### Pass2A
+## Audit-locked state
 
-- total source-text corrections — **7 occurrences**
-- affected scans — **113, 115, 125, 126, 131**
-- unresolved — **0**
-
-### Pass2B
-
-- total lexical / spacing / punctuation corrections — **4 occurrences**
-- affected scans — **108, 114, 131**
+- canonical Part005 records — **27/27**
+- scan coverage — **106–132 continuous**
+- duplicate / omitted canonical scans — **0 / 0**
+- `part_page` — **1–27 continuous**
+- source filename consistency — **27/27**
+- page-map rows — **27/27**
+- page-map duplicate / omitted rows — **0 / 0**
+- no-folio structural scans — **111, 120, 121, 122, 130**
+- Pass2A corrections — **7 occurrences / scans113, 115, 125, 126, 131**
+- Pass2B corrections — **4 occurrences / scans108, 114, 131**
 - historical-glyph corrections — **0**
 - Pass2A supersessions — **1 occurrence / scan131**
-- unresolved — **0**
-
-### Pass3
-
-- textual corrections — **0**
-- unresolved visual / structural questions — **0**
-
-## Locked structural findings
-
-- scans109–110 — source-visible English historical/reference note placement / continuation — **PASS / text unchanged**
-- scan110 — chapter12 close / three centered ornaments / intentional blank lower field — **PASS**
-- scan111 — illustrated chapter13 opener / displayed numeral 13 / mounted-warrior illustration / no source-visible folio — **PASS**
-- scan115 — stamp / handwriting are physical annotations only — **PASS**
-- scan119 — chapter13 close / three centered ornaments — **PASS**
-- scan120 — illustrated chapter14 opener / displayed numeral 14 / mounted-warrior illustration / no source-visible folio — **PASS**
-- scan121 — full-page non-literary illustration / no literary body text — **PASS**
-- scan122 — illustration verso / intentional blank / faint show-through only / no literary body text — **PASS**
-- 120→121–122→123 — `கூனிக் குறுகிக் / காட்சியளித்தது.` — **PASS / no bridge wording**
-- scan128 — internal imagined-speech display / quotation hierarchy — **PASS**
-- scan129 — chapter14 close / three centered ornaments — **PASS**
-- scan130 — illustrated chapter15 opener / displayed numeral 15 / mounted-warrior illustration / no source-visible folio — **PASS**
-- scan132 — Part005 terminal body page / printed116 / terminal dialogue open at `உன்னை நாங்க செட்டியார் வீட்டுக்` — **PASS**
-
-## Locked boundary state
-
+- Pass3 corrections — **0**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- unsupported body insertion — **0**
+- duplicated non-empty canonical source-transcription bodies — **0**
+- audit/review-note leakage into literary transcription — **0**
+- scans121–122 — **non-literary illustration / verso records**
 - incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
-- internal cross-page continuations audited through scan132 — **PASS**
 - outgoing 132→133 — **PENDING direct audit / source-limited**
-- scan133 / Part006 wording inferred or imported — **0**
 - frozen Parts001–004 body edits — **0**
 - Part006 leakage — **0**
 
-Durable progress:
-
-- `works/thenpandi-singam/PART_005_PASS1_PROGRESS.md`
-- `works/thenpandi-singam/PART_005_PASS2A_PROGRESS.md`
-- `works/thenpandi-singam/PART_005_PASS2B_PROGRESS.md`
-- `works/thenpandi-singam/PART_005_PASS3_PROGRESS.md`
-
 ## Exact next activity
 
-Perform the **Part005 whole-Part audit — scans106–132 / local pages1–27**.
+Perform **Part005 final metadata/status synchronization — scans106–132 / 27 pages**.
 
-Audit all of the following as one closed Part005 unit:
+Authorized canonical mutations only:
 
-- canonical physical coverage — exactly **27 records / scans106–132**;
-- duplicate canonical scans — **0 expected**;
-- omitted canonical scans — **0 expected**;
-- `part_page` sequence — exactly **1–27**;
-- source filename consistency — exact Part005 filename on all 27 records;
-- source/global/local numbering consistency;
-- printed-page mapping and intentional no-folio structural pages;
-- Pass1 completeness;
-- Pass2A correction ledger and affected-scan accounting;
-- Pass2B correction ledger, historical-glyph accounting and the single Pass2A supersession;
-- Pass3 visual/structural evidence and structural inventory;
-- chapter transitions and closing ornaments;
-- illustrated chapter openers;
-- scans121–122 inserted non-literary leaf / verso handling;
-- all meaningful cross-page joins;
-- incoming **105→106 = GENUINE CONTINUATION / AUDITED**;
-- outgoing **132→133 = PENDING direct audit / source-limited**;
-- unsupported body insertion / duplicated body text / audit-note leakage — **0 expected**;
+- `status: "needs-review"` → `status: "verified"`
+- `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
+
+Requirements:
+
+- update all **27/27** Part005 canonical page records;
+- do **not** alter `## Source transcription` Tamil / English source material;
+- do **not** alter Pass1 / Pass2A / Pass2B / Pass3 historical evidence except for lifecycle documentation required to record status synchronization;
+- preserve printed-page / no-folio metadata exactly;
+- preserve scans121–122 as non-literary structural records;
+- update Part005 page-map status rows from `needs-review` to `verified`;
+- create a durable `PART_005_FINAL_STATUS_SYNC.md` record;
+- synchronize registry, workflow, source-intake/progress ledgers, README, archival guidelines, handover and next-chat control;
+- canonical Tamil body changes caused by status sync — **0**;
 - frozen Parts001–004 body edits — **0**;
-- Part006 leakage — **0**.
+- Part006 leakage — **0**;
+- preserve outgoing **132→133 = PENDING direct audit / source-limited**;
+- do not infer Part006 / scan133.
 
-Create / update a durable Part005 audit record only from live repository evidence.
+After synchronization, Part005 should report:
 
-Do **not** promote `status` or `visual_fidelity` during the whole-Part audit. Final metadata/status synchronization is a separate gate.
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- canonical Tamil body changes caused by status sync — **0**
+
+Do not proceed into documentation synchronization in the same iteration.
