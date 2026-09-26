@@ -11,7 +11,7 @@ This ledger records the user's **18 split source PDFs**.
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 006 | pending | pending | pending | pending | pending | blocked | not started |
+| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **SOURCE INTAKE COMPLETE / PASS — PASS1 NEXT** |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1270,4 +1270,28 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part006 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
 - exact next activity — **Part006 source intake when supplied**
 - durable closure — `PART_005_FINAL_CLOSURE.md`
+
+## Part006 registered source facts
+
+- source family / archive identifier — **TVA_BOK_0065559**
+- exact source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf`
+- source bytes — **48,442,743**
+- SHA-256 — `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346`
+- local physical pages — **27**
+- global scans — **133–159**
+- embedded/parsed text layer — **absent / unusable**
+- controlling representation — **rendered source page images**
+- source PDF storage rule — **outside Git**
+- printed folios directly visible — **117–143**, except illustrated chapter openers
+- chapter15 continuation/close — **scans133–137**
+- chapter16 — **scans138–146**
+- chapter17 — **scans147–154**
+- chapter18 supplied extent — **scans155–159**
+- illustrated chapter openers / no source-visible folio — **scans138, 147, 155**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- frozen Part005 canonical / assembled / maintained-English body changes — **0 / 0 / 0**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- Part006 canonical page records at intake closure — **0/27**
+- exact next activity — **Part006 Pass1 scans133–142 / local pages1–10**
+- durable intake — `SOURCE_INTAKE_PART_006.md`
 
