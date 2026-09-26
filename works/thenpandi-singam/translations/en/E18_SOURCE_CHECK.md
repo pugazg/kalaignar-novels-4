@@ -126,3 +126,18 @@ Independent literary commentary added — **0**.
 ## Exact next activity
 
 Perform **E19 draft + source-check — section24 / scans120–129**.
+
+## Post-source-check whole-Part glossary reconciliation
+
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- E18 English source-form repairs — **10 occurrences**
+- repair class — source `வாளுக்குவேலி` closed-form spacing preserved as **Vaalukkuveli**
+- affected scans — **112, 113, 114, 115, 116, 118, 119**
+- literary/display block count after repairs — **68 / unchanged**
+- provenance comments — **8 / 8 unchanged**
+- unresolved E18 glossary conflicts — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- exact next gate — **Part005 English editorial review across E17–E20**
+- durable reconciliation — `PART_005_GLOSSARY_RECONCILIATION.md`
+
