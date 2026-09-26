@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PLANNING / SETUP — COMPLETE / PASS — E17 NEXT**
+**E17 SOURCE-CHECKED / COMPLETE — E18 NEXT**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -30,8 +30,8 @@ Reserved Part005 batches: **E17–E20**.
 
 | Batch | Tamil assembled coverage | Scans | Planned English file | State |
 |---|---|---:|---|---|
-| **E17** | section22 — chapter12 Part005 continuation/close | 106–110 | `sections/22-chapter-12-part005.md` | **PLANNED / NEXT** |
-| **E18** | section23 — chapter13 | 111–119 | `sections/23-chapter-13.md` | **PLANNED** |
+| **E17** | section22 — chapter12 Part005 continuation/close | 106–110 | `sections/22-chapter-12-part005.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E18** | section23 — chapter13 | 111–119 | `sections/23-chapter-13.md` | **PLANNED / NEXT** |
 | **E19** | section24 — chapter14 | 120–129 | `sections/24-chapter-14.md` | **PLANNED** |
 | **E20** | section25 — chapter15 Part005 portion | 130–132 | `sections/25-chapter-15-part005.md` | **PLANNED** |
 
@@ -98,4 +98,24 @@ Outgoing:
 
 ## Exact next gate
 
-**E17 draft + source-check — section22 / scans106–110.**
+**E18 draft + source-check — section23 / scans111–119.**
+
+## E17 closure
+
+- E17 — **SOURCE-CHECKED / COMPLETE**
+- English file — `sections/22-chapter-12-part005.md`
+- source — Tamil section22 / scans106–110
+- translated/source-checked — **1/4 / 1/4 cumulative**
+- Tamil / English literary-source blocks — **23 / 23**
+- provenance comments — **5 / 5**
+- source-visible English historical/reference note — **EXACT / preserved**
+- omitted / duplicated blocks — **0 / 0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- frozen E16 body changes — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- unresolved E17 source-check holds — **0**
+- Part006 leakage — **0**
+- exact next gate — **E18 draft + source-check — section23 / scans111–119**
+- durable source-check — `E17_SOURCE_CHECK.md`
+
