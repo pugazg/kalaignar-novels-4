@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**E17–E20 SOURCE-CHECKED / COMPLETE — WHOLE-PART GLOSSARY RECONCILIATION NEXT**
+**WHOLE-PART GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -98,7 +98,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part005 whole-Part English glossary reconciliation across E17–E20.**
+**Part005 English editorial review across E17–E20.**
 
 ## E17 closure
 
@@ -141,4 +141,24 @@ Outgoing:
 - Part006 leakage — **0**
 - exact next gate — **Part005 whole-Part English glossary reconciliation across E17–E20**
 - durable source-checks — `E18_SOURCE_CHECK.md`, `E19_SOURCE_CHECK.md`, `E20_SOURCE_CHECK.md`
+
+## Whole-Part glossary reconciliation closure
+
+- glossary reconciliation — **RECONCILED / PASS**
+- maintained English — **4/4 source-checked**
+- physical coverage — **106–132 / 27 scans**
+- literary/display blocks — **154 Tamil / 154 English**
+- provenance comments — **25 / 25**
+- English body files changed — **3/4**
+- English source-form repairs — **15**
+- E17 / E18 / E19 / E20 repairs — **0 / 10 / 3 / 2**
+- remaining Vaalukku source-form mismatches — **0**
+- scans109–110 source-visible English note — **EXACT / unchanged**
+- unresolved glossary conflicts — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- durable record — `PART_005_GLOSSARY_RECONCILIATION.md`
+- exact next gate — **Part005 English editorial review across E17–E20**
 
