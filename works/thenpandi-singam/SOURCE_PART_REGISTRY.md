@@ -10,7 +10,7 @@ This ledger records the user's **18 split source PDFs**.
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **ASSEMBLED TAMIL PASS / CLOSED — ENGLISH PLANNING NEXT** |
+| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **ENGLISH PLANNING PASS / COMPLETE — E17 NEXT** |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1094,3 +1094,27 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 English translation planning/setup — reserve E17–E20**
 - durable validation — `PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
+
+## Part005 English planning downstream state
+
+**PART005 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
+
+- live collision check — **PASS**
+- existing batch controls before setup — **E1–E16**
+- existing maintained English section orders before setup — **00–21**
+- reserved Part005 batches — **E17–E20**
+- planned maintained English files — **4**
+- batch/file mapping — **E17→22 / E18→23 / E19→24 / E20→25**
+- translated/source-checked at planning closure — **0/4 / 0/4**
+- English literary prose drafted during planning — **0**
+- unresolved planning / glossary holds — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Parts001–004 English edits — **0**
+- scans109–110 source-visible English note — **source material / preserve without modernization**
+- scans121–122 — **non-literary provenance only / 0 planned English prose**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- exact next gate — **E17 draft + source-check — section22 / scans106–110**
+- durable controls — `translations/en/PART_005_TRANSLATION_PLAN.md`, `PART_005_GLOSSARY.md`, `PART_005_PROGRESS.md`
