@@ -161,6 +161,13 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 006 | 18 | 150 | 134 | chapter17 devotional-song sequence; displayed verses; terminal `பிரதட்சணமாகச்` continues to scan151; Pass1 text-complete | needs-review | `pages/0150-chapter-17.md` |
 | 006 | 19 | 151 | 135 | chapter17 continuation; completes `பிரதட்சணமாகச் / சுற்றி வந்த`; terminal `இசை` continues to scan152; Pass1 text-complete | needs-review | `pages/0151-chapter-17.md` |
 | 006 | 20 | 152 | 136 | chapter17 continuation; completes `இசை / விருந்தும்`; terminal direct speech remains open to scan153; Pass1 text-complete | needs-review | `pages/0152-chapter-17.md` |
+| 006 | 21 | 153 | 137 | chapter17 continuation; completes scan152 open direct speech; Pass1 text-complete | needs-review | `pages/0153-chapter-17.md` |
+| 006 | 22 | 154 | 138 | chapter17 close; three closing ornaments; Pass1 text-complete | needs-review | `pages/0154-chapter-17.md` |
+| 006 | 23 | 155 | — | illustrated chapter18 opening; displayed numeral18; mounted-warrior illustration; no source-visible folio; terminal `அறை முழுவதும்` continues to scan156; Pass1 text-complete | needs-review | `pages/0155-chapter-18.md` |
+| 006 | 24 | 156 | 140 | chapter18 continuation; completes `அறை முழுவதும் / காலியாகவில்லையென்றாலும்`; Pass1 text-complete | needs-review | `pages/0156-chapter-18.md` |
+| 006 | 25 | 157 | 141 | chapter18 continuation / dialogue / internal imagined speech; Pass1 text-complete | needs-review | `pages/0157-chapter-18.md` |
+| 006 | 26 | 158 | 142 | chapter18 continuation; Pass1 text-complete | needs-review | `pages/0158-chapter-18.md` |
+| 006 | 27 | 159 | 143 | Part006 terminal chapter18 continuation; no chapter-closing ornament; outgoing 159→160 pending/source-limited; Pass1 text-complete | needs-review | `pages/0159-chapter-18.md` |
 
 ## Intake observations
 
