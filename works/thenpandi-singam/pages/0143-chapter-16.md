@@ -21,7 +21,7 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 
 “சே! மனைவி! மானங்கெட்டவள்!”
 
-வீரம்மாளின் கன்னத்தில் ஓங்கி அறைகிறான். அவள் நிதானமாக அவனைப்பார்த்து, “மனைவியாகக் கூட வேண்டாம்! இந்த மண்ணில் பிறந்த ஒரு தமிழச்சி என்ற முறையில் எனக்கு உங்களைத் தடுக்க உரிமை உண்டு!” என்று சொல்லி முடிப்பதற்குள், உறங்காப்புலி தன் கையிலிருந்த முரட்டு நூல் கயிற்றால் அவளை வளைத்து விடுகிறான்.
+வீரம்மாளின் கன்னத்தில் ஓங்கி அறைகிறான். அவள் நிதானமாக அவனைப்பார்த்து, “மனைவியாகக் கூட வேண்டாம்! இந்த மண்ணில் பிறந்த ஒரு தமிழச்சி என்ற முறையில் எனக்கு உங்களைத் தடுக்க உரிமை யுண்டு!” என்று சொல்லி முடிப்பதற்குள், உறங்காப்புலி தன் கையிலிருந்த முரட்டு நூல் கயிற்றால் அவளை வளைத்து விடுகிறான்.
 
 “கணவனே கண்கண்ட தெய்வம்! கல்லானாலும் கணவன், புல்லானாலும் புருஷன்! பத்தினிக்கழகு பதி சொல்கேட்பது! இதெல்லாம் வெறும் வாயலங்காரம் என்பதை உன்னைப் பார்த்துத்தானடி தெரிந்து கொண்டேன்!”
 
@@ -36,5 +36,14 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 - chapter16 continuation; printed page **127**;
 - scan142 ends a prior reply; this scan continues the confrontation with a new direct-speech turn;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part006 Pass 2A review
+
+- strict direct-source reread completed against rendered Part006 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, displayed text, source-visible pagination and physical-page structure checked;
+- source-text correction: `உரிமை உண்டு!` → source-visible `உரிமை யுண்டு!`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 143; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 127; PASS 1 TEXT-COMPLETE / needs-review -->
