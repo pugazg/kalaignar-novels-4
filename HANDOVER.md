@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part005 Pass3 scans116–125**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part005 Pass3 FINAL scans126–132**
 
 ## Work
 
@@ -1131,4 +1131,24 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part006 leakage — **0**
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 Pass3 scans116–125 / local pages11–20**
+- durable progress — `PART_005_PASS3_PROGRESS.md`
+
+## Part005 Pass3 Batch 2 downstream state
+
+- Part005 Pass3 — **ACTIVE — 20/27 REVIEWED**
+- reviewed — **scans116–125 / local pages11–20**
+- cumulative reviewed — **scans106–125 / local pages1–20**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- scan119 — chapter13 close / three ornaments — **PASS**
+- scan120 — illustrated chapter14 opener / displayed numeral 14 / mounted-warrior illustration / no source-visible folio — **PASS**
+- scans121–122 — non-literary illustration / illustration-verso — **STRUCTURAL PASS / no literary text invented**
+- 120→121–122→123 — `கூனிக் குறுகிக் / காட்சியளித்தது.` — **PASS / no bridge wording**
+- 124→125 — `அம்பலக்காரர் / மேல் என்ன குற்றம்?` — **PASS**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass3 FINAL scans126–132 / local pages21–27**
 - durable progress — `PART_005_PASS3_PROGRESS.md`
