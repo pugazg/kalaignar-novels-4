@@ -207,4 +207,19 @@ Perform **E18 draft + source-check — section23 / scans111–119**.
 - Part006 leakage — **0**
 - exact next gate — **Part005 English editorial review across E17–E20**
 - durable reconciliation — `PART_005_GLOSSARY_RECONCILIATION.md`
+## Post-E17 Part005 English editorial review note
+
+The later Part005 whole-Part English editorial review made **8 English-only readability/grammar repairs** in this maintained E17 file.
+
+- literary/display block count changed — **0**
+- provenance comments changed — **0**
+- source order changed — **0**
+- glossary-locked source variants broken — **0**
+- scans109–110 source-visible English note changed — **0 / EXACT preserved**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- E17 remains **SOURCE-CHECKED / COMPLETE**
+- durable editorial review — `PART_005_EDITORIAL_REVIEW.md`
+- exact next gate — **Part005 whole-Part bilingual review across E17–E20 / scans106–132**
 
