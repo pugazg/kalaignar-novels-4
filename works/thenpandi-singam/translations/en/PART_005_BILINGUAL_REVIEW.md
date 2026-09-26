@@ -267,3 +267,30 @@ Repository comparison from pre-bilingual head `e645a85acc227a292d69495bb8f0310ae
 Perform **Part005 release/readiness report**.
 
 That gate must be non-textual: it may synchronize/read controls, but must change canonical Tamil, assembled Tamil and maintained English body text by **0 / 0 / 0**.
+
+## Part005 final closure downstream state
+
+**PART005 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- source scans — **106–132 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- canonical / assembled / maintained-English body changes after release/readiness — **0 / 0 / 0**
+- scans109–110 source-visible English note — **EXACT / unchanged**
+- scans121–122 — **non-literary provenance only**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited / preserved**
+- Part006 leakage — **0**
+- final-closed Parts — **5**
+- Part006 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part006 source intake when supplied**
+- durable closure — `../../PART_005_FINAL_CLOSURE.md`
+
