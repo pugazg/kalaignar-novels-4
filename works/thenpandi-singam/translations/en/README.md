@@ -845,3 +845,24 @@ Exact next gate: **Part004 whole-Part English glossary reconciliation across E13
 - Part006 leakage — **0**
 - exact next gate — **E18 draft + source-check — section23 / scans111–119**
 - durable source-check — `translations/en/E17_SOURCE_CHECK.md`
+
+## Part005 E18–E20 English downstream state
+
+**PART005 E17–E20 — SOURCE-CHECKED / COMPLETE — 4/4.**
+
+- E17 — scans106–110 — **SOURCE-CHECKED / COMPLETE**
+- E18 — scans111–119 — **SOURCE-CHECKED / COMPLETE**
+- E19 — scans120–129 — **SOURCE-CHECKED / COMPLETE**
+- E20 — scans130–132 — **SOURCE-CHECKED / COMPLETE**
+- cumulative Part005 translated/source-checked — **4/4 / 4/4**
+- English physical source coverage — **106–132 / 27 of 27 scans**
+- scans121–122 English literary prose — **0**
+- omitted / duplicated blocks — **0 / 0**
+- unresolved E17–E20 source-check holds — **0**
+- canonical / assembled Tamil edits caused by English work — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- exact next gate — **Part005 whole-Part English glossary reconciliation across E17–E20**
+- durable checks — `translations/en/E17_SOURCE_CHECK.md` through `translations/en/E20_SOURCE_CHECK.md`
