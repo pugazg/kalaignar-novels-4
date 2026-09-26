@@ -178,7 +178,7 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part005 release/readiness report.**
+**Part006 source intake when supplied.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records are `verified` and visual `verified`. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
@@ -1304,4 +1304,31 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - Part006 leakage — **0**
 - durable review — `translations/en/PART_005_BILINGUAL_REVIEW.md`
 - exact next activity — **Part005 release/readiness report**
+
+## Part005 final closure downstream state
+
+**PART005 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- source scans — **106–132 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- canonical / assembled / maintained-English body changes after release/readiness — **0 / 0 / 0**
+- scans109–110 source-visible English note — **EXACT / unchanged**
+- scans121–122 — **non-literary provenance only**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited / preserved**
+- Part006 leakage — **0**
+- final-closed Parts — **5**
+- registered Parts — **5 / 18**
+- Part006 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part006 source intake when supplied**
+- durable closure — `works/thenpandi-singam/PART_005_FINAL_CLOSURE.md`
 
