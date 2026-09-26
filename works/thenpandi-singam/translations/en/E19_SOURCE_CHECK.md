@@ -125,3 +125,19 @@ No external historical, religious or literary explanation was added.
 ## Exact next activity
 
 Perform **E20 draft + source-check — section25 / scans130–132**.
+
+## Post-source-check whole-Part glossary reconciliation
+
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- E19 English source-form repairs — **3 occurrences**
+- repair class — source `வாளுக்குவேலி` closed-form spacing preserved as **Vaalukkuveli**
+- affected scans — **126, 128, 129**
+- literary/display block count after repairs — **49 / unchanged**
+- provenance comments — **9 / 9 unchanged**
+- scans121–122 English literary prose — **0**
+- unresolved E19 glossary conflicts — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- exact next gate — **Part005 English editorial review across E17–E20**
+- durable reconciliation — `PART_005_GLOSSARY_RECONCILIATION.md`
+
