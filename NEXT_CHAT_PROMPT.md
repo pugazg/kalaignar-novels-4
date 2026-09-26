@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Pass2A scans143–152
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Pass2A FINAL scans153–159
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,11 +31,11 @@ Controlling source:
 
 ## Part006 Pass2A current state
 
-- Pass2A — **ACTIVE — 10/27 REVIEWED**
-- reviewed — **scans133–142 / local pages1–10**
-- source-text corrections — **6 occurrences / 5 scans**
-- affected scans — **133, 134, 136, 137, 142**
-- zero-correction scans — **135, 138, 139, 140, 141**
+- Pass2A — **ACTIVE — 20/27 REVIEWED**
+- reviewed — **scans133–152 / local pages1–20**
+- cumulative source-text corrections — **13 occurrences / 9 scans**
+- cumulative affected scans — **133, 134, 136, 137, 142, 143, 148, 150, 152**
+- Pass1 supersessions — **1 / scan152**
 - unresolved Pass2A questions — **0**
 - status — **needs-review on 27/27**
 - visual fidelity — **needs-review on 27/27**
@@ -49,38 +49,37 @@ Durable progress:
 
 `works/thenpandi-singam/PART_006_PASS2A_PROGRESS.md`
 
-## Batch 1 corrections locked
+## Batch 2 corrections locked
 
-- scan133 — `காந்தம் போல்` → `காந்தம்போல்`
-- scan134 — `கேட்டுக்கத்தான்` → `கேட்டுக்கத் தான்`
-- scan136 — `வந்துவிடட்டுமே!` → `வந்துவிட்டுமே!`
-- scan137 — `தவறை` → `தவற்றை`
-- scan137 — `முணுமுணுத்தது` → `முணு முணுத்தது`
-- scan142 — `தவறிப் போய்க்` → `தவறிப்போய்க்`
+- scan143 — `உரிமை உண்டு!` → `உரிமை யுண்டு!`
+- scan148 — `காத்துக் கொண்டு` → `காத்துக்கொண்டு`
+- scan148 — `இருப்பீர்களென்றுதான்` → `இருப்பீர் களென்றுதான்`
+- scan150 — `அந்தப் பாட்டு` → `அந்தப்பாட்டு`
+- scan152 — `அந்தத் தலை நிகழ்ச்சியில்` → `அந்தக் கலை நிகழ்ச்சியில்`
+- scan152 — `நீலவண்ணித் தோகை` → `நீலமணித் தோகை`
+- scan152 — `எழுதி கொடுத்து` → `எழுதிக் கொடுத்து`
 
 ## Exact next activity
 
-Perform **Part006 Pass2A — scans143–152 / local pages11–20**.
+Perform **Part006 Pass2A FINAL — scans153–159 / local pages21–27**.
 
 Review requirements:
 
-- strict direct-source reread of canonical scans **143–152** against rendered source pixels;
-- verify exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, displayed text and source-visible pagination;
+- strict direct-source reread of canonical scans **153–159** against rendered source pixels;
+- verify exact lexical content, source-visible word boundaries / line-break forms, punctuation, dialogue/quotation structure, displayed text and source-visible pagination;
 - correct only demonstrated source-reading defects;
 - preserve source spellings and occurrence-sensitive name/spacing forms;
-- scan146 — verify chapter16 close / three source-visible closing ornaments;
-- scan147 — verify illustrated chapter17 opener / displayed numeral17 / no source-visible folio;
-- recheck 147→148 `மானா / மதுரைக்கும்`;
-- scan148 — verify displayed letter/signature structure and source order;
-- scan150 — verify displayed devotional verses and printed line order;
-- recheck 150→151 `பிரதட்சணமாகச் / சுற்றி வந்த`;
-- recheck 151→152 `இசை / விருந்தும்`;
-- scan152 — terminal direct speech remains open to scan153; do not copy scan153 wording backward;
+- recheck **152→153** continuation from the open scan152 direct speech;
+- scan154 — verify chapter17 close / three source-visible closing ornaments;
+- scan155 — verify illustrated chapter18 opener / displayed numeral18 / no source-visible folio;
+- recheck 155→156 `அறை முழுவதும் / காலியாகவில்லையென்றாலும்`;
+- verify scans156–159 narrative/dialogue order directly from source;
+- scan159 / printed143 — preserve exactly what is source-visible; do not infer scan160 continuation;
+- outgoing **159→160 = PENDING direct audit / source-limited**;
 - keep `status: "needs-review"` and `visual_fidelity: "needs-review"`; no promotion during Pass2A;
 - external-source comparison — **0**;
 - frozen Parts001–005 canonical / assembled / maintained-English body edits — **0 / 0 / 0**;
-- Part007 leakage — **0**;
-- outgoing **159→160 = PENDING direct audit / source-limited**.
+- Part007 leakage — **0**.
 
 Update:
 
@@ -91,6 +90,6 @@ Update:
 - lifecycle/control documents;
 - `NEXT_CHAT_PROMPT.md`.
 
-After this batch, exact next activity should be:
+If Pass2A closes **COMPLETE / PASS — 27/27 REVIEWED**, exact next activity should be:
 
-**Part006 Pass2A FINAL scans153–159 / local pages21–27.**
+**Part006 Pass2B scans133–142 / local pages1–10.**
