@@ -2,15 +2,15 @@
 
 ## Gate
 
-**PASS 1 — ACTIVE — 10/27 TEXT-COMPLETE**
+**PASS 1 — ACTIVE — 20/27 TEXT-COMPLETE**
 
 Canonical Part006 coverage:
 
-- local pages — **1–10 / 27**
-- global scans — **133–142 / 27**
-- canonical Part006 records — **10/27**
-- status — **needs-review on 10/10**
-- visual fidelity — **needs-review on 10/10**
+- local pages — **1–20 / 27**
+- global scans — **133–152 / 27**
+- canonical Part006 records — **20/27**
+- status — **needs-review on 20/20**
+- visual fidelity — **needs-review on 20/20**
 - verified promotions — **0**
 - unresolved Pass1 source-reading holds — **0**
 - frozen Part001–Part005 body edits — **0**
@@ -90,8 +90,69 @@ Enlarged rendered-source reread corrected **1 Pass1 transcription slip** before 
 - frozen Parts001–005 body edits — **0**
 - Part007 leakage — **0**
 
-## Exact next activity
+## Batch 2 — scans143–152
 
-**Part006 Pass1 — scans143–152 / local pages11–20.**
+| Local | Scan | Printed | Chapter | Structural state | Pass1 |
+|---:|---:|---:|---:|---|---|
+| 11 | 143 | 127 | 16 | confrontation/dialogue continuation | TEXT-COMPLETE |
+| 12 | 144 | 128 | 16 | confrontation escalation | TEXT-COMPLETE |
+| 13 | 145 | 129 | 16 | fight / Veerammal plea | TEXT-COMPLETE |
+| 14 | 146 | 130 | 16 | chapter16 close; three closing ornaments | TEXT-COMPLETE |
+| 15 | 147 | — | 17 | illustrated chapter17 opening; displayed numeral17; no visible folio; terminal `மானா` open to scan148 | TEXT-COMPLETE |
+| 16 | 148 | 132 | 17 | completes `மானா / மதுரைக்கும்`; displayed letter/signature continuation | TEXT-COMPLETE |
+| 17 | 149 | 133 | 17 | Vaalukku Veli / Vellai Ayyar dialogue | TEXT-COMPLETE |
+| 18 | 150 | 134 | 17 | displayed devotional verses; terminal `பிரதட்சணமாகச்` open to scan151 | TEXT-COMPLETE |
+| 19 | 151 | 135 | 17 | completes `பிரதட்சணமாகச் / சுற்றி வந்த`; dance sequence; terminal `இசை` open to scan152 | TEXT-COMPLETE |
+| 20 | 152 | 136 | 17 | completes `இசை / விருந்தும்`; terminal direct speech remains open to scan153 | TEXT-COMPLETE |
 
-Process **10 source pages**. Keep canonical records at `needs-review` / visual `needs-review`; do not promote status during Pass1.
+## Batch 2 cross-page / structural evidence
+
+- 142→143 — dialogue sequence continues; no invented bridge wording
+- 143→144 — page transition / no source-supported word split
+- 144→145 — page transition / no source-supported word split
+- 145→146 — page transition into chapter16 close
+- scan146 — chapter16 closes; three source-visible closing ornaments remain structural only
+- scan147 — illustrated chapter17 opener; no source-visible printed folio
+- 147→148 — `மானா / மதுரைக்கும்` — **PRESERVED**
+- 148→149 — completed letter / temple-dialogue transition — **PASS**
+- 149→150 — dialogue → devotional-song sequence — **PASS**
+- 150→151 — `பிரதட்சணமாகச் / சுற்றி வந்த` — **PRESERVED**
+- 151→152 — `இசை / விருந்தும்` — **PRESERVED**
+- scan152 terminal direct speech — **open to scan153 / preserved**
+- scan153 wording imported into scan152 — **0**
+
+## Final direct-source reread before Batch 2 handoff
+
+Enlarged rendered-source reread corrected **3 Pass1 transcription slips** before this checkpoint:
+
+1. scan145 — `மனதை மாற்றிக் கொள்ளாத நீ` → source `மனத்தை மாற்றிக் கொள்ளாத நீ`
+2. scan147 — `நிலையமையை விளக்கினேன்.` → source `நிலைமைகளை விளக்கினேன்.`
+3. scan152 — `நீல வண்ணித் தோகை` → source `நீலவண்ணித் தோகை`
+
+- Batch 2 source-backed corrections — **3**
+- cumulative Pass1 reread corrections — **4**
+- unresolved holds — **0**
+- status promotions — **0**
+- Batch 2 remains — **10/10 TEXT-COMPLETE**
+
+## Batch 2 accounting
+
+- canonical files created — **10**
+- cumulative canonical Part006 records — **20/27**
+- scans represented — **133–152**
+- Batch 2 scans — **143–152**
+- Batch 2 text-complete — **10/10**
+- cumulative text-complete — **20/27**
+- needs-review Tamil / visual — **20/20 / 20/20**
+- chapter16 close — **scan146**
+- chapter17 opener — **scan147**
+- unresolved Pass1 holds — **0**
+- status promotions — **0**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+
+## Exact next activity — UPDATED
+
+**Part006 Pass1 FINAL — scans153–159 / local pages21–27.**
+
+Process the remaining **7 source pages**. Keep canonical records at `needs-review` / visual `needs-review`; do not promote status during Pass1. Preserve the chapter17 close at scan154, illustrated chapter18 opener at scan155, and leave outgoing **159→160 PENDING direct audit / source-limited**.
