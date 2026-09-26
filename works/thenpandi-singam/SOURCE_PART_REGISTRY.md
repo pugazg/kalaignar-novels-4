@@ -10,7 +10,7 @@ This ledger records the user's **18 split source PDFs**.
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **ACTIVE — PASS3 10/27** |
+| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **ACTIVE — PASS3 20/27** |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
@@ -943,4 +943,24 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part006 leakage — **0**
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 Pass3 scans116–125 / local pages11–20**
+- durable progress — `PART_005_PASS3_PROGRESS.md`
+
+## Part005 Pass3 Batch 2 downstream state
+
+- Part005 Pass3 — **ACTIVE — 20/27 REVIEWED**
+- reviewed — **scans116–125 / local pages11–20**
+- cumulative reviewed — **scans106–125 / local pages1–20**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- scan119 — chapter13 close / three ornaments — **PASS**
+- scan120 — illustrated chapter14 opener / displayed numeral 14 / mounted-warrior illustration / no source-visible folio — **PASS**
+- scans121–122 — non-literary illustration / illustration-verso — **STRUCTURAL PASS / no literary text invented**
+- 120→121–122→123 — `கூனிக் குறுகிக் / காட்சியளித்தது.` — **PASS / no bridge wording**
+- 124→125 — `அம்பலக்காரர் / மேல் என்ன குற்றம்?` — **PASS**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass3 FINAL scans126–132 / local pages21–27**
 - durable progress — `PART_005_PASS3_PROGRESS.md`
