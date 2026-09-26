@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part005 documentation synchronization
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part005 Tamil archival-ready checkpoint
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -27,14 +27,18 @@ Completed gates:
 - Pass3 — **COMPLETE / PASS — 27/27 — 0 textual corrections / 0 unresolved visual-structural questions**
 - whole-Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
 
-Verified canonical state:
+Verified current state:
 
 - canonical Tamil — **27/27 verified**
 - visual fidelity — **27/27 verified**
 - page-map Part005 rows — **27/27 verified**
 - needs-review Tamil / visual pages — **0 / 0**
-- canonical Tamil body changes caused by status sync — **0**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
+- canonical page-file changes caused by documentation synchronization — **0**
+- canonical Tamil/body changes caused by documentation synchronization — **0**
+- verified status-field changes caused by documentation synchronization — **0**
 
 Durable controls:
 
@@ -44,6 +48,7 @@ Durable controls:
 - `works/thenpandi-singam/PART_005_PASS3_PROGRESS.md`
 - `works/thenpandi-singam/PART_005_AUDIT.md`
 - `works/thenpandi-singam/PART_005_FINAL_STATUS_SYNC.md`
+- `works/thenpandi-singam/PART_005_DOCUMENTATION_SYNC.md`
 
 ## Locked evidence
 
@@ -52,52 +57,37 @@ Durable controls:
 - historical-glyph corrections — **0**
 - Pass2A supersessions — **1 occurrence / scan131**
 - Pass3 textual corrections — **0**
-- unresolved Tamil / glyph / visual / structural questions — **0**
 - no-folio structural scans — **111, 120, 121, 122, 130**
 - scans121–122 — **non-literary illustration / verso records**
 - scans109–110 English historical/reference note — **PASS / preserved**
 - scan115 stamp / handwriting — **physical annotation only**
 - incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 132→133 — **PENDING direct audit / source-limited**
-- frozen Parts001–004 body edits — **0**
+- frozen Parts001–004 body changes — **0**
 - Part006 leakage — **0**
 
 ## Exact next activity
 
-Perform **Part005 documentation synchronization**.
-
-Reconcile the maintained Part005 control surface against live canonical state:
-
-- root `README.md`;
-- `HANDOVER.md`;
-- `works/thenpandi-singam/WORKFLOW_STATUS.md`;
-- `works/thenpandi-singam/THENPANDI_SINGAM_ARCHIVAL_GUIDELINES.md`;
-- `works/thenpandi-singam/SOURCE_INTAKE_PART_005.md`;
-- `works/thenpandi-singam/SOURCE_PART_REGISTRY.md`;
-- `works/thenpandi-singam/PART_005_PASS1_PROGRESS.md`;
-- `works/thenpandi-singam/PART_005_PASS2A_PROGRESS.md`;
-- `works/thenpandi-singam/PART_005_PASS2B_PROGRESS.md`;
-- `works/thenpandi-singam/PART_005_PASS3_PROGRESS.md`;
-- `works/thenpandi-singam/PART_005_AUDIT.md`;
-- `works/thenpandi-singam/PART_005_FINAL_STATUS_SYNC.md`;
-- `works/thenpandi-singam/indexes/page-map.md`;
-- `NEXT_CHAT_PROMPT.md`.
+Perform the **Part005 Tamil archival-ready checkpoint**.
 
 Requirements:
 
-- all maintained controls must agree on **27/27 verified Tamil** and **27/27 verified visual fidelity**;
-- all Part005 page-map rows must remain **verified 27/27**;
-- lifecycle annotations through Pass1 / Pass2A / Pass2B / Pass3 / audit / final status sync must be internally consistent;
-- preserve the Pass2A and Pass2B correction ledgers and the single scan131 Pass2A supersession;
-- preserve no-folio / illustration / verso structural states exactly;
+- verify that canonical Tamil remains **27/27 verified**;
+- verify that visual fidelity remains **27/27 verified**;
+- verify that Part005 page-map rows remain **27/27 verified**;
+- verify needs-review Tamil / visual pages remain **0 / 0**;
+- verify Pass1 / Pass2A / Pass2B / Pass3 / whole-Part audit / final status sync / documentation sync are all closed as recorded;
+- verify unresolved Tamil / glyph / visual / structural / documentation blockers are **0**;
+- preserve all locked correction and supersession accounting;
+- preserve no-folio / illustration / verso structural states;
 - preserve incoming **105→106 = GENUINE CONTINUATION / AUDITED**;
 - preserve outgoing **132→133 = PENDING direct audit / source-limited**;
-- canonical page-file changes during documentation sync — **0**;
-- canonical Tamil/body changes — **0**;
-- verified status-field changes — **0**;
+- canonical page-file changes caused by checkpoint — **0**;
+- canonical Tamil/body changes caused by checkpoint — **0**;
+- verified status-field changes caused by checkpoint — **0**;
 - frozen Parts001–004 body changes — **0**;
 - Part006 leakage — **0**.
 
-Create `works/thenpandi-singam/PART_005_DOCUMENTATION_SYNC.md`.
+Create `works/thenpandi-singam/PART_005_TAMIL_ARCHIVAL_READY.md`.
 
-After documentation synchronization passes, the exact next activity is **Part005 Tamil archival-ready checkpoint**. Do not begin assembled Tamil construction in the same iteration.
+If the checkpoint passes, the exact next activity is **Part005 assembled Tamil construction + audit**. Do not begin assembly in the same iteration.
