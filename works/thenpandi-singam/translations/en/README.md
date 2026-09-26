@@ -866,3 +866,27 @@ Exact next gate: **Part004 whole-Part English glossary reconciliation across E13
 - Part006 leakage — **0**
 - exact next gate — **Part005 whole-Part English glossary reconciliation across E17–E20**
 - durable checks — `translations/en/E17_SOURCE_CHECK.md` through `translations/en/E20_SOURCE_CHECK.md`
+
+## Part005 whole-Part English glossary reconciliation
+
+**PART005 WHOLE-PART ENGLISH GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- scope — **E17–E20 / 4 maintained English files / scans106–132**
+- maintained English — **4/4 source-checked**
+- Tamil / English literary-display blocks — **154 / 154**
+- provenance comments — **25 / 25**
+- accidental closed-form `வாளுக்குவேலி` English spacing normalizations corrected — **15 occurrences**
+- affected English files — **E18 / E19 / E20**
+- E17 / E18 / E19 / E20 body changes — **0 / 10 / 3 / 2 occurrences**
+- remaining comparable `வாளுக்கு வேலி` / `வாளுக்குவேலி` English variant mismatches — **0**
+- scans109–110 source-visible English note — **EXACT / unchanged**
+- E18 displayed-song choices — **preserved as literary translation choices**
+- scans121–122 — **non-literary provenance only / 0 English literary prose**
+- unresolved glossary conflicts — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- durable reconciliation — `PART_005_GLOSSARY_RECONCILIATION.md`
+- exact next gate — **Part005 English editorial review across E17–E20 / scans106–132**
+
