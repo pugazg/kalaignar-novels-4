@@ -29,7 +29,7 @@ Vellai Ayyar understood that Colonel Durai was drunk and spoke calmly.
 
 “Agniyu, leave that matter to me! I am on close terms with both Vaalukku Veli and Vallatharayan! As far as I know, they have done nothing against you! If, without even my knowing it, secret plots of the kind you describe are indeed taking place, it is my duty to keep them under control and make them loyal to English rule! They are good friends of mine! Can I simply stand by and watch them and their nadu be ruined?”
 
-“May your effort succeed as far as possible! Otherwise, I can set the two goats against each other and drink the blood that flows!”
+“May your effort succeed as far as possible! Otherwise, I can set the two goats against each other and taste and drink the blood that flows!”
 
 <!-- source boundary: scan 107 → scan 108 -->
 
