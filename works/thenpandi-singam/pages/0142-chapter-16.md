@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 
 “அய்யோ! என்னை மன்னித்துக் கொள்ளுங்கள்! உங்களைத் தடுத்து நிறுத்த வேறு வழியில்லாத காரணத்தால், குதிரையைத் தாக்கி வீழ்த்தினேன்!”
 
-“நீ என் கழுத்துக்குத்தாண்டி குறி பார்த்திருப்பாய்; அது தவறிப் போய்க் குதிரையின் கழுத்தில் பாய்ந்து விட்டது!”
+“நீ என் கழுத்துக்குத்தாண்டி குறி பார்த்திருப்பாய்; அது தவறிப்போய்க் குதிரையின் கழுத்தில் பாய்ந்து விட்டது!”
 
 “அப்படியெல்லாம் சொல்லாதீர்கள்!”
 
@@ -33,5 +33,14 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 - opening completes scan141's `திரும்பிப் பார்த்து / விட்டு இன்னும்...`;
 - no Part007 / scan160 material is used or inferred;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part006 Pass 2A review
+
+- strict direct-source reread completed against rendered Part006 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text correction: `தவறிப் போய்க்` → source `தவறிப்போய்க்`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 142; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 10; அச்சுப் பக்கம்: 126; PASS 1 TEXT-COMPLETE / needs-review -->
