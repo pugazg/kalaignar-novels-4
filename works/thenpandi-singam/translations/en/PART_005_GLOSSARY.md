@@ -1,6 +1,6 @@
 # Part 005 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **PLANNING / SETUP — COMPLETE / ACTIVE FOR E17–E20**
+Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This glossary is derived only from verified Part005 Tamil, the closed Part005 assembled Tamil reading layer, and already source-checked project forms from frozen Parts001–004.
 
@@ -151,7 +151,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part005 whole-Part English glossary reconciliation across E17–E20.**
+**Part005 English editorial review across E17–E20.**
 
 ## E17 source-check term state
 
@@ -260,4 +260,25 @@ Outgoing **132→133** remains source-limited; no glossary decision imports or i
 - Part006 leakage — **0**
 - all planned Part005 batches — **E17–E20 SOURCE-CHECKED / COMPLETE**
 - exact next gate — **Part005 whole-Part English glossary reconciliation across E17–E20**
+
+## Whole-Part reconciliation closure
+
+**RECONCILED / PASS**
+
+- scope — **E17–E20 / scans106–132**
+- maintained English — **4/4 source-checked**
+- Tamil / English literary-display blocks — **154 / 154**
+- provenance comments — **25 / 25**
+- accidental closed-form `வாளுக்குவேலி` spacing normalizations corrected — **15**
+- E17 / E18 / E19 / E20 English-body repairs — **0 / 10 / 3 / 2**
+- remaining comparable Vaalukku spaced/closed mismatches — **0**
+- source-visible scans109–110 English note — **EXACT / unchanged**
+- deliberate source variants — **preserved**
+- unresolved glossary conflicts — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- durable reconciliation — `PART_005_GLOSSARY_RECONCILIATION.md`
+- exact next gate — **Part005 English editorial review across E17–E20**
 
