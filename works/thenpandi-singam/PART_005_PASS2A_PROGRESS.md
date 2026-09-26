@@ -302,3 +302,26 @@ Perform a fresh lexical / spacing / punctuation / historical-glyph audit against
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 Pass3 FINAL scans126–132 / local pages21–27**
 - durable progress — `PART_005_PASS3_PROGRESS.md`
+
+## Part005 Pass3 FINAL downstream state
+
+- Part005 Pass3 — **COMPLETE / PASS — 27/27 REVIEWED**
+- final batch — **scans126–132 / local pages21–27**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- scan128 internal imagined-speech display / quotation hierarchy — **PASS**
+- scan129 chapter14 close / three centered ornaments — **PASS**
+- scan130 illustrated chapter15 opener / displayed numeral 15 / mounted-warrior illustration / no source-visible folio — **PASS**
+- scan132 terminal open dialogue — **PASS**
+- 126→127 — **PASS**
+- 128→129 — **PASS**
+- 129→130 chapter14→15 transition — **PASS**
+- 130→131 — **PASS**
+- 131→132 — **PASS**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 whole-Part audit — scans106–132 / local pages1–27**
+- durable progress — `PART_005_PASS3_PROGRESS.md`
