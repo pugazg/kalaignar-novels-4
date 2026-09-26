@@ -182,4 +182,21 @@ Outgoing:
 
 ## Exact next gate
 
-**E17 draft + source-check — section22 / scans106–110.**
+**E18 draft + source-check — section23 / scans111–119.**
+
+## E17 closure
+
+- E17 — **SOURCE-CHECKED / COMPLETE**
+- English file — `sections/22-chapter-12-part005.md`
+- Tamil authority — `../../sections/22-chapter-12-part005.md`
+- scans — **106–110**
+- cumulative translated/source-checked — **1/4 / 1/4**
+- literary/source blocks — **23 / 23**
+- provenance comments — **5 / 5**
+- source-visible English note on scans109–110 — **EXACT / preserved**
+- unresolved source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- exact next gate — **E18 draft + source-check — section23 / scans111–119**
+- durable source-check — `E17_SOURCE_CHECK.md`
+
