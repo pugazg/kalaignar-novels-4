@@ -151,7 +151,7 @@ Outgoing:
 
 ## Exact next gate
 
-**E18 draft + source-check — section23 / scans111–119.**
+**Part005 whole-Part English glossary reconciliation across E17–E20.**
 
 ## E17 source-check term state
 
@@ -192,4 +192,72 @@ The source-visible English historical/reference note on scans109–110 is retain
 - outside historical standardization — **0**
 - exact next gate — **E18 draft + source-check — section23 / scans111–119**
 - durable E17 source-check — `E17_SOURCE_CHECK.md`
+
+## E18–E20 source-check term state
+
+### E18 — chapter13 / scans111–119
+
+E18 is **SOURCE-CHECKED / COMPLETE**.
+
+Source-facing forms recorded:
+
+- `மேனா மேயன்னா செட்டியார்` → **Mena Meyanna Chettiar**
+- `அலாரிப்பு` → **Alarippu**
+- `ஜதிஸ்வரம்` → **Jatiswaram**
+- `தில்லானா` → **Tillana**
+- `மோகினி` → **Mohini**
+- `குறத்தி நடனம்` → **Kurathi dance**
+- `அரம்பை` → **Arambai**
+- `ஊர்வசி` → **Urvasi**
+- `சதங்கை` → **ankle-bells**
+- `நட்டு வாங்கம்` role → **nattuvangam artist**
+
+Displayed dance-song material remains visibly distinct and in source order.
+
+### E19 — chapter14 / scans120–129
+
+E19 is **SOURCE-CHECKED / COMPLETE**.
+
+Source-facing choices recorded:
+
+- `பரத நாட்டியம்` → **Bharatanatyam**
+- `கும்பினிக்காரன்` → **Company men**
+- `வாட்டசாட்டை நாடு` → **Vattasattai Nadu**
+- `நயன பாஷை` → **language of my eyes**
+- `கண்ணன்` / `ராதை` → **Kannan / Radha**
+- `விரக தாபம்` → **pangs of longing**
+- `தணல் உள்ளம்` → **ember-heart**
+- `தென்பாண்டிச் சீமை` → **Thenpandi Seemai**
+- `தென்பாண்டி மண்டலம்` → **Thenpandi region**
+
+Scans121–122 remain non-literary provenance only and generate **0 English literary prose**.
+
+### E20 — chapter15 Part005 portion / scans130–132
+
+E20 is **SOURCE-CHECKED / COMPLETE**.
+
+Source-facing choices recorded:
+
+- `வெல்ஷ்` → **Welsh**
+- `வெல்ஷ் துரை` → **Welsh Durai**
+- `மானாமதுரை` → **Manamadurai**
+- `பார்த்திபனூர்` → **Parthibanur**
+- `பறங்கியர் பட்டாளம்` → **Parangi troops**
+- `தன்னுயிரைத் திரணமாக மதித்து` → **valuing his own life as no more than a blade of grass**
+- `பெட்டி வண்டி` → **box carriage**
+- `காடை` → **Kaadai**
+- `கொளாரி` → **Kolari**
+
+Outgoing **132→133** remains source-limited; no glossary decision imports or invents Part006 wording.
+
+### E18–E20 closure accounting
+
+- E18 / E19 / E20 unresolved glossary holds — **0 / 0 / 0**
+- outside textual authority used — **0**
+- source fact-correction — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- all planned Part005 batches — **E17–E20 SOURCE-CHECKED / COMPLETE**
+- exact next gate — **Part005 whole-Part English glossary reconciliation across E17–E20**
 
