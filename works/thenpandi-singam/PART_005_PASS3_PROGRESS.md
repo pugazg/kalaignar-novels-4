@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — ACTIVE — 20/27 REVIEWED**
+**PASS 3 — COMPLETE / PASS — 27/27 REVIEWED**
 
 Prerequisites:
 
@@ -126,8 +126,67 @@ Recurring running headers and printed folios remain structural page furniture an
 - Part006 leakage — **0**
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 
+## Batch 3 — FINAL — scans126–132
+
+Fresh full rendered-page visual / structural review completed for:
+
+- global scans — **126–132 / 7**
+- local pages — **21–27 / 7**
+- reviewed records — **27/27 cumulative**
+- reviewed pages passing — **7/7**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+
+## Structural inventory — Final batch
+
+| Scan | Printed | Structural result |
+|---:|:---:|---|
+| 126 | 110 | chapter14 body; author-line running header; terminal `அவளது` remains open |
+| 127 | 111 | chapter14 body; work-title running header; opening completes scan126 |
+| 128 | 112 | chapter14 body; author-line running header; visually separated internal imagined-speech passage; terminal thought remains open |
+| 129 | 113 | chapter14 close; work-title running header; three centered closing ornaments |
+| 130 | — | illustrated chapter15 opener; mounted-warrior illustration; displayed numeral **15**; no source-visible folio; terminal `அவனது மைத்துனன்` remains open |
+| 131 | 115 | chapter15 body; work-title running header; opening completes scan130 |
+| 132 | 116 | Part005 terminal chapter15 body page; author-line running header; terminal dialogue remains open |
+
+Recurring running headers and printed folios remain structural page furniture and are not duplicated into canonical literary prose.
+
+## Final-batch cross-page / layout states confirmed
+
+- 126→127 — `அவளது / தன்மான உணர்வுக்குக் குறைவாகத் தெரிந்தது!` — **PRESERVED / PASS**
+- scan128 internal imagined-speech display / quotation hierarchy — **PASS**
+- 128→129 — `தம்பி ஆதப்பனின் தணல் உள்ளத்திற்கு / அடிக்கடி தண்ணீர் ஊற்றி...` — **PRESERVED / PASS**
+- scan129 — chapter14 close / three centered ornaments — **PASS**
+- 129→130 — chapter **14→15** transition — **PASS**
+- scan130 — illustrated chapter15 opener / numeral 15 / mounted-warrior illustration / no visible folio — **PASS**
+- 130→131 — `அவனது மைத்துனன் / உறங்காப்புலி...` — **PRESERVED / PASS**
+- 131→132 — chapter15 body-page continuation — **PASS**
+- scan132 terminal open dialogue — **PRESERVED / PASS**
+- illustration detail promoted to literary prose — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- scan133 / Part006 wording inferred — **0**
+
+## Final Pass3 accounting
+
+- reviewed — **27/27**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+- all Part005 pages remain `status: "needs-review"`
+- all Part005 pages remain `visual_fidelity: "needs-review"`
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+
+## Gate result
+
+**PASS 3 — COMPLETE / PASS — 27/27 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**
+
 ## Exact next activity
 
-**Part005 Pass3 FINAL scans126–132 / local pages21–27.**
+Perform the **Part005 whole-Part audit — scans106–132 / local pages1–27**.
 
-Perform the fresh full rendered-page visual / structural review for the remaining **7 source pages**. Verify scan129 chapter14 close, scan130 illustrated chapter15 opener, scan131 body-page structure, scan132 terminal open dialogue, and preserve outgoing 132→133 as source-limited. Do not promote page status during Pass3.
+Audit continuous physical coverage, duplicate/omission counts, `part_page` continuity, source-filename consistency, printed-page mapping, Pass2A/Pass2B/Pass3 evidence, structural inventory, cross-page joins, correction ledgers, incoming 105→106 disposition, and explicit source-limited outgoing 132→133 boundary condition.
+
+Do not promote page status during the audit itself. Final metadata/status synchronization is a separate gate.
