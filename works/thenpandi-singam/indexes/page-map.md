@@ -141,6 +141,16 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 005 | 25 | 130 | — | illustrated chapter15 opening; displayed numeral 15; mounted-warrior illustration; no source-visible folio; terminal `அவனது மைத்துனன்` continues to scan131; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | verified | `pages/0130-chapter-15.md` |
 | 005 | 26 | 131 | 115 | chapter15 continuation; completes `அவனது மைத்துனன் / உறங்காப்புலி`; Pass1 text-complete; Pass2A reviewed / **2 corrections**; Pass2B reviewed / **2 corrections / 0 historical-glyph corrections / 1 Pass2A supersession**; Pass3 reviewed / **0 corrections / 0 unresolved** | verified | `pages/0131-chapter-15.md` |
 | 005 | 27 | 132 | 116 | Part005 terminal chapter15 continuation; dialogue open at `உன்னை நாங்க செட்டியார் வீட்டுக்`; outgoing 132→133 pending/source-limited; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | verified | `pages/0132-chapter-15.md` |
+| 006 | 1 | 133 | 117 | chapter15 continuation; direct 132→133 boundary witness / **GENUINE CONTINUATION / AUDITED**; Pass1 text-complete | needs-review | `pages/0133-chapter-15.md` |
+| 006 | 2 | 134 | 118 | chapter15 continuation; terminal `அம்பலக்கார அய்யா` continues to scan135; Pass1 text-complete | needs-review | `pages/0134-chapter-15.md` |
+| 006 | 3 | 135 | 119 | chapter15 continuation; completes scan134 direct speech; Pass1 text-complete | needs-review | `pages/0135-chapter-15.md` |
+| 006 | 4 | 136 | 120 | chapter15 continuation; driver speech continues to scan137; Pass1 text-complete | needs-review | `pages/0136-chapter-15.md` |
+| 006 | 5 | 137 | 121 | chapter15 close; completes scan136 speech; three closing ornaments; Pass1 text-complete | needs-review | `pages/0137-chapter-15.md` |
+| 006 | 6 | 138 | — | illustrated chapter16 opening; displayed numeral 16; mounted-warrior illustration; no source-visible folio; terminal `விடுதலை` continues to scan139; Pass1 text-complete | needs-review | `pages/0138-chapter-16.md` |
+| 006 | 7 | 139 | 123 | chapter16 continuation; completes `விடுதலை / வீரர்கள்`; terminal `அண்ணாந்து` continues to scan140; Pass1 text-complete | needs-review | `pages/0139-chapter-16.md` |
+| 006 | 8 | 140 | 124 | chapter16 continuation; completes `அண்ணாந்து / நோக்கினான்.`; terminal `ஆதப்பனின்` continues to scan141; Pass1 text-complete | needs-review | `pages/0140-chapter-16.md` |
+| 006 | 9 | 141 | 125 | chapter16 continuation; completes `ஆதப்பனின் / செவிகளில்`; terminal `திரும்பிப் பார்த்து` continues to scan142; Pass1 text-complete | needs-review | `pages/0141-chapter-16.md` |
+| 006 | 10 | 142 | 126 | chapter16 continuation; completes `திரும்பிப் பார்த்து / விட்டு இன்னும்...`; Pass1 text-complete | needs-review | `pages/0142-chapter-16.md` |
 
 ## Intake observations
 
