@@ -222,4 +222,20 @@ The later Part005 whole-Part English editorial review made **8 English-only read
 - E17 remains **SOURCE-CHECKED / COMPLETE**
 - durable editorial review — `PART_005_EDITORIAL_REVIEW.md`
 - exact next gate — **Part005 whole-Part bilingual review across E17–E20 / scans106–132**
+## Post-E17 Part005 whole-Part bilingual review note
+
+The later Part005 whole-Part bilingual review made **1 English-only fidelity correction** in this maintained E17 file.
+
+- correction — restore source `சுவைத்துக் குடிக்க` as **taste and drink**
+- literary/display block count changed — **0**
+- provenance comments changed — **0**
+- source order changed — **0**
+- scans109–110 source-visible English note changed — **0 / EXACT preserved**
+- glossary/source-form locks broken — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- E17 remains **SOURCE-CHECKED / COMPLETE**
+- durable bilingual review — `PART_005_BILINGUAL_REVIEW.md`
+- exact next gate — **Part005 release/readiness report**
 
