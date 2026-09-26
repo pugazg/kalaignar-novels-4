@@ -320,3 +320,28 @@ Perform strict direct-source reread for the first 10 canonical Part005 records. 
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 Pass2B FINAL scans126–132 / local pages21–27**
 - durable progress — `PART_005_PASS2B_PROGRESS.md`
+
+## Part005 Pass2B FINAL downstream state
+
+- Part005 Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
+- final batch — **scans126–132 / local pages21–27**
+- final-batch lexical / spacing / punctuation corrections — **2 / scan131**
+- final-batch correction details:
+  - scan131 — `வேண்டும் மென்றுதான்` → `வேண்டு மென்றுதான்` — source-visible line-break form / **fresh Pass2B supersedes Pass2A**
+  - scan131 — `குதிரை சாட்டு வேண்டாமென்று` → `குதிரை சாரட்டு வேண்டாமென்று` — source lexical form
+- cumulative Pass2B lexical / spacing / punctuation corrections — **4 / scans108, 114, 131**
+- cumulative historical-glyph corrections — **0**
+- cumulative Pass2A supersessions — **1 / scan131**
+- zero-correction Pass2B scans — **24**
+- scan129 chapter14 close / three ornaments — **PASS**
+- scan130 illustrated chapter15 opener / no source-visible folio — **PASS**
+- scan131 `அனுப்பப்படு கிறது` — **PASS / retained**
+- scan132 terminal open dialogue — **PASS**
+- unresolved Pass2B questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass3 scans106–115 / local pages1–10**
+- durable progress — `PART_005_PASS2B_PROGRESS.md`
