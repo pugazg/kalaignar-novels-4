@@ -41,15 +41,15 @@ Looking at him, Agniyu asked, “Urgent news? Why is there so much agitation on 
 
 The deputy commander gave the Colonel a military salute and delivered the news in alarm.
 
-“One of our forces left Thiruppuvanam for Thiruppachethi to oppose the Maruthu Pandiyars’ forces. Within that eight-mile distance, the damage Maruthu’s warriors inflicted on our force was immense! The formidable ‘Major Grey’ has been killed. The commanders Blacker, Cole, Farmington and Stuart have suffered severe wounds. Many soldiers have lost their lives. The Maruthu troops hacked to pieces the body of Major Grey, who was shot and killed in the battle!”
+“One of our forces left Thiruppuvanam for Thiruppachethi to oppose the Maruthu Pandiyars’ forces. Within that eight-kal distance, the damage Maruthu’s warriors inflicted on our force was immense! The formidable ‘Major Grey’ has been killed. The commanders Blacker, Cole, Farmington and Stuart have suffered severe wounds. Many soldiers have lost their lives. The Maruthu troops hacked to pieces the body of Major Grey, who was shot and killed in the battle!”
 
 Hearing the deputy commander’s report, Colonel Agniyu was shocked! He flew into a rage! The stupor brought on by drinking himself full cleared away!
 
-He immediately ordered his forces to set out for Thiruppachethi. Major—
+He immediately ordered his forces to set out for Thiruppachethi. Major
 
 <!-- source boundary: scan 108 → scan 109 -->
 
-—Grey had been hacked to pieces; Agniyu too prepared at once to leave with that force, determined to hack the Maruthu Pandiyars to pieces and make a feast of them for the vultures.
+Grey had been hacked to pieces; Agniyu too prepared at once to leave with that force, determined to hack the Maruthu Pandiyars to pieces and make a feast of them for the vultures.
 
 “Mr. Vellai! I am leaving now,” he said, seething with anger as he shook Ayyar’s hand.
 
