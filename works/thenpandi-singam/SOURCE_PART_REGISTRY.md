@@ -10,7 +10,7 @@ This ledger records the user's **18 split source PDFs**.
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **ENGLISH GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT** |
+| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **ENGLISH EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT** |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1186,3 +1186,31 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part006 leakage — **0**
 - exact next gate — **Part005 English editorial review across E17–E20**
 - durable reconciliation — `translations/en/PART_005_GLOSSARY_RECONCILIATION.md`
+
+## Part005 English editorial review downstream state
+
+**PART005 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- scope — **E17–E20 / 4 maintained English files / scans106–132**
+- maintained/source-checked English — **4/4 / 4/4**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English-only editorial repairs — **59**
+- E17 / E18 / E19 / E20 repairs — **8 / 17 / 23 / 11**
+- literary/display blocks — **154 Tamil / 154 English**
+- provenance comments — **25 / 25**
+- block-count mismatches — **0**
+- provenance-comment count mismatches — **0**
+- source-visible glossary variant mismatches — **0**
+- scans109–110 source-visible English note — **EXACT / unchanged**
+- E18 displayed song/stanza lines — **unchanged**
+- scans121–122 — **non-literary provenance only / 0 English prose**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- terminal E20 dialogue — **intentionally open / preserved**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- unresolved editorial holds — **0**
+- durable review — `translations/en/PART_005_EDITORIAL_REVIEW.md`
+- exact next activity — **Part005 whole-Part bilingual review across E17–E20 / scans106–132**
+
