@@ -62,4 +62,16 @@ transcription_method: "direct source-image transcription; Part005 Pass1 final ba
 - unresolved Pass2B questions: **0**;
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 128; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 23; அச்சுப் பக்கம்: 112; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->
+
+## Formal Part005 Pass 3 review
+
+- full rendered-page visual / structural comparison completed directly against the Part005 source image;
+- displayed-text hierarchy, paragraph/dialogue block structure, reading order, printed pagination where visible, and recurring page furniture checked;
+- structural result: standard chapter14 body page; printed folio **112** and author-line running header are source-visible; the internal imagined-speech passage is visually set apart from surrounding prose and its quotation/display hierarchy is preserved; terminal `தம்பி ஆதப்பனின் தணல் உள்ளத்திற்கு` remains open to scan129;
+- internal imagined-speech display / quotation structure — **PASS**;
+- 128→129 `தம்பி ஆதப்பனின் தணல் உள்ளத்திற்கு / அடிக்கடி தண்ணீர் ஊற்றி...` — **PRESERVED / PASS**;
+- Pass3 textual corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized during Pass3.
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 128; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 23; அச்சுப் பக்கம்: 112; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->
