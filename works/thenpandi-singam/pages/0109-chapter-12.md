@@ -63,4 +63,15 @@ Marudu and associates of Kattabomman. Gopala Nayak
 - unresolved Pass2B questions: **0**;
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 109; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 95; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->
+
+## Formal Part005 Pass 3 review
+
+- full rendered-page visual / structural comparison completed directly against the Part005 source image;
+- displayed-text hierarchy, paragraph/dialogue block structure, reading order, printed pagination where visible, and recurring page furniture checked;
+- structural result: chapter12 body page with printed folio **95** and work-title running header; Tamil prose transitions into the source-visible `குறிப்பு:` English historical/reference block in the lower page; 108→109 `மேஜர் / கிரேயைக்` continuation and note placement are preserved;
+- source-visible English note text itself is not normalized or altered during Pass3;
+- Pass3 textual corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized during Pass3.
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 109; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 95; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->
