@@ -182,7 +182,7 @@ Outgoing:
 
 ## Exact next gate
 
-**E18 draft + source-check — section23 / scans111–119.**
+**Part005 whole-Part English glossary reconciliation across E17–E20.**
 
 ## E17 closure
 
@@ -199,4 +199,20 @@ Outgoing:
 - frozen Parts001–004 English edits — **0**
 - exact next gate — **E18 draft + source-check — section23 / scans111–119**
 - durable source-check — `E17_SOURCE_CHECK.md`
+
+## E18–E20 execution closure
+
+- E18 — **SOURCE-CHECKED / COMPLETE — section23 / scans111–119**
+- E19 — **SOURCE-CHECKED / COMPLETE — section24 / scans120–129**
+- E20 — **SOURCE-CHECKED / COMPLETE — section25 / scans130–132**
+- all planned Part005 maintained English files — **4/4 created**
+- all planned Part005 batches — **E17–E20 SOURCE-CHECKED / COMPLETE**
+- cumulative English source coverage — **scans106–132 / 27 of 27**
+- unresolved batch source-check holds — **0**
+- canonical / assembled Tamil edits caused by English drafting — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- scans121–122 English literary prose — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- exact next gate — **Part005 whole-Part English glossary reconciliation across E17–E20**
 
