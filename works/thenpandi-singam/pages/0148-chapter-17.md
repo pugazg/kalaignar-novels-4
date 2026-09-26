@@ -15,7 +15,7 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 
 ## Source transcription
 
-மதுரைக்கும் பார்த்திபனூருக்கும் இடையில் ஆயிரக் கணக்கான வீரர்களுடன் முகாமிட்டிருக்கும் மருதுப் படையின் தளபதிகளில் யாரையாவது சந்தித்து ஆங்கிலப் படை வரும் வழியை அக்னியூவின் கடிதத்தில் கண்டவாறு விளக்கிவிட்டு, கடிதத்தையும் அவர்களிடம் சேர்த்துவிட்டு உடனடியாக ஊர் திரும்புகிறேன். தாங்கள் எனக்காகக் காத்துக் கொண்டு கவலையோடு இருப்பீர்களென்றுதான் இந்தக் கடிதம் எழுதி அனுப்பினேன். பார்த்திபனூரில் பரங்கியர் பட்டாளம் வசமாகச் சிக்கிக்கொண்டு சீரழிந்தது என்ற செய்தியுடன் விரைவில் வருவேன்.
+மதுரைக்கும் பார்த்திபனூருக்கும் இடையில் ஆயிரக் கணக்கான வீரர்களுடன் முகாமிட்டிருக்கும் மருதுப் படையின் தளபதிகளில் யாரையாவது சந்தித்து ஆங்கிலப் படை வரும் வழியை அக்னியூவின் கடிதத்தில் கண்டவாறு விளக்கிவிட்டு, கடிதத்தையும் அவர்களிடம் சேர்த்துவிட்டு உடனடியாக ஊர் திரும்புகிறேன். தாங்கள் எனக்காகக் காத்துக்கொண்டு கவலையோடு இருப்பீர் களென்றுதான் இந்தக் கடிதம் எழுதி அனுப்பினேன். பார்த்திபனூரில் பரங்கியர் பட்டாளம் வசமாகச் சிக்கிக்கொண்டு சீரழிந்தது என்ற செய்தியுடன் விரைவில் வருவேன்.
 
 தங்கள் தம்பி,
 கறுத்த ஆதப்பன்
@@ -32,5 +32,14 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 - opening completes the physical split `மானா / மதுரைக்கும்` from scan147;
 - the displayed letter/signature structure is preserved in source order;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part006 Pass 2A review
+
+- strict direct-source reread completed against rendered Part006 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, displayed text, source-visible pagination and physical-page structure checked;
+- source-text corrections: **2** — `காத்துக் கொண்டு` → `காத்துக்கொண்டு`; `இருப்பீர்களென்றுதான்` → source-visible line-break form `இருப்பீர் களென்றுதான்`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 148; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 132; PASS 1 TEXT-COMPLETE / needs-review -->
