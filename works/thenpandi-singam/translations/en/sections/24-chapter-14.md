@@ -77,7 +77,7 @@ At just that moment, Vellai Ayyar too arrived to strengthen their side! “What,
 
 “I have come only after hearing everything. On one side there is fighting between the Company men and the Maruthu Pandiyars! Who knows what will come of it, how it will end! In the middle of all that, a battle between Vaalukku Veli Thevar and Sundarambal too? That is not good! Vaalukku Veli has so many problems! Lately Colonel Agniyu has been keeping one eye on him! He cannot openly antagonize the English! But neither can he abandon those waging the freedom struggle! In a position like this, that man is walking on a rope. In the midst of all those problems, his younger sister Kalyani Nachiyar is a great concern to him! He adores his sister! Otherwise, would such a great Ambalakkarar come looking for Sundarambal?”
 
-Vellai Ayyar’s words brought still more clarity to Sundarambal’s mind, which had already begun to clear, and created in her a special respect and sympathy for Vaalukku Veli! Even so, for her to go of her own accord to Vaalukku Veli’s house and begin dance training for Kalyani Nachiyar seemed beneath her—
+Vellai Ayyar’s words brought still more clarity to Sundarambal’s mind, which had already begun to clear, and created in her a special respect and sympathy for Vaalukkuveli! Even so, for her to go of her own accord to Vaalukku Veli’s house and begin dance training for Kalyani Nachiyar seemed beneath her—
 
 <!-- source boundary: scan 126 → scan 127 -->
 
@@ -98,7 +98,7 @@ Compared with her, Vadivambal would score only fifty percent! Vellai Ayyar’s c
 Now, thinking again and again that by good fortune she was going to have plenty of opportunities to meet him, she made her heart leap and dance:
 
 ‘I will teach Kalyani Nachiyar dance!
-I will teach Vaalukku Veli the language of my eyes!
+I will teach Vaalukkuveli the language of my eyes!
 The younger sister will dance! Her elder brother will join with me! Like Radha searching for Kannan, Kalyani will perform abhinaya! Searching for her brother, drunk on love, I will lie in his lap! This is a boon that has come to me of its own accord! My elder sister’s anger is my gain! Now my pangs of longing will end!”
 
 Shadow-pictures of the future danced upon the screen of Vadivambal’s heart!
@@ -127,4 +127,4 @@ When Kalyani Nachiyar rebuked him this way, Vaalukku Veli could give no reply!
 
 Startled, Kalyani caught hold of his hands and cried, “Anna!” Her eyes filled with tears!
 
-“Everything will happen for the best!” Vaalukku Veli said, and came out to the entrance.
+“Everything will happen for the best!” Vaalukkuveli said, and came out to the entrance.
