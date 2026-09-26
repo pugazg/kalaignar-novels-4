@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part005 release/readiness report.**
+**Part006 source intake when supplied.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -1320,4 +1320,31 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Part006 leakage — **0**
 - durable review — `translations/en/PART_005_BILINGUAL_REVIEW.md`
 - exact next activity — **Part005 release/readiness report**
+
+## Part005 final closure downstream state
+
+**PART005 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- source scans — **106–132 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved closure blockers — **0**
+- canonical / assembled / maintained-English body changes after release/readiness — **0 / 0 / 0**
+- scans109–110 source-visible English note — **EXACT / unchanged**
+- scans121–122 — **non-literary provenance only**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited / preserved**
+- Part006 leakage — **0**
+- final-closed Parts — **5**
+- registered Parts — **5 / 18**
+- Part006 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part006 source intake when supplied**
+- durable closure — `PART_005_FINAL_CLOSURE.md`
 
