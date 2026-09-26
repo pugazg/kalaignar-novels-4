@@ -190,3 +190,27 @@ Perform the **Part005 whole-Part audit — scans106–132 / local pages1–27**.
 Audit continuous physical coverage, duplicate/omission counts, `part_page` continuity, source-filename consistency, printed-page mapping, Pass2A/Pass2B/Pass3 evidence, structural inventory, cross-page joins, correction ledgers, incoming 105→106 disposition, and explicit source-limited outgoing 132→133 boundary condition.
 
 Do not promote page status during the audit itself. Final metadata/status synchronization is a separate gate.
+
+## Part005 whole-Part audit downstream state
+
+- Part005 whole-Part audit — **PASS / COMPLETE**
+- canonical coverage — **27/27 / scans106–132**
+- duplicate / omitted canonical scans — **0 / 0**
+- `part_page` continuity — **1–27 / PASS**
+- source-filename consistency — **27/27**
+- Pass1 / Pass2A / Pass2B / Pass3 evidence — **27/27 / 27/27 / 27/27 / 27/27**
+- Pass2A corrections — **7 occurrences / scans113, 115, 125, 126, 131**
+- Pass2B corrections — **4 occurrences / scans108, 114, 131**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **1 / scan131**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- unsupported body insertion — **0**
+- audit/review-note leakage into literary transcription — **0**
+- page-status promotions during audit — **0**
+- status / visual fidelity remain — **needs-review / needs-review on 27/27**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- exact next activity — **Part005 final metadata/status synchronization — scans106–132 / 27 pages**
+- durable audit — `PART_005_AUDIT.md`
