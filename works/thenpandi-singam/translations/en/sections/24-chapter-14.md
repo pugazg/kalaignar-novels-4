@@ -21,7 +21,7 @@ At the dance performance they had sung, “Victory spear! Heroic spear! My two e
 
 Vadivambal sat in a chair close beside the swing, fear written across her face. Nathamuni, the nattuvangam artist, and Lalithangi, the accompanying singer, looked at one another and let out deep sighs of sorrow.
 
-Vadivambal, whose beauty seemed to rival Sundari’s, also looked shrunken and withdrawn—
+Vadivambal, whose beauty seemed to rival Sundari’s, also seemed hunched and shrunken—
 
 <!-- source insert: scan 121 is a full-page illustration with no literary body text -->
 
@@ -29,7 +29,7 @@ Vadivambal, whose beauty seemed to rival Sundari’s, also looked shrunken and w
 
 <!-- source boundary: scan 122 → scan 123; literary prose resumes after the inserted non-text leaf -->
 
-—before them. Who could have imagined that such an unexpected calamity would occur at the wedding celebration in Chettiar’s house!
+—in appearance. Who could have imagined that such an unexpected calamity would occur at the wedding celebration in Chettiar’s house!
 
 The thought that perhaps she had gone too far and spoken rashly troubled Sundarambal! “But then—anyone who lacks the ability to understand an art held sacred, and instead shines the spotlight on his own authority and status, is guilty, whoever he may be, is he not!”
 
