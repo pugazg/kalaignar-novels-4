@@ -1152,3 +1152,20 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - exact next activity — **Part006 Pass1 scans133–142 / local pages1–10**
 - durable intake — `SOURCE_INTAKE_PART_006.md`
 
+## Part006 Pass1 Batch 1 downstream state
+
+- Part006 Pass1 — **ACTIVE — 10/27 TEXT-COMPLETE**
+- completed scans — **133–142 / local pages1–10**
+- canonical Part006 records — **10/27**
+- status / visual fidelity — **needs-review / needs-review on 10/10**
+- source-backed reread corrections — **1 / scan133**
+- unresolved Pass1 holds — **0**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- scan137 — chapter15 close / three closing ornaments
+- scan138 — illustrated chapter16 opener / no source-visible folio
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- exact next activity — **Part006 Pass1 scans143–152 / local pages11–20**
+- durable progress — `PART_006_PASS1_PROGRESS.md`
+
