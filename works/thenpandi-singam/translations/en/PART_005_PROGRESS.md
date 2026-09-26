@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**WHOLE-PART GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+**E17–E20 SOURCE-CHECKED / GLOSSARY RECONCILED / EDITORIAL REVIEW PASS — BILINGUAL REVIEW NEXT**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -161,4 +161,31 @@ Outgoing:
 - Part006 leakage — **0**
 - durable record — `PART_005_GLOSSARY_RECONCILIATION.md`
 - exact next gate — **Part005 English editorial review across E17–E20**
+
+## Part005 English editorial review closure
+
+**PART005 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- scope — **E17–E20 / 4 maintained English files / scans106–132**
+- English-only editorial repairs — **59**
+- E17 / E18 / E19 / E20 repairs — **8 / 17 / 23 / 11**
+- literary/display blocks — **154 Tamil / 154 English**
+- provenance comments — **25 Tamil / 25 English**
+- block-count mismatches — **0**
+- provenance-comment count mismatches — **0**
+- E18–E20 provenance text/order mismatches — **0**
+- E17 internal provenance text/order mismatches — **0**
+- source-visible glossary variant mismatches — **0**
+- scans109–110 source-visible English note — **EXACT / unchanged**
+- E18 displayed song/stanza lines — **unchanged**
+- scans121–122 — **non-literary provenance only / 0 English prose**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- terminal E20 dialogue — **intentionally open / preserved**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- unresolved editorial holds — **0**
+- durable review — `PART_005_EDITORIAL_REVIEW.md`
+- exact next gate — **Part005 whole-Part bilingual review across E17–E20 / scans106–132**
 
