@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — ACTIVE — 20/27 REVIEWED**
+**PASS 2B — COMPLETE / PASS — 27/27 REVIEWED**
 
 Source:
 
@@ -139,8 +139,67 @@ Pass2A readings superseded by fresh Pass2B evidence — **0**.
 - Part006 leakage — **0**
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 
+## Batch 3 — FINAL — scans126–132
+
+Fresh independent lexical / spacing / punctuation / historical-glyph audit completed for:
+
+- global scans — **126–132 / 7**
+- local pages — **21–27 / 7**
+- canonical records reviewed — **27/27 cumulative**
+- reviewed pages passing — **7/7**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+
+## Final-batch corrections
+
+Lexical / spacing / punctuation corrections — **2 occurrences on 1 scan**:
+
+1. scan131 — `வேண்டும் மென்றுதான்` → `வேண்டு மென்றுதான்` — source-visible line-break form; fresh Pass2B evidence supersedes the Pass2A reading.
+2. scan131 — `குதிரை சாட்டு வேண்டாமென்று` → `குதிரை சாரட்டு வேண்டாமென்று` — source lexical form.
+
+Affected final-batch scan — **131**.
+
+Zero-correction final-batch scans — **126, 127, 128, 129, 130, 132**.
+
+Historical-glyph corrections — **0**.
+
+Pass2A readings superseded by fresh Pass2B evidence — **1 occurrence / scan131**.
+
+## Final-batch locked-site / structure validation
+
+- scan126 Pass2A `செளக்கியமோ?` — **PASS / retained**
+- 126→127 — `அவளது / தன்மான உணர்வுக்குக் குறைவாகத் தெரிந்தது!` — **PASS**
+- scan128 internal imagined-speech quotation structure — **PASS**
+- 128→129 — `தம்பி ஆதப்பனின் தணல் உள்ளத்திற்கு / அடிக்கடி தண்ணீர் ஊற்றி...` — **PASS**
+- scan129 — chapter14 close / three closing ornaments — **PASS**
+- scan130 — illustrated chapter15 opener / displayed numeral 15 / no source-visible folio — **PASS**
+- 130→131 — `அவனது மைத்துனன் / உறங்காப்புலி...` — **PASS**
+- scan131 `அனுப்பப்படு கிறது` — **PASS / retained**
+- scan132 terminal open dialogue — **PASS**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- scan133 / Part006 wording inferred or imported — **0**
+
+## Final Pass2B accounting
+
+- Part005 canonical records — **27/27**
+- Part005 Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
+- cumulative lexical / spacing / punctuation corrections — **4**
+- affected scans — **108, 114, 131**
+- affected scans count — **3**
+- zero-correction scans — **24**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **1 occurrence / scan131**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+- all Part005 pages remain `status: "needs-review"`
+- all Part005 pages remain `visual_fidelity: "needs-review"`
+- verified Part005 pages — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+
 ## Exact next activity
 
-**Part005 Pass2B FINAL scans126–132 / local pages21–27.**
+**Part005 Pass3 — scans106–115 / local pages1–10.**
 
-Process the remaining **7 source pages** with the same fresh independent lexical / spacing / punctuation / historical-glyph audit. Do not promote canonical or visual status during Pass2B, and do not infer scan133 / Part006.
+Perform the full rendered-page visual / structural review against Part005 source images. Do not promote status during Pass3; final metadata/status synchronization is a later gate.
