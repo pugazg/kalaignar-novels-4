@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Pass1 FINAL scans153–159
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Pass2A scans133–142
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–005 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to complete Part006 Pass1.
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to review Part006.
 
 ## Part006 source
 
@@ -22,65 +22,59 @@ Controlling source:
 - source PDF — **outside Git**
 - source intake — **COMPLETE / PASS**
 
-## Part006 Pass1 current state
+## Part006 Pass1 closure
 
-- Pass1 — **ACTIVE — 20/27 TEXT-COMPLETE**
-- completed — **scans133–152 / local pages1–20**
-- canonical Part006 records — **20/27**
-- status — **needs-review on 20/20**
-- visual fidelity — **needs-review on 20/20**
-- cumulative source-backed reread corrections — **4**
+- Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- canonical Part006 records — **27/27**
+- status — **needs-review on 27/27**
+- visual fidelity — **needs-review on 27/27**
+- source-backed Pass1 reread corrections — **5**
 - unresolved Pass1 holds — **0**
 - incoming **132→133 = GENUINE CONTINUATION / AUDITED**
-- frozen Part005 body changes — **0 / 0 / 0 canonical / assembled / English**
-- Part007 leakage — **0**
+- chapter15 close — **scan137**
+- chapter16 opener / close — **scan138 / scan146**
+- chapter17 opener / close — **scan147 / scan154**
+- chapter18 opener — **scan155**
 - outgoing **159→160 = PENDING direct audit / source-limited**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
 
-Durable progress:
+Durable Pass1 progress:
 
 `works/thenpandi-singam/PART_006_PASS1_PROGRESS.md`
 
-## Completed Batch 2 landmarks
-
-- scan146 / printed130 — chapter16 close / three closing ornaments
-- scan147 — illustrated chapter17 opener / displayed numeral17 / no source-visible folio
-- 147→148 — `மானா / மதுரைக்கும்`
-- 150→151 — `பிரதட்சணமாகச் / சுற்றி வந்த`
-- 151→152 — `இசை / விருந்தும்`
-- scan152 / printed136 — direct speech remains open and continues on scan153
-- scan153 wording imported into scan152 — **0**
-
 ## Exact next activity
 
-Perform **Part006 Pass1 FINAL — scans153–159 / local pages21–27**.
+Perform **Part006 Pass2A — scans133–142 / local pages1–10**.
 
-Requirements:
+Review requirements:
 
-- create one canonical page record per physical scan for **153–159**;
-- set `part: 6`, `part_page: 21–27`;
-- map printed folios only when source-visible;
-- keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- transcribe only direct source-visible Tamil / source-language material;
-- preserve exact source spelling, punctuation, dialogue/quotation structure and physical continuations;
-- preserve recurring work-title / author / folio furniture as metadata rather than duplicated literary prose;
-- verify and preserve **152→153** continuation from the open scan152 direct speech;
-- scan154 — verify and record chapter17 close / closing ornaments structurally;
-- scan155 — verify and record illustrated chapter18 opener / displayed numeral18 / `printed_page: null`;
-- inspect every 152→153 through 158→159 physical boundary directly from the source;
-- final scan159 / printed143 — preserve exactly what is source-visible and do not infer scan160 continuation;
-- outgoing **159→160 = PENDING direct audit / source-limited**;
-- do not infer or import Part007 / scan160;
+- strict direct-source reread of canonical scans **133–142** against rendered source pixels;
+- verify exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, displayed text and source-visible pagination;
+- correct only demonstrated source-reading defects;
+- preserve source spellings and occurrence-sensitive name/spacing forms;
+- recheck incoming **132→133 GENUINE CONTINUATION / AUDITED** without modifying frozen Part005 body;
+- scan137 — verify chapter15 close / three ornaments structurally;
+- scan138 — verify illustrated chapter16 opener / displayed numeral16 / no source-visible folio;
+- recheck 138→139 `விடுதலை / வீரர்கள்`;
+- recheck 139→140 `அண்ணாந்து / நோக்கினான்.`;
+- recheck 140→141 `ஆதப்பனின் / செவிகளில்`;
+- recheck 141→142 `திரும்பிப் பார்த்து / விட்டு இன்னும்...`;
+- keep `status: "needs-review"` and `visual_fidelity: "needs-review"`; no promotion during Pass2A;
 - external-source comparison — **0**;
-- frozen Parts001–005 canonical / assembled / maintained-English body edits — **0 / 0 / 0**.
+- frozen Parts001–005 canonical / assembled / maintained-English body edits — **0 / 0 / 0**;
+- Part007 leakage — **0**;
+- outgoing **159→160 = PENDING direct audit / source-limited**.
 
-Update:
+Create/update:
 
-- `PART_006_PASS1_PROGRESS.md`;
+- `PART_006_PASS2A_PROGRESS.md`;
+- canonical pages only where source-backed corrections are demonstrated;
 - `indexes/page-map.md`;
 - source registry / source-intake downstream state;
 - lifecycle/control documents;
 - `NEXT_CHAT_PROMPT.md`.
 
-If Pass1 closes **COMPLETE / PASS — 27/27 TEXT-COMPLETE**, exact next activity should be:
+After this batch, exact next activity should be:
 
-**Part006 Pass2A scans133–142 / local pages1–10.**
+**Part006 Pass2A scans143–152 / local pages11–20.**
