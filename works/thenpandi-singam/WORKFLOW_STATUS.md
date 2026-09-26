@@ -1146,3 +1146,27 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Part006 leakage — **0**
 - exact next activity — **Part005 assembled Tamil construction + audit**
 - durable archival-ready checkpoint — `PART_005_TAMIL_ARCHIVAL_READY.md`
+
+## Part005 assembled Tamil downstream state
+
+**PART005 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 4/4 VERIFIED.**
+
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- scans — **106–132 / 27**
+- assembled files — **4/4 VERIFIED**
+- inventory — `22-chapter-12-part005.md`, `23-chapter-13.md`, `24-chapter-14.md`, `25-chapter-15-part005.md`
+- canonical source-transcription records accounted — **27/27**
+- non-empty canonical source-transcription blocks represented — **25/25**
+- non-literary records — **2 / scans121–122 / provenance only**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit/review/workflow-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- frozen Parts001–004 assembled Tamil changes — **0**
+- Part006 leakage — **0**
+- unresolved assembly blockers — **0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 English translation planning/setup — reserve E17–E20**
+- durable validation — `PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
