@@ -17,11 +17,11 @@ The kind of stillness that descends after a cyclone fierce enough to uproot even
 
 Sundarambal sat with her head resting against the swing-chain. As though depicting her state of mind, the swing moved gently. That beautiful face, shaped like the disc of the moon, had been overtaken by a cloud of sorrow.
 
-At the dance performance they had sung, “Victory spear! Heroic spear! Both my eyes are spears! Spears!” Those eyes, likened to spears, now lay weary like withered lily buds.
+At the dance performance they had sung, “Victory spear! Heroic spear! My two eyes are spears! Spears!” Those eyes, likened to spears, now lay weary like withered lily buds.
 
-Vadivambal sat in a chair close beside the swing, fear possessing her face. Nathamuni, the nattuvangam artist, and Lalithangi, the accompanying singer, looked at one another and let out deep sighs of sorrow.
+Vadivambal sat in a chair close beside the swing, fear written across her face. Nathamuni, the nattuvangam artist, and Lalithangi, the accompanying singer, looked at one another and let out deep sighs of sorrow.
 
-Vadivambal, whose appearance seemed to rival Sundari’s beauty, too looked shrunken and withdrawn—
+Vadivambal, whose beauty seemed to rival Sundari’s, also looked shrunken and withdrawn—
 
 <!-- source insert: scan 121 is a full-page illustration with no literary body text -->
 
@@ -31,7 +31,7 @@ Vadivambal, whose appearance seemed to rival Sundari’s beauty, too looked shru
 
 —before them. Who could have imagined that such an unexpected calamity would occur at the wedding celebration in Chettiar’s house!
 
-The thought that perhaps she had gone too far and spoken rashly troubled Sundarambal! “But then—anyone who lacks the ability to understand an art held sacred, and instead turns the spotlight onto his own authority and status, is guilty, whoever he may be, is he not!”
+The thought that perhaps she had gone too far and spoken rashly troubled Sundarambal! “But then—anyone who lacks the ability to understand an art held sacred, and instead shines the spotlight on his own authority and status, is guilty, whoever he may be, is he not!”
 
 Her heart offered her this answer too, as a kind of consolation. After a long reign of silence, Vadivu was the first to open her mouth.
 
@@ -41,13 +41,13 @@ Sundari’s faded eyes poured fire as they turned toward Vadivambal.
 
 “Vadivu! You too—do not pour more fire into my heart! A great house! A very great house indeed! You saw how that great man respected our art of dance, did you not?”
 
-Lalithangi went near the swing and stroked Sundari’s cheek with her hands. “What is this, Sundari, amma? You are talking like a child! It is because he respects our art of dance that he asked you to be guru to his younger sister! Can you not understand even that?” she coaxed.
+Lalithangi went over to the swing and stroked Sundari’s cheek with her hands. “What is this, Sundari, amma? You are talking like a child! It is because he respects our art of dance that he asked you to be his younger sister’s guru! Can you not understand even that?” she coaxed.
 
 <!-- source boundary: scan 123 → scan 124 -->
 
 “He dared to raise his hand to strike a woman! Do none of you consider even that an insult?” Sundari hissed.
 
-“Even his enemies respect the sword in his hand! Do you know how great a mistake it was to ask whether that heroic sword could equal the ankle-bells on your feet? It is fortunate it was he! He only raised his hand! If Karutha Adappan had acted first, he would have raised a dagger at your neck.”
+“Even his enemies respect the sword in his hand! Do you know what a grave mistake it was to ask whether that heroic sword could equal the ankle-bells on your feet? It is fortunate it was he! He only raised his hand! If Karutha Adappan had acted first, he would have raised a dagger at your neck.”
 
 Nathamuni spoke with some sternness and emphasis.
 
@@ -55,7 +55,7 @@ Nathamuni spoke with some sternness and emphasis.
 
 Sundari’s face now shone with radiance! It was the change brought to her face by her devotion to Mother Art and by her resolve to endure anything for that art!
 
-“Whatever it is, amma, what happened has happened! There is only one remedy. If you send word saying you are ready to teach Bharatanatyam to his younger sister at the Paganeriyar’s house, everything will be set right!”
+“Whatever it is, amma, what happened has happened! There is only one remedy. If you send word that you are ready to teach Bharatanatyam to his younger sister at the Paganeriyar’s house, everything will be set right!”
 
 Lalithangi made the request. Sundari laughed dismissively. Vadivambal too went up to her elder sister, embraced her shoulder and coaxed, “Listen to what Lalithangi Amma says, Akka! What fault does the Ambalakkarar—
 
@@ -67,21 +67,21 @@ The events that had taken place beneath the wedding canopy and the arguments and
 
 A realization slowly began to well up in Sundarambal’s heart: she should have expressed to him her grievance that his arrival had disrupted the artistic performance, but she should not have turned it into a fierce argument and gone so far as to belittle his valour.
 
-Even so, her mind would not accept going of her own accord to teach his sister dance as though she were forcing herself to seek his forgiveness. Nor could she forget his act of raising his hand as if to strike her.
+Even so, her mind would not accept going of her own accord to teach his sister dance, as though she herself were going to seek his forgiveness. Nor could she forget his act of raising his hand as if to strike her.
 
-Thinking that it would not be good for this hostility to turn into a great blaze and for news to spread everywhere that they were at enmity with the Paganeri Ambalakkarar, Vadivambal, Lalithangi and Nathamuni kept insisting again and again.
+Vadivambal, Lalithangi and Nathamuni kept insisting again and again because they felt it would not be good for this hostility to grow into a great blaze and for news to spread everywhere that they were at enmity with the Paganeri Ambalakkarar.
 
 <!-- source boundary: scan 125 → scan 126 -->
 
 At just that moment, Vellai Ayyar too arrived to strengthen their side! “What, Lalitha! Are you well? It has been a long time since I saw you!” he said to Lalithangi, standing there with a foolish grin. Showing him respect, Sundari and Vadivu rose and greeted him: “Come, Swamigale!”
 
-“I have come only after hearing everything. On one side there is fighting between the Company men and the Maruthu Pandiyars! Who knows what will come of it, how it will end! In the middle of all that, a battle between Vaalukku Veli Thevar and Sundarambal too? That is not good! Vaalukku Veli has so many problems! Lately Colonel Agniyu has been keeping one eye on him! He cannot openly antagonize the English! But neither can he abandon those waging the freedom struggle! In a position like this, that man is walking on a rope. In the midst of all those problems, his younger sister Kalyani Nachiyar is a great concern to him! He adores his sister! Otherwise, would such a great Ambalakkarar come looking for Sundarambal?”
+“I have come only after hearing everything. On one side there is fighting between the Company men and the Maruthu Pandiyars! Who knows what will come of it, how it will end! In the middle of all that, a battle between Vaalukku Veli Thevar and Sundarambal too? That is not good! Vaalukku Veli has so many problems! Lately Colonel Agniyu has been keeping one eye on him! He cannot openly antagonize the English! But neither can he abandon those waging the freedom struggle! In a position like this, that man is walking a tightrope. In the midst of all those problems, his younger sister Kalyani Nachiyar is a great concern to him! He adores his sister! Otherwise, would such a great Ambalakkarar come looking for Sundarambal?”
 
 Vellai Ayyar’s words brought still more clarity to Sundarambal’s mind, which had already begun to clear, and created in her a special respect and sympathy for Vaalukkuveli! Even so, for her to go of her own accord to Vaalukku Veli’s house and begin dance training for Kalyani Nachiyar seemed beneath her—
 
 <!-- source boundary: scan 126 → scan 127 -->
 
-—sense of self-respect! Understanding her discomfort, Vellai Ayyar announced a general plan and asked her to accept that compromise.
+—sense of self-respect! Understanding her discomfort, Vellai Ayyar put forward a plan and asked her to accept that compromise.
 
 “Sundarambal need not go to teach Kalyani Bharatanatyam! Send Vadivambal instead!”
 
@@ -91,7 +91,7 @@ Though Sundari did not immediately approve the compromise and say “All right!�
 
 When it came to art, Sundarambal was somewhat severe and strict, but the townspeople praised her as a treasure-house of good character!
 
-Compared with her, Vadivambal would score only fifty percent! Vellai Ayyar’s compromise filled Vadivu with an unbearable thrill! And not without reason! For a long time she had felt a fascination for Vaalukku Veli—a thirst! By becoming his beloved lover, she would gain a special standing in that Paganeri region known as Vattasattai Nadu! More than power or influence, she had felt a dizziness about him from the very day she first heard of him! When she saw him from very close by at the dance performance in Chettiar’s house, his broad chest, wide shoulders and powerful build had, without her even realizing it, made her limbs swell with feeling!
+Compared with her, Vadivambal would score only fifty percent! Vellai Ayyar’s compromise filled Vadivu with an unbearable thrill! And not without reason! For a long time she had felt a fascination for Vaalukku Veli—a thirst! By becoming his lover, she would gain a special standing in that Paganeri region known as Vattasattai Nadu! More than power or influence, she had felt giddy about him from the very day she first heard of him! When she saw him from very close by at the dance performance in Chettiar’s house, his broad chest, wide shoulders and powerful build had, without her even realizing it, made her whole body throb with feeling!
 
 <!-- source boundary: scan 127 → scan 128 -->
 
@@ -99,27 +99,27 @@ Now, thinking again and again that by good fortune she was going to have plenty 
 
 ‘I will teach Kalyani Nachiyar dance!
 I will teach Vaalukkuveli the language of my eyes!
-The younger sister will dance! Her elder brother will join with me! Like Radha searching for Kannan, Kalyani will perform abhinaya! Searching for her brother, drunk on love, I will lie in his lap! This is a boon that has come to me of its own accord! My elder sister’s anger is my gain! Now my pangs of longing will end!”
+The younger sister will dance! Her elder brother will join with me! Like Radha searching for Kannan, Kalyani will perform abhinaya! I will seek out her brother and, drunk on love, lie in his lap! This is a boon that has come to me of its own accord! My elder sister’s anger is my gain! Now my pangs of longing will end!”
 
 Shadow-pictures of the future danced upon the screen of Vadivambal’s heart!
 
-Just as in Sundarambal’s house, Vaalukku Veli’s mansion too was filled with turmoil of mind!
+Just as in Sundarambal’s house, Vaalukku Veli’s mansion too was filled with the same turmoil!
 
-“Whatever else, you should not have gone to strike Sundari, Anna! Do you know what a great stain that is on your stature and honour?”
+“Whatever the case, you should not have tried to strike Sundari, Anna! Do you know what a great stain that is on your stature and honour?”
 
 When Kalyani Nachiyar rebuked him this way, Vaalukku Veli could give no reply!
 
-“Fortunately this quarrel ended with only four or five people knowing about it! If the townspeople come to know, they will blame only you, Anna!”
+“Fortunately, only four or five people know about this quarrel, and it ended there! If the townspeople come to know, they will blame only you, Anna!”
 
-“Yes, Kalyani, yes! In her devotion to art she too lost her balance and said all kinds of things! I too was swept away by emotion and forgot myself! I, who am always pouring water onto the ember-heart of my younger brother Adappan—
+“Yes, Kalyani, yes! In her devotion to art she too lost her balance and said all kinds of things! I too was swept away by emotion and forgot myself! I, who am always pouring water on my younger brother Adappan’s ember-heart—
 
 <!-- source boundary: scan 128 → scan 129 -->
 
-—and putting it out, how did I myself turn into a flame of fire yesterday? I do not know even now!”
+—to put it out, how did I myself turn into a flame of fire yesterday? I do not know even now!”
 
 “It all happened because of me! Why do I need dance now? Training? I do not want anything, Anna! With war and revolution all around us in Thenpandi Seemai—in such a terrible situation, what need is there for Bharatanatyam training?”
 
-“Kalyani! I am not unaware that the Thenpandi region is turning into a forest of fire! I have been making whatever preventive arrangements I can, as strategically as possible! I have so many difficulties! So many complications! Anything may happen at any time! Amid all of them, the one consolation I have is you, amma! If I can find you a good match and marry you off, then I will be ready to face anything in peace! So Kalyani, do not stand in the way of my wish! And not only that—do not refuse what I am about to say now either!”
+“Kalyani! I am not unaware that the Thenpandi region is turning into a forest of fire! I have been making whatever preventive arrangements I can, as strategically as possible! I have so many difficulties! So many complications! Anything may happen at any time! Amid all this, you are my one consolation, amma! If I can find you a good match and marry you off, then I will be ready to face anything in peace! So Kalyani, do not stand in the way of my wish! And not only that—do not refuse what I am about to say now either!”
 
 “What is it, Anna?”
 
@@ -127,4 +127,4 @@ When Kalyani Nachiyar rebuked him this way, Vaalukku Veli could give no reply!
 
 Startled, Kalyani caught hold of his hands and cried, “Anna!” Her eyes filled with tears!
 
-“Everything will happen for the best!” Vaalukkuveli said, and came out to the entrance.
+“Everything will happen for the best!” Vaalukkuveli said, and went out to the entrance.
