@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — ACTIVE — 10/27 REVIEWED**
+**PASS 2A — ACTIVE — 20/27 REVIEWED**
 
 Source:
 
@@ -70,8 +70,74 @@ Zero-correction scans — **135, 138, 139, 140, 141**.
 - Part007 leakage — **0**
 - outgoing 159→160 — **PENDING direct audit / source-limited**
 
-## Exact next activity
+## Batch 2 — scans143–152
 
-**Part006 Pass2A — scans143–152 / local pages11–20.**
+Direct textual-fidelity review completed for:
 
-Perform strict direct-source reread against rendered source pixels. Keep page status / visual fidelity at `needs-review`; no status promotion during Pass2A.
+- global scans — **143–152 / 10**
+- local pages — **11–20 / 10**
+- canonical records reviewed — **20/27 cumulative**
+- reviewed pages passing — **10/10**
+- unresolved textual questions — **0**
+- status promotions — **0**
+
+Pass2A checked exact lexical content, source-visible word boundaries and line-break forms, punctuation, dialogue/quotation structure, displayed devotional text, source-visible pagination, chapter/display structure and physical cross-page continuations against rendered source pixels.
+
+## Batch 2 corrections
+
+Corrections — **7 occurrences on 4 scans**:
+
+1. scan143 — `உரிமை உண்டு!` → source-visible `உரிமை யுண்டு!`.
+2. scan148 — `காத்துக் கொண்டு` → source `காத்துக்கொண்டு`.
+3. scan148 — `இருப்பீர்களென்றுதான்` → source-visible line-break form `இருப்பீர் களென்றுதான்`.
+4. scan150 — `அந்தப் பாட்டு` → source `அந்தப்பாட்டு`.
+5. scan152 — `அந்தத் தலை நிகழ்ச்சியில்` → source `அந்தக் கலை நிகழ்ச்சியில்`.
+6. scan152 — `நீலவண்ணித் தோகை` → source `நீலமணித் தோகை`.
+7. scan152 — `எழுதி கொடுத்து` → source `எழுதிக் கொடுத்து`.
+
+Affected scans — **143, 148, 150, 152**.
+
+Zero-correction scans — **144, 145, 146, 147, 149, 151**.
+
+Pass1 supersession:
+
+- scan152 — Pass1 reread had changed the phrase to `நீலவண்ணித் தோகை`; the fresh Pass2A source reread demonstrates the printed form is **`நீலமணித் தோகை`**, so Pass2A supersedes that Pass1 reading.
+
+## Batch 2 boundary / structure validation
+
+- 142→143 — dialogue sequence / no invented bridge wording — **PASS**
+- scan146 — chapter16 close / three source-visible ornaments — **PASS**
+- scan147 — illustrated chapter17 opener / displayed numeral17 / no source-visible folio — **PASS**
+- 147→148 — `மானா / மதுரைக்கும்` — **PASS**
+- scan148 — displayed letter/signature structure and source order — **PASS**
+- 148→149 — letter close / temple-dialogue transition — **PASS**
+- scan150 — displayed devotional verses and printed line order — **PASS**
+- 150→151 — `பிரதட்சணமாகச் / சுற்றி வந்த` — **PASS**
+- 151→152 — `இசை / விருந்தும்` — **PASS**
+- scan152 — terminal direct speech remains open to scan153 — **PASS**
+- scan153 wording copied backward — **0**
+- invented bridge text — **0**
+
+## Pass2A Batch 2 accounting
+
+- reviewed — **20/27 cumulative**
+- Batch 2 source-text correction occurrences — **7**
+- Batch 2 affected scans — **4 / 143, 148, 150, 152**
+- Batch 2 zero-correction scans — **6**
+- cumulative Pass2A source-text correction occurrences — **13**
+- cumulative affected scans — **9 / 133, 134, 136, 137, 142, 143, 148, 150, 152**
+- cumulative zero-correction reviewed scans — **11**
+- Pass1 supersessions — **1 / scan152**
+- unresolved Pass2A questions — **0**
+- status promotions — **0**
+- all Part006 pages remain `status: "needs-review"`
+- all Part006 pages remain `visual_fidelity: "needs-review"`
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+
+## Exact next activity — UPDATED
+
+**Part006 Pass2A FINAL — scans153–159 / local pages21–27.**
+
+Perform strict direct-source reread against rendered source pixels. Keep page status / visual fidelity at `needs-review`; no status promotion during Pass2A. Preserve the scan154 chapter17 close, scan155 illustrated chapter18 opener and outgoing **159→160 PENDING direct audit / source-limited**.
