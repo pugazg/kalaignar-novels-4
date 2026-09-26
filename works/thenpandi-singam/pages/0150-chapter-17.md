@@ -15,7 +15,7 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 
 ## Source transcription
 
-“கலைஞானமா இல்லை எனக்கு? கேளுங்கள் அய்யரே, கேளுங்கள்!” என்று வெடிச் சொற்களை வீசிய வாளுக்குவேலி திடீரெனப் பாடத் தொடங்கினான். திருக்கோட்டியூர் பற்றி ஆழ்வார்கள் பாடிய பாசுரங்களின் தொகுப்பாக அந்தப் பாட்டு அமைந்தது!
+“கலைஞானமா இல்லை எனக்கு? கேளுங்கள் அய்யரே, கேளுங்கள்!” என்று வெடிச் சொற்களை வீசிய வாளுக்குவேலி திடீரெனப் பாடத் தொடங்கினான். திருக்கோட்டியூர் பற்றி ஆழ்வார்கள் பாடிய பாசுரங்களின் தொகுப்பாக அந்தப்பாட்டு அமைந்தது!
 
 “கோல் கொண்டு வா! கோல் கொண்டு வா!” என்று வாளுக்குவேலி உரத்த குரலில் பாடியதும் வெள்ளை அய்யர் பயந்தே விட்டார்! பிறகுதான் அவருக்குப் புரிந்தது, அது பெரியாழ்வார் பாடிய திருமொழியென்பது!
 
@@ -42,5 +42,14 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 - source-visible displayed devotional verses are transcribed in their printed line order, including the physical `நல் / லக்கம்` line split;
 - terminal `பிரதட்சணமாகச்` continues directly to scan151;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part006 Pass 2A review
+
+- strict direct-source reread completed against rendered Part006 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, displayed text, source-visible pagination and physical-page structure checked;
+- source-text correction: `அந்தப் பாட்டு` → source `அந்தப்பாட்டு`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 150; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 18; அச்சுப் பக்கம்: 134; PASS 1 TEXT-COMPLETE / needs-review -->
