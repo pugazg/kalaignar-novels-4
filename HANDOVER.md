@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 Pass1 FINAL scans153–159 / local pages21–27**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 Pass2A scans133–142 / local pages1–10**
 
 ## Work
 
@@ -1508,5 +1508,22 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part007 leakage — **0**
 - outgoing 159→160 — **PENDING direct audit / source-limited**
 - exact next activity — **Part006 Pass1 FINAL scans153–159 / local pages21–27**
+- durable progress — `works/thenpandi-singam/PART_006_PASS1_PROGRESS.md`
+
+## Part006 Pass1 FINAL downstream state
+
+- Part006 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- completed scans — **133–159 / local pages1–27**
+- canonical Part006 records — **27/27**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- source-backed Pass1 reread corrections — **5**
+- unresolved Pass1 holds — **0**
+- chapter15 / chapter16 / chapter17 close — **scans137 / 146 / 154**
+- chapter18 opener — **scan155**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- exact next activity — **Part006 Pass2A scans133–142 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_006_PASS1_PROGRESS.md`
 
