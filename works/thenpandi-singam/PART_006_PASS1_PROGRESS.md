@@ -2,15 +2,15 @@
 
 ## Gate
 
-**PASS 1 — ACTIVE — 20/27 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 
 Canonical Part006 coverage:
 
-- local pages — **1–20 / 27**
-- global scans — **133–152 / 27**
-- canonical Part006 records — **20/27**
-- status — **needs-review on 20/20**
-- visual fidelity — **needs-review on 20/20**
+- local pages — **1–27 / 27**
+- global scans — **133–159 / 27**
+- canonical Part006 records — **27/27**
+- status — **needs-review on 27/27**
+- visual fidelity — **needs-review on 27/27**
 - verified promotions — **0**
 - unresolved Pass1 source-reading holds — **0**
 - frozen Part001–Part005 body edits — **0**
@@ -151,8 +151,68 @@ Enlarged rendered-source reread corrected **3 Pass1 transcription slips** before
 - frozen Parts001–005 body edits — **0**
 - Part007 leakage — **0**
 
-## Exact next activity — UPDATED
+## Batch 3 FINAL — scans153–159
 
-**Part006 Pass1 FINAL — scans153–159 / local pages21–27.**
+| Local | Scan | Printed | Chapter | Structural state | Pass1 |
+|---:|---:|---:|---:|---|---|
+| 21 | 153 | 137 | 17 | completes scan152 open direct speech; chapter17 continuation | TEXT-COMPLETE |
+| 22 | 154 | 138 | 17 | chapter17 close; three closing ornaments | TEXT-COMPLETE |
+| 23 | 155 | — | 18 | illustrated chapter18 opening; displayed numeral18; no visible folio; terminal `அறை முழுவதும்` open to scan156 | TEXT-COMPLETE |
+| 24 | 156 | 140 | 18 | completes `அறை முழுவதும் / காலியாகவில்லையென்றாலும்`; body continuation | TEXT-COMPLETE |
+| 25 | 157 | 141 | 18 | body continuation / dialogue / internal imagined speech | TEXT-COMPLETE |
+| 26 | 158 | 142 | 18 | body continuation | TEXT-COMPLETE |
+| 27 | 159 | 143 | 18 | supplied Part006 terminal; chapter18 remains open to unsupplied scan160 | TEXT-COMPLETE |
 
-Process the remaining **7 source pages**. Keep canonical records at `needs-review` / visual `needs-review`; do not promote status during Pass1. Preserve the chapter17 close at scan154, illustrated chapter18 opener at scan155, and leave outgoing **159→160 PENDING direct audit / source-limited**.
+## Final-batch cross-page / structural evidence
+
+- 152→153 — direct speech continues and closes — **PASS**
+- scan154 — chapter17 closes; three source-visible ornaments remain structural only
+- scan155 — illustrated chapter18 opener; no source-visible printed folio
+- 155→156 — `அறை முழுவதும் / காலியாகவில்லையென்றாலும்` — **PASS**
+- 156→157 — body/dialogue continuation — **PASS**
+- 157→158 — dialogue/narrative continuation — **PASS**
+- 158→159 — chapter18 continuation — **PASS**
+- scan159 — final supplied physical scan / printed143 / no source-visible chapter-closing ornament
+- **159→160 = PENDING direct audit / source-limited**
+- Part007 / scan160 imported or inferred — **0**
+
+## Final-batch direct-source reread
+
+Before Pass1 closure, enlarged rendered-source reread corrected **1 transcription slip**:
+
+1. scan155 — `இருக்குலே!` → source `இருக்குல்லே!`
+
+- final-batch source-backed corrections — **1**
+- cumulative Pass1 reread corrections — **5**
+- unresolved Pass1 holds — **0**
+- status promotions — **0**
+
+## Final accounting
+
+- canonical files created — **27**
+- canonical Part006 records — **27/27**
+- global scans represented — **133–159**
+- text-complete — **27/27**
+- needs-review Tamil / visual — **27/27 / 27/27**
+- illustrated chapter openers with no source-visible folio — **scans138, 147, 155**
+- chapter15 close — **scan137**
+- chapter16 close — **scan146**
+- chapter17 close — **scan154**
+- chapter18 opener — **scan155**
+- source-backed Pass1 reread corrections — **5**
+- unresolved Pass1 holds — **0**
+- verified promotions — **0**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+
+## Decision
+
+**PART006 PASS 1 — COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+
+## Exact next activity
+
+**Part006 Pass2A — scans133–142 / local pages1–10.**
+
+Perform strict direct-source reread against rendered source pixels. Keep page status / visual fidelity at `needs-review`; no status promotion during Pass2A.
