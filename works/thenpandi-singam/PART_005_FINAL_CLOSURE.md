@@ -224,3 +224,21 @@ No Part006 metadata is guessed.
 - exact next activity — **Part006 source intake when supplied**
 
 **STOP here. Part005 is FINAL CLOSED / FROZEN.**
+
+## Post-freeze Part006 boundary evidence completion
+
+Part006 has now been supplied and registered:
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf`
+- local physical pages — **27**
+- global scans — **133–159**
+- first scan — **scan133 / printed117**
+- direct adjacent comparison — **132→133 = GENUINE CONTINUATION / AUDITED**
+- physical continuation — `உன்னை நாங்க செட்டியார் வீட்டுக் / கல்யாணத்திலே பார்த்தோமே!”`
+- frozen Part005 canonical / assembled / maintained-English body changes — **0 / 0 / 0**
+- inferred bridge text — **0**
+- Part005 remains — **FINAL CLOSED / FROZEN**
+- Part006 source intake — **COMPLETE / PASS**
+- Part006 outgoing 159→160 — **PENDING direct audit / source-limited**
+- exact next activity — **Part006 Pass1 scans133–142 / local pages1–10**
+
