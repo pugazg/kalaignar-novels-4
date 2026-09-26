@@ -31,7 +31,7 @@ However much they tried, they could not forget it. As the carriage turned onto t
 
 Adappan was not accustomed to arguing further with his elder brother! He drove the carriage swiftly. Then both of them noticed men and women moving in streams toward Tirukkottiyur—along the road, over the field bunds, and on narrow footpaths.
 
-“What is this, appa? Such a crowd is going! Stop the carriage somewhere properly dark and ask what it is about!” said Vaalukku Veli.
+“What is this, appa? Such a crowd is going! Stop the carriage somewhere properly dark and ask what it is about!” said Vaalukkuveli.
 
 Adappan stopped the carriage beneath a tree thick with weeds and leaves. Sitting in the carriage, hidden by the darkness so that no one could tell who was inside, he asked, “What is the occasion, appa? Where are all of you going?”
 
@@ -43,13 +43,13 @@ Adappan stopped the carriage beneath a tree thick with weeds and leaves. Sitting
 
 The crowd answered as they hurried along. Mena Meyanna Chettiar was a very wealthy man—a millionaire! He had come in person, given Vaalukku Veli an invitation, and insisted that he must attend the wedding at his house. He ought to have gone at the wedding hour itself and blessed the bride and groom. In the commotion caused by Colonel Agniyu’s sudden summons, everyone had forgotten the wedding at Chettiar’s house.
 
-But now an idea came to Vaalukku Veli. If he went directly to Chettiar’s house, it would also serve as paying his respects at the wedding. He could watch Sundarambal’s dance performance and then speak to her about dance training for his sister! Adappan too accepted his elder brother’s idea. The carriage turned toward Chettiar’s house.
+But now an idea came to Vaalukkuveli. If he went directly to Chettiar’s house, it would also serve as paying his respects at the wedding. He could watch Sundarambal’s dance performance and then speak to her about dance training for his sister! Adappan too accepted his elder brother’s idea. The carriage turned toward Chettiar’s house.
 
 The entire street where Chettiar’s house stood was decorated in a way that captivated the eye! Uniform rows of palmyra trees had been cut and planted along both sides of the street, with large oil lamps burning on them, drawing everyone’s attention! A wondrous canopy had been erected with cloths of many colours! In front of the stage where Sundarambal’s dance performance was to take place, the bride and groom had been beautifully dressed and seated.
 
 <!-- source boundary: scan 113 → scan 114 -->
 
-Chettiar bustled about with great enthusiasm welcoming those who came to the wedding reception. Yet, since all the Ambalakkarars he knew, beginning with Vallatharayan, had already come, paid their wedding respects and left, the fact that Vaalukku Veli alone had not come remained as a small ache in one corner of his mind.
+Chettiar bustled about with great enthusiasm welcoming those who came to the wedding reception. Yet, since all the Ambalakkarars he knew, beginning with Vallatharayan, had already come, paid their wedding respects and left, the fact that Vaalukkuveli alone had not come remained as a small ache in one corner of his mind.
 
 In the dance arena, Sundarambal and Vadivambal spun like cut and polished diamonds, making those seated beneath the canopy feel as though they too were spinning.
 
@@ -96,21 +96,21 @@ Shall I torment you with the curve of my waist?
 Shall I rout the enemy army?
 Shall I play the veena of delight?”
 
-Sundarambal was dancing to this song, making everyone forget themselves, when the carriage carrying Vaalukku Veli came to a halt at the entrance to the wedding canopy.
+Sundarambal was dancing to this song, making everyone forget themselves, when the carriage carrying Vaalukkuveli came to a halt at the entrance to the wedding canopy.
 
 “Paganeriyar! Paganeriyar!” cried some standing at the entrance, running this way and that. Overcome with joy, Chettiar rushed forward like the wind to receive him, and everyone beneath the canopy rose to their feet.
 
 <!-- source boundary: scan 115 → scan 116 -->
 
-“Long live Vaalukku Veli Thevar!” another shout went up. Calming those beneath the canopy and greeting them with folded hands, Vaalukku Veli came and sat in the front row, ready to enjoy the dance!
+“Long live Vaalukku Veli Thevar!” another shout went up. Calming those beneath the canopy and greeting them with folded hands, Vaalukkuveli came and sat in the front row, ready to enjoy the dance!
 
 At the sudden commotion, Sundarambal’s face became a torch of anger! Even so, she composed herself and began the next segment, a Kurathi dance, together with Vadivambal. Still there was no quiet beneath the canopy. One after another, people kept rising, coming over, paying their respects to Vaalukku Veli and going back.
 
-Some surrounded Vaalukku Veli and Adappan and began placing their requests before them one after another.
+Some surrounded Vaalukkuveli and Adappan and began placing their requests before them one after another.
 
 Angered at seeing her art ignored, Sundarambal completed the dance without showing much interest and went to the dressing room with her younger sister!
 
-Vaalukku Veli told Chettiar why he needed to meet Sundarambal and, taking Chettiar and Adappan with him, went to the dressing room.
+Vaalukkuveli told Chettiar why he needed to meet Sundarambal and, taking Chettiar and Adappan with him, went to the dressing room.
 
 “Sundari! Vadivu! Do you know who has come? The Paganeri Ambalakkarar has come to see you!”
 
@@ -144,7 +144,7 @@ Sundarambal said this proudly and began to move away from the place.
 
 “Have I caused you any distress? I came to see you only because I had heard of your artistic skill; I had not even the smallest intention of hurting your feelings!”
 
-Vaalukku Veli looked at Sundarambal and explained calmly, with great courtesy. Nearby, Adappan did not like seeing his elder brother yield so much in his speech.
+Vaalukkuveli looked at Sundarambal and explained calmly, with great courtesy. Nearby, Adappan did not like seeing his elder brother yield so much in his speech.
 
 “Anna! It is getting late. Let us go!” he said.
 
@@ -170,4 +170,4 @@ Hearing Sundari’s reply, Vadivambal cried out in shock, “Akka!” Every nerv
 
 Vaalukku Veli’s furious question rang like an earthquake blast shaking the whole world! Before his powerful hand, raised in rage, could strike Sundari’s cheek, Karutha Adappan and Chettiar threw themselves between them and stopped him. Sundarambal, eyes scattering sparks, dragged away the trembling Vadivu, Nathamuni, Lalithangi and the others and left the place.
 
-Can an elephant ever be maimed because a deer butts it? No! Yet Vaalukku Veli walked unsteadily like such a maimed elephant and climbed into the carriage. Until they reached Paganeri, neither elder brother nor younger brother opened his mouth. Vaalukku Veli sat in the carriage doing nothing but stroking his moustache.
+Can an elephant ever be maimed because a deer butts it? No! Yet Vaalukkuveli walked unsteadily like such a maimed elephant and climbed into the carriage. Until they reached Paganeri, neither elder brother nor younger brother opened his mouth. Vaalukkuveli sat in the carriage doing nothing but stroking his moustache.
