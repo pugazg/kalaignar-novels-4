@@ -140,4 +140,19 @@ Perform **E19 draft + source-check — section24 / scans120–129**.
 - frozen Parts001–004 English edits — **0**
 - exact next gate — **Part005 English editorial review across E17–E20**
 - durable reconciliation — `PART_005_GLOSSARY_RECONCILIATION.md`
+## Post-E18 Part005 English editorial review note
+
+The later Part005 whole-Part English editorial review made **17 English-only readability/grammar repairs** in this maintained E18 file.
+
+- literary/display block count changed — **0**
+- provenance comments changed — **0**
+- source order changed — **0**
+- displayed dance-song / stanza lines changed — **0**
+- glossary-locked source variants broken — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- E18 remains **SOURCE-CHECKED / COMPLETE**
+- durable editorial review — `PART_005_EDITORIAL_REVIEW.md`
+- exact next gate — **Part005 whole-Part bilingual review across E17–E20 / scans106–132**
 
