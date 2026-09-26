@@ -151,6 +151,16 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 006 | 8 | 140 | 124 | chapter16 continuation; completes `அண்ணாந்து / நோக்கினான்.`; terminal `ஆதப்பனின்` continues to scan141; Pass1 text-complete | needs-review | `pages/0140-chapter-16.md` |
 | 006 | 9 | 141 | 125 | chapter16 continuation; completes `ஆதப்பனின் / செவிகளில்`; terminal `திரும்பிப் பார்த்து` continues to scan142; Pass1 text-complete | needs-review | `pages/0141-chapter-16.md` |
 | 006 | 10 | 142 | 126 | chapter16 continuation; completes `திரும்பிப் பார்த்து / விட்டு இன்னும்...`; Pass1 text-complete | needs-review | `pages/0142-chapter-16.md` |
+| 006 | 11 | 143 | 127 | chapter16 confrontation/dialogue continuation; Pass1 text-complete | needs-review | `pages/0143-chapter-16.md` |
+| 006 | 12 | 144 | 128 | chapter16 confrontation escalation; Pass1 text-complete | needs-review | `pages/0144-chapter-16.md` |
+| 006 | 13 | 145 | 129 | chapter16 fight / Veerammal plea; Pass1 text-complete | needs-review | `pages/0145-chapter-16.md` |
+| 006 | 14 | 146 | 130 | chapter16 close; three closing ornaments; Pass1 text-complete | needs-review | `pages/0146-chapter-16.md` |
+| 006 | 15 | 147 | — | illustrated chapter17 opening; displayed numeral17; mounted-warrior illustration; no source-visible folio; terminal `மானா` continues to scan148; Pass1 text-complete | needs-review | `pages/0147-chapter-17.md` |
+| 006 | 16 | 148 | 132 | chapter17 continuation; completes `மானா / மதுரைக்கும்`; displayed letter/signature continuation; Pass1 text-complete | needs-review | `pages/0148-chapter-17.md` |
+| 006 | 17 | 149 | 133 | chapter17 Vaalukku Veli / Vellai Ayyar dialogue; Pass1 text-complete | needs-review | `pages/0149-chapter-17.md` |
+| 006 | 18 | 150 | 134 | chapter17 devotional-song sequence; displayed verses; terminal `பிரதட்சணமாகச்` continues to scan151; Pass1 text-complete | needs-review | `pages/0150-chapter-17.md` |
+| 006 | 19 | 151 | 135 | chapter17 continuation; completes `பிரதட்சணமாகச் / சுற்றி வந்த`; terminal `இசை` continues to scan152; Pass1 text-complete | needs-review | `pages/0151-chapter-17.md` |
+| 006 | 20 | 152 | 136 | chapter17 continuation; completes `இசை / விருந்தும்`; terminal direct speech remains open to scan153; Pass1 text-complete | needs-review | `pages/0152-chapter-17.md` |
 
 ## Intake observations
 
