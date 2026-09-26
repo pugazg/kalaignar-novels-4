@@ -155,4 +155,20 @@ The later Part005 whole-Part English editorial review made **17 English-only rea
 - E18 remains **SOURCE-CHECKED / COMPLETE**
 - durable editorial review — `PART_005_EDITORIAL_REVIEW.md`
 - exact next gate — **Part005 whole-Part bilingual review across E17–E20 / scans106–132**
+## Post-E18 Part005 whole-Part bilingual review note
+
+The later Part005 whole-Part bilingual review required **0 further English-body fidelity corrections** in this maintained E18 file.
+
+- editorial repair sites rechecked — **17/17**
+- displayed song/stanza material changed — **0**
+- literary/display block count changed — **0**
+- provenance comments changed — **0**
+- source order changed — **0**
+- glossary/source-form locks broken — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- E18 remains **SOURCE-CHECKED / COMPLETE**
+- durable bilingual review — `PART_005_BILINGUAL_REVIEW.md`
+- exact next gate — **Part005 release/readiness report**
 
