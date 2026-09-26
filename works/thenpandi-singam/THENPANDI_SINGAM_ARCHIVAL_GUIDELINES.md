@@ -1021,3 +1021,29 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - Part006 leakage — **0**
 - exact next gate — **Part005 whole-Part English glossary reconciliation across E17–E20**
 - durable checks — `translations/en/E17_SOURCE_CHECK.md` through `translations/en/E20_SOURCE_CHECK.md`
+
+## Part005 whole-Part English glossary reconciliation downstream state
+
+**PART005 WHOLE-PART ENGLISH GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- scope — **E17–E20 / 4 maintained English files / scans106–132**
+- maintained/source-checked English — **4/4 / 4/4**
+- source coverage — **27/27 scans**
+- Tamil / English literary-display blocks — **154 / 154**
+- provenance comments — **25 / 25**
+- accidental closed-form `வாளுக்குவேலி` English spacing normalizations corrected — **15 occurrences**
+- affected English files — **E18 / E19 / E20**
+- E17 / E18 / E19 / E20 English-body repairs — **0 / 10 / 3 / 2**
+- remaining comparable `வாளுக்கு வேலி / வாளுக்குவேலி` English variant mismatches — **0**
+- scans109–110 source-visible English note — **EXACT / unchanged**
+- E18 displayed-song choices — **preserved as literary translation choices**
+- scans121–122 — **non-literary provenance only / 0 English literary prose**
+- unresolved glossary conflicts — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- durable reconciliation — `translations/en/PART_005_GLOSSARY_RECONCILIATION.md`
+- exact next activity — **Part005 English editorial review across E17–E20 / scans106–132**
+
