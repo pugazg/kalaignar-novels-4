@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part005 English editorial review across E17–E20 / scans106–132.**
+**Part005 whole-Part bilingual review across E17–E20 / scans106–132.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -1263,4 +1263,31 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Part006 leakage — **0**
 - durable reconciliation — `translations/en/PART_005_GLOSSARY_RECONCILIATION.md`
 - exact next activity — **Part005 English editorial review across E17–E20 / scans106–132**
+
+## Part005 English editorial review downstream state
+
+**PART005 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- scope — **E17–E20 / 4 maintained English files / scans106–132**
+- maintained/source-checked English — **4/4 / 4/4**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English-only editorial repairs — **59**
+- E17 / E18 / E19 / E20 repairs — **8 / 17 / 23 / 11**
+- literary/display blocks — **154 Tamil / 154 English**
+- provenance comments — **25 / 25**
+- block-count mismatches — **0**
+- provenance-comment count mismatches — **0**
+- source-visible glossary variant mismatches — **0**
+- scans109–110 source-visible English note — **EXACT / unchanged**
+- E18 displayed song/stanza lines — **unchanged**
+- scans121–122 — **non-literary provenance only / 0 English prose**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- terminal E20 dialogue — **intentionally open / preserved**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- unresolved editorial holds — **0**
+- durable review — `translations/en/PART_005_EDITORIAL_REVIEW.md`
+- exact next activity — **Part005 whole-Part bilingual review across E17–E20 / scans106–132**
 
