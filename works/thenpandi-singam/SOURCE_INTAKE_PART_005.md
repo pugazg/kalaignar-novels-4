@@ -585,3 +585,27 @@ Part005 is now the active transcription Part.
 - Part006 leakage — **0**
 - exact next gate — **Part005 whole-Part English glossary reconciliation across E17–E20**
 - durable checks — `translations/en/E17_SOURCE_CHECK.md` through `translations/en/E20_SOURCE_CHECK.md`
+
+## Part005 English glossary-reconciliation downstream state
+
+**PART005 WHOLE-PART ENGLISH GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- scope — **E17–E20 / scans106–132 / 4 maintained English files**
+- maintained/source-checked English — **4/4**
+- literary/display blocks — **154 Tamil / 154 English**
+- provenance comments — **25 / 25**
+- English body files changed — **3/4**
+- source-form repairs — **15 occurrences**
+- E17 / E18 / E19 / E20 repairs — **0 / 10 / 3 / 2**
+- repair class — closed Tamil `வாளுக்குவேலி` preserved as **Vaalukkuveli**
+- remaining comparable Vaalukku spaced/closed mismatches — **0**
+- scans109–110 source-visible English note — **EXACT / unchanged**
+- scans121–122 English literary prose — **0**
+- unresolved glossary/name/title/place conflicts — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- exact next gate — **Part005 English editorial review across E17–E20**
+- durable reconciliation — `translations/en/PART_005_GLOSSARY_RECONCILIATION.md`
