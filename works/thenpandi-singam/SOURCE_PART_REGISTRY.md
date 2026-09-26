@@ -11,7 +11,7 @@ This ledger records the user's **18 split source PDFs**.
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **PASS1 ACTIVE — 10/27 TEXT-COMPLETE** |
+| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **PASS1 ACTIVE — 20/27 TEXT-COMPLETE** |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1314,5 +1314,28 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part007 leakage — **0**
 - outgoing 159→160 — **PENDING direct audit / source-limited**
 - exact next activity — **Part006 Pass1 scans143–152 / local pages11–20**
+- durable progress — `PART_006_PASS1_PROGRESS.md`
+
+## Part006 Pass1 Batch 2 downstream state
+
+- Part006 Pass1 — **ACTIVE — 20/27 TEXT-COMPLETE**
+- completed scans — **133–152 / local pages1–20**
+- Batch 2 — **scans143–152 / local pages11–20 / 10/10 TEXT-COMPLETE**
+- canonical Part006 records — **20/27**
+- status / visual fidelity — **needs-review / needs-review on 20/20**
+- Batch 2 source-backed final reread corrections — **3 / scans145, 147, 152**
+- cumulative Pass1 reread corrections — **4**
+- scan146 — chapter16 close / three closing ornaments
+- scan147 — illustrated chapter17 opener / no visible folio
+- 147→148 — `மானா / மதுரைக்கும்` — **PASS**
+- 150→151 — `பிரதட்சணமாகச் / சுற்றி வந்த` — **PASS**
+- 151→152 — `இசை / விருந்தும்` — **PASS**
+- scan152 terminal direct speech — **open to scan153 / preserved**
+- unresolved Pass1 holds — **0**
+- status promotions — **0**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- exact next activity — **Part006 Pass1 FINAL scans153–159 / local pages21–27**
 - durable progress — `PART_006_PASS1_PROGRESS.md`
 
