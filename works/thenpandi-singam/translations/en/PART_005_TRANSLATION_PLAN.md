@@ -182,7 +182,7 @@ Outgoing:
 
 ## Exact next gate
 
-**Part005 whole-Part English glossary reconciliation across E17–E20.**
+**Part005 English editorial review across E17–E20.**
 
 ## E17 closure
 
@@ -215,4 +215,18 @@ Outgoing:
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - Part006 leakage — **0**
 - exact next gate — **Part005 whole-Part English glossary reconciliation across E17–E20**
+
+## Whole-Part glossary reconciliation closure
+
+- state — **RECONCILED / PASS**
+- source-checked English — **4/4**
+- source coverage — **106–132 / 27 scans**
+- Vaalukku closed-form spacing repairs — **15 English occurrences**
+- source-visible scans109–110 English note — **unchanged / protected**
+- unresolved glossary conflicts — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- exact next gate — **Part005 English editorial review across E17–E20**
+- durable record — `PART_005_GLOSSARY_RECONCILIATION.md`
 
