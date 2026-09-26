@@ -10,7 +10,7 @@ This ledger records the user's **18 split source PDFs**.
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **PASS3 COMPLETE / PASS — WHOLE-PART AUDIT NEXT** |
+| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **AUDIT COMPLETE / PASS — FINAL STATUS SYNC NEXT** |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
@@ -987,3 +987,27 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 whole-Part audit — scans106–132 / local pages1–27**
 - durable progress — `PART_005_PASS3_PROGRESS.md`
+
+## Part005 whole-Part audit downstream state
+
+- Part005 whole-Part audit — **PASS / COMPLETE**
+- canonical coverage — **27/27 / scans106–132**
+- duplicate / omitted canonical scans — **0 / 0**
+- `part_page` continuity — **1–27 / PASS**
+- source-filename consistency — **27/27**
+- Pass1 / Pass2A / Pass2B / Pass3 evidence — **27/27 / 27/27 / 27/27 / 27/27**
+- Pass2A corrections — **7 occurrences / scans113, 115, 125, 126, 131**
+- Pass2B corrections — **4 occurrences / scans108, 114, 131**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **1 / scan131**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- unsupported body insertion — **0**
+- audit/review-note leakage into literary transcription — **0**
+- page-status promotions during audit — **0**
+- status / visual fidelity remain — **needs-review / needs-review on 27/27**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- exact next activity — **Part005 final metadata/status synchronization — scans106–132 / 27 pages**
+- durable audit — `PART_005_AUDIT.md`
