@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part006 Pass1 final ba
 
 அதைக் கேட்ட வடிவுக்கு மகிழ்ச்சி பொங்கிற்று! லலிதாங்கி, வடிவாம்பாளிடம் பேசியதைத் தனது பாம்புக் காதுகளால் கேட்டுக் கொண்டிருந்த நாதமுனி, அவர்களுக்கு ஒரு விளக்கம் சொல்ல அவர்கள் அருகே நகர்ந்து வந்தான். அதற்குள் தனது பரத நாட்டிய உடைகளைக் கழற்றிவிட்டு மாற்று உடை அணிந்திடத் தனது அறைக்குள் சென்று விட்டாள் கல்யாணி நாச்சியார்!
 
-“அம்பலக்காரர்கள் வழக்கம் தெரியாதா உங்களுக்கு? அவங்க யாராவது நம்ப கலைத்துறையிலே இருக்கிற பெண்கள்மேல ஆசைப்பட்டு அவங்களோட வாழணும்னு முடிவு செஞ்சுட்டா முதல்ல இது மாதிரிதான் சீர் வரிசையெல்லாம் அனுப்புவாங்க! வடிவாம்பாளுக்கு வலுவிலே அடிக்குது அதிர்ஷ்டம்!”
+“அம்பலக்காரர்கள் வழக்கம் தெரியாதா உங்களுக்கு? அவங்க யாராவது நம்ப கலைத்துறையிலே இருக்கிற பெண்கள்மேல ஆசைப்பட்டு அவங்களோட வாழணும்னு முடிவு செஞ்சுட்டா முதல்ல இது மாதிரி தான் சீர் வரிசையெல்லாம் அனுப்புவாங்க! வடிவாம்பாளுக்கு வலுவிலே அடிக்குது அதிர்ஷ்டம்!”
 
 நாதமுனி, தனது கண்டுபிடிப்பை வெளியிட்டதும், வடிவு இன்பத்தில் மூழ்கினாள் என்றாலும், ஒரு சந்தேகம் அவளுக்கு ஏற்பட்டவே செய்தது.
 
@@ -32,5 +32,14 @@ transcription_method: "direct source-image transcription; Part006 Pass1 final ba
 - chapter18 continuation; printed page **140**;
 - opening completes scan155's `அறை முழுவதும் / காலியாகவில்லையென்றாலும்...`;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part006 Pass 2A review
+
+- strict direct-source reread completed against rendered Part006 source pixels;
+- exact lexical content, source-visible word boundaries, punctuation, dialogue/quotation structure, displayed text, source-visible pagination and physical-page structure checked;
+- source-text correction: `மாதிரிதான்` → source-visible `மாதிரி தான்`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 156; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 140; PASS 1 TEXT-COMPLETE / needs-review -->
