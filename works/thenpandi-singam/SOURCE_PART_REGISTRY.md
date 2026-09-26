@@ -10,7 +10,7 @@ This ledger records the user's **18 split source PDFs**.
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **ACTIVE — PASS3 20/27** |
+| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **PASS3 COMPLETE / PASS — WHOLE-PART AUDIT NEXT** |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
@@ -963,4 +963,27 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part006 leakage — **0**
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 Pass3 FINAL scans126–132 / local pages21–27**
+- durable progress — `PART_005_PASS3_PROGRESS.md`
+
+## Part005 Pass3 FINAL downstream state
+
+- Part005 Pass3 — **COMPLETE / PASS — 27/27 REVIEWED**
+- final batch — **scans126–132 / local pages21–27**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- scan128 internal imagined-speech display / quotation hierarchy — **PASS**
+- scan129 chapter14 close / three centered ornaments — **PASS**
+- scan130 illustrated chapter15 opener / displayed numeral 15 / mounted-warrior illustration / no source-visible folio — **PASS**
+- scan132 terminal open dialogue — **PASS**
+- 126→127 — **PASS**
+- 128→129 — **PASS**
+- 129→130 chapter14→15 transition — **PASS**
+- 130→131 — **PASS**
+- 131→132 — **PASS**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 whole-Part audit — scans106–132 / local pages1–27**
 - durable progress — `PART_005_PASS3_PROGRESS.md`
