@@ -10,7 +10,7 @@ This ledger records the user's **18 split source PDFs**.
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **E17 SOURCE-CHECKED / COMPLETE — E18 NEXT** |
+| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **E17–E20 SOURCE-CHECKED / COMPLETE — WHOLE-PART ENGLISH GLOSSARY NEXT** |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1138,3 +1138,27 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part006 leakage — **0**
 - exact next gate — **E18 draft + source-check — section23 / scans111–119**
 - durable source-check — `translations/en/E17_SOURCE_CHECK.md`
+
+## Part005 E18–E20 English downstream state
+
+**PART005 E17–E20 — SOURCE-CHECKED / COMPLETE — 4/4.**
+
+- E17 — scans106–110 — **SOURCE-CHECKED / COMPLETE**
+- E18 — scans111–119 — **SOURCE-CHECKED / COMPLETE**
+- E19 — scans120–129 — **SOURCE-CHECKED / COMPLETE**
+- E20 — scans130–132 — **SOURCE-CHECKED / COMPLETE**
+- cumulative Part005 translated/source-checked — **4/4 / 4/4**
+- English physical source coverage — **106–132 / 27 of 27 scans**
+- E18 blocks/comments — **68/68 / 8/8**
+- E19 blocks/comments — **49/49 / 9/9**
+- E20 blocks/comments — **14/14 / 3/3**
+- scans121–122 English literary prose — **0**
+- omitted / duplicated blocks — **0 / 0**
+- unresolved E17–E20 source-check holds — **0**
+- canonical / assembled Tamil edits caused by English work — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- exact next gate — **Part005 whole-Part English glossary reconciliation across E17–E20**
+- durable checks — `translations/en/E17_SOURCE_CHECK.md` through `translations/en/E20_SOURCE_CHECK.md`
