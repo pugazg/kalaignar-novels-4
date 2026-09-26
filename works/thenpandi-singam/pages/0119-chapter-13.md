@@ -56,4 +56,15 @@ transcription_method: "direct source-image transcription; Part005 Pass1 batch sc
 - unresolved Pass2B questions: **0**;
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 119; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 14; அச்சுப் பக்கம்: 105; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->
+
+## Formal Part005 Pass 3 review
+
+- full rendered-page visual / structural comparison completed directly against the Part005 source image;
+- displayed-text hierarchy, paragraph/dialogue block structure, reading order, printed pagination where visible, and recurring page furniture checked;
+- structural result: chapter13 closing page; printed folio **105** and work-title running header are source-visible; chapter-ending prose is followed by three centered closing ornaments with no extra literary text;
+- chapter13 close / three centered ornaments — **PASS**;
+- Pass3 textual corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized during Pass3.
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 119; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 14; அச்சுப் பக்கம்: 105; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->
