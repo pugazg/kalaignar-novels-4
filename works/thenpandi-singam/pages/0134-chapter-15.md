@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 
 நாச்சியாரின் அழகின் முன்னால்-வைரத்திற்கு எதிரே புஷ்பராகம் மின்னுவதைப் போல வடிவாம்பாள் காட்சி அளித்தாள்.
 
-“நடந்ததையெல்லாம் மறந்துடணும்னு கேட்டுக்கத்தான் வந்திருக்கோம்!” முதலில் நாதமுனி ஆரம்பிக்க, அதற்குப் பின்பாட்டுப் பாடினாள் லலிதாங்கி!
+“நடந்ததையெல்லாம் மறந்துடணும்னு கேட்டுக்கத் தான் வந்திருக்கோம்!” முதலில் நாதமுனி ஆரம்பிக்க, அதற்குப் பின்பாட்டுப் பாடினாள் லலிதாங்கி!
 
 “ஏதோ சின்னஞ்சிறுசுகள்! ஊர் உலகம் தெரியாத பெண்ணுங்க! அய்யாவோட பெருமை தெரியாம ஏதோ வாய் தவறுதலா பேசிட்டா, அதை அம்பலக்கார அய்யா
 
@@ -32,5 +32,14 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 - chapter 15 body continuation; printed page **118**;
 - terminal direct speech remains open at `அம்பலக்கார அய்யா` and continues on scan135;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part006 Pass 2A review
+
+- strict direct-source reread completed against rendered Part006 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text correction: `கேட்டுக்கத்தான்` → source `கேட்டுக்கத் தான்`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 134; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: 118; PASS 1 TEXT-COMPLETE / needs-review -->
