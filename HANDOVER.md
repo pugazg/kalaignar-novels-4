@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part005 Tamil archival-ready checkpoint**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part005 assembled Tamil construction + audit**
 
 ## Work
 
@@ -1236,3 +1236,25 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part006 leakage — **0**
 - exact next activity — **Part005 Tamil archival-ready checkpoint**
 - durable documentation sync — `PART_005_DOCUMENTATION_SYNC.md`
+
+## Part005 Tamil archival-ready downstream state
+
+- Part005 Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- needs-review Tamil / visual pages — **0 / 0**
+- page-map verified rows — **27/27**
+- Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
+- canonical Part005 page-file changes caused by checkpoint — **0**
+- canonical Tamil/body changes caused by checkpoint — **0**
+- verified status-field changes caused by checkpoint — **0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- frozen Parts001–004 body changes — **0**
+- Part006 leakage — **0**
+- exact next activity — **Part005 assembled Tamil construction + audit**
+- durable archival-ready checkpoint — `PART_005_TAMIL_ARCHIVAL_READY.md`
