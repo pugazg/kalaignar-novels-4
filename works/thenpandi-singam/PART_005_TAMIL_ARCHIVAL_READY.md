@@ -178,3 +178,23 @@ Do not begin English until assembled Tamil construction and audit close.
 - Part006 leakage — **0**
 - exact next gate — **E17 draft + source-check — section22 / scans106–110**
 - durable controls — `translations/en/PART_005_TRANSLATION_PLAN.md`, `PART_005_GLOSSARY.md`, `PART_005_PROGRESS.md`
+
+## Part005 E17 English downstream state
+
+**E17 — SOURCE-CHECKED / COMPLETE.**
+
+- English file — `translations/en/sections/22-chapter-12-part005.md`
+- Tamil authority — `sections/22-chapter-12-part005.md`
+- source scans — **106–110**
+- cumulative Part005 translated/source-checked — **1/4 / 1/4**
+- Tamil / English literary-source blocks — **23 / 23**
+- provenance comments — **5 / 5**
+- source-visible English note on scans109–110 — **EXACT / preserved as source-language material**
+- omitted / duplicated blocks — **0 / 0**
+- unresolved E17 source-check holds — **0**
+- canonical / assembled Tamil edits caused by E17 — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- Part006 leakage — **0**
+- exact next gate — **E18 draft + source-check — section23 / scans111–119**
+- durable source-check — `translations/en/E17_SOURCE_CHECK.md`
