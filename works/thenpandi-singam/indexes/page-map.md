@@ -134,13 +134,13 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 005 | 19 | 124 | 108 | chapter14 continuation; terminal `அம்பலக்காரர்` continues to scan125; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | needs-review | `pages/0124-chapter-14.md` |
 | 005 | 20 | 125 | 109 | chapter14 continuation; completes `அம்பலக்காரர் / மேல் என்ன குற்றம்?`; Pass1 text-complete; Pass2A reviewed / **1 correction**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections / Pass2A retained**; Pass3 reviewed / **0 corrections / 0 unresolved** | needs-review | `pages/0125-chapter-14.md` |
 
-| 005 | 21 | 126 | 110 | chapter14 continuation; terminal `அவளது` continues to scan127; Pass1 text-complete; Pass2A reviewed / **1 correction**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections / Pass2A retained** | needs-review | `pages/0126-chapter-14.md` |
-| 005 | 22 | 127 | 111 | chapter14 continuation; completes `அவளது / தன்மான உணர்வுக்குக் குறைவாகத் தெரிந்தது!`; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0127-chapter-14.md` |
-| 005 | 23 | 128 | 112 | chapter14 continuation; terminal `தம்பி ஆதப்பனின் தணல் உள்ளத்திற்கு` continues to scan129; Pass1 text-complete; Pass2A reviewed / **0 source-text corrections**; Pass1 note typo fixed; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0128-chapter-14.md` |
-| 005 | 24 | 129 | 113 | chapter14 close; three closing ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0129-chapter-14.md` |
-| 005 | 25 | 130 | — | illustrated chapter15 opening; displayed numeral 15; no source-visible folio; terminal `அவனது மைத்துனன்` continues to scan131; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0130-chapter-15.md` |
-| 005 | 26 | 131 | 115 | chapter15 continuation; completes `அவனது மைத்துனன் / உறங்காப்புலி`; Pass1 text-complete; Pass2A reviewed / **2 corrections**; Pass2B reviewed / **2 corrections / 0 historical-glyph corrections / 1 Pass2A supersession** | needs-review | `pages/0131-chapter-15.md` |
-| 005 | 27 | 132 | 116 | Part005 terminal chapter15 continuation; dialogue open at `உன்னை நாங்க செட்டியார் வீட்டுக்`; outgoing 132→133 pending/source-limited; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections** | needs-review | `pages/0132-chapter-15.md` |
+| 005 | 21 | 126 | 110 | chapter14 continuation; terminal `அவளது` continues to scan127; Pass1 text-complete; Pass2A reviewed / **1 correction**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections / Pass2A retained**; Pass3 reviewed / **0 corrections / 0 unresolved** | needs-review | `pages/0126-chapter-14.md` |
+| 005 | 22 | 127 | 111 | chapter14 continuation; completes `அவளது / தன்மான உணர்வுக்குக் குறைவாகத் தெரிந்தது!`; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | needs-review | `pages/0127-chapter-14.md` |
+| 005 | 23 | 128 | 112 | chapter14 continuation; terminal `தம்பி ஆதப்பனின் தணல் உள்ளத்திற்கு` continues to scan129; Pass1 text-complete; Pass2A reviewed / **0 source-text corrections**; Pass1 note typo fixed; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | needs-review | `pages/0128-chapter-14.md` |
+| 005 | 24 | 129 | 113 | chapter14 close; three closing ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | needs-review | `pages/0129-chapter-14.md` |
+| 005 | 25 | 130 | — | illustrated chapter15 opening; displayed numeral 15; mounted-warrior illustration; no source-visible folio; terminal `அவனது மைத்துனன்` continues to scan131; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | needs-review | `pages/0130-chapter-15.md` |
+| 005 | 26 | 131 | 115 | chapter15 continuation; completes `அவனது மைத்துனன் / உறங்காப்புலி`; Pass1 text-complete; Pass2A reviewed / **2 corrections**; Pass2B reviewed / **2 corrections / 0 historical-glyph corrections / 1 Pass2A supersession**; Pass3 reviewed / **0 corrections / 0 unresolved** | needs-review | `pages/0131-chapter-15.md` |
+| 005 | 27 | 132 | 116 | Part005 terminal chapter15 continuation; dialogue open at `உன்னை நாங்க செட்டியார் வீட்டுக்`; outgoing 132→133 pending/source-limited; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 corrections / 0 unresolved** | needs-review | `pages/0132-chapter-15.md` |
 
 ## Intake observations
 
@@ -729,5 +729,25 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - Part006 leakage — **0**
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 Pass3 FINAL scans126–132 / local pages21–27**
+- durable progress — `PART_005_PASS3_PROGRESS.md`
+
+## Part005 Pass3 FINAL downstream state
+
+- Part005 Pass3 — **COMPLETE / PASS — 27/27 REVIEWED**
+- final batch — **scans126–132 / local pages21–27**
+- cumulative Pass3 textual corrections — **0**
+- cumulative unresolved visual / structural questions — **0**
+- scan128 internal imagined-speech display / quotation hierarchy — **PASS**
+- scan129 chapter14 close / three ornaments — **PASS**
+- scan130 illustrated chapter15 opener / numeral 15 / mounted-warrior illustration / no source-visible folio — **PASS**
+- scan132 terminal open dialogue — **PASS**
+- 126→127, 128→129, 129→130, 130→131, 131→132 — **PASS**
+- status remains — **needs-review 27/27**
+- visual fidelity remains — **needs-review 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 whole-Part audit — scans106–132 / local pages1–27**
 - durable progress — `PART_005_PASS3_PROGRESS.md`
 
