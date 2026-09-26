@@ -806,3 +806,22 @@ Exact next gate: **Part004 whole-Part English glossary reconciliation across E13
 - exact next activity — **Part005 source intake when supplied**
 - durable closure — `../../PART_004_FINAL_CLOSURE.md`
 
+## Part005 English planning downstream state
+
+**PART005 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
+
+- reserved batches — **E17–E20**
+- planned maintained English files — **4**
+- mapping — **E17 section22 / E18 section23 / E19 section24 / E20 section25**
+- translated/source-checked — **0/4 / 0/4**
+- English literary prose drafted during planning — **0**
+- unresolved planning / glossary holds — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- scans109–110 source-visible English note — **preserve as source material**
+- scans121–122 — **non-literary provenance only / 0 English prose**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- exact next gate — **E17 draft + source-check — section22 / scans106–110**
+- durable controls — `PART_005_TRANSLATION_PLAN.md`, `PART_005_GLOSSARY.md`, `PART_005_PROGRESS.md`
