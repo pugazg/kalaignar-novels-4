@@ -997,3 +997,26 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 Pass3 scans106–115 / local pages1–10**
 - durable progress — `PART_005_PASS2B_PROGRESS.md`
+
+## Part005 Pass3 Batch 1 downstream state
+
+- Part005 Pass3 — **ACTIVE — 10/27 REVIEWED**
+- reviewed — **scans106–115 / local pages1–10**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- scan110 — English reference-note continuation + chapter12 close + three ornaments + intentional blank lower field — **PASS**
+- scan111 — illustrated chapter13 opener / displayed numeral 13 / mounted-warrior illustration / no source-visible folio — **PASS**
+- scans109–110 English historical/reference note placement and page structure — **PASS / text unchanged**
+- scan115 stamp / handwritten marks — **physical annotations only / not canonical prose**
+- 105→106 — **PASS**
+- 108→109 — **PASS**
+- 109→110 — **PASS**
+- 112→113 — **PASS**
+- 114→115 — **PASS**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- exact next activity — **Part005 Pass3 scans116–125 / local pages11–20**
+- durable progress — `PART_005_PASS3_PROGRESS.md`
