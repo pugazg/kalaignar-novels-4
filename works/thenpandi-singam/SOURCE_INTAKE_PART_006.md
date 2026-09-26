@@ -204,3 +204,24 @@ Part006 is now the active transcription Part.
 - exact next activity — **Part006 Pass1 FINAL scans153–159 / local pages21–27**
 - durable progress — `PART_006_PASS1_PROGRESS.md`
 
+## Part006 Pass1 FINAL downstream state
+
+- Part006 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- completed scans — **133–159 / local pages1–27**
+- canonical Part006 records — **27/27**
+- total canonical repository records — **159**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- final-batch source-backed reread corrections — **1 / scan155**
+- cumulative Pass1 reread corrections — **5**
+- unresolved Pass1 holds — **0**
+- chapter15 close — **scan137**
+- chapter16 close — **scan146**
+- chapter17 close — **scan154**
+- chapter18 opener — **scan155**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- exact next activity — **Part006 Pass2A scans133–142 / local pages1–10**
+- durable progress — `PART_006_PASS1_PROGRESS.md`
+
