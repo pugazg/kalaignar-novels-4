@@ -29,7 +29,7 @@ If the freedom fighters who had established camps between Manamadurai and Parthi
 
 It was for that rare task that Adappan, valuing his own life as no more than a blade of grass, had mounted his horse and flown away. Even Kalyani Nachiyar did not know of this. Adappan, thrilled to accept his elder brother’s order that he complete the task successfully and then come back to meet him, had not told Kalyani the details either; he had simply said that he was going out of town on some other work and left.
 
-Vaalukku Veli ordered that the box carriage normally used by the women of the Paganeri Ambalakkarar’s household be brought, saying he did not want the horse carriage! Silk curtains hung on both sides of that vehicle, arranged so that no one would be able to recognize him if he travelled in it!
+Vaalukkuveli ordered that the box carriage normally used by the women of the Paganeri Ambalakkarar’s household be brought, saying he did not want the horse carriage! Silk curtains hung on both sides of that vehicle, arranged so that no one would be able to recognize him if he travelled in it!
 
 <!-- source boundary: scan 131 → scan 132 -->
 
@@ -39,7 +39,7 @@ As Vaalukku Veli’s carriage crossed the boundary of Paganeri, another carriage
 
 The carriage coming toward Paganeri belonged to Sundari! Apart from going to the temple and dancing in performance halls, Sundari was not accustomed to going out for anything else; when travelling to another place, it was her habit to go only in a curtained box carriage. That very carriage was now entering Paganeri and drawing near the Ambalakkarar’s house.
 
-From the carriage that stopped at the entrance to Vaalukku Veli’s house, Lalithangi stepped down first. Nathamuni followed her. Vadivambal stepped down third. By then the cooks Kaadai and Kolari had seen them and were beside themselves with excitement.
+From the carriage that stopped at the entrance to Vaalukkuveli’s house, Lalithangi stepped down first. Nathamuni followed her. Vadivambal stepped down third. By then the cooks Kaadai and Kolari had seen them and were beside themselves with excitement.
 
 “You’re Vadivambal, the younger sister of Sundari from Tirukkottiyur, aren’t you! We, at Chettiar’s house—
 
