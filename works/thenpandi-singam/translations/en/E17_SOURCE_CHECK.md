@@ -195,3 +195,16 @@ Tamil authority was unchanged.
 ## Exact next activity
 
 Perform **E18 draft + source-check — section23 / scans111–119**.
+
+## Post-source-check whole-Part glossary reconciliation
+
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- E17 English body changes during reconciliation — **0**
+- scans109–110 source-visible English note — **EXACT / unchanged**
+- incoming 105→106 provenance — **preserved**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- exact next gate — **Part005 English editorial review across E17–E20**
+- durable reconciliation — `PART_005_GLOSSARY_RECONCILIATION.md`
+
