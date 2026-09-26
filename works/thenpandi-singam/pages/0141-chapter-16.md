@@ -36,4 +36,13 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 - terminal `திரும்பிப் பார்த்து` continues to scan142;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
+## Formal Part006 Pass 2A review
+
+- strict direct-source reread completed against rendered Part006 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections: **0**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 141; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: 125; PASS 1 TEXT-COMPLETE / needs-review -->
