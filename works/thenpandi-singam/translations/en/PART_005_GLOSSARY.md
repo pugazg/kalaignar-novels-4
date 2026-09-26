@@ -151,4 +151,45 @@ Outgoing:
 
 ## Exact next gate
 
-**E17 draft + source-check — section22 / scans106–110.**
+**E18 draft + source-check — section23 / scans111–119.**
+
+## E17 source-check term state
+
+E17 is **SOURCE-CHECKED / COMPLETE** for section22 / scans106–110.
+
+Carried-forward locks used without alteration where the same Tamil form recurs:
+
+- `அக்னியூ` → **Agniyu**
+- `வாளுக்குவேலி` → **Vaalukkuveli**
+- `வாளுக்கு வேலி` → **Vaalukku Veli**
+- `வெள்ளை அய்யர்` → **Vellai Ayyar**
+- `மருதுபாண்டியர்` / `மருது பாண்டியர்` → **Maruthu Pandiyars**
+- `ஊமைத்துரை` → **Oomaithurai**
+- `அம்பலக்காரர்` → **Ambalakkarar**
+- `பாகனேரி` → **Paganeri**
+- `பட்டமங்கலம்` → **Pattamangalam**
+- `வல்லத்தரையன்` → **Vallatharayan**
+
+E17 source-facing forms established:
+
+- `வீரபாண்டிய கட்டபொம்மன்` → **Veerapandiya Kattabomman**
+- `கயத்தாறு` → **Kayatharu**
+- `பாளையங்கோட்டை` → **Palayamkottai**
+- `பாஞ்சாலங்குறிச்சி` → **Panchalankurichi**
+- `திருப்புவனம்` → **Thiruppuvanam**
+- `திருப்பாச்சேத்தி` → **Thiruppachethi**
+- `மேஜர் கிரே` → **Major Grey**
+- `பிளாக்கர்` → **Blacker**
+- `கோல்` → **Cole**
+- `பார்மின்டன்` → **Farmington**
+- `ஸ்டுவர்ட்` → **Stuart**
+- `எட்டுக்கல் தொலைவு` → **eight-kal distance**
+
+The source-visible English historical/reference note on scans109–110 is retained as source-language material rather than translated.
+
+- E17 unresolved glossary holds — **0**
+- source-note normalization — **0**
+- outside historical standardization — **0**
+- exact next gate — **E18 draft + source-check — section23 / scans111–119**
+- durable E17 source-check — `E17_SOURCE_CHECK.md`
+
