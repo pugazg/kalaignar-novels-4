@@ -55,4 +55,16 @@ transcription_method: "direct source-image transcription; Part005 Pass1 final ba
 - unresolved Pass2B questions: **0**;
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 130; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: SOURCE-NOT-VISIBLE; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->
+
+## Formal Part005 Pass 3 review
+
+- full rendered-page visual / structural comparison completed directly against the Part005 source image;
+- displayed-text hierarchy, paragraph/dialogue block structure, reading order, printed pagination where visible, and recurring page furniture checked;
+- structural result: illustrated chapter **15** opener; mounted-warrior illustration and displayed numeral **15** precede the literary body; no source-visible printed folio; terminal `அவனது மைத்துனன்` remains physically open to scan131;
+- illustration detail promoted to literary prose: **0**;
+- 130→131 `அவனது மைத்துனன் / உறங்காப்புலி...` — **PRESERVED / PASS**;
+- Pass3 textual corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized during Pass3.
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 130; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: SOURCE-NOT-VISIBLE; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->
