@@ -10,7 +10,7 @@ This ledger records the user's **18 split source PDFs**.
 | 002 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf` | 27 | 27–53 | 48,679,196 | `232e63ee990e368783b6767b178057815493f636f492ad6a9bd481bd74a3423b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL STATUS SYNC PASS / CLOSED — DOCUMENTATION SYNC NEXT** |
+| 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **DOCUMENTATION SYNC PASS / COMPLETE — TAMIL ARCHIVAL-READY NEXT** |
 | 006 | pending | pending | pending | pending | pending | blocked | not started |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1027,3 +1027,24 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part006 leakage — **0**
 - exact next activity — **Part005 documentation synchronization**
 - durable status sync — `PART_005_FINAL_STATUS_SYNC.md`
+
+## Part005 documentation synchronization downstream state
+
+- Part005 documentation synchronization — **PASS / COMPLETE**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
+- canonical Part005 page-file changes caused by documentation sync — **0**
+- canonical Tamil/body changes caused by documentation sync — **0**
+- verified status-field changes caused by documentation sync — **0**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- frozen Parts001–004 body changes — **0**
+- Part006 leakage — **0**
+- exact next activity — **Part005 Tamil archival-ready checkpoint**
+- durable documentation sync — `PART_005_DOCUMENTATION_SYNC.md`
