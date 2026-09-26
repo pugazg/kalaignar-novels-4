@@ -138,3 +138,20 @@ All planned Part005 English batches **E17–E20 are now source-checked / complet
 ## Exact next activity
 
 Perform **Part005 whole-Part English glossary reconciliation across E17–E20**.
+
+## Post-source-check whole-Part glossary reconciliation
+
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- E20 English source-form repairs — **2 occurrences**
+- repair class — source `வாளுக்குவேலி` closed-form spacing preserved as **Vaalukkuveli**
+- affected scans — **131, 132**
+- literary/display block count after repairs — **14 / unchanged**
+- provenance comments — **3 / 3 unchanged**
+- outgoing 132→133 — **PENDING direct audit / source-limited / preserved**
+- unresolved E20 glossary conflicts — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- exact next gate — **Part005 English editorial review across E17–E20**
+- durable reconciliation — `PART_005_GLOSSARY_RECONCILIATION.md`
+
