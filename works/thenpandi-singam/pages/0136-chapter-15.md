@@ -17,7 +17,7 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 
 கல்யாணியின் முகம் மலர்ந்தது என்றாலும், அண்ணன் இல்லாத நேரத்தில் முதல் முதலாக எப்படிப் பயிற்சியைத் தொடங்குவது என்று திகைத்துப் போனாள்:
 
-“அண்ணன் ஊரிலிருந்து வந்துவிடட்டுமே!”
+“அண்ணன் ஊரிலிருந்து வந்துவிட்டுமே!”
 
 கல்யாணியின் பேச்சைக் கேட்டுத் தலையசைத்து விட்டாள்-அதற்குள் வடிவாம்பாள் இடத்திற்குச் சுந்தரியே வந்துவிடலாமல்லவா? மீண்டும் வடிவுக்குக் குழப்பம்! அவளே முதலில் ஆரம்பித்துவிட்டால் பிறகு சுந்தரி வந்து நடனப் பயிற்சி தொடங்கி வைக்கிறேன் என்று சொல்ல மாட்டாள் என்ற நம்பிக்கை அவளுக்கு!
 
@@ -36,5 +36,14 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 - chapter 15 continuation; printed page **120**;
 - page ends inside the driver's direct speech; the closing quotation is not present on this scan;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part006 Pass 2A review
+
+- strict direct-source reread completed against rendered Part006 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text correction: `வந்துவிடட்டுமே!` → source `வந்துவிட்டுமே!`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 136; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 120; PASS 1 TEXT-COMPLETE / needs-review -->
