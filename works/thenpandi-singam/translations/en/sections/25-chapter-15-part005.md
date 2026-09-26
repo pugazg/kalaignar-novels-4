@@ -15,7 +15,7 @@ status: "source-checked"
 
 Only when he reached the entrance did Vaalukku Veli remember that Karutha Adappan was not in town, and that he himself had sent him away on a very urgent task! In one way, Adappan’s absence was good for him.
 
-Had he been there, he would not have let Vaalukku Veli go to Sundarambal’s house without protest as Kalyani Nachiyar had. It was a relief that his younger brother was not there at that moment!
+Kalyani Nachiyar had let him go to Sundarambal’s house without raising any objection; had Adappan been there, he would not have done the same. It was a relief that his younger brother was not there at that moment!
 
 But when he thought of the task on which his brother had gone, he worried about whether his brother would return safely! Having heard of the defeat suffered by the English Company’s force at Thiruppachethi and of Major Grey being killed in that battle, Colonel Agniyu had sent a secret letter to another colonel named Welsh about how the Maruthu Pandiyars’ force was to be subdued.
 
@@ -27,7 +27,7 @@ The letter, without even the knowledge of Pattamangalam Ambalakkarar Vallatharay
 
 For the freedom fighters who had established camps between Manamadurai and Parthibanur and were preparing to scatter the Parangi troops to remain alert, the commanders of the freedom struggle had to learn the details of the letter Colonel Agniyu had sent to Welsh.
 
-It was for that important task that Adappan, valuing his own life as no more than a blade of grass, had mounted his horse and flown away. Even Kalyani Nachiyar did not know of this. Adappan, thrilled as he accepted his elder brother’s order to complete the task successfully and then come back to meet him, had not told Kalyani the details either; he had simply said that he was going out of town on some other work and left.
+It was for that rare task that Adappan, valuing his own life as no more than a blade of grass, had mounted his horse and flown away. Even Kalyani Nachiyar did not know of this. Adappan, thrilled as he accepted his elder brother’s order to complete the task successfully and then come back to meet him, had not told Kalyani the details either; he had simply said that he was going out of town on some other work and left.
 
 Vaalukkuveli ordered that the box carriage normally used by the women of the Paganeri Ambalakkarar’s household be brought, saying he did not want the horse carriage! Silk curtains hung on both sides of that vehicle so that no one would be able to recognize him if he travelled in it!
 
