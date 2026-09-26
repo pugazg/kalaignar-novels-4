@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**E17 SOURCE-CHECKED / COMPLETE — E18 NEXT**
+**E17–E20 SOURCE-CHECKED / COMPLETE — WHOLE-PART GLOSSARY RECONCILIATION NEXT**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -31,9 +31,9 @@ Reserved Part005 batches: **E17–E20**.
 | Batch | Tamil assembled coverage | Scans | Planned English file | State |
 |---|---|---:|---|---|
 | **E17** | section22 — chapter12 Part005 continuation/close | 106–110 | `sections/22-chapter-12-part005.md` | **SOURCE-CHECKED / COMPLETE** |
-| **E18** | section23 — chapter13 | 111–119 | `sections/23-chapter-13.md` | **PLANNED / NEXT** |
-| **E19** | section24 — chapter14 | 120–129 | `sections/24-chapter-14.md` | **PLANNED** |
-| **E20** | section25 — chapter15 Part005 portion | 130–132 | `sections/25-chapter-15-part005.md` | **PLANNED** |
+| **E18** | section23 — chapter13 | 111–119 | `sections/23-chapter-13.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E19** | section24 — chapter14 | 120–129 | `sections/24-chapter-14.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E20** | section25 — chapter15 Part005 portion | 130–132 | `sections/25-chapter-15-part005.md` | **SOURCE-CHECKED / COMPLETE** |
 
 ## Planning accounting
 
@@ -98,7 +98,7 @@ Outgoing:
 
 ## Exact next gate
 
-**E18 draft + source-check — section23 / scans111–119.**
+**Part005 whole-Part English glossary reconciliation across E17–E20.**
 
 ## E17 closure
 
@@ -118,4 +118,27 @@ Outgoing:
 - Part006 leakage — **0**
 - exact next gate — **E18 draft + source-check — section23 / scans111–119**
 - durable source-check — `E17_SOURCE_CHECK.md`
+
+## E18–E20 closure
+
+- E18 — **SOURCE-CHECKED / COMPLETE — scans111–119**
+- E19 — **SOURCE-CHECKED / COMPLETE — scans120–129**
+- E20 — **SOURCE-CHECKED / COMPLETE — scans130–132**
+- cumulative Part005 translated/source-checked — **4/4 / 4/4**
+- physical source coverage — **scans106–132 / 27 of 27**
+- E18 Tamil / English blocks — **68 / 68**
+- E18 provenance comments — **8 / 8**
+- E19 Tamil / English blocks — **49 / 49**
+- E19 provenance comments — **9 / 9**
+- E19 scans121–122 English prose — **0**
+- E20 Tamil / English blocks — **14 / 14**
+- E20 provenance comments — **3 / 3**
+- omitted / duplicated blocks across E18–E20 — **0 / 0**
+- unresolved E18 / E19 / E20 holds — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–004 English edits — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- exact next gate — **Part005 whole-Part English glossary reconciliation across E17–E20**
+- durable source-checks — `E18_SOURCE_CHECK.md`, `E19_SOURCE_CHECK.md`, `E20_SOURCE_CHECK.md`
 
