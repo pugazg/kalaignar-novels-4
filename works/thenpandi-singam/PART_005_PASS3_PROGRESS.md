@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — ACTIVE — 10/27 REVIEWED**
+**PASS 3 — ACTIVE — 20/27 REVIEWED**
 
 Prerequisites:
 
@@ -75,8 +75,59 @@ Recurring running headers and printed folios are structural page furniture and a
 - Part006 leakage — **0**
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 
+## Batch 2 — scans116–125
+
+Fresh full rendered-page visual / structural review completed for:
+
+- global scans — **116–125 / 10**
+- local pages — **11–20 / 10**
+- reviewed records — **20/27 cumulative**
+- reviewed pages passing — **10/10**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+
+## Structural inventory — Batch 2
+
+| Scan | Printed | Structural result |
+|---:|:---:|---|
+| 116 | 102 | chapter13 body; author-line running header |
+| 117 | 103 | chapter13 body; work-title running header |
+| 118 | 104 | chapter13 body; author-line running header |
+| 119 | 105 | chapter13 close; work-title running header; three centered closing ornaments |
+| 120 | — | illustrated chapter14 opener; mounted-warrior illustration; displayed numeral **14**; no source-visible folio; terminal `கூனிக் குறுகிக்` remains open |
+| 121 | — | full-page non-literary illustration; no folio; no literary body text |
+| 122 | — | illustration verso / intentional blank; faint show-through only; no folio; no literary body text |
+| 123 | 107 | chapter14 body resumes after inserted non-text leaf; work-title running header |
+| 124 | 108 | chapter14 body; author-line running header; terminal `அம்பலக்காரர்` remains open |
+| 125 | 109 | chapter14 body; work-title running header; opening completes scan124 |
+
+Recurring running headers and printed folios remain structural page furniture and are not duplicated into canonical literary prose.
+
+## Batch 2 cross-page / layout states confirmed
+
+- scan119 — chapter13 close / three ornaments — **PASS**
+- scan120 — illustrated chapter14 opener / numeral 14 / mounted-warrior illustration / no visible folio — **PASS**
+- scan121 — full-page illustration / no literary body text — **PASS**
+- scan122 — illustration verso / intentional blank / faint show-through only / no literary body text — **PASS**
+- 120→121–122→123 — `கூனிக் குறுகிக் / காட்சியளித்தது.` — **PRESERVED / PASS / no bridge wording**
+- 124→125 — `அம்பலக்காரர் / மேல் என்ன குற்றம்?` — **PRESERVED / PASS**
+- illustration/show-through detail promoted to literary prose — **0**
+
+## Cumulative Pass3 accounting through Batch 2
+
+- reviewed — **20/27**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+- all Part005 pages remain `status: "needs-review"`
+- all Part005 pages remain `visual_fidelity: "needs-review"`
+- frozen Parts001–004 body edits — **0**
+- Part006 leakage — **0**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+
 ## Exact next activity
 
-**Part005 Pass3 scans116–125 / local pages11–20.**
+**Part005 Pass3 FINAL scans126–132 / local pages21–27.**
 
-Perform the fresh full rendered-page visual / structural review for the next **10 source pages**. Verify scan119 chapter13 close, scan120 illustrated chapter14 opener, scans121–122 non-literary illustration/verso, 120→121–122→123 continuation, and 124→125 continuation. Do not promote page status during Pass3.
+Perform the fresh full rendered-page visual / structural review for the remaining **7 source pages**. Verify scan129 chapter14 close, scan130 illustrated chapter15 opener, scan131 body-page structure, scan132 terminal open dialogue, and preserve outgoing 132→133 as source-limited. Do not promote page status during Pass3.
