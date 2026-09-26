@@ -155,3 +155,27 @@ Do not alter canonical Tamil during documentation synchronization. After documen
 - outgoing 132→133 — **PENDING direct audit / source-limited**
 - exact next activity — **Part005 English translation planning/setup — reserve E17–E20**
 - durable validation — `PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
+
+## Part005 English planning downstream state
+
+**PART005 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
+
+- live collision check — **PASS**
+- existing batch controls before setup — **E1–E16**
+- existing maintained English section orders before setup — **00–21**
+- reserved Part005 batches — **E17–E20**
+- planned maintained English files — **4**
+- batch/file mapping — **E17→22 / E18→23 / E19→24 / E20→25**
+- translated/source-checked at planning closure — **0/4 / 0/4**
+- English literary prose drafted during planning — **0**
+- unresolved planning / glossary holds — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Parts001–004 English edits — **0**
+- scans109–110 source-visible English note — **source material / preserve without modernization**
+- scans121–122 — **non-literary provenance only / 0 planned English prose**
+- incoming 105→106 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 132→133 — **PENDING direct audit / source-limited**
+- Part006 leakage — **0**
+- exact next gate — **E17 draft + source-check — section22 / scans106–110**
+- durable controls — `translations/en/PART_005_TRANSLATION_PLAN.md`, `PART_005_GLOSSARY.md`, `PART_005_PROGRESS.md`
