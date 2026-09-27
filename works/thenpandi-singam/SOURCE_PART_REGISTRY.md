@@ -12,7 +12,7 @@ This ledger records the user's **18 split source PDFs**.
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN — PART007 SOURCE INTAKE NEXT** |
-| 007 | pending | pending | pending | pending | pending | blocked | not started |
+| 007 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf` | 27 | 160–186 | 48,308,828 | `989b28ee437602c4c197c8dbcd00af7823098b9c42e907e8e3e04511b0d35021` | **COMPLETE / PASS** | **ACTIVE — PASS1 NEXT** |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
 | 010 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1851,3 +1851,38 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - exact next activity — **Part007 source intake when supplied**
 - durable closure — `works/thenpandi-singam/PART_006_FINAL_CLOSURE.md`
 <!-- PART006_FINAL_CLOSURE_CURRENT_END -->
+
+<!-- PART007_SOURCE_INTAKE_CURRENT_START -->
+## Part007 source intake — current authoritative state
+
+**PART007 SOURCE INTAKE — COMPLETE / PASS.**
+
+- exact source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf`
+- bytes — **48,308,828**
+- SHA-256 — `989b28ee437602c4c197c8dbcd00af7823098b9c42e907e8e3e04511b0d35021`
+- local physical pages — **27**
+- global scans — **160–186**
+- local→global — **local1=160 / local27=186**
+- parsed text layer — **absent / unusable**
+- controlling representation — **rendered source page images**
+- source PDF in Git — **0**
+- first scan — **160 / printed144 / chapter18 continuation**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- scan163 — **chapter18 close / closing ornaments**
+- scan164 — **illustrated chapter19 opener / no visible folio**
+- scan173 — **chapter19 close / closing ornaments**
+- scan174 — **illustrated chapter20 opener / no visible folio**
+- scan186 — **printed170 / chapter20 close / closing ornaments**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- registered Parts — **7/18**
+- registered physical scans — **186**
+- canonical records — **159**
+- final-closed Parts — **6**
+- active transcription Part — **Part007**
+- Part007 canonical records — **0/27**
+- Part007 Pass1 — **NOT STARTED**
+- frozen Parts001–006 body edits caused by intake — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass1 scans160–169 / local pages1–10**
+- durable intake — `works/thenpandi-singam/SOURCE_INTAKE_PART_007.md`
+<!-- PART007_SOURCE_INTAKE_CURRENT_END -->
