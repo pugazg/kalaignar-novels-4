@@ -11,7 +11,7 @@ This ledger records the user's **18 split source PDFs**.
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT** |
+| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT** |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1788,3 +1788,31 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - exact next activity — **Part006 whole-Part bilingual review across E21–E24 / scans133–159**
 - durable review — `works/thenpandi-singam/translations/en/PART_006_EDITORIAL_REVIEW.md`
 <!-- PART006_ENGLISH_EDITORIAL_REVIEW_CURRENT_END -->
+
+<!-- PART006_ENGLISH_BILINGUAL_REVIEW_CURRENT_START -->
+## Part006 whole-Part bilingual review — current authoritative state
+
+**PART006 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+
+- scope — **E21–E24 / scans133–159**
+- Tamil-English pairs — **4/4 PASS**
+- physical source coverage — **27/27 scans**
+- literary/display blocks — **166 Tamil / 166 English**
+- provenance comments — **25 / 25**
+- editorial repair sites rechecked — **55/55**
+- further English-only fidelity corrections — **16**
+- E21 / E22 / E23 / E24 bilingual corrections — **4 / 4 / 4 / 4**
+- maintained English files changed by bilingual review — **4/4**
+- unresolved bilingual holds — **0**
+- glossary/source-form conflicts — **0**
+- comparable Vaalukku source-form blocks — **28 / 0 mismatches**
+- scan148 letter/signature hierarchy — **preserved**
+- scan150 devotional-verse hierarchy — **preserved**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–005 English body edits — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- Part007 leakage — **0**
+- exact next activity — **Part006 release/readiness report**
+- durable review — `works/thenpandi-singam/translations/en/PART_006_BILINGUAL_REVIEW.md`
+<!-- PART006_ENGLISH_BILINGUAL_REVIEW_CURRENT_END -->
