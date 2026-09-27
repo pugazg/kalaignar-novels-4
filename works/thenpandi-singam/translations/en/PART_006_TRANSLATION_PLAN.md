@@ -1,6 +1,6 @@
 # Part 006 — English Translation Plan — தென்பாண்டிச் சிங்கம்
 
-Status: **E21–E24 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
+Status: **GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This is the control plan for the project-created English translation of **Part006 only**.
 
@@ -213,3 +213,30 @@ Outgoing:
 ## Exact next gate
 
 **Part006 whole-Part English glossary reconciliation across E21–E24 / scans133–159.**
+
+<!-- PART006_ENGLISH_GLOSSARY_RECON_CURRENT_START -->
+## Part006 whole-Part English glossary reconciliation — current authoritative state
+
+**PART006 WHOLE-PART ENGLISH GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- scope — **E21–E24 / scans133–159**
+- maintained/source-checked English — **4/4 / 4/4**
+- literary/display blocks — **166 Tamil / 166 English**
+- provenance comments — **25 / 25**
+- English body files changed — **1/4**
+- English source-form repairs — **1**
+- repair — **E23 scan154: ceremonial gifts → seer-varisai**
+- E21 / E22 / E23 / E24 repairs — **0 / 0 / 1 / 0**
+- comparable Vaalukku source-form blocks — **28**
+- remaining Vaalukku spaced/closed mismatches — **0**
+- unresolved glossary/name/title/place conflicts — **0**
+- scan148 displayed letter/signature hierarchy — **preserved**
+- scan150 devotional-verse stanza / line hierarchy — **preserved**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–005 English body edits — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- Part007 leakage — **0**
+- exact next activity — **Part006 English editorial review across E21–E24 / scans133–159**
+- durable reconciliation — `works/thenpandi-singam/translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
+<!-- PART006_ENGLISH_GLOSSARY_RECON_CURRENT_END -->
