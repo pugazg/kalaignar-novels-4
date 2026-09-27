@@ -1913,3 +1913,33 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - exact next activity — **Part007 source intake when supplied**
 - durable closure — `works/thenpandi-singam/PART_006_FINAL_CLOSURE.md`
 <!-- PART006_FINAL_CLOSURE_CURRENT_END -->
+
+<!-- PART007_SOURCE_INTAKE_CURRENT_START -->
+## Part007 source intake — current authoritative state
+
+**PART007 SOURCE INTAKE — COMPLETE / PASS.**
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf`
+- bytes / SHA-256 — **48,308,828** / `989b28ee437602c4c197c8dbcd00af7823098b9c42e907e8e3e04511b0d35021`
+- local pages / global scans — **27 / 160–186**
+- rendered source images — **controlling**
+- source PDF in Git — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- scan163 — **chapter18 close**
+- scan164 — **illustrated chapter19 opener / no visible folio**
+- scan173 — **chapter19 close**
+- scan174 — **illustrated chapter20 opener / no visible folio**
+- scan186 — **chapter20 close / printed170**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- registered Parts — **7/18**
+- registered physical scans — **186**
+- canonical records — **159**
+- final-closed Parts — **6**
+- active transcription Part — **Part007**
+- Part007 canonical records — **0/27**
+- Part007 Pass1 — **NOT STARTED**
+- frozen Parts001–006 body changes — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass1 scans160–169 / local pages1–10**
+- durable intake — `works/thenpandi-singam/SOURCE_INTAKE_PART_007.md`
+<!-- PART007_SOURCE_INTAKE_CURRENT_END -->
