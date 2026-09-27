@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 assembled Tamil construction + audit
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 English translation planning/setup
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,141 +6,127 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–006 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to construct Part007 assembled Tamil.
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to plan Part007 English.
 
-## Part007 authoritative Tamil state
+## Part007 Tamil authority
 
-Source:
-
-`TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf`
-
-- bytes — **48,308,828**
-- SHA-256 — `989b28ee437602c4c197c8dbcd00af7823098b9c42e907e8e3e04511b0d35021`
-- scans / local pages — **160–186 / 27**
-- source PDF remains outside Git
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf`
+- scans — **160–186 / 27**
 - canonical Tamil / visual fidelity — **27/27 verified / 27/27 verified**
-- page-map verified rows — **27/27**
-- source intake / Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
-- whole-Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
-- Tamil archival-ready checkpoint — **PASS / CLOSED**
-- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
-
-Evidence totals remain locked:
-
-- Pass1 source-backed reread corrections — **2**
-- Pass2A source-text corrections — **14**
-- Pass2A interim drift reversions excluded from correction total — **4**
-- Pass2B lexical / spacing / punctuation corrections — **7**
-- historical-glyph corrections — **0**
-- Pass2A supersessions during Pass2B — **7 / scans170,178,182,183,184**
-- Pass3 textual corrections — **0**
-
-Durable checkpoint:
-
-`works/thenpandi-singam/PART_007_TAMIL_ARCHIVAL_READY.md`
-
-## Structural / boundary locks
-
-- incoming **159→160 = GENUINE CONTINUATION / AUDITED**
-- frozen Part006 assembled section29 ends at scan159 and must not be modified
-- scan163 — chapter18 close / three centered ornaments
-- scan164 — illustrated chapter19 opener / displayed numeral19 / no source-visible folio
-- 166→167 — `புரிந்து / கொண்டாள்!`
-- 168→169 — `எடுத்து வந்து / நீட்டினாள்.`
-- 172→173 — `அதன் வாழ்வைப் / பெறப்போகிறோம்`
-- scan173 — chapter19 close / three centered ornaments
-- scan174 — illustrated chapter20 opener / displayed numeral20 / no source-visible folio
-- 179→180 — direct question/answer continuity
-- 183→184 — direct-speech continuation
-- 184→185 — `இன்னொரு / நாள்...`
-- scan186 — chapter20 close / printed170 / three centered ornaments
-- outgoing **186→187 = PENDING direct audit / source-limited**
-- Part008 / scan187 wording inference — **0**
-
-## Planned assembled Tamil inventory
-
-Create exactly these **3** new assembled-reading files using the next available section orders:
-
-1. `works/thenpandi-singam/sections/30-chapter-18-part007.md`
-   - `part: 7`
-   - `layer: "assembled-reading"`
-   - `section_order: 30`
-   - `section_title: "18 — Part007 portion"`
-   - `source_scans: "160-163"`
-   - `status: "verified"`
-   - `derived_from: "verified Part007 pages/ records"`
-   - starts with a non-rendering incoming provenance comment for audited **159→160**
-   - do **not** repeat heading `18` because chapter18's displayed opener belongs to frozen Part006 scan155 / section29
-   - body is exactly canonical source-transcription bodies from scans160–163 in order
-   - scan163 closes chapter18; ornaments generate no prose
-
-2. `works/thenpandi-singam/sections/31-chapter-19.md`
-   - `part: 7`
-   - `layer: "assembled-reading"`
-   - `section_order: 31`
-   - `section_title: "19"`
-   - `source_scans: "164-173"`
-   - `status: "verified"`
-   - `derived_from: "verified Part007 pages/ records"`
-   - reading-layer heading `19` is source-supported by scan164
-   - body is exactly canonical source-transcription bodies from scans164–173 in order
-   - scan173 closes chapter19; ornaments generate no prose
-
-3. `works/thenpandi-singam/sections/32-chapter-20.md`
-   - `part: 7`
-   - `layer: "assembled-reading"`
-   - `section_order: 32`
-   - `section_title: "20"`
-   - `source_scans: "174-186"`
-   - `status: "verified"`
-   - `derived_from: "verified Part007 pages/ records"`
-   - reading-layer heading `20` is source-supported by scan174
-   - body is exactly canonical source-transcription bodies from scans174–186 in order
-   - scan186 closes chapter20; ornaments generate no prose
-   - append a non-rendering outgoing provenance comment preserving **186→187 PENDING direct audit / source-limited**
-   - stop exactly at scan186; import/infer Part008 text — **0**
-
-## Assembly rules
-
-- source of literary Tamil — **verified canonical `## Source transcription` bodies only**;
-- preserve canonical wording, spacing, punctuation and paragraph/dialogue hierarchy exactly;
-- insert only:
-  - assembled YAML front matter,
-  - source-supported displayed chapter numerals **19 / 20** in established reading-layer form,
-  - non-rendering physical-source-boundary provenance comments;
-- do not duplicate frozen Part006 scan159 Tamil;
-- do not import or infer Part008 / scan187 Tamil;
-- running headers, printed folios, ornaments, illustration detail and review/audit notes are not literary prose;
-- canonical Part007 `pages/` mutations — **0**;
-- page-map mutations — **0**;
-- frozen Parts001–006 `sections/` mutations — **0**.
-
-## Required independent audit
-
-After constructing the three files, independently regenerate expected assembled content from live verified canonical records and require:
-
-- assembled files — **3/3**
-- source scan coverage — **160–186 / 27**
-- canonical source-transcription records represented — **27/27**
-- non-empty canonical bodies represented — **27/27**
-- exact whole-file regeneration comparisons — **3/3 PASS**
-- omitted canonical bodies — **0**
-- duplicated canonical bodies — **0**
-- unsupported Tamil insertion — **0**
-- audit/review-note leakage — **0**
-- canonical page changes caused by assembly — **0**
-- frozen Parts001–006 assembled Tamil changes — **0**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **COMPLETE / PASS / CLOSED — 3/3 VERIFIED**
+- assembled inventory:
+  1. `sections/30-chapter-18-part007.md` — scans160–163 — chapter18 continuation and close
+  2. `sections/31-chapter-19.md` — scans164–173 — complete chapter19
+  3. `sections/32-chapter-20.md` — scans174–186 — complete chapter20
+- assembled exact regeneration — **3/3 PASS**
+- canonical source-transcription coverage — **27/27**
+- omissions / duplicates / unsupported Tamil insertion / audit-note leakage — **0 / 0 / 0 / 0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
 - Part008 leakage — **0**
-- incoming 159→160 provenance preserved — **PASS**
-- outgoing 186→187 source-limited provenance preserved — **PASS**
-- unresolved assembly blockers — **0**
 
-Create durable validation:
+Durable validation:
 
 `works/thenpandi-singam/PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
 
-Synchronize README, HANDOVER, WORKFLOW_STATUS, SOURCE_PART_REGISTRY, archival guidelines, Tamil archival-ready checkpoint and `NEXT_CHAT_PROMPT.md`.
+## Collision snapshot at assembly closure
 
-If assembly closes successfully, Part007 assembled Tamil should be **COMPLETE / PASS / CLOSED — 3/3 VERIFIED**, and the exact next activity should be **Part007 English translation planning/setup**. Recheck live English batch/section collisions before reserving any E-batch numbers.
+Snapshot only — **recheck live main before reserving anything**.
+
+At assembled-body head `1dc1c4e1f5a92e2048ffeff7d5df0988dcf58cb2`:
+
+- existing English source-check controls — **E1–E24**
+- existing maintained English section orders — **00–29**
+- candidate non-colliding Part007 batch range — **E25–E27**
+- candidate maintained English section orders — **30–32**
+- candidate ranges reserved by assembly — **0**
+
+## Exact next activity
+
+Perform **Part007 English translation planning/setup** only.
+
+### Mandatory live collision recheck
+
+Before creating/reserving controls:
+
+- enumerate live `works/thenpandi-singam/translations/en/E*_SOURCE_CHECK.md` controls;
+- enumerate live `works/thenpandi-singam/translations/en/sections/` maintained English files;
+- confirm whether **E25–E27** are still absent;
+- confirm whether maintained English section orders **30–32** are still absent;
+- if any collision exists, do **not** overwrite; choose the next contiguous non-colliding range and record the reason;
+- reserve identifiers only after this live recheck.
+
+### Planned source mapping if E25–E27 remain free
+
+- **E25** — Tamil authority `sections/30-chapter-18-part007.md` — scans160–163 — planned English `translations/en/sections/30-chapter-18-part007.md`
+- **E26** — Tamil authority `sections/31-chapter-19.md` — scans164–173 — planned English `translations/en/sections/31-chapter-19.md`
+- **E27** — Tamil authority `sections/32-chapter-20.md` — scans174–186 — planned English `translations/en/sections/32-chapter-20.md`
+
+### Planning controls to create
+
+Create:
+
+- `works/thenpandi-singam/translations/en/PART_007_TRANSLATION_PLAN.md`
+- `works/thenpandi-singam/translations/en/PART_007_GLOSSARY.md`
+- `works/thenpandi-singam/translations/en/PART_007_PROGRESS.md`
+
+Planning/setup must create **no literary English prose** and no maintained English section files.
+
+### Authority hierarchy
+
+1. verified canonical Part007 `pages/` — controlling Tamil textual authority;
+2. verified Part007 assembled `sections/` — maintained Tamil reading-layer authority;
+3. project-created English — derived only.
+
+No published/web/remembered English translation is textual authority. Do not silently modernize, fact-correct, normalize or reinterpret the Tamil.
+
+### Structural / continuity locks for planning
+
+E25 / chapter18 continuation:
+
+- begins at scan160 only;
+- do not repeat chapter numeral **18** because the maintained Tamil section30 is a continuation from frozen Part006 section29;
+- do not modify frozen `translations/en/sections/29-chapter-18-part006.md`;
+- do not duplicate translated scan159 wording;
+- preserve **159→160 GENUINE CONTINUATION / AUDITED** as provenance;
+- scan163 closes chapter18; ornaments produce no English prose.
+
+E26 / chapter19:
+
+- source-supported chapter numeral **19** retained;
+- scans164–173 only;
+- preserve 166→167, 168→169 and 172→173 continuity;
+- scan173 closes chapter19; ornaments produce no English prose.
+
+E27 / chapter20:
+
+- source-supported chapter numeral **20** retained;
+- scans174–186 only;
+- preserve 179→180, 183→184 and 184→185 continuity;
+- scan186 closes chapter20; ornaments produce no English prose;
+- preserve **186→187 PENDING direct audit / source-limited**;
+- no Part008 / scan187 Tamil or English wording may be imported or inferred.
+
+### Glossary setup
+
+Build Part007 glossary controls from recurring verified Tamil terms/names/forms in sections30–32 and prior frozen terminology where the same Tamil form recurs. Preserve source-specific names, honorifics, offices, places, colloquial forms and source-era distinctions. Do not add explanatory history, biography, geography, politics, religion or literary commentary not present in Tamil.
+
+### Planning accounting required
+
+At closure record:
+
+- reserved Part007 English batches — **3**
+- planned maintained English files — **3**
+- translated — **0/3**
+- source-checked — **0/3**
+- English literary prose drafted in planning — **0**
+- unresolved planning / glossary holds — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Parts001–006 English body edits — **0**
+- Part008 leakage — **0**
+
+Synchronize README, HANDOVER, WORKFLOW_STATUS, source registry, archival guidelines, assembled-Tamil validation, Tamil archival-ready checkpoint, `translations/en/README.md`, and `NEXT_CHAT_PROMPT.md`.
+
+If planning/setup closes successfully and E25–E27 are confirmed/reserved, set exact next activity to **E25 draft + source-check — section30 / scans160–163**.

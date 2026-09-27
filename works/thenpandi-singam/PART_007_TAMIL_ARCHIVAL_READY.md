@@ -160,3 +160,36 @@ Perform **Part007 assembled Tamil construction + audit**.
 Expected assembled inventory — **3 files / section orders30–32**.
 
 After construction, independently regenerate all three files from live verified canonical source-transcription bodies and require exact whole-file comparison, **27/27** canonical record coverage, zero omissions, zero duplicates, zero unsupported Tamil insertion and zero audit/review-note leakage before closing the assembled Tamil gate.
+
+## Part007 assembled Tamil downstream state
+
+**PART007 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 3/3 VERIFIED.**
+
+- assembled files — **3/3**
+- inventory — `sections/30-chapter-18-part007.md`, `sections/31-chapter-19.md`, `sections/32-chapter-20.md`
+- physical source coverage — **scans160–186 / 27**
+- canonical source-transcription records represented — **27/27**
+- exact canonical-text regeneration checks — **3/3 PASS**
+- omissions / duplicates / unsupported Tamil insertion / audit-note leakage — **0 / 0 / 0 / 0**
+- source-supported displayed chapter numerals **19 / 20** retained as reading-layer headings
+- canonical page mutations caused by assembly — **0**
+- canonical Tamil wording/status changes — **0 / 0**
+- frozen Parts001–006 assembled Tamil changes — **0**
+- Part008 leakage — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- unresolved assembly blockers — **0**
+- durable validation — `PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
+
+## Exact next activity
+
+Perform **Part007 English translation planning/setup**.
+
+Live collision snapshot at assembly closure:
+
+- existing English source-check batches — **E1–E24**
+- existing maintained English section orders — **00–29**
+- candidate next range — **E25–E27 / section orders30–32**
+- candidate ranges reserved by assembly — **0**
+
+Planning/setup must recheck live collision state before reserving E-batch numbers and must not draft literary English prose.

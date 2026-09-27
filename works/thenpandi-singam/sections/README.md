@@ -586,3 +586,29 @@ Durable validation: `../PART_005_ASSEMBLED_TAMIL_VALIDATION.md`.
 - exact next activity — **Part007 source intake when supplied**
 - durable closure — `works/thenpandi-singam/PART_006_FINAL_CLOSURE.md`
 <!-- PART006_FINAL_CLOSURE_CURRENT_END -->
+
+<!-- PART007_ASSEMBLED_TAMIL_CURRENT_START -->
+## Part007 assembled Tamil — current authoritative state
+
+**PART007 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 3/3 VERIFIED.**
+
+- source scans — **160–186 / 27**
+- canonical Tamil / visual fidelity — **27/27 verified / 27/27 verified**
+- assembled files — **3/3 VERIFIED**
+- inventory — `30-chapter-18-part007.md`, `31-chapter-19.md`, `32-chapter-20.md`
+- canonical source-transcription records represented — **27/27**
+- exact regeneration checks — **3/3 PASS**
+- omissions / duplicates / unsupported Tamil insertion / audit-note leakage — **0 / 0 / 0 / 0**
+- source-supported displayed headings — **19 / 20 preserved**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED / non-rendering provenance**
+- outgoing **186→187 — PENDING direct audit / source-limited / non-rendering provenance**
+- canonical page mutations caused by assembly — **0**
+- canonical Tamil wording/status changes caused by assembly — **0 / 0**
+- frozen Parts001–006 assembled Tamil changes — **0**
+- Part008 leakage — **0**
+- unresolved assembly blockers — **0**
+- English collision snapshot — **E1–E24 existing / maintained English section orders00–29 existing**
+- candidate next range — **E25–E27 / section orders30–32 — NOT YET RESERVED**
+- exact next activity — **Part007 English translation planning/setup**
+- durable validation — `works/thenpandi-singam/PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
+<!-- PART007_ASSEMBLED_TAMIL_CURRENT_END -->
