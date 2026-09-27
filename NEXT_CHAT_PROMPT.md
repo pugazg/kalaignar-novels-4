@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 documentation synchronization
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Tamil archival-ready checkpoint
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–005 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to synchronize Part006 documentation.
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to close the Part006 Tamil archival-ready checkpoint.
 
 ## Part006 authoritative state
 
@@ -34,6 +34,7 @@ Closed gates:
 - Pass3 textual corrections — **0**
 - whole-Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
 
 Current canonical state:
 
@@ -41,7 +42,7 @@ Current canonical state:
 - visual fidelity — **27/27 verified**
 - page-map Part006 rows — **27/27 verified**
 - needs-review Tamil / visual pages — **0 / 0**
-- unresolved Tamil / glyph / visual / structural questions — **0**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
 
 Boundary state:
 
@@ -53,53 +54,38 @@ Durable records:
 
 - `works/thenpandi-singam/PART_006_AUDIT.md`
 - `works/thenpandi-singam/PART_006_FINAL_STATUS_SYNC.md`
+- `works/thenpandi-singam/PART_006_DOCUMENTATION_SYNC.md`
 
 ## Exact next activity
 
-Perform **Part006 documentation synchronization**.
+Perform **Part006 Tamil archival-ready checkpoint**.
 
 Create:
 
-`works/thenpandi-singam/PART_006_DOCUMENTATION_SYNC.md`
+`works/thenpandi-singam/PART_006_TAMIL_ARCHIVAL_READY.md`
 
-Reconcile current-state agreement across:
+Checkpoint requirements:
 
-- root `README.md`;
-- `HANDOVER.md`;
-- `works/thenpandi-singam/WORKFLOW_STATUS.md`;
-- `works/thenpandi-singam/THENPANDI_SINGAM_ARCHIVAL_GUIDELINES.md`;
-- `works/thenpandi-singam/SOURCE_INTAKE_PART_006.md`;
-- `works/thenpandi-singam/SOURCE_PART_REGISTRY.md`;
-- `works/thenpandi-singam/PART_006_PASS1_PROGRESS.md`;
-- `works/thenpandi-singam/PART_006_PASS2A_PROGRESS.md`;
-- `works/thenpandi-singam/PART_006_PASS2B_PROGRESS.md`;
-- `works/thenpandi-singam/PART_006_PASS3_PROGRESS.md`;
-- `works/thenpandi-singam/PART_006_AUDIT.md`;
-- `works/thenpandi-singam/PART_006_FINAL_STATUS_SYNC.md`;
-- `works/thenpandi-singam/indexes/page-map.md`;
-- `NEXT_CHAT_PROMPT.md`.
-
-Synchronization requirements:
-
-- current canonical Tamil — **27/27 verified**
-- current visual fidelity — **27/27 verified**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
 - page-map verified rows — **27/27**
 - needs-review Tamil / visual pages — **0 / 0**
-- Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
+- source intake / Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
 - whole-Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
 - correction totals remain **5 Pass1 / 17 Pass2A / 2 Pass2B / 0 Pass3**
 - historical-glyph corrections remain **0**
 - Pass2A supersessions during Pass2B remain **2 / scans145,150**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
 - incoming **132→133 GENUINE CONTINUATION / AUDITED**
 - outgoing **159→160 PENDING direct audit / source-limited**
-- historical lifecycle blocks that record earlier `needs-review` states may remain as historical gate evidence; current-state summaries and live canonical/page-map status are authoritative;
-- canonical Part006 page-file changes caused by documentation sync — **0**
+- canonical Part006 page-file changes caused by archival-ready checkpoint — **0**
 - canonical Tamil/body changes — **0**
 - verified status-field changes — **0**
 - frozen Parts001–005 body/status changes — **0**
 - Part007 leakage — **0**.
 
-If documentation synchronization closes **PASS / COMPLETE**, exact next activity should be:
+If the Tamil archival-ready checkpoint closes **PASS / CLOSED**, exact next activity should be:
 
-**Part006 Tamil archival-ready checkpoint.**
+**Part006 assembled Tamil construction + audit.**
