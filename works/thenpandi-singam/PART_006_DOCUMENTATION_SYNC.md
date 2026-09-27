@@ -95,6 +95,27 @@ This gate is documentation-only.
 
 **PASS / COMPLETE**
 
+## Tamil archival-ready downstream state
+
+- Part006 Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil / visual fidelity — **27/27 verified / 27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- source intake / Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- correction totals retained — **5 Pass1 / 17 Pass2A / 2 Pass2B / 0 Pass3**
+- historical-glyph corrections — **0**
+- Pass2A supersessions during Pass2B — **2 / scans145,150**
+- unresolved blockers — **0**
+- canonical page/body/status changes caused by checkpoint — **0 / 0 / 0**
+- frozen Parts001–005 body/status changes — **0**
+- Part007 leakage — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- durable checkpoint — `PART_006_TAMIL_ARCHIVAL_READY.md`
+
 ## Exact next activity
 
-Perform **Part006 Tamil archival-ready checkpoint**.
+Perform **Part006 assembled Tamil construction + audit**.
