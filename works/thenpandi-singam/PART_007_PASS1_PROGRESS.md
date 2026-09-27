@@ -226,3 +226,16 @@ Pass2A must perform a strict source-text reread against rendered source pixels, 
 - Part008 leakage — **0**
 - exact next activity — **Part007 Pass2A Batch2 scans170–179 / local pages11–20**
 - durable Pass2A progress — `PART_007_PASS2A_PROGRESS.md`
+
+## Part007 Pass2A Batch2 downstream state
+
+- Pass1 remains — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- Pass2A — **ACTIVE — 20/27 REVIEWED**
+- Batch2 source-text corrections — **4 occurrences / scans177,178,179**
+- cumulative Pass2A corrections — **9**
+- unresolved Pass2A questions — **0**
+- status promotions — **0**
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass2A FINAL scans180–186 / local pages21–27**
+- durable Pass2A progress — `PART_007_PASS2A_PROGRESS.md`
