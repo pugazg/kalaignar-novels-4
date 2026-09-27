@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — ACTIVE — 20/27 REVIEWED**
+**PASS 3 — COMPLETE / PASS — 27/27 REVIEWED**
 
 Prerequisites:
 
@@ -134,8 +134,66 @@ Recurring running headers and printed folios remain structural page furniture an
 - Part007 leakage — **0**
 - outgoing 159→160 — **PENDING direct audit / source-limited**
 
-## Exact next activity — UPDATED
+## Batch 3 — FINAL — scans153–159
 
-**Part006 Pass3 FINAL — scans153–159 / local pages21–27.**
+Fresh full rendered-page visual / structural review completed for:
 
-Perform fresh full rendered-page visual / structural review against Part006 source images. Keep canonical and visual status at `needs-review`; no promotion during Pass3. Preserve scan154 chapter17 close, scan155 illustrated chapter18 opener, and outgoing **159→160 PENDING direct audit / source-limited**.
+- global scans — **153–159 / 7**
+- local pages — **21–27 / 7**
+- reviewed records — **27/27 cumulative**
+- reviewed pages passing — **7/7**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+
+## Structural inventory — FINAL batch
+
+| Scan | Printed | Structural result |
+|---:|:---:|---|
+| 153 | 137 | chapter17 body; work-title running header; opening completes scan152 direct speech |
+| 154 | 138 | chapter17 close; author-line running header; three centered closing ornaments; lower blank/show-through field |
+| 155 | — | illustrated chapter18 opener; mounted-warrior illustration; displayed numeral **18**; no source-visible folio |
+| 156 | 140 | chapter18 body; author-line running header; opening completes scan155 lexical continuation |
+| 157 | 141 | chapter18 body; work-title running header; dialogue + internal imagined speech |
+| 158 | 142 | chapter18 body; author-line running header |
+| 159 | 143 | Part006 terminal chapter18 body; work-title running header; no source-visible chapter-closing ornament |
+
+Recurring running headers and printed folios remain structural page furniture and are not duplicated into canonical literary prose.
+
+## Final-batch cross-page / layout states confirmed
+
+- 152→153 — open direct-speech continuation — **PRESERVED / PASS**
+- scan154 — chapter17 close / three centered ornaments — **PASS**
+- scan154 lower blank/show-through field promoted to prose — **0**
+- scan155 — illustrated chapter18 opener / numeral18 / mounted-warrior illustration / no visible folio — **PASS**
+- 155→156 — `அறை முழுவதும் / காலியாகவில்லையென்றாலும்` — **PRESERVED / PASS**
+- scans156–159 paragraph/dialogue reading order — **PASS**
+- scan159 — supplied Part006 terminal / printed143 / no chapter-closing ornament — **PASS**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- scan160 / Part007 content inferred or imported — **0**
+- page furniture / illustration detail promoted to literary prose — **0**
+
+## Final Pass3 accounting
+
+- Part006 canonical records — **27/27**
+- Part006 Pass3 — **COMPLETE / PASS — 27/27 REVIEWED**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+- all Part006 pages remain `status: "needs-review"`
+- all Part006 pages remain `visual_fidelity: "needs-review"`
+- verified Part006 pages — **0**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+
+## Decision
+
+**PART006 PASS 3 — COMPLETE / PASS — 27/27 REVIEWED**
+
+## Exact next activity
+
+**Part006 whole-Part audit.**
+
+Audit all 27 canonical records and all Pass1 / Pass2A / Pass2B / Pass3 evidence before any metadata/status promotion.
