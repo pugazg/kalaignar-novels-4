@@ -2139,3 +2139,34 @@ Historical Pass1 / Pass2A / Pass2B / Pass3 / audit records that say `needs-revie
 - exact next activity — **Part007 Tamil archival-ready checkpoint**
 - durable documentation sync — `works/thenpandi-singam/PART_007_DOCUMENTATION_SYNC.md`
 <!-- PART007_DOCUMENTATION_SYNC_CURRENT_END -->
+
+<!-- PART007_TAMIL_ARCHIVAL_READY_CURRENT_START -->
+## Part007 Tamil archival-ready — current authoritative state
+
+- Tamil archival-ready checkpoint — **PASS / CLOSED**
+- supplied Part007 extent — **scans160–186 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- source intake / Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- correction totals locked — **2 Pass1 / 14 Pass2A / 7 Pass2B / 0 Pass3**
+- Pass2A interim drift reversions excluded from correction total — **4**
+- historical-glyph corrections — **0**
+- Pass2A supersessions during Pass2B — **7 / scans170,178,182,183,184**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- canonical Part007 page-file changes caused by checkpoint — **0**
+- canonical Tamil/source-transcription changes caused by checkpoint — **0**
+- verified status-field changes caused by checkpoint — **0**
+- page-map changes caused by checkpoint — **0**
+- frozen Parts001–006 body/status changes caused by checkpoint — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 assembled Tamil construction + audit**
+- planned assembled inventory — **3 files / section orders30–32**
+- durable checkpoint — `works/thenpandi-singam/PART_007_TAMIL_ARCHIVAL_READY.md`
+<!-- PART007_TAMIL_ARCHIVAL_READY_CURRENT_END -->
