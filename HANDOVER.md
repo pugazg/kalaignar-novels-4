@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 English editorial review across E21–E24 / scans133–159**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 whole-Part bilingual review across E21–E24 / scans133–159**
 
 ## Work
 
@@ -1932,3 +1932,27 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - exact next activity — **Part006 English editorial review across E21–E24 / scans133–159**
 - durable reconciliation — `works/thenpandi-singam/translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
 <!-- PART006_ENGLISH_GLOSSARY_RECON_CURRENT_END -->
+
+<!-- PART006_ENGLISH_EDITORIAL_REVIEW_CURRENT_START -->
+## Part006 English editorial review — current authoritative state
+
+**PART006 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- scope — **E21–E24 / scans133–159**
+- reviewed maintained English — **4/4**
+- English-only editorial repairs — **55**
+- E21 / E22 / E23 / E24 repairs — **12 / 14 / 14 / 15**
+- literary/display blocks — **166 Tamil / 166 English**
+- provenance comments — **25 / 25**
+- glossary/source-form breakages — **0**
+- scan148 letter/signature hierarchy — **preserved**
+- scan150 devotional-verse segment — **EXACT / unchanged**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–005 English body edits — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- Part007 leakage — **0**
+- unresolved editorial holds — **0**
+- exact next activity — **Part006 whole-Part bilingual review across E21–E24 / scans133–159**
+- durable review — `works/thenpandi-singam/translations/en/PART_006_EDITORIAL_REVIEW.md`
+<!-- PART006_ENGLISH_EDITORIAL_REVIEW_CURRENT_END -->
