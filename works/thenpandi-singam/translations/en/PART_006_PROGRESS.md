@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS — E21 NEXT**
+**E21–E24 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -30,10 +30,10 @@ Reserved Part006 batches: **E21–E24**.
 
 | Batch | Tamil assembled coverage | Scans | Planned English file | State |
 |---|---|---:|---|---|
-| **E21** | section26 — chapter15 Part006 continuation/close | 133–137 | `sections/26-chapter-15-part006.md` | **RESERVED / NOT DRAFTED** |
-| **E22** | section27 — chapter16 | 138–146 | `sections/27-chapter-16.md` | **RESERVED / NOT DRAFTED** |
-| **E23** | section28 — chapter17 | 147–154 | `sections/28-chapter-17.md` | **RESERVED / NOT DRAFTED** |
-| **E24** | section29 — chapter18 Part006 portion | 155–159 | `sections/29-chapter-18-part006.md` | **RESERVED / NOT DRAFTED** |
+| **E21** | section26 — chapter15 Part006 continuation/close | 133–137 | `sections/26-chapter-15-part006.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E22** | section27 — chapter16 | 138–146 | `sections/27-chapter-16.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E23** | section28 — chapter17 | 147–154 | `sections/28-chapter-17.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E24** | section29 — chapter18 Part006 portion | 155–159 | `sections/29-chapter-18-part006.md` | **SOURCE-CHECKED / COMPLETE** |
 
 ## Planning accounting
 
@@ -97,6 +97,32 @@ Outgoing:
 - incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 159→160 — **PENDING direct audit / source-limited**
 
+## E21–E24 execution closure
+
+**PART006 E21–E24 — SOURCE-CHECKED / COMPLETE — 4/4.**
+
+- E21 — **SOURCE-CHECKED / COMPLETE — scans133–137**
+- E22 — **SOURCE-CHECKED / COMPLETE — scans138–146**
+- E23 — **SOURCE-CHECKED / COMPLETE — scans147–154**
+- E24 — **SOURCE-CHECKED / COMPLETE — scans155–159**
+- cumulative translated/source-checked — **4/4 / 4/4**
+- physical source coverage — **scans133–159 / 27 of 27**
+- E21 literary blocks/comments — **34/34 / 5/5**
+- E22 literary blocks/comments — **49/49 / 8/8**
+- E23 literary blocks/comments — **49/49 / 7/7**
+- E24 literary blocks/comments — **34/34 / 5/5**
+- cumulative literary blocks/comments — **166/166 / 25/25**
+- omitted / duplicated literary blocks — **0 / 0**
+- unresolved E21 / E22 / E23 / E24 holds — **0 / 0 / 0 / 0**
+- scan148 letter/signature hierarchy — **preserved**
+- scan150 devotional-verse hierarchy — **preserved**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–005 English body edits — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- Part007 leakage — **0**
+- durable source-checks — `E21_SOURCE_CHECK.md`, `E22_SOURCE_CHECK.md`, `E23_SOURCE_CHECK.md`, `E24_SOURCE_CHECK.md`
+
 ## Exact next gate
 
-**E21 draft + source-check — section26 / scans133–137.**
+**Part006 whole-Part English glossary reconciliation across E21–E24 / scans133–159.**
