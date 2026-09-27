@@ -214,3 +214,15 @@ Accounting:
 Perform **Part007 Pass2A Batch1 — scans160–169 / local pages1–10**.
 
 Pass2A must perform a strict source-text reread against rendered source pixels, apply only source-backed corrections, retain `status: "needs-review"` and `visual_fidelity: "needs-review"`, preserve all established cross-page/structural evidence, and keep Part008 excluded.
+
+## Part007 Pass2A Batch1 downstream state
+
+- Pass1 remains — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- Pass2A — **ACTIVE — 10/27 REVIEWED**
+- Batch1 source-text corrections — **5 occurrences / scans164,165,167**
+- unresolved Pass2A questions — **0**
+- status promotions — **0**
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass2A Batch2 scans170–179 / local pages11–20**
+- durable Pass2A progress — `PART_007_PASS2A_PROGRESS.md`
