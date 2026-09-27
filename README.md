@@ -178,7 +178,7 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part006 Pass3 scans133–142 / local pages1–10.**
+**Part006 Pass3 scans143–152 / local pages11–20.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records are `verified` and visual `verified`. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
@@ -1539,4 +1539,22 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - Part007 leakage — **0**
 - exact next activity — **Part006 Pass3 scans133–142 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_006_PASS2B_PROGRESS.md`
+
+## Part006 Pass3 Batch 1 downstream state
+
+- Part006 Pass3 — **ACTIVE — 10/27 REVIEWED**
+- reviewed — **scans133–142 / local pages1–10**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- scan137 chapter15 close / three centered ornaments — **PASS**
+- scan138 illustrated chapter16 opener / displayed numeral16 / no visible folio — **PASS**
+- 132→133, 134→135, 136→137, 138→139, 139→140, 140→141, 141→142 continuations — **PASS**
+- page furniture promoted to literary prose — **0**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- exact next activity — **Part006 Pass3 scans143–152 / local pages11–20**
+- durable progress — `works/thenpandi-singam/PART_006_PASS3_PROGRESS.md`
 
