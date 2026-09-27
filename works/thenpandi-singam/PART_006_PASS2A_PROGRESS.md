@@ -249,3 +249,25 @@ Perform a fresh lexical / spacing / punctuation / historical-glyph audit against
 - exact next activity — **Part006 Pass2B FINAL scans153–159 / local pages21–27**
 - durable progress — `PART_006_PASS2B_PROGRESS.md`
 
+## Part006 Pass2B FINAL downstream state
+
+- Part006 Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
+- reviewed — **scans133–159 / local pages1–27**
+- cumulative lexical / spacing / punctuation corrections — **2**
+- affected scans — **145, 150**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **2 occurrences / scans145, 150**
+- final batch corrections — **0 / scans153–159**
+- unresolved Pass2B questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- scan154 chapter17 close / three ornaments — **PASS**
+- scan155 illustrated chapter18 opener / no visible folio — **PASS**
+- 152→153 and 155→156 physical continuations — **PASS**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- exact next activity — **Part006 Pass3 scans133–142 / local pages1–10**
+- durable progress — `PART_006_PASS2B_PROGRESS.md`
+
