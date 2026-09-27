@@ -17,7 +17,7 @@ status: "source-checked"
 
 The guards too understood who had arrived and, without any obstruction, allowed Vadivu and her companions to go inside. They delighted in watching how even Vadivambal’s very walk was a dance, and how her beauty from behind seemed to surpass even her beauty from the front, drawing the eye like a magnet.
 
-Just as the adornment of the Goddess during Navaratri appears more splendid than at any other time, so did Vadivambal’s adornment shine that day. Wasn’t Vaalukkuveli meant to fall into the net of love the moment he saw her? In keeping with that desire, the beauty’s limbs seemed to display themselves beyond the bounds of her clothing.
+Just as the adornment of the Goddess during Navaratri appears more splendid than at any other time, so did Vadivambal’s adornment shine that day. Wasn’t Vaalukkuveli meant to fall into the net of love the moment he saw her? In keeping with that desire, the beauty’s limbs seemed to advertise themselves beyond the bounds of her clothing.
 
 After seating her and the two who had come with her in the hall of that small mansion, Kaadai and Kolari ran inside in a flurry, saying, “Wait here! We’ll bring Kalyani Nachiyar right away!”
 
@@ -51,15 +51,15 @@ Before Lalithangi could finish, Kalyani Nachiyar interrupted.
 
 Another thunderbolt for Vadivambal! What if he went and met Akka? What if Akka was pacified and agreed to teach Kalyani dance herself? Would not all the castles Vadivu had built in her mind collapse into dust?
 
-So Vadivu whispered a secret into Lalithangi’s ear. Meanwhile Kaadai and Kolari poured boiled milk into bowls, placed them on a silver tray and held it out to the visitors. As they drank the milk, Lalithangi began her pitch in earnest.
+So Vadivu whispered a secret into Lalithangi’s ear. Meanwhile Kaadai and Kolari poured boiled milk into bowls, placed them on a silver tray and held it out to the visitors. As they drank the milk, Lalithangi laid the groundwork firmly.
 
 “Just as Ambalakkarar Ayya’s heart was troubled, waves of distress rose in our Sundari’s heart too! That is why, as a gesture of reconciliation, she has sent Vadivambal to begin dance training for Nachiyaramma!”
 
 <!-- source boundary: scan 135 → scan 136 -->
 
-Kalyani’s face brightened, though she hesitated to begin the lessons for the first time while her brother was away.
+Kalyani’s face brightened, though she was perplexed about how to begin the lessons for the first time while her brother was away.
 
-“Let Anna return first!”
+“Let Anna return to town first!”
 
 Vadivambal shook her head when she heard Kalyani speak—could not Sundari herself arrive here before then and take Vadivambal’s place? Again Vadivu was thrown into confusion! If she herself began first, she was confident that Sundari would not later come and say she would start the dance training.
 
