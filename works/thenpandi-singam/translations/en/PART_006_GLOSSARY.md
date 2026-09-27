@@ -1,6 +1,6 @@
 # Part 006 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **WHOLE-PART RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+Status: **WHOLE-PART RECONCILED / EDITORIAL REVIEW PASS — BILINGUAL REVIEW NEXT**
 
 This glossary is derived only from verified Part006 Tamil, the closed Part006 assembled Tamil reading layer, and already source-checked project forms from frozen Parts001–005.
 
@@ -243,3 +243,28 @@ Execution accounting:
 - exact next activity — **Part006 English editorial review across E21–E24 / scans133–159**
 - durable reconciliation — `works/thenpandi-singam/translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
 <!-- PART006_ENGLISH_GLOSSARY_RECON_CURRENT_END -->
+
+<!-- PART006_ENGLISH_EDITORIAL_REVIEW_CURRENT_START -->
+## Part006 English editorial review — current authoritative state
+
+**PART006 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- scope — **E21–E24 / scans133–159**
+- reviewed maintained English — **4/4**
+- English-only editorial repairs — **55**
+- E21 / E22 / E23 / E24 repairs — **12 / 14 / 14 / 15**
+- literary/display blocks — **166 Tamil / 166 English**
+- provenance comments — **25 / 25**
+- omitted / duplicated blocks — **0 / 0**
+- glossary/source-form breakages — **0**
+- scan148 letter/signature hierarchy — **preserved**
+- scan150 devotional-verse segment — **EXACT / unchanged**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–005 English body edits — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- Part007 leakage — **0**
+- unresolved editorial holds — **0**
+- exact next activity — **Part006 whole-Part bilingual review across E21–E24 / scans133–159**
+- durable review — `PART_006_EDITORIAL_REVIEW.md`
+<!-- PART006_ENGLISH_EDITORIAL_REVIEW_CURRENT_END -->
