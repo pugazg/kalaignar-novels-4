@@ -178,7 +178,7 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part006 whole-Part audit.**
+**Part006 final metadata/status synchronization — scans133–159 / 27 pages.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records are `verified` and visual `verified`. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
@@ -1599,4 +1599,32 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - Part007 leakage — **0**
 - exact next activity — **Part006 whole-Part audit**
 - durable progress — `works/thenpandi-singam/PART_006_PASS3_PROGRESS.md`
+
+## Part006 whole-Part audit downstream state
+
+- Part006 whole-Part audit — **PASS / COMPLETE**
+- canonical records — **27/27**
+- scan coverage — **133–159 continuous**
+- local pages — **1–27 continuous**
+- Pass1 / Pass2A / Pass2B / Pass3 evidence — **27/27 each**
+- duplicate / omitted canonical scans — **0 / 0**
+- duplicate non-empty source-transcription bodies — **0**
+- review-note leakage into source transcription — **0**
+- Pass1 source-backed reread corrections — **5**
+- Pass2A source-text corrections — **17**
+- Pass2B lexical / spacing / punctuation corrections — **2**
+- historical-glyph corrections — **0**
+- Pass2A supersessions during Pass2B — **2 / scans145,150**
+- Pass3 textual corrections — **0**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- page-map Part006 rows / Pass3 evidence — **27 / 27**
+- source PDFs in active Git tree — **0**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- page-status promotions during audit — **0**
+- canonical Tamil body edits during audit — **0**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- exact next activity — **Part006 final metadata/status synchronization — scans133–159 / 27 pages**
+- durable audit — `works/thenpandi-singam/PART_006_AUDIT.md`
 
