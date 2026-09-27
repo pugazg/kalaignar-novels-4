@@ -1726,3 +1726,26 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - exact next activity — **Part007 Pass1 scans160–169 / local pages1–10**
 - durable intake — `works/thenpandi-singam/SOURCE_INTAKE_PART_007.md`
 <!-- PART007_SOURCE_INTAKE_CURRENT_END -->
+
+<!-- PART007_PASS1_CURRENT_START -->
+## Part007 Pass1 — current authoritative state
+
+**PART007 PASS1 — ACTIVE — 10/27 TEXT-COMPLETE.**
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf`
+- completed scans — **160–169 / local pages1–10**
+- canonical Part007 records — **10/27**
+- cumulative canonical records — **169**
+- status / visual fidelity — **needs-review / needs-review on 10/10**
+- source-backed final reread corrections — **0**
+- unresolved Pass1 holds — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- scan163 — **chapter18 close / three closing ornaments**
+- scan164 — **illustrated chapter19 opener / numeral19 / no visible folio**
+- 166→167 — **`புரிந்து / கொண்டாள்!`**
+- 168→169 — **`எடுத்து வந்து / நீட்டினாள்.`**
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass1 Batch2 scans170–179 / local pages11–20**
+- durable progress — `works/thenpandi-singam/PART_007_PASS1_PROGRESS.md`
+<!-- PART007_PASS1_CURRENT_END -->
