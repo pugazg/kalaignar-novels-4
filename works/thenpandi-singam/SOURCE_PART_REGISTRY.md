@@ -11,7 +11,7 @@ This ledger records the user's **18 split source PDFs**.
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT** |
+| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN — PART007 SOURCE INTAKE NEXT** |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1816,3 +1816,38 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - exact next activity — **Part006 release/readiness report**
 - durable review — `works/thenpandi-singam/translations/en/PART_006_BILINGUAL_REVIEW.md`
 <!-- PART006_ENGLISH_BILINGUAL_REVIEW_CURRENT_END -->
+
+<!-- PART006_FINAL_CLOSURE_CURRENT_START -->
+## Part006 final closure — current authoritative state
+
+**PART006 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- source scans — **133–159 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- literary/display blocks — **166 Tamil / 166 English**
+- provenance comments — **25 / 25**
+- editorial repairs / bilingual fidelity corrections — **55 / 16**
+- unresolved closure blockers — **0**
+- canonical / assembled / maintained-English body changes after release/readiness — **0 / 0 / 0**
+- scan148 letter/signature hierarchy — **preserved**
+- scan150 devotional-verse hierarchy — **preserved**
+- deliberate **Vaalukku Veli / Vaalukkuveli** distinction — **PASS / 0 mismatches**
+- reconciled **seer-varisai** sites — **preserved**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited / preserved**
+- Part007 leakage — **0**
+- final-closed Parts — **6**
+- registered Parts — **6 / 18**
+- registered physical scans / canonical records — **159 / 159**
+- Part007 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part007 source intake when supplied**
+- durable closure — `works/thenpandi-singam/PART_006_FINAL_CLOSURE.md`
+<!-- PART006_FINAL_CLOSURE_CURRENT_END -->
