@@ -286,3 +286,29 @@ The supplied Part007 canonical evidence chain is internally consistent and sourc
 Perform **Part007 final metadata/status synchronization — scans160–186 / 27 pages**.
 
 Promote canonical `status` and `visual_fidelity` only on the authority of the completed whole-Part audit. Do not alter canonical Tamil. Preserve **186→187 PENDING direct audit / source-limited**.
+
+## Part007 final metadata/status synchronization downstream state
+
+- Part007 final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil / visual fidelity — **27/27 verified / 27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- authorized canonical status-field replacements — **54**
+- canonical page files changed — **27/27**
+- canonical Tamil/source-transcription body changes — **0**
+- canonical review-evidence wording changes beyond authorized frontmatter — **0**
+- page-map rows changed — **27/27**
+- page-map non-status-column changes — **0**
+- correction totals retained — **2 Pass1 / 14 Pass2A / 7 Pass2B / 0 Pass3**
+- historical-glyph corrections — **0**
+- Pass2A supersessions during Pass2B — **7 / scans170,178,182,183,184**
+- whole-Part audit — **PASS / COMPLETE**
+- frozen Parts001–006 body/status changes — **0**
+- Part008 leakage — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- exact next activity — **Part007 documentation synchronization**
+- durable status-sync record — `works/thenpandi-singam/PART_007_FINAL_STATUS_SYNC.md`
+
+Historical gate records that say `needs-review` remain lifecycle evidence; live canonical frontmatter and the live page-map are authoritative.
+

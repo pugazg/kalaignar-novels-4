@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 final metadata/status synchronization
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 documentation synchronization
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–006 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to synchronize Part007 status.
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to synchronize Part007 documentation.
 
 ## Part007 source
 
@@ -19,7 +19,7 @@ Do not reopen their canonical Tamil, assembled Tamil or maintained English merel
 - source intake — **COMPLETE / PASS**
 - source PDF remains outside Git
 
-## Part007 closed evidence state
+## Part007 authoritative closed state
 
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 - Pass1 source-backed reread corrections — **2**
@@ -33,16 +33,13 @@ Do not reopen their canonical Tamil, assembled Tamil or maintained English merel
 - Pass3 — **COMPLETE / PASS — 27/27 REVIEWED**
 - Pass3 textual corrections — **0**
 - whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil `status` — **27/27 verified**
+- canonical `visual_fidelity` — **27/27 verified**
+- page-map Part007 status — **27/27 verified**
 - unresolved Tamil / glyph / visual / structural questions — **0**
-- canonical records — **27/27**
-- page-map Part007 rows / Pass3 evidence — **27 / 27**
-- source PDFs in active Git tree — **0**
-
-Current status before synchronization:
-
-- canonical Tamil `status: "needs-review"` — **27/27**
-- `visual_fidelity: "needs-review"` — **27/27**
-- page-map status — **needs-review 27/27**
+- canonical body changes caused by status sync — **0**
+- page-map non-status-column changes — **0**
 
 Structural locks:
 
@@ -61,28 +58,30 @@ Structural locks:
 - outgoing **186→187 = PENDING direct audit / source-limited**
 - Part008 leakage — **0**
 
-Durable audit:
+Durable records:
 
-`works/thenpandi-singam/PART_007_AUDIT.md`
+- `works/thenpandi-singam/PART_007_AUDIT.md`
+- `works/thenpandi-singam/PART_007_FINAL_STATUS_SYNC.md`
 
 ## Exact next activity
 
-Perform **Part007 final metadata/status synchronization — scans160–186 / 27 pages**.
+Perform **Part007 documentation synchronization**.
 
 Requirements:
 
-- promote canonical page frontmatter `status: "needs-review"` → `status: "verified"` for exactly scans160–186;
-- promote `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"` for exactly scans160–186;
-- update exactly the 27 Part007 page-map status cells from `needs-review` to `verified`;
-- make **no canonical Tamil/source-transcription body changes**;
-- make **no review-evidence wording changes inside canonical pages** except the two authorized frontmatter status-line replacements per page;
-- page-map non-status-column changes — **0**;
-- verify 27 canonical files changed, **54 authorized frontmatter replacements**, and 27 page-map status-cell changes;
+- reconcile README, HANDOVER, WORKFLOW_STATUS, SOURCE_PART_REGISTRY, archival guidelines, source intake and maintained page-map narrative with the verified Part007 state;
+- preserve historical gate records as lifecycle evidence rather than rewriting them;
+- canonical Tamil / source-transcription changes — **0**;
+- canonical status-field changes during documentation sync — **0**;
+- page-map status or non-status changes during documentation sync — **0**, unless a documentation-only inconsistency is found and explicitly recorded;
+- retain correction totals **2 Pass1 / 14 Pass2A / 7 Pass2B / 0 Pass3**;
+- retain historical-glyph corrections — **0**;
+- retain Pass2A supersessions during Pass2B — **7**;
+- retain canonical Tamil / visual fidelity — **27/27 verified / 27/27 verified**;
 - preserve all structural locks above;
 - preserve **186→187 PENDING direct audit / source-limited**;
 - frozen Parts001–006 body/status changes — **0**;
-- Part008 leakage — **0**;
-- create durable `works/thenpandi-singam/PART_007_FINAL_STATUS_SYNC.md`;
-- synchronize README, HANDOVER, workflow status, source registry, archival guidelines and next-chat prompt.
+- no Part008 / scan187 inference;
+- create durable `works/thenpandi-singam/PART_007_DOCUMENTATION_SYNC.md`.
 
-If synchronization passes, Part007 canonical Tamil and visual fidelity should be **27/27 verified**, whole-Part audit remains **PASS / COMPLETE**, and the exact next activity should be **Part007 documentation synchronization**.
+If documentation synchronization passes, set the exact next activity according to the established Part lifecycle used by Parts001–006, without reopening verified Tamil.

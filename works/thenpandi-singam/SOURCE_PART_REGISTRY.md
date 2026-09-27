@@ -2038,3 +2038,31 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - exact next activity — **Part007 final metadata/status synchronization — scans160–186 / 27 pages**
 - durable audit — `works/thenpandi-singam/PART_007_AUDIT.md`
 <!-- PART007_AUDIT_CURRENT_END -->
+
+<!-- PART007_FINAL_STATUS_SYNC_CURRENT_START -->
+## Part007 final metadata/status synchronization — current authoritative state
+
+**PART007 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical Part007 page files changed — **27/27**
+- authorized frontmatter status-field replacements — **54**
+- canonical `status` — **27/27 verified**
+- canonical `visual_fidelity` — **27/27 verified**
+- needs-review canonical Tamil / visual pages — **0 / 0**
+- canonical Tamil/source-transcription body changes — **0**
+- canonical review-evidence wording changes beyond authorized frontmatter — **0**
+- page-map Part007 rows changed — **27/27**
+- page-map verified rows — **27/27**
+- page-map non-status-column changes — **0**
+- whole-Part audit — **PASS / COMPLETE**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- source PDFs in active Git tree — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- frozen Parts001–006 body/status changes — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 documentation synchronization**
+- durable status-sync record — `works/thenpandi-singam/PART_007_FINAL_STATUS_SYNC.md`
+
+Historical Pass1 / Pass2A / Pass2B / Pass3 / audit records that say `needs-review` remain lifecycle evidence. Live canonical frontmatter and the live page-map status column are authoritative for the current verified state.
+<!-- PART007_FINAL_STATUS_SYNC_CURRENT_END -->
