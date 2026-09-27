@@ -12,7 +12,7 @@ This ledger records the user's **18 split source PDFs**.
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN — PART007 SOURCE INTAKE NEXT** |
-| 007 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf` | 27 | 160–186 | 48,308,828 | `989b28ee437602c4c197c8dbcd00af7823098b9c42e907e8e3e04511b0d35021` | **COMPLETE / PASS** | **ACTIVE — PASS1 NEXT** |
+| 007 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf` | 27 | 160–186 | 48,308,828 | `989b28ee437602c4c197c8dbcd00af7823098b9c42e907e8e3e04511b0d35021` | **COMPLETE / PASS** | **ACTIVE — PASS1 10/27 TEXT-COMPLETE** |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
 | 010 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1886,3 +1886,25 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - exact next activity — **Part007 Pass1 scans160–169 / local pages1–10**
 - durable intake — `works/thenpandi-singam/SOURCE_INTAKE_PART_007.md`
 <!-- PART007_SOURCE_INTAKE_CURRENT_END -->
+
+<!-- PART007_PASS1_CURRENT_START -->
+## Part007 Pass1 — current authoritative state
+
+**PART007 PASS1 — ACTIVE — 10/27 TEXT-COMPLETE.**
+
+- completed scans — **160–169 / local pages1–10**
+- canonical Part007 records — **10/27**
+- cumulative canonical records — **169**
+- status / visual fidelity — **needs-review / needs-review on 10/10**
+- source-backed final reread corrections — **0**
+- unresolved Pass1 holds — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- scan163 — **chapter18 close / three closing ornaments**
+- scan164 — **illustrated chapter19 opener / numeral19 / no visible folio**
+- 166→167 — **`புரிந்து / கொண்டாள்!`**
+- 168→169 — **`எடுத்து வந்து / நீட்டினாள்.`**
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass1 Batch2 scans170–179 / local pages11–20**
+- durable progress — `works/thenpandi-singam/PART_007_PASS1_PROGRESS.md`
+<!-- PART007_PASS1_CURRENT_END -->
