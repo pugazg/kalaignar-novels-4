@@ -243,3 +243,53 @@ E26 accounting:
 ## Exact next gate
 
 **E27 draft + source-check — section32 / scans174–186.**
+
+## E27 source-check term state
+
+**E27 — SOURCE-CHECKED / COMPLETE — scans174–186.**
+
+Established project forms retained by source occurrence, including **Vaalukku Veli / Vaalukkuveli**, **Karutha Adappan / Adappan**, **Meganathan**, **Urangappuli**, **Veerammal**, **Vallatharayan**, **Vairamuthan**, **Agniyu**, **Welsh / Welsh Durai**, **Gopal Nayakkar**, **Maruthu Pandiyars**, **Paganeri**, **Pattamangalam**, **Tirukkottiyur**, **Viruppatchi**, **Jallipatti**, **Manamadurai**, **Parthibanur**, **Kallar nadus**, **seer-varisai**, **box carriage** and **dagger**.
+
+E27-local source-facing additions:
+
+- `மதகுப்பட்டி` → **Madagupatti**
+- `புலி நகப் பதக்கம்` → **tiger-claw pendant**
+- `புலித்தாலிச் சங்கிலி` → **tiger-thali chain**
+- `பரங்கியர்` → **Parangiyar / Parangiyars**
+- `பரமக்குடி` → **Paramakudi**
+- `ராமநாதபுரம்` → **Ramanathapuram**
+- `வாட்டகோட்டை நாடு` → **Vattakottai Nadu**
+- `கோட்டடியூர்` → **Kottadiyur**
+- `மாவலிக் கண்மாய்` → **Mavali Kanmai**
+- `ஆரத்தி` → **aarathi**
+- `சாரட் வண்டி` → **saarat carriage**
+- `ஜல்லிக்கட்டுக் காளை` → **jallikattu bull**
+- `சின்னய்யா` → **Chinnayya**
+
+Display handling:
+
+- Tamil assembled section32 contains both plain `20` and canonical `# 20`, representing the same one source-visible chapter numeral;
+- E27 English renders **one `# 20`** only;
+- canonical / assembled Tamil changes for this normalization — **0 / 0**.
+
+Political/military source discipline:
+
+- military, battle, casualty and covert-support claims remain translated as source narration/dialogue only;
+- source rhetoric such as `வெள்ளை நாய்கள்` is preserved as **white dogs** only where the source uses it;
+- no outside historical correction, endorsement, interpretation or explanatory expansion is added.
+
+E27 accounting:
+
+- normalized Tamil / English literary-display blocks — **80 / 80**
+- provenance comments — **13 / 13**
+- translated/source-checked — **3/3 / 3/3 cumulative**
+- outgoing **186→187 — PENDING direct audit / source-limited** — **preserved**
+- unresolved E27 glossary/source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- E25/E26 maintained English edits — **0**
+- Part008 leakage — **0**
+
+## Exact next gate
+
+**Part007 whole-Part English glossary reconciliation across E25–E27 / scans160–186.**

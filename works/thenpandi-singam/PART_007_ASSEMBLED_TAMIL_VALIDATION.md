@@ -218,3 +218,24 @@ Planning/setup must recheck live English batch and section collisions before res
 - Part008 leakage — **0**
 - unresolved E26 holds — **0**
 - exact next activity — **E27 draft + source-check — section32 / scans174–186**
+
+## Part007 E27 English downstream state
+
+**E27 — SOURCE-CHECKED / COMPLETE — section32 / scans174–186.**
+
+- maintained English — `translations/en/sections/32-chapter-20.md`
+- source-check — `translations/en/E27_SOURCE_CHECK.md`
+- cumulative Part007 translated/source-checked — **3/3 / 3/3**
+- E25–E27 — **ALL SOURCE-CHECKED / COMPLETE**
+- normalized Tamil / English literary-display blocks — **80 / 80**
+- provenance comments — **13 / 13**
+- source-visible heading **20** — **retained once**
+- locked 179→180 / 183→184 / 184→185 continuations — **3/3 preserved**
+- scan186 chapter20 close — **preserved**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- E25/E26 maintained English edits — **0**
+- Part008 leakage — **0**
+- unresolved E27 / batch-level holds — **0**
+- exact next activity — **Part007 whole-Part English glossary reconciliation across E25–E27 / scans160–186**

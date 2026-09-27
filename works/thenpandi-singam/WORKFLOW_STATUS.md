@@ -2290,3 +2290,30 @@ Historical Pass1 / Pass2A / Pass2B / Pass3 / audit records that say `needs-revie
 - Part008 leakage — **0**
 - exact next activity — **E27 draft + source-check — section32 / scans174–186**
 <!-- PART007_ENGLISH_E26_CURRENT_END -->
+
+<!-- PART007_ENGLISH_E27_CURRENT_START -->
+## Part007 English E27 — current authoritative state
+
+**E27 — SOURCE-CHECKED / COMPLETE — section32 / scans174–186.**
+
+- maintained English — `works/thenpandi-singam/translations/en/sections/32-chapter-20.md`
+- durable source-check — `works/thenpandi-singam/translations/en/E27_SOURCE_CHECK.md`
+- normalized Tamil / English literary-display blocks — **80 / 80**
+- provenance comments — **13 / 13**
+- source-visible chapter heading **20** — **retained exactly once**
+- cumulative Part007 translated/source-checked — **3/3 / 3/3**
+- E25–E27 — **ALL SOURCE-CHECKED / COMPLETE**
+- 179→180 / 183→184 / 184→185 continuations — **3/3 preserved**
+- scan186 chapter20 close — **preserved**
+- outgoing **186→187 — PENDING direct audit / source-limited / preserved**
+- English literary text after scan186 provenance — **0**
+- E26 / scan173 duplication — **0**
+- Part008 / scan187 leakage — **0**
+- omissions / duplicate literary blocks / unsupported English insertion — **0 / 0 / 0**
+- review/audit-note leakage — **0**
+- unresolved E27 / batch-level holds — **0**
+- canonical / assembled Tamil edits caused by E27 — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- E25/E26 maintained English edits — **0**
+- exact next activity — **Part007 whole-Part English glossary reconciliation across E25–E27 / scans160–186**
+<!-- PART007_ENGLISH_E27_CURRENT_END -->

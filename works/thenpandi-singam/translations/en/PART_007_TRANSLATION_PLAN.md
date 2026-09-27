@@ -76,7 +76,7 @@ Part007 contains three verified maintained Tamil sections:
 |---|---|---|---:|---|
 | **E25** | section30 — chapter18 Part007 continuation/close | `translations/en/sections/30-chapter-18-part007.md` | 160–163 | **SOURCE-CHECKED / COMPLETE** |
 | **E26** | section31 — chapter19 | `translations/en/sections/31-chapter-19.md` | 164–173 | **SOURCE-CHECKED / COMPLETE** |
-| **E27** | section32 — chapter20 | `translations/en/sections/32-chapter-20.md` | 174–186 | **RESERVED / NOT DRAFTED** |
+| **E27** | section32 — chapter20 | `translations/en/sections/32-chapter-20.md` | 174–186 | **SOURCE-CHECKED / COMPLETE** |
 
 Each batch must close **draft + source-check** before the next batch is considered closed.
 
@@ -235,3 +235,37 @@ Outgoing:
 ## Exact next gate
 
 **E27 draft + source-check — section32 / scans174–186.**
+
+## E27 execution result
+
+**E27 — SOURCE-CHECKED / COMPLETE — scans174–186.**
+
+- maintained English file — `translations/en/sections/32-chapter-20.md`
+- source-check control — `translations/en/E27_SOURCE_CHECK.md`
+- normalized Tamil / English literary-display blocks — **80 / 80**
+- provenance comments — **13 / 13**
+- source-visible heading **20** — **retained exactly once**
+- 179→180 / 183→184 / 184→185 continuations — **3/3 preserved**
+- scan186 chapter20 close preserved — **PASS**
+- outgoing **186→187 — PENDING direct audit / source-limited** — **preserved**
+- E26 / scan173 duplication — **0**
+- Part008 / scan187 leakage — **0**
+- omissions / duplicated literary blocks / unsupported insertion — **0 / 0 / 0**
+- unresolved E27 holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- E25/E26 maintained English edits — **0**
+- cumulative translated/source-checked — **3/3 / 3/3**
+
+## Part007 batch-completion state
+
+**E25–E27 — ALL SOURCE-CHECKED / COMPLETE.**
+
+- maintained English files — **3/3**
+- translated/source-checked — **3/3 / 3/3**
+- unresolved batch-level holds — **0**
+- Part008 leakage — **0**
+
+## Exact next gate
+
+**Part007 whole-Part English glossary reconciliation across E25–E27 / scans160–186.**
