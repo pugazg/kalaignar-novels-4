@@ -15,7 +15,7 @@ status: "source-checked"
 
 “Because our Nachiyaramma learned Bharatanatyam when she was a child, she picks up everything Vadivu teaches her at once,” Lalithangi said with a coaxing laugh, praising and congratulating Kalyani Nachiyar.
 
-“And the teacher is clever too, isn’t she!” Kaadai and Kolari praised Vadivambal in unison.
+“And the teacher-amma is clever too, isn’t she!” Kaadai and Kolari praised Vadivambal in unison.
 
 Vadivu, however, was yearning because she had not been able to meet Vaalukku Veli! And news arrived right there that turned that yearning into disappointment.
 
@@ -31,7 +31,7 @@ Vadivambal looked at Lalithangi and Nathamuni in mounting wonder. Kalyani Nachiy
 
 Lalithangi gently nipped Vadivu’s ear and whispered, “It must be the Ambalakkarar’s order. He must have decided to send vessels and household goods like these as gifts because he is happy that you have come to teach dance to his younger sister.”
 
-Joy overflowed in Vadivu when she heard that! Nathamuni, who had overheard Lalithangi’s words to Vadivambal with his snake-like ears, moved closer to offer them an explanation. By then Kalyani Nachiyar had gone into her room to change out of her Bharatanatyam costume.
+Joy overflowed in Vadivu when she heard that! Nathamuni, who had overheard Lalithangi’s words to Vadivambal with his snake-like ears, moved closer to offer them an explanation. By then Kalyani Nachiyar had gone into her room to change out of her Bharatanatyam costume and into another outfit.
 
 “Don’t you know the custom among Ambalakkarars? If one of them develops a desire for a woman from our artistic profession and decides to live with her, the first thing he does is send seer-varisai like this! Vadivambal has been struck by a great stroke of luck!”
 
@@ -39,7 +39,7 @@ When Nathamuni announced his discovery, Vadivu sank into delight, though one dou
 
 <!-- source boundary: scan 156 → scan 157 -->
 
-“The custom may be like that! But shouldn’t all these formalities take place only after asking the woman for her consent and after she says yes?” she asked Nathamuni.
+“The custom may be like that! But shouldn’t all these customs take place only after asking the woman for her consent and after she says yes?” she asked Nathamuni.
 
 Lalithangi immediately cut in. “What, amma? You don’t consent? Then say so! I’ll tell those men right now to stop everything,” she teased mischievously.
 
@@ -73,7 +73,7 @@ Another anxiety troubled her: what would Adappan think of this sudden decision h
 
 Kaadai and Kolari came out of the room and blurted out the truth in front of Vadivambal and her companions. Vadivambal stood there with her heart shattered into a thousand pieces!
 
-Like a mad elephant breaking its chain and charging wildly, the jealousy in her heart charged at her elder sister Sundari!
+Like a mad elephant breaking its chain and charging wildly, the jealousy in her heart charged at and crashed into her elder sister Sundari!
 
 <!-- source boundary: scan 158 → scan 159 -->
 
