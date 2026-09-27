@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Pass3 scans133–142
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Pass3 scans143–152
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -25,61 +25,55 @@ Controlling source:
 
 - source intake — **COMPLETE / PASS**
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Pass1 source-backed reread corrections — **5**
-- Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
-- Pass2A source-text corrections — **17 occurrences / 12 scans**
-- Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
-- Pass2B lexical / spacing / punctuation corrections — **2 occurrences / scans145, 150**
-- historical-glyph corrections — **0**
-- Pass2A supersessions in Pass2B — **2 occurrences / scans145, 150**
-- unresolved Pass2B questions — **0**
+- Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — 17 source-text corrections**
+- Pass2B — **COMPLETE / PASS — 27/27 REVIEWED — 2 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 2 Pass2A supersessions**
+- unresolved Pass2A / Pass2B questions — **0 / 0**
+
+## Part006 Pass3 current state
+
+- Pass3 — **ACTIVE — 10/27 REVIEWED**
+- reviewed — **scans133–142 / local pages1–10**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
 - status / visual fidelity — **needs-review / needs-review on 27/27**
 - status promotions — **0**
-
-Durable Pass2B progress:
-
-`works/thenpandi-singam/PART_006_PASS2B_PROGRESS.md`
-
-## Boundary / structural state
-
-- incoming **132→133 = GENUINE CONTINUATION / AUDITED**
-- scan137 — chapter15 close / three closing ornaments
-- scan138 — illustrated chapter16 opener / displayed numeral16 / no source-visible folio
-- scan146 — chapter16 close / three closing ornaments
-- scan147 — illustrated chapter17 opener / displayed numeral17 / no source-visible folio
-- scan154 — chapter17 close / three closing ornaments
-- scan155 — illustrated chapter18 opener / displayed numeral18 / no source-visible folio
-- outgoing **159→160 = PENDING direct audit / source-limited**
-- frozen Parts001–005 canonical / assembled / maintained-English body edits — **0 / 0 / 0**
+- scan137 chapter15 close / three centered ornaments — **PASS**
+- scan138 illustrated chapter16 opener / displayed numeral16 / no source-visible folio — **PASS**
+- 132→133, 134→135, 136→137, 138→139, 139→140, 140→141, 141→142 continuations — **PASS**
+- page furniture promoted to literary prose — **0**
+- frozen Parts001–005 body edits — **0**
 - Part007 leakage — **0**
+- outgoing **159→160 = PENDING direct audit / source-limited**
+
+Durable Pass3 progress:
+
+`works/thenpandi-singam/PART_006_PASS3_PROGRESS.md`
 
 ## Exact next activity
 
-Perform **Part006 Pass3 — scans133–142 / local pages1–10**.
+Perform **Part006 Pass3 — scans143–152 / local pages11–20**.
 
 Review requirements:
 
-- perform full rendered-page visual / structural review against source images for scans **133–142**;
-- verify displayed-text hierarchy, paragraph/dialogue block structure, reading order, printed pagination, recurring running headers / page furniture and any physical annotations;
-- verify chapter15 continuation across scans133–137 and the chapter15 close / three ornaments on scan137;
-- verify scan138 illustrated chapter16 opener, displayed numeral16, illustration placement and absence of source-visible folio;
-- verify physical continuations:
-  - 132→133 — incoming genuine continuation;
-  - 134→135 — direct speech continuation;
-  - 136→137 — driver speech continuation;
-  - 138→139 — `விடுதலை / வீரர்கள்`;
-  - 139→140 — `அண்ணாந்து / நோக்கினான்.`;
-  - 140→141 — `ஆதப்பனின் / செவிகளில்`;
-  - 141→142 — `திரும்பிப் பார்த்து / விட்டு இன்னும்...`;
+- perform full rendered-page visual / structural review against source images for scans **143–152**;
+- verify displayed-text hierarchy, paragraph/dialogue block structure, reading order, printed pagination, recurring running headers / page furniture and physical annotations;
+- scan146 — verify chapter16 close / three centered ornaments;
+- scan147 — verify illustrated chapter17 opener / mounted-warrior illustration / displayed numeral17 / no source-visible folio;
+- verify 147→148 `மானா / மதுரைக்கும்`;
+- scan148 — verify displayed letter/signature hierarchy and placement;
+- scan150 — verify displayed devotional verses and line hierarchy;
+- verify 150→151 `பிரதட்சணமாகச் / சுற்றி வந்த`;
+- verify 151→152 `இசை / விருந்தும்`;
+- scan152 — verify terminal direct speech remains open to scan153 and no scan153 wording is copied backward;
 - correct canonical text only if a fresh rendered-page structural review demonstrates a genuine textual defect;
 - log Pass3 textual corrections separately from visual / structural findings;
 - keep `status: "needs-review"` and `visual_fidelity: "needs-review"`; no promotion during Pass3;
 - external-source comparison — **0**;
-- frozen Parts001–005 body edits — **0 / 0 / 0**;
+- frozen Parts001–005 canonical / assembled / maintained-English body edits — **0 / 0 / 0**;
 - Part007 leakage — **0**;
 - outgoing **159→160 = PENDING direct audit / source-limited**.
 
-Create/update:
+Update:
 
 - `PART_006_PASS3_PROGRESS.md`;
 - canonical pages only where fresh source-backed corrections are demonstrated;
@@ -90,4 +84,4 @@ Create/update:
 
 After this batch, exact next activity should be:
 
-**Part006 Pass3 scans143–152 / local pages11–20.**
+**Part006 Pass3 FINAL scans153–159 / local pages21–27.**
