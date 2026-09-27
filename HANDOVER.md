@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part007 Pass1 FINAL scans180–186**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part007 Pass2A Batch1 scans160–169**
 
 ## Work
 
@@ -2053,27 +2053,26 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 <!-- PART007_PASS1_CURRENT_START -->
 ## Part007 Pass1 — current authoritative state
 
-**PART007 PASS1 — ACTIVE — 20/27 TEXT-COMPLETE.**
+**PART007 PASS1 — COMPLETE / PASS — 27/27 TEXT-COMPLETE.**
 
 - source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf`
-- completed scans — **160–179 / local pages1–20**
-- canonical Part007 records — **20/27**
-- cumulative canonical records — **179**
-- status / visual fidelity — **needs-review / needs-review on 20/20**
-- source-backed Pass1 reread corrections — **0**
+- completed scans — **160–186 / local pages1–27**
+- canonical Part007 records — **27/27**
+- cumulative canonical records — **186**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- Pass1 source-backed reread corrections — **2 / scans183,184**
 - unresolved Pass1 holds — **0**
 - incoming **159→160 — GENUINE CONTINUATION / AUDITED**
-- scan163 — **chapter18 close**
-- scan164 — **illustrated chapter19 opener / no visible folio**
+- scan163 / 173 / 186 — **chapter18 / 19 / 20 closes**
+- scan164 / 174 — **illustrated chapter19 / 20 openers / no visible folio**
 - 166→167 — **`புரிந்து / கொண்டாள்!`**
 - 168→169 — **`எடுத்து வந்து / நீட்டினாள்.`**
 - 172→173 — **`அதன் வாழ்வைப் / பெறப்போகிறோம்`**
-- scan173 — **chapter19 close**
-- scan174 — **illustrated chapter20 opener / no visible folio**
-- 179→180 — **direct dialogue continuity verified**
+- 183→184 — **direct speech continuation**
+- 184→185 — **`இன்னொரு / நாள்...`**
 - outgoing **186→187 — PENDING direct audit / source-limited**
 - frozen Parts001–006 body edits — **0**
 - Part008 leakage — **0**
-- exact next activity — **Part007 Pass1 FINAL scans180–186 / local pages21–27**
+- exact next activity — **Part007 Pass2A Batch1 scans160–169 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_007_PASS1_PROGRESS.md`
 <!-- PART007_PASS1_CURRENT_END -->
