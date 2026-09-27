@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 E21 draft + source-check — section26 / scans133–137**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 whole-Part English glossary reconciliation across E21–E24 / scans133–159**
 
 ## Work
 
@@ -1878,3 +1878,30 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - exact next activity — **E21 draft + source-check — section26 / scans133–137**
 - durable controls — `works/thenpandi-singam/translations/en/PART_006_TRANSLATION_PLAN.md`, `PART_006_GLOSSARY.md`, `PART_006_PROGRESS.md`
 <!-- PART006_ENGLISH_PLANNING_CURRENT_END -->
+
+<!-- PART006_ENGLISH_E21_E24_CURRENT_START -->
+## Part006 English E21–E24 — current authoritative state
+
+**PART006 E21–E24 — SOURCE-CHECKED / COMPLETE — 4/4.**
+
+- maintained English files — **4/4**
+- E21 — section26 / scans133–137 — **SOURCE-CHECKED / COMPLETE**
+- E22 — section27 / scans138–146 — **SOURCE-CHECKED / COMPLETE**
+- E23 — section28 / scans147–154 — **SOURCE-CHECKED / COMPLETE**
+- E24 — section29 / scans155–159 — **SOURCE-CHECKED / COMPLETE**
+- cumulative translated/source-checked — **4/4 / 4/4**
+- physical source coverage — **scans133–159 / 27 of 27**
+- Tamil / English literary-display blocks — **166 / 166**
+- provenance comments — **25 / 25**
+- omitted / duplicated literary blocks — **0 / 0**
+- unresolved E21–E24 source-check holds — **0**
+- scan148 displayed letter/signature hierarchy — **preserved**
+- scan150 devotional-verse stanza / line hierarchy — **preserved**
+- canonical / assembled Tamil edits caused by English work — **0 / 0**
+- frozen Parts001–005 English body edits — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- Part007 leakage — **0**
+- exact next activity — **Part006 whole-Part English glossary reconciliation across E21–E24 / scans133–159**
+- durable source-checks — `works/thenpandi-singam/translations/en/E21_SOURCE_CHECK.md` through `E24_SOURCE_CHECK.md`
+<!-- PART006_ENGLISH_E21_E24_CURRENT_END -->
