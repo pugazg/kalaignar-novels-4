@@ -1129,3 +1129,28 @@ Exact next gate: **Part004 whole-Part English glossary reconciliation across E13
 - exact next activity — **Part007 source intake when supplied**
 - durable closure — `../../PART_006_FINAL_CLOSURE.md`
 <!-- PART006_FINAL_CLOSURE_CURRENT_END -->
+
+<!-- PART007_ENGLISH_PLANNING_CURRENT_START -->
+## Part007 English translation planning — current authoritative state
+
+**PART007 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
+
+- live collision recheck — **PASS**
+- collision-check head — `0083bfb33302dfbae4628f7c7f5fd71cfccec7ac`
+- pre-setup source-check controls — **E1–E24**
+- pre-setup maintained English section orders — **00–29**
+- E25–E27 / section orders30–32 collisions — **0 / 0**
+- reserved Part007 batches — **E25–E27**
+- mapping — **E25 section30 / E26 section31 / E27 section32**
+- planned maintained English files — **3**
+- translated/source-checked — **0/3 / 0/3**
+- literary English prose drafted during planning — **0**
+- unresolved planning / glossary holds — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- Part008 leakage — **0**
+- exact next activity — **E25 draft + source-check — section30 / scans160–163**
+- durable controls — `PART_007_TRANSLATION_PLAN.md`, `PART_007_GLOSSARY.md`, `PART_007_PROGRESS.md`
+<!-- PART007_ENGLISH_PLANNING_CURRENT_END -->

@@ -156,3 +156,28 @@ At assembled-body head `1dc1c4e1f5a92e2048ffeff7d5df0988dcf58cb2`:
 Perform **Part007 English translation planning/setup**.
 
 Planning/setup must recheck live English batch and section collisions before reserving any E-batch numbers, then establish translation plan, glossary and progress controls without drafting literary English prose.
+
+## Part007 English planning downstream state
+
+**PART007 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
+
+- live collision recheck — **PASS**
+- collision-check head — `0083bfb33302dfbae4628f7c7f5fd71cfccec7ac`
+- existing source-check controls before reservation — **E1–E24**
+- existing maintained English section orders before reservation — **00–29**
+- reserved Part007 batches — **E25–E27**
+- planned section mapping — **E25→30 / E26→31 / E27→32**
+- planned maintained English files — **3**
+- translated/source-checked at planning closure — **0/3 / 0/3**
+- English literary prose drafted during planning — **0**
+- unresolved planning/glossary holds — **0**
+- canonical / assembled Tamil edits caused by planning — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- Part008 leakage — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- durable controls — `translations/en/PART_007_TRANSLATION_PLAN.md`, `translations/en/PART_007_GLOSSARY.md`, `translations/en/PART_007_PROGRESS.md`
+
+## Exact next activity
+
+**E25 draft + source-check — section30 / scans160–163.**

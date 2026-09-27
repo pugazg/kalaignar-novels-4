@@ -2318,3 +2318,33 @@ Historical Pass1 / Pass2A / Pass2B / Pass3 / audit records that say `needs-revie
 - exact next activity — **Part007 English translation planning/setup**
 - durable validation — `works/thenpandi-singam/PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
 <!-- PART007_ASSEMBLED_TAMIL_CURRENT_END -->
+
+<!-- PART007_ENGLISH_PLANNING_CURRENT_START -->
+## Part007 English translation planning — current authoritative state
+
+**PART007 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
+
+- live collision recheck — **PASS**
+- collision-check head — `0083bfb33302dfbae4628f7c7f5fd71cfccec7ac`
+- pre-setup English source-check batches — **E1–E24**
+- pre-setup maintained English section orders — **00–29**
+- E25–E27 collisions — **0**
+- section-order 30–32 collisions — **0**
+- reserved Part007 batches — **E25–E27**
+- batch mapping — **E25→30 / E26→31 / E27→32**
+- planned maintained English files — **3**
+- translated / source-checked at planning closure — **0/3 / 0/3**
+- English literary prose drafted during planning — **0**
+- unresolved planning / glossary holds — **0**
+- canonical Tamil changes caused by planning — **0**
+- assembled Tamil changes caused by planning — **0**
+- frozen Parts001–006 English body changes — **0**
+- Part008 leakage — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- E25 chapter18 continuation / no repeated heading — **planning lock retained**
+- E26 chapter19 heading **19** — **planning lock retained**
+- E27 chapter20 heading **20** / scan186 close — **planning lock retained**
+- exact next activity — **E25 draft + source-check — section30 / scans160–163**
+- durable controls — `works/thenpandi-singam/translations/en/PART_007_TRANSLATION_PLAN.md`, `PART_007_GLOSSARY.md`, `PART_007_PROGRESS.md`
+<!-- PART007_ENGLISH_PLANNING_CURRENT_END -->

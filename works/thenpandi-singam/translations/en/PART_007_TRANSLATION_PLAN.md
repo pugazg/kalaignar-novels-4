@@ -1,0 +1,187 @@
+# Part 007 — English Translation Plan — தென்பாண்டிச் சிங்கம்
+
+Status: **ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+
+This is the control plan for the project-created English translation of **Part007 only**.
+
+No English literary prose is created in this planning/setup gate.
+
+## Authority hierarchy
+
+1. `works/thenpandi-singam/pages/` — canonical verified Tamil; controlling textual authority.
+2. `works/thenpandi-singam/sections/` — **Part007 3/3 VERIFIED / PASS / CLOSED** assembled Tamil reading layer.
+3. `works/thenpandi-singam/translations/en/` — derived project-created English only.
+
+If English conflicts with Tamil, canonical Tamil governs.
+
+No published, web, remembered or standardized English translation is textual authority. English must not silently correct, regularize, modernize, fact-correct or rewrite the Tamil source layer.
+
+## Part007 Tamil source state
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf`
+- canonical scans — **160–186 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- source intake / Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- assembled canonical coverage — **27/27**
+- omissions / duplicates / unsupported insertion / audit-note leakage — **0 / 0 / 0 / 0**
+- incoming 159→160 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 186→187 — **PENDING direct audit / source-limited**
+- Part008 imported or inferred — **0**
+
+No source PDF or frozen prior-Part body is reopened merely for English planning.
+
+## Live collision check
+
+Live `main` was rechecked immediately before reserving Part007 English identifiers.
+
+Collision-check head:
+
+`0083bfb33302dfbae4628f7c7f5fd71cfccec7ac`
+
+Existing English batch controls:
+
+- source-check controls **E1–E24**
+- **E25–E27 absent**
+
+Existing maintained English literary section files:
+
+- section orders **00–29**
+- section orders **30–32 absent**
+
+Collision findings:
+
+- E25–E27 batch collisions — **0**
+- planned English section-order collisions 30–32 — **0**
+- existing Part007 maintained English literary files — **0**
+
+Therefore the reserved Part007 batch sequence is **E25–E27**.
+
+## Part007 assembled Tamil source structure
+
+Part007 contains three verified maintained Tamil sections:
+
+1. `sections/30-chapter-18-part007.md` — scans160–163 — chapter18 continuation from frozen Part006 and close
+2. `sections/31-chapter-19.md` — scans164–173 — complete chapter19
+3. `sections/32-chapter-20.md` — scans174–186 — complete chapter20
+
+## Reserved English batches
+
+| Batch | Tamil authority | Planned English file | Scans | Planning state |
+|---|---|---|---:|---|
+| **E25** | section30 — chapter18 Part007 continuation/close | `translations/en/sections/30-chapter-18-part007.md` | 160–163 | **RESERVED / NOT DRAFTED** |
+| **E26** | section31 — chapter19 | `translations/en/sections/31-chapter-19.md` | 164–173 | **RESERVED / NOT DRAFTED** |
+| **E27** | section32 — chapter20 | `translations/en/sections/32-chapter-20.md` | 174–186 | **RESERVED / NOT DRAFTED** |
+
+Each batch must close **draft + source-check** before the next batch is considered closed.
+
+Planned maintained Part007 English files — **3**.
+
+Translated files at planning closure — **0/3**.  
+Source-checked files at planning closure — **0/3**.
+
+## Translation objective
+
+Produce readable English that remains reversible to the verified Part007 Tamil evidence.
+
+Preserve:
+
+- narrator and speaker agency;
+- chronology and information-release order;
+- rhetorical questions, repetition, exclamations, sarcasm, rebuke, threat, irony and emphatic phrasing;
+- dialogue turns and paragraph structure where meaningful;
+- source-visible chapter headings **19 / 20**;
+- chapter18 continuation without inventing a repeated chapter heading;
+- source-specific personal names, honorifics, offices, places and source-form variants;
+- source-visible spacing / closed-form / colloquial distinctions where they carry evidence;
+- non-rendering physical-source provenance comments;
+- Part007 terminal chapter20 state at scan186 without importing or inventing scan187 wording.
+
+Do not add explanatory history, geography, biography, political interpretation, religious explanation or literary commentary unless the Tamil source itself supplies it.
+
+## Continuity with frozen Part006 English
+
+Part006 English is **FINAL CLOSED / FROZEN**.
+
+E25 directly continues the open chapter18 literary continuity from frozen Part006 section29:
+
+- do not modify `translations/en/sections/29-chapter-18-part006.md`;
+- do not duplicate translated scan159 text in E25;
+- translate only verified Part007 scans160–163;
+- preserve **159→160 = GENUINE CONTINUATION / AUDITED** as Part007 provenance;
+- frozen Part006 historical controls that still record 159→160 as source-limited remain historical evidence and are not rewritten;
+- the source sentence/dialogue may continue naturally across the maintained-file boundary, but no frozen E24 wording is rewritten;
+- carry forward established source-facing terms only when the same Tamil form recurs.
+
+## E25 structural lock — chapter18 continuation
+
+- E25 begins at scan160 only;
+- no chapter numeral **18** is invented at the beginning because the maintained Part007 section is a continuation from frozen Part006;
+- scan163 closes chapter18;
+- source-visible closing ornaments generate no English prose;
+- all physical source-boundary comments remain non-rendering provenance.
+
+## E26 structural lock — chapter19
+
+- E26 begins with source-visible chapter numeral **19**;
+- scans164–173 only;
+- preserve 166→167 `புரிந்து / கொண்டாள்!` without bridge wording;
+- preserve 168→169 `எடுத்து வந்து / நீட்டினாள்.`;
+- preserve 172→173 `அதன் வாழ்வைப் / பெறப்போகிறோம்`;
+- scan173 closes chapter19;
+- closing ornaments generate no English prose.
+
+## E27 structural lock — chapter20
+
+- E27 begins with source-visible chapter numeral **20**;
+- scans174–186 only;
+- preserve 179→180 direct question/answer continuity;
+- preserve 183→184 direct-speech continuation;
+- preserve 184→185 `இன்னொரு / நாள்...`;
+- scan186 closes chapter20;
+- closing ornaments generate no English prose;
+- **186→187 remains PENDING direct audit / source-limited**;
+- no Part008 wording or semantic completion beyond scan186 is permitted.
+
+## Boundary locks
+
+Incoming:
+
+- E25 starts at scan160 only;
+- frozen E24 ends at scan159;
+- **159→160 = GENUINE CONTINUATION / AUDITED** in Part007 authority;
+- no Part006 English prose is duplicated or rewritten.
+
+Outgoing:
+
+- E27 ends at scan186 only;
+- chapter20 closes at the supplied Part007 boundary;
+- **186→187 = PENDING direct audit / source-limited**;
+- no Part008 Tamil/English wording may be imported;
+- no semantic completion beyond scan186 is permitted.
+
+## Planning accounting
+
+- reserved Part007 English batches — **E25–E27 / 3**
+- planned maintained English files — **3**
+- translated — **0/3**
+- source-checked — **0/3**
+- English literary prose drafted in planning — **0**
+- unresolved planning holds — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Parts001–006 English body edits — **0**
+- Part008 leakage — **0**
+
+## Planning result
+
+**PART007 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+
+## Exact next gate
+
+**E25 draft + source-check — section30 / scans160–163.**
