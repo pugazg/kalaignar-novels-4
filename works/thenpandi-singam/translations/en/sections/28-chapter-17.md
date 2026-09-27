@@ -38,7 +38,7 @@ With folded hands, Vaalukkuveli entered and, as he had first planned, began to g
 
 “Ah! Ayyarvaal! What brings you this far?”
 
-“This is what they call a blind question! I am going around the temple prakaram in pradakshina, and you ask what brings me this far! You spoke all sorts of things like this to that Sundarambal too and caused a pointless clash—with a dancer, of all people!”
+“This is what they call a blind question! I am going around the temple prakaram in pradakshina, and you ask what brings me this far! You spoke all sorts of things like this to that Sundarambal too and caused a pointless clash—unnecessarily, with a dancer!”
 
 “What, Ayyare! Even you are bubbling with anger! Has the quarrel between Sundarambal and me spread that far?”
 
@@ -58,7 +58,7 @@ Vellai Ayyar said wearily, “Leave it! What you never had is not going to appea
 
 <!-- source boundary: scan 149 → scan 150 -->
 
-“I have no knowledge of art? Listen, Ayyare, listen!” Vaalukkuveli hurled the words like explosions and suddenly began to sing. The song became a medley of pasurams sung by the Azhwars about Tirukkottiyur!
+“I have no knowledge of art? Listen, Ayyare, listen!” Vaalukkuveli hurled the words like explosions and suddenly began to sing. The song was a collection of pasurams sung by the Azhwars about Tirukkottiyur!
 
 “Bring a staff! Bring a staff!” Vaalukkuveli sang loudly, and Vellai Ayyar actually became frightened! Only then did he understand that it was a Tirumozhi sung by Periyazhwar.
 
@@ -123,7 +123,7 @@ How many hardships there were in his life! A hot wind blew ceaselessly through h
 
 Amid all this, Sundari’s invitation was to Vaalukku Veli like a cool tree under which to rest in summer—like deep shade, like the comfort of shade grown rich and dense!
 
-Even so, could he simply say “I will come” the moment she invited him? An Ambalakkarar had a certain status and certain proprieties to maintain!
+Even so, could he simply say “I will come” the moment she invited him? An Ambalakkarar had a certain status and pomp to maintain!
 
 <!-- source boundary: scan 153 → scan 154 -->
 
@@ -131,4 +131,4 @@ Even so, could he simply say “I will come” the moment she invited him? An Am
 
 Hearing this, Sundari lowered her face! The earth received the sight of another moon! Her big toes scratched at the ground! No—they were writing the “alphabet-primer verse” of lessons in love!
 
-Vaalukkuveli stood drinking in that beautiful form with his eyes! Then he took a reluctant leave and went away! Thinking of him all the while, Vadivambal continued giving dance training to his younger sister Kalyani Nachiyar!
+Vaalukkuveli stood there, drinking in that beautiful form with both eyes! Then he took a reluctant leave and went away! Thinking of him all the while, Vadivambal continued giving dance training to his younger sister Kalyani Nachiyar!
