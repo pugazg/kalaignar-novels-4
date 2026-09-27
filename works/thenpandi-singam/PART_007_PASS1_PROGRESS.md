@@ -2,15 +2,15 @@
 
 ## Gate
 
-**PASS 1 — ACTIVE — 20/27 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 27/27 TEXT-COMPLETE**
 
 Canonical Part007 coverage:
 
-- local pages — **1–20 / 27**
-- global scans — **160–179 / 27**
-- canonical Part007 records — **20/27**
-- status — **needs-review on 20/20**
-- visual fidelity — **needs-review on 20/20**
+- local pages — **1–27 / 27**
+- global scans — **160–186 / 27**
+- canonical Part007 records — **27/27**
+- status — **needs-review on 27/27**
+- visual fidelity — **needs-review on 27/27**
 - verified promotions — **0**
 - unresolved Pass1 source-reading holds — **0**
 - frozen Parts001–006 body edits — **0**
@@ -147,8 +147,70 @@ Source-visible colloquial, orthographic and lexical forms were retained without 
 - frozen Parts001–006 body edits — **0**
 - Part008 leakage — **0**
 
+## Batch 3 FINAL — scans180–186
+
+| Local | Scan | Printed | Chapter | Structural state | Pass1 |
+|---:|---:|---:|---:|---|---|
+| 21 | 180 | 164 | 20 | directly answers scan179 terminal question; chapter20 continuation | TEXT-COMPLETE |
+| 22 | 181 | 165 | 20 | military/political dialogue continuation | TEXT-COMPLETE |
+| 23 | 182 | 166 | 20 | dialogue continuation / Kalyani enters | TEXT-COMPLETE |
+| 24 | 183 | 167 | 20 | dialogue/news continuation; terminal speech open to scan184 | TEXT-COMPLETE |
+| 25 | 184 | 168 | 20 | completes scan183 speech; Vadivambal arrival; terminal `இன்னொரு` open to scan185 | TEXT-COMPLETE |
+| 26 | 185 | 169 | 20 | completes `இன்னொரு / நாள்...`; travel departure / dance setup | TEXT-COMPLETE |
+| 27 | 186 | 170 | 20 | chapter20 close; three centered closing ornaments; terminal supplied Part007 scan | TEXT-COMPLETE |
+
+## Batch 3 FINAL cross-page / structural evidence
+
+- 179→180 — direct question/answer dialogue continuity — **PRESERVED**
+- 180→181 — same chapter20 military/political discussion continues
+- 181→182 — dialogue progression / no source-supported word split
+- 182→183 — chapter20 scene continues
+- 183→184 — direct speech continuation `...ஆதப்பனும் / நானும் தவறாது...` — **PRESERVED**
+- 184→185 — `இன்னொரு / நாள் நான் பார்க்கிறேன்!` — **PRESERVED**
+- 185→186 — chapter20 scene progression; no source-supported word split
+- scan186 — chapter20 closes with three source-visible centered ornaments
+- running headers / printed folios / closing ornaments promoted to literary prose — **0**
+- outgoing **186→187 = PENDING direct audit / source-limited**
+- scan187 / Part008 wording imported or inferred — **0**
+
+## Final direct-source reread before Pass1 closure
+
+A fresh enlarged rendered-source reread of scans180–186 was completed after canonical creation.
+
+Source-backed Pass1 reread corrections — **2**:
+
+1. scan183 — `அன்றலர்ந்த செந்தாமரையாக` → source `அன்று மலர்ந்த செந்தாமரையாக`
+2. scan184 — `மேலாடையைச் சற்றே சரிசெய்து ... வாளுக்குவேலியிடம்` → source `மேலாடையைச் சற்றே சரியவிட்டு ... வாளுக்கு வேலியிடம்`
+
+Accounting:
+
+- Batch 3 corrections — **2**
+- cumulative Pass1 reread corrections — **2**
+- unresolved source-reading holds — **0**
+- status promotions — **0**
+- Batch 3 remains — **7/7 TEXT-COMPLETE**
+
+## Pass1 final accounting
+
+- canonical files created — **27**
+- Part007 scans represented — **160–186 / 27**
+- Part007 local pages — **1–27 / 27**
+- Pass1 text-complete — **27/27**
+- status — **needs-review on 27/27**
+- visual fidelity — **needs-review on 27/27**
+- verified promotions — **0**
+- chapter18 close — **scan163**
+- chapter19 opener / close — **scan164 / scan173**
+- chapter20 opener / close — **scan174 / scan186**
+- source-visible folio absent — **scans164 and 174**
+- cumulative canonical repository records — **186**
+- unresolved Pass1 holds — **0**
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+
 ## Exact next activity
 
-Perform **Part007 Pass1 FINAL — scans180–186 / local pages21–27**.
+Perform **Part007 Pass2A Batch1 — scans160–169 / local pages1–10**.
 
-Final Pass1 must complete the remaining seven supplied Part007 pages, preserve direct source-visible structure, retain `needs-review / needs-review`, record scan186's chapter20 close, and leave **186→187 PENDING direct audit / source-limited** without inferring Part008.
+Pass2A must perform a strict source-text reread against rendered source pixels, apply only source-backed corrections, retain `status: "needs-review"` and `visual_fidelity: "needs-review"`, preserve all established cross-page/structural evidence, and keep Part008 excluded.
