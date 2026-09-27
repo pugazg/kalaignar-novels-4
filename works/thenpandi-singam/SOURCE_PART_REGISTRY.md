@@ -11,7 +11,7 @@ This ledger records the user's **18 split source PDFs**.
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **WHOLE-PART AUDIT PASS / COMPLETE — STATUS SYNC NEXT** |
+| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **FINAL STATUS SYNC PASS / CLOSED — DOCUMENTATION SYNC NEXT** |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1582,4 +1582,23 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part007 leakage — **0**
 - exact next activity — **Part006 final metadata/status synchronization — scans133–159 / 27 pages**
 - durable audit — `PART_006_AUDIT.md`
+
+## Part006 final metadata/status synchronization downstream state
+
+- Part006 final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- whole-Part audit — **PASS / COMPLETE**
+- canonical Part006 page files changed by status sync — **27**
+- authorized frontmatter status-line replacements — **54**
+- canonical Tamil/body changes caused by status sync — **0**
+- page-map non-status-column changes — **0**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- frozen Parts001–005 body/status changes — **0**
+- Part007 leakage — **0**
+- exact next activity — **Part006 documentation synchronization**
+- durable sync — `PART_006_FINAL_STATUS_SYNC.md`
 
