@@ -2101,3 +2101,30 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - exact next activity — **Part007 Pass2B Batch1 scans160–169 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_007_PASS2A_PROGRESS.md`
 <!-- PART007_PASS2A_CURRENT_END -->
+
+<!-- PART007_PASS2B_CURRENT_START -->
+## Part007 Pass2B — current authoritative state
+
+**PART007 PASS2B — ACTIVE — 10/27 REVIEWED.**
+
+- reviewed — **scans160–169 / local pages1–10**
+- reviewed pages passing — **10/10**
+- lexical / spacing / punctuation corrections — **0**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **0**
+- zero-correction scans — **160–169 / 10**
+- Pass2A locked readings retained — **5 / scans164,165,167**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+- all Part007 pages remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED / PASS**
+- scan163 — **chapter18 close / three centered ornaments — PASS**
+- scan164 — **illustrated chapter19 opener / displayed numeral19 / no source-visible folio — PASS**
+- 166→167 — **`புரிந்து / கொண்டாள்!` — PASS**
+- 168→169 — **`எடுத்து வந்து / நீட்டினாள்.` — PASS**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass2B Batch2 scans170–179 / local pages11–20**
+- durable progress — `works/thenpandi-singam/PART_007_PASS2B_PROGRESS.md`
+<!-- PART007_PASS2B_CURRENT_END -->

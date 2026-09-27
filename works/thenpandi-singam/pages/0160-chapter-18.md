@@ -45,4 +45,15 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
+## Formal Part007 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part007 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **0**;
+- historical-glyph corrections: **0**;
+- Pass2A readings superseded: **0**;
+- incoming 159→160 genuine continuation independently rechecked / **PASS**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 160; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 144; PASS 1 TEXT-COMPLETE / needs-review -->
