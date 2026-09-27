@@ -227,3 +227,20 @@ Part007 is now the active transcription Part.
 - Part008 leakage — **0**
 - exact next activity — **Part007 Pass2A Batch2 scans170–179 / local pages11–20**
 - durable progress — `PART_007_PASS2A_PROGRESS.md`
+
+## Part007 Pass2A Batch2 downstream state
+
+- Part007 Pass2A — **ACTIVE — 20/27 REVIEWED**
+- reviewed — **scans160–179 / local pages1–20**
+- Batch2 source-text corrections — **4 occurrences / scans177,178,179**
+- cumulative Pass2A corrections — **9**
+- unresolved Pass2A questions — **0**
+- status promotions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- 172→173 continuation / scan173 chapter19 close — **PASS**
+- scan174 chapter20 opener / no visible folio — **PASS**
+- 179→180 dialogue continuity — **PASS**
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass2A FINAL scans180–186 / local pages21–27**
+- durable progress — `PART_007_PASS2A_PROGRESS.md`
