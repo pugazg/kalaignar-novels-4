@@ -49,4 +49,17 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
+## Formal Part006 Pass 3 review
+
+- full rendered-page visual / structural review completed against Part006 source image;
+- displayed-text hierarchy, paragraph/dialogue block structure, reading order, printed pagination, running header / page furniture and physical annotations checked;
+- Pass3 textual corrections: **0**;
+- visual / structural findings: **PASS**;
+- printed folio **129** visible at top-right;
+- running header **தென்பாண்டிச் சிங்கம்** visible at top-left and correctly excluded from literary prose;
+- dialogue/narrative reading order visually **PASS**;
+- unresolved Pass3 visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass3.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 145; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 129; PASS 1 TEXT-COMPLETE / needs-review -->
