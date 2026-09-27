@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Tamil archival-ready checkpoint
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 assembled Tamil construction + audit
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–005 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to close the Part006 Tamil archival-ready checkpoint.
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to assemble Part006.
 
 ## Part006 authoritative state
 
@@ -19,22 +19,17 @@ Source:
 - scans — **133–159 / 27**
 - source PDF — **outside Git**
 
-Closed gates:
+Closed Tamil gates:
 
 - source intake — **COMPLETE / PASS**
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Pass1 source-backed reread corrections — **5**
 - Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
-- Pass2A corrections — **17**
 - Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
-- Pass2B corrections — **2 / scans145,150**
-- historical-glyph corrections — **0**
-- Pass2A supersessions during Pass2B — **2 / scans145,150**
 - Pass3 — **COMPLETE / PASS — 27/27 REVIEWED**
-- Pass3 textual corrections — **0**
 - whole-Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
 - documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready checkpoint — **PASS / CLOSED**
 
 Current canonical state:
 
@@ -43,6 +38,9 @@ Current canonical state:
 - page-map Part006 rows — **27/27 verified**
 - needs-review Tamil / visual pages — **0 / 0**
 - unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
+- correction totals — **5 Pass1 / 17 Pass2A / 2 Pass2B / 0 Pass3**
+- historical-glyph corrections — **0**
+- Pass2A supersessions during Pass2B — **2 / scans145,150**
 
 Boundary state:
 
@@ -55,37 +53,41 @@ Durable records:
 - `works/thenpandi-singam/PART_006_AUDIT.md`
 - `works/thenpandi-singam/PART_006_FINAL_STATUS_SYNC.md`
 - `works/thenpandi-singam/PART_006_DOCUMENTATION_SYNC.md`
+- `works/thenpandi-singam/PART_006_TAMIL_ARCHIVAL_READY.md`
 
 ## Exact next activity
 
-Perform **Part006 Tamil archival-ready checkpoint**.
+Perform **Part006 assembled Tamil construction + audit**.
+
+Create and verify these non-colliding maintained Tamil sections:
+
+1. `works/thenpandi-singam/sections/26-chapter-15-part006.md` — scans **133–137** — chapter15 continuation from frozen Part005 and close.
+2. `works/thenpandi-singam/sections/27-chapter-16.md` — scans **138–146** — complete chapter16.
+3. `works/thenpandi-singam/sections/28-chapter-17.md` — scans **147–154** — complete chapter17.
+4. `works/thenpandi-singam/sections/29-chapter-18-part006.md` — scans **155–159** — Part006-owned partial chapter18 extent; stop exactly at scan159.
 
 Create:
 
-`works/thenpandi-singam/PART_006_TAMIL_ARCHIVAL_READY.md`
+`works/thenpandi-singam/PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
 
-Checkpoint requirements:
+Assembly requirements:
 
-- canonical Tamil — **27/27 verified**
-- visual fidelity — **27/27 verified**
-- page-map verified rows — **27/27**
-- needs-review Tamil / visual pages — **0 / 0**
-- source intake / Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
-- whole-Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
-- correction totals remain **5 Pass1 / 17 Pass2A / 2 Pass2B / 0 Pass3**
-- historical-glyph corrections remain **0**
-- Pass2A supersessions during Pass2B remain **2 / scans145,150**
-- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
-- incoming **132→133 GENUINE CONTINUATION / AUDITED**
-- outgoing **159→160 PENDING direct audit / source-limited**
-- canonical Part006 page-file changes caused by archival-ready checkpoint — **0**
-- canonical Tamil/body changes — **0**
-- verified status-field changes — **0**
-- frozen Parts001–005 body/status changes — **0**
-- Part007 leakage — **0**.
+- derive literary text only from verified Part006 canonical `pages/` `## Source transcription` bodies;
+- preserve source order and exact verified Tamil wording;
+- preserve source-supported displayed chapter numerals **16 / 17 / 18** as reading-layer headings;
+- chapter15 section starts only with Part006 scan133 and must not duplicate or mutate frozen Part005 section25;
+- preserve audited **132→133** only as non-rendering provenance at the Part006 incoming boundary;
+- omit recurring running headers, folios, ornaments, illustration detail, review/audit notes and other page furniture from literary prose;
+- preserve scan148 displayed letter/signature hierarchy and scan150 displayed devotional-verse line hierarchy;
+- preserve chapter closes at scans137,146,154 without promoting ornaments into prose;
+- chapter18 remains partial at scan159;
+- preserve **159→160 PENDING direct audit / source-limited** only as a non-rendering outgoing provenance note;
+- canonical page mutations caused by assembly — **0**;
+- canonical Tamil wording/status changes — **0**;
+- frozen Parts001–005 assembled Tamil changes — **0**;
+- Part007 leakage — **0**;
+- omissions / duplicates / unsupported Tamil insertion / audit-note leakage — **0 / 0 / 0 / 0**.
 
-If the Tamil archival-ready checkpoint closes **PASS / CLOSED**, exact next activity should be:
+If assembled Tamil construction and audit close **PASS / CLOSED**, exact next activity should be:
 
-**Part006 assembled Tamil construction + audit.**
+**Part006 English translation planning/setup.**
