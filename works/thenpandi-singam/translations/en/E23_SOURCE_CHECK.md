@@ -1,0 +1,65 @@
+# E23 Source Check — Part006 section28 / scans147–154
+
+## Result
+
+**E23 — SOURCE-CHECKED / COMPLETE**
+
+- Tamil authority — `../../sections/28-chapter-17.md`
+- maintained English — `sections/28-chapter-17.md`
+- source scans — **147–154**
+- Tamil / English literary-display blocks — **49 / 49**
+- provenance comments — **7 / 7**
+- omitted / duplicated literary blocks — **0 / 0**
+- unresolved source-check holds — **0**
+
+## Structural check
+
+- source-visible chapter numeral **17** — **retained**
+- scan147→148 displayed letter continuation — **retained**
+- scan148 signature hierarchy — **retained**
+- scan150 displayed devotional verse — **retained as displayed verse**
+- stanza / line hierarchy — **preserved**
+- scan154 chapter close — **PASS**
+- source-visible closing ornaments — English prose generated **0**
+
+## Letter check — scans147–148
+
+The letter remains visibly distinct from narrator prose.
+
+- salutation retained
+- physical 147→148 continuation retained
+- body information-release order retained
+- signature rendered as **Your younger brother, / Karutha Adappan**
+- invented letter content — **0**
+
+## Devotional/display check — scan150
+
+The Periyazhwar and Tirumangai Azhwar material is translated as literary/display verse rather than explanatory prose.
+
+Source-facing terms established/retained for E23 include:
+
+- `கைவளரி` → **kaivalari**
+- `ஆழ்வார்` → **Azhwar**
+- `பாசுரம்` → **pasuram**
+- `திருமொழி` → **Tirumozhi**
+- `பெரியாழ்வார்` → **Periyazhwar**
+- `திருமங்கை யாழ்வார்` → **Tirumangai Azhwar**
+- `பேயாழ்வார்` → **Peyazhwar**
+- `பூதத்தாழ்வார்` → **Bhoothathazhwar**
+- `திருமழிசை ஆழ்வார்` → **Tirumazhisai Azhwar**
+- `திருப்பாற்கடல்` → **Thirupparkadal**
+- `இராஜ கோபுரம்` → **Raja Gopuram**
+
+No theological, textual-history or external historical explanation was added.
+
+## Fidelity check
+
+- source rhetoric / challenge / reconciliation sequence — **retained**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–005 English edits — **0**
+- Part007 leakage — **0**
+- outside textual authority used — **0**
+
+## Exact next gate
+
+**E24 draft + source-check — section29 / scans155–159.**
