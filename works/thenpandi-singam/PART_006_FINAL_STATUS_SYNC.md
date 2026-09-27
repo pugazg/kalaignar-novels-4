@@ -116,23 +116,27 @@ The verified state applies to supplied Part006 scans133–159 only.
 
 **PASS / CLOSED**
 
+## Documentation-synchronization downstream state
+
+- Part006 documentation synchronization — **PASS / COMPLETE**
+- canonical Tamil / visual fidelity — **27/27 verified / 27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- correction totals retained — **5 Pass1 / 17 Pass2A / 2 Pass2B / 0 Pass3**
+- historical-glyph corrections — **0**
+- Pass2A supersessions during Pass2B — **2 / scans145,150**
+- whole-Part audit — **PASS / COMPLETE**
+- canonical Part006 page-file changes caused by documentation sync — **0**
+- canonical Tamil/body changes caused by documentation sync — **0**
+- verified status-field changes caused by documentation sync — **0**
+- frozen Parts001–005 body/status changes — **0**
+- Part007 leakage — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- durable record — `works/thenpandi-singam/PART_006_DOCUMENTATION_SYNC.md`
+
+Historical gate records that say `needs-review` remain lifecycle evidence; the live canonical frontmatter and page-map are authoritative.
+
 ## Exact next activity
 
-Perform **Part006 documentation synchronization**.
-
-Synchronize maintained Part006 control documents and lifecycle annotations so that they agree on:
-
-- **27/27 verified Tamil**
-- **27/27 verified visual fidelity**
-- page-map **27/27 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 closure
-- whole-Part audit **PASS / COMPLETE**
-- final metadata/status synchronization **PASS / CLOSED**
-- incoming **132→133 GENUINE CONTINUATION / AUDITED**
-- outgoing **159→160 PENDING direct audit / source-limited**
-
-Do not alter canonical Tamil or verified status fields during documentation synchronization.
-
-After documentation synchronization passes, exact next activity:
-
-**Part006 Tamil archival-ready checkpoint.**
+Perform **Part006 Tamil archival-ready checkpoint**.
