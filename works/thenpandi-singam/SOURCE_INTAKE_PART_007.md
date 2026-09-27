@@ -195,3 +195,19 @@ Part007 is now the active transcription Part.
 - Part008 leakage — **0**
 - exact next activity — **Part007 Pass1 FINAL scans180–186 / local pages21–27**
 - durable progress — `PART_007_PASS1_PROGRESS.md`
+
+## Part007 Pass1 FINAL downstream state
+
+- Part007 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- canonical Part007 records — **27/27**
+- cumulative canonical repository records — **186**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- final-batch reread corrections — **2 / scans183,184**
+- cumulative Pass1 reread corrections — **2**
+- unresolved Pass1 holds — **0**
+- scan186 — chapter20 close / three centered ornaments
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass2A Batch1 scans160–169 / local pages1–10**
+- durable progress — `PART_007_PASS1_PROGRESS.md`
