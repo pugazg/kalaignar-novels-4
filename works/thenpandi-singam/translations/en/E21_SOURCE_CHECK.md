@@ -63,3 +63,19 @@ No external textual authority or historical standardization was used.
 ## Exact next gate
 
 **E22 draft + source-check — section27 / scans138–146.**
+
+## Post-source-check Part006 English editorial review note
+
+The later Part006 whole-Part English editorial review made **12 English-only readability/grammar/idiom repairs** in this maintained batch.
+
+- scans — **133–137**
+- literary/display block count changed — **0**
+- provenance comments changed — **0**
+- source order changed — **0**
+- glossary/source-form locks broken — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–005 English body edits — **0**
+- Part007 leakage — **0**
+- batch remains **SOURCE-CHECKED / COMPLETE**
+- durable editorial review — `PART_006_EDITORIAL_REVIEW.md`
+- exact next gate — **Part006 whole-Part bilingual review across E21–E24 / scans133–159**
