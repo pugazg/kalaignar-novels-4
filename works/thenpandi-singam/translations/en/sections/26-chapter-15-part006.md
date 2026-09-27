@@ -15,9 +15,9 @@ status: "source-checked"
 
 —saw you at the wedding!” they said, crowding around Vadivu.
 
-The guards too understood who had arrived and, without any obstruction, allowed Vadivu and those who had come with her to be taken inside. They delighted in watching how even Vadivambal’s very walk was a dance, and how the beauty seen from behind seemed to surpass the beauty from the front, drawing the eye like a magnet.
+The guards too understood who had arrived and, without any obstruction, allowed Vadivu and her companions to go inside. They delighted in watching how even Vadivambal’s very walk was a dance, and how her beauty from behind seemed to surpass even her beauty from the front, drawing the eye like a magnet.
 
-Just as the adornment of the Goddess during Navaratri appears more splendid than at any other time, so did Vadivambal’s adornment shine that day. Was not Vaalukkuveli supposed to fall into the net of love the moment he saw her? In keeping with that desire, the beauty’s limbs seemed to advertise themselves beyond the bounds of her clothing.
+Just as the adornment of the Goddess during Navaratri appears more splendid than at any other time, so did Vadivambal’s adornment shine that day. Wasn’t Vaalukkuveli meant to fall into the net of love the moment he saw her? In keeping with that desire, the beauty’s limbs seemed to display themselves beyond the bounds of her clothing.
 
 After seating her and the two who had come with her in the hall of that small mansion, Kaadai and Kolari ran inside in a flurry, saying, “Wait here! We’ll bring Kalyani Nachiyar right away!”
 
@@ -25,7 +25,7 @@ After seating her and the two who had come with her in the hall of that small ma
 
 “He is not in town!”
 
-Vadivambal, who had come bearing a mountain of longing, hoping that desire would blossom at their very first meeting, felt as though she had fallen into a pit of disappointment.
+Vadivambal, who had come bearing a mountain of longing, hoping that desire would blossom at their very first meeting, felt as though she had fallen into a chasm of disappointment.
 
 <!-- source boundary: scan 133 → scan 134 -->
 
@@ -37,7 +37,7 @@ Kaadai and Kolari shattered her sweet dream by bringing Kalyani Nachiyar there.
 
 Before Nachiyar’s beauty, Vadivambal appeared like a pushparagam gemstone glittering beside a diamond.
 
-“We have come to ask that everything that happened be forgotten!” Nathamuni began first, and Lalithangi supplied the refrain after him.
+“We have come to ask that everything that happened be forgotten!” Nathamuni began, and Lalithangi took up the refrain.
 
 “They are just young girls! Girls who do not know much of the world! If they spoke out of turn without knowing Ayya’s greatness, we came to say that Ambalakkarar Ayya should not keep it—
 
@@ -51,15 +51,15 @@ Before Lalithangi could finish, Kalyani Nachiyar interrupted.
 
 Another thunderbolt for Vadivambal! What if he went and met Akka? What if Akka was pacified and agreed to teach Kalyani dance herself? Would not all the castles Vadivu had built in her mind collapse into dust?
 
-So Vadivu whispered a secret into Lalithangi’s ear. Meanwhile Kaadai and Kolari poured boiled milk into bowls, placed them on a silver tray and held it out to the visitors. As they drank the milk, Lalithangi laid the groundwork firmly.
+So Vadivu whispered a secret into Lalithangi’s ear. Meanwhile Kaadai and Kolari poured boiled milk into bowls, placed them on a silver tray and held it out to the visitors. As they drank the milk, Lalithangi began her pitch in earnest.
 
 “Just as Ambalakkarar Ayya’s heart was troubled, waves of distress rose in our Sundari’s heart too! That is why, as a gesture of reconciliation, she has sent Vadivambal to begin dance training for Nachiyaramma!”
 
 <!-- source boundary: scan 135 → scan 136 -->
 
-Kalyani’s face brightened, though she hesitated over how to begin the lessons for the first time while her brother was away.
+Kalyani’s face brightened, though she hesitated to begin the lessons for the first time while her brother was away.
 
-“Let Anna return to town first!”
+“Let Anna return first!”
 
 Vadivambal shook her head when she heard Kalyani speak—could not Sundari herself arrive here before then and take Vadivambal’s place? Again Vadivu was thrown into confusion! If she herself began first, she was confident that Sundari would not later come and say she would start the dance training.
 
@@ -67,7 +67,7 @@ Vadivambal shook her head when she heard Kalyani speak—could not Sundari herse
 
 As Vadivambal spoke, Kalyani Nachiyar voiced no objection.
 
-The moment she nodded and said, “All right,” Nathamuni took up the rhythm-board and struck it with a “taing!”
+The moment she nodded and said, “All right,” Nathamuni took up the rhythm-board and struck it: “Taing!”
 
 Vaalukkuveli’s box carriage came to a stop at the entrance of Sundarambal’s house in Tirukkottiyur! Vaalukkuveli did not get down from the carriage. He sent the driver inside to announce his arrival and return.
 
@@ -77,13 +77,13 @@ The driver went in, came back and said, “Ayya! There’s nobody at home! Only 
 
 “That is all the maid knows!” he said.
 
-Vaalukkuveli’s face blossomed! Sundari too had realized her mistake and, as amends, had sent her younger sister to be dance teacher to my younger sister! I must meet a woman of such refinement and express my regret!
+Vaalukkuveli’s face blossomed! Sundari too had realized her mistake and, as amends, had sent her younger sister to be my younger sister’s dance teacher! I must meet a woman of such refinement and express my regret!
 
 He told the driver to take the carriage to the entrance of the Tirukkottiyur temple.
 
 In the temple, the queen of dance was immersed in a flood of devotion before the Lord’s sanctum! The priest completed the puja and gave her the prasadam. Sundari received it, touched it to her eyes, and set out around the prakaram.
 
-Vaalukkuveli’s carriage stopped at the temple entrance! The driver who had run inside hurried back. “Ayya! Sundari Amma has finished the puja and is going around the temple prakaram!”
+Vaalukkuveli’s carriage stopped at the temple entrance! The driver, who had run inside, hurried back. “Ayya! Sundari Amma has finished the puja and is going around the temple prakaram!”
 
 “Oh! She will come around the temple prakaram in ‘pradakshina’! Only if I go in ‘apradakshina’ will I be able to meet her face to face.”
 
