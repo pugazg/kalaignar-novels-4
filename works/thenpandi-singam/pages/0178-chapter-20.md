@@ -15,7 +15,7 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 
 ## Source transcription
 
-அவன் முடித்துவிட்டு வந்த வேலைகளை வேறு யாரிடமும் சொல்லாமல் மூடி வைத்திருந்தான் என்றாலும் மாளிகையில் இருந்த காடை, கொளாரி, மற்றும் பணியாளர்கள், காவலர்கள் அனைவரும் வடிவாம்பாள் வந்து கல்யாணி நாச்சியாருக்கு நடனம் கற்றுத்தரத் தொடங்கிவிட்ட செய்தியையும், வாளுக்கு வேலி திருக்கோட்டியூர் சுந்தராம்பாள் வீட்டுக்குச் சீர்வரிசைகள் அனுப்பிவிட்டு அவனும் அன்று அங்குச் சென்றுவிட்ட செய்தியையும் அவரவர்கள் கற்பனைக்கேற்றவாறு அவனிடம் வாணித்து முடித்து விட்டனர்.
+அவன் முடித்துவிட்டு வந்த வேலைகளை வேறு யாரிடமும் சொல்லாமல் மூடி வைத்திருந்தான் என்றாலும் மாளிகையில் இருந்த காடை, கொளாரி, மற்றும் பணியாளர்கள், காவலர்கள் அனைவரும் வடிவாம்பாள் வந்து கல்யாணி நாச்சியாருக்கு நடனம் கற்றுத்தரத் தொடங்கிவிட்ட செய்தியையும், வாளுக்கு வேலி திருக்கோட்டியூர் சுந்தராம்பாள் வீட்டுக்குச் சீர்வரிசைகள் அனுப்பிவிட்டு அவனும் அன்றிரவு அங்குச் சென்றுவிட்ட செய்தியையும் அவரவர்கள் கற்பனைக்கேற்றவாறு அவனிடம் வாணித்து முடித்து விட்டனர்.
 
 அந்தச் செய்திகள் அவனுக்குப் பிடிக்காதவை என்றாலும் தனது உணர்வுகளை அண்ணனுக்கு முன்னால் வெளிப்படையாகக் காட்டிக்கொள்ள விரும்பவில்லை.
 
@@ -43,5 +43,17 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 - unresolved textual questions: **0**;
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+## Formal Part007 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part007 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **1**;
+- correction: `அன்று அங்குச் சென்றுவிட்ட` → source `அன்றிரவு அங்குச் சென்றுவிட்ட`;
+- historical-glyph corrections: **0**;
+- Pass2A readings superseded: **1 occurrence / this scan**;
+- Pass2A locked readings `அங்குச் சென்றுவிட்ட` and this occurrence of `வாளுக்கு வேலி` independently rechecked / **PASS / retained**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 178; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 19; அச்சுப் பக்கம்: 162; PASS 1 TEXT-COMPLETE / needs-review -->

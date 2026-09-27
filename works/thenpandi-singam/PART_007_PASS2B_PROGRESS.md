@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — ACTIVE — 10/27 REVIEWED**
+**PASS 2B — ACTIVE — 20/27 REVIEWED**
 
 Source:
 
@@ -83,12 +83,84 @@ Pass2A decisions reversed — **0**.
 - Part008 leakage — **0**
 - outgoing 186→187 — **PENDING direct audit / source-limited**
 
+## Batch 2 — scans170–179
+
+Fresh independent lexical / spacing / punctuation / historical-glyph audit completed for:
+
+- global scans — **170–179 / 10**
+- local pages — **11–20 / 10**
+- canonical records reviewed — **20/27 cumulative**
+- reviewed pages passing — **10/10**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+
+Pass2B independently checked source-visible lexical forms, word joining / spacing, punctuation, dialogue / quotation structure, source-era forms, historical glyph identity, printed folios, physical continuations, chapter close/open structure and displayed chapter numeral against rendered source pixels.
+
+## Batch 2 corrections
+
+Lexical / spacing / punctuation corrections — **3 occurrences on 2 scans**:
+
+1. scan170 — `அடுத்தளைப்` → source `அடுக்களைப்`.
+2. scan170 — `நீட்டிக் கொண்டு` → source-visible `நீட்டிக்கொண்டு`.
+3. scan178 — `அன்று அங்குச் சென்றுவிட்ட` → source `அன்றிரவு அங்குச் சென்றுவிட்ட`.
+
+Affected scans — **170, 178**.
+
+Zero-correction scans — **171, 172, 173, 174, 175, 176, 177, 179**.
+
+Historical-glyph corrections — **0**.
+
+Pass2A readings superseded by fresh Pass2B evidence — **3 occurrences / scans170,178**.
+
+## Pass2A locked-site recheck
+
+Fresh Pass2B reread retained all four Batch 2 Pass2A corrections:
+
+- scan177 — `மஞ்சம்-மல்லிகைக் குவியல் - ஊதுவத்தியின்` — **PASS / retained**
+- scan178 — `அங்குச் சென்றுவிட்ட` — **PASS / retained**
+- scan178 — this occurrence `வாளுக்கு வேலி` — **PASS / retained**
+- scan179 — `போட்டுக் கொண்டு விட்டார்களே` — **PASS / retained**
+
+Pass2A decisions reversed — **3 occurrences / scans170,178**, limited to source readings newly corrected above.
+
+## Batch 2 boundary / structure validation
+
+- 169→170 — chapter19 dialogue / narrative continuity — **PASS**
+- 172→173 — `அதன் வாழ்வைப் / பெறப்போகிறோம்` — **PASS**
+- scan173 — chapter19 close / three source-visible centered ornaments — **PASS**
+- scan174 — illustrated chapter20 opener / displayed numeral20 / no source-visible folio — **PASS**
+- 174→175 — chapter20 continuation — **PASS**
+- 175→176 — dialogue / body continuation — **PASS**
+- 176→177 — chapter20 continuation / scene transition — **PASS**
+- 177→178 — dawn / Paganeri scene progression — **PASS**
+- 178→179 — chapter20 dialogue setup — **PASS**
+- 179→180 — direct question/answer continuity independently rechecked — **PASS**
+- scan180 wording copied backward — **0**
+- running headers / printed folios / ornaments / illustration detail promoted to literary prose — **0**
+- invented bridge text — **0**
+
+## Cumulative Pass2B accounting through Batch 2
+
+- reviewed — **20/27**
+- lexical / spacing / punctuation corrections — **3**
+- affected scans — **170, 178**
+- zero-correction reviewed scans — **18**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **3 occurrences / scans170,178**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+- all Part007 pages remain `status: "needs-review"`
+- all Part007 pages remain `visual_fidelity: "needs-review"`
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- outgoing 186→187 — **PENDING direct audit / source-limited**
+
 ## Decision
 
-**PART007 PASS 2B — ACTIVE — 10/27 REVIEWED**
+**PART007 PASS 2B — ACTIVE — 20/27 REVIEWED**
 
 ## Exact next activity
 
-**Part007 Pass2B Batch2 — scans170–179 / local pages11–20.**
+**Part007 Pass2B FINAL — scans180–186 / local pages21–27.**
 
-Perform the same fresh independent lexical / spacing / punctuation / historical-glyph audit against rendered Part007 source pixels. Recheck Pass2A locked sites and physical continuations independently. Apply only source-backed corrections; do not promote canonical or visual status during Pass2B.
+Perform the same fresh independent lexical / spacing / punctuation / historical-glyph audit against rendered Part007 source pixels. Recheck Pass2A locked sites and physical continuations independently. Apply only source-backed corrections; preserve scan186 chapter20 close and keep **186→187 PENDING direct audit / source-limited**. Do not promote canonical or visual status during Pass2B.

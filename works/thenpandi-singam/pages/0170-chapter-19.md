@@ -23,9 +23,9 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 
 அழைப்பில் வழிந்தோடிய அன்பு அமுதத்தை அவன் செவிகள் பருகின! ஆனால் அவனுக்கென்னவோ ஒரு கூச்சம்! எத்தனையோ வாட்போர்களில் வாகை சூடி நெஞ்சை நிமிர்த்தி நடந்திருக்கிறான். காடுகளில் வேட்டைக்கென நுழைந்து கடும்புலிகள் சிறுத்தைகளைத் தன் காலடியில் வீழ்த்தியிருக்கிறான். ஆனால் இப்போது சுந்தரியைத் தலைநிமிர்ந்து நோக்காமலே எத்தனையோ திசைகளில் தலையைத் திருப்பிப் பேசிக் கொண்டிருக்கிறான். மிருக ஜாதியில் புலி, மானை வெல்லுகிறது! மனித ஜாதியில் மான், புலியை வெல்லுகிறது என்ற உண்மை, அவனைப் பொறுத்த வரையில் எவ்வளவு தெளிவாக நிரூபிக்கப்பட்டு விட்டது!
 
-சுந்தராம்பாள், மெல்லத் தெருக் கதவின் பக்கம் சென்று முன் கதவுகளைத் தாழிட்டாள்! அடுத்தளைப் பக்கம் திரும்பி “சாப்பாடு தயாரா?” என்று கேட்டாள்!
+சுந்தராம்பாள், மெல்லத் தெருக் கதவின் பக்கம் சென்று முன் கதவுகளைத் தாழிட்டாள்! அடுக்களைப் பக்கம் திரும்பி “சாப்பாடு தயாரா?” என்று கேட்டாள்!
 
-லலிதாங்கிதான் ஓடிவந்து ஒரு திரை மறைவில் தலையை மட்டும் நீட்டிக் கொண்டு “எல்லாம் தயார்! சாப்பாடு, பால், பழம் எல்லாம் மாடியிலே காத்துக் கொண்டிருக்கம்மா!” என்றாள். மீண்டும் சுந்தரி அவனைப் பார்த்து “உம்! வாருங்கள்!” என்றாள்.
+லலிதாங்கிதான் ஓடிவந்து ஒரு திரை மறைவில் தலையை மட்டும் நீட்டிக்கொண்டு “எல்லாம் தயார்! சாப்பாடு, பால், பழம் எல்லாம் மாடியிலே காத்துக் கொண்டிருக்கம்மா!” என்றாள். மீண்டும் சுந்தரி அவனைப் பார்த்து “உம்! வாருங்கள்!” என்றாள்.
 
 அவன் ஊஞ்சலில் இருந்து எழாமல் உட்கார்ந்திருந்தான். சுந்தரி, தனது கைகளை நீட்டி அவன் கைகளைப் பற்றி “வாருங்கள்” என்றாள்.
 
@@ -43,5 +43,16 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 - unresolved textual questions: **0**;
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+## Formal Part007 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part007 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **2**;
+- corrections: `அடுத்தளைப்` → source `அடுக்களைப்`; `நீட்டிக் கொண்டு` → source-visible `நீட்டிக்கொண்டு`;
+- historical-glyph corrections: **0**;
+- Pass2A readings superseded: **2 occurrences / this scan**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 170; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 154; PASS 1 TEXT-COMPLETE / needs-review -->
