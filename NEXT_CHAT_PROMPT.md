@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 Pass3 Batch2 — scans170–179
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 Pass3 FINAL — scans180–186
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -42,25 +42,25 @@ Do not reopen their canonical Tamil, assembled Tamil or maintained English merel
 
 ## Part007 Pass3 current state
 
-**ACTIVE — 10/27 REVIEWED**
+**ACTIVE — 20/27 REVIEWED**
 
 Reviewed:
 
-- scans **160–169 / local pages1–10**
-- reviewed pages passing — **10/10**
+- scans **160–179 / local pages1–20**
+- reviewed pages passing — **20/20**
 - Pass3 textual corrections — **0**
 - unresolved visual / structural questions — **0**
 - status promotions — **0**
 - all Part007 pages remain `needs-review / needs-review`
 
-Batch1 structural confirmations:
+Batch2 structural confirmations:
 
-- incoming 159→160 — **GENUINE CONTINUATION / AUDITED / PASS**
-- scan163 — chapter18 close / three centered ornaments — **PASS**
-- scan164 — illustrated chapter19 opener / displayed numeral19 / mounted-warrior illustration / no source-visible folio — **PASS**
-- 166→167 — `புரிந்து / கொண்டாள்!` — **PRESERVED / PASS**
-- 168→169 — `எடுத்து வந்து / நீட்டினாள்.` — **PRESERVED / PASS**
-- running headers / printed folios remain page furniture and are not literary prose
+- 172→173 — `அதன் வாழ்வைப் / பெறப்போகிறோம்` — **PRESERVED / PASS**
+- scan173 — chapter19 close / three centered ornaments — **PASS**
+- scan174 — illustrated chapter20 opener / displayed numeral20 / mounted-warrior illustration / no source-visible folio — **PASS**
+- 179→180 — direct question/answer continuation — **PRESERVED / PASS**
+- recurring running headers / printed folios remain page furniture and are not literary prose
+- scan180 wording promoted backward — **0**
 
 Durable Pass3 progress:
 
@@ -68,16 +68,16 @@ Durable Pass3 progress:
 
 ## Exact next activity
 
-Perform **Part007 Pass3 Batch2 — scans170–179 / local pages11–20**.
+Perform **Part007 Pass3 FINAL — scans180–186 / local pages21–27**.
 
 Requirements:
 
 - full rendered-page visual / structural review against Part007 source images;
-- verify displayed-text hierarchy, paragraph/dialogue blocks, reading order, recurring running headers, source-visible printed folios, illustrations, ornaments and physical continuations;
-- independently recheck 172→173 `அதன் வாழ்வைப் / பெறப்போகிறோம்`;
-- independently recheck scan173 chapter19 close / three centered ornaments;
-- independently recheck scan174 illustrated chapter20 opener / displayed numeral20 / no source-visible folio;
-- preserve 179→180 direct question/answer continuity without copying scan180 wording backward;
+- verify displayed-text hierarchy, paragraph/dialogue blocks, reading order, recurring running headers, source-visible printed folios, ornaments and physical continuations;
+- independently recheck 179→180 direct question/answer continuity without copying scan179 wording forward;
+- independently recheck 183→184 direct-speech continuation;
+- independently recheck 184→185 `இன்னொரு / நாள்...`;
+- independently recheck scan186 chapter20 close / printed170 / three centered ornaments;
 - do not normalize or rewrite already source-verified Tamil merely for style;
 - record any visual/structural defect or source-backed textual correction explicitly;
 - retain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
@@ -86,4 +86,4 @@ Requirements:
 - keep **186→187 PENDING direct audit / source-limited**;
 - no Part008 / scan187 inference.
 
-If Batch2 closes successfully, Part007 Pass3 should be **ACTIVE — 20/27 REVIEWED**, with exact next activity **Part007 Pass3 FINAL scans180–186 / local pages21–27**.
+If FINAL closes successfully, Part007 Pass3 should be **COMPLETE / PASS — 27/27 REVIEWED**, with exact next activity **Part007 whole-Part audit**.

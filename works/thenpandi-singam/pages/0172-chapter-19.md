@@ -55,4 +55,16 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
+## Formal Part007 Pass 3 review
+
+- full rendered-page visual / structural review completed against Part007 source image;
+- displayed-text hierarchy, paragraph/dialogue blocks, reading order, source-visible pagination, running header and terminal continuation checked;
+- Pass3 textual corrections: **0**;
+- visual / structural findings: **PASS**;
+- printed folio **156** visible at top-left; author-line running header visible at top-right and excluded from literary prose;
+- terminal `அதன் வாழ்வைப்` remains physically open to scan173 — **PASS**;
+- unresolved Pass3 visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass3.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 172; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 156; PASS 1 TEXT-COMPLETE / needs-review -->

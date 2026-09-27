@@ -2139,25 +2139,29 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 <!-- PART007_PASS3_CURRENT_START -->
 ## Part007 Pass3 — current authoritative state
 
-**PART007 PASS3 — ACTIVE — 10/27 REVIEWED.**
+**PART007 PASS3 — ACTIVE — 20/27 REVIEWED.**
 
-- reviewed — **scans160–169 / local pages1–10**
-- reviewed pages passing — **10/10**
+- reviewed — **scans160–179 / local pages1–20**
+- reviewed pages passing — **20/20**
+- Batch2 — **scans170–179 / local pages11–20 — 10/10 PASS**
 - Pass3 textual corrections — **0**
 - unresolved visual / structural questions — **0**
 - status promotions — **0**
 - all Part007 pages remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - incoming **159→160 — GENUINE CONTINUATION / AUDITED / PASS**
 - scan163 — **chapter18 close / three centered ornaments — PASS**
-- scan163 lower blank/show-through field promoted to prose — **0**
 - scan164 — **illustrated chapter19 opener / displayed numeral19 / mounted-warrior illustration / no source-visible folio — PASS**
-- scan164 illustration detail promoted to prose — **0**
 - 166→167 — **`புரிந்து / கொண்டாள்!` — PRESERVED / PASS**
 - 168→169 — **`எடுத்து வந்து / நீட்டினாள்.` — PRESERVED / PASS**
+- 172→173 — **`அதன் வாழ்வைப் / பெறப்போகிறோம்` — PRESERVED / PASS**
+- scan173 — **chapter19 close / three centered ornaments — PASS**
+- scan174 — **illustrated chapter20 opener / displayed numeral20 / mounted-warrior illustration / no source-visible folio — PASS**
+- 179→180 — **direct question/answer continuation — PRESERVED / PASS**
+- scan180 wording promoted backward — **0**
 - recurring running-header / folio furniture promoted to literary prose — **0**
 - frozen Parts001–006 body/status edits — **0**
 - Part008 leakage — **0**
 - outgoing **186→187 — PENDING direct audit / source-limited**
-- exact next activity — **Part007 Pass3 Batch2 scans170–179 / local pages11–20**
+- exact next activity — **Part007 Pass3 FINAL scans180–186 / local pages21–27**
 - durable progress — `works/thenpandi-singam/PART_007_PASS3_PROGRESS.md`
 <!-- PART007_PASS3_CURRENT_END -->

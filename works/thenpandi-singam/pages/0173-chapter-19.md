@@ -62,4 +62,18 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
+## Formal Part007 Pass 3 review
+
+- full rendered-page visual / structural review completed against Part007 source image;
+- displayed-text hierarchy, dialogue blocks, reading order, source-visible pagination, running header, opening continuation, closing ornaments and lower blank/show-through field checked;
+- Pass3 textual corrections: **0**;
+- visual / structural findings: **PASS**;
+- printed folio **157** visible at top-right; work-title running header visible at top-left and excluded from literary prose;
+- 172→173 `அதன் வாழ்வைப் / பெறப்போகிறோம்` continuation visually **PRESERVED / PASS**;
+- chapter19 close / three centered source-visible ornaments — **PASS**;
+- lower blank/show-through field promoted to prose — **0**;
+- unresolved Pass3 visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass3.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 173; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 14; அச்சுப் பக்கம்: 157; PASS 1 TEXT-COMPLETE / needs-review -->

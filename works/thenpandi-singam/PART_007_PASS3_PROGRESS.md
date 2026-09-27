@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — ACTIVE — 10/27 REVIEWED**
+**PASS 3 — ACTIVE — 20/27 REVIEWED**
 
 Prerequisites:
 
@@ -76,12 +76,71 @@ Recurring running headers and printed folios are structural page furniture and a
 - Part008 leakage — **0**
 - outgoing 186→187 — **PENDING direct audit / source-limited**
 
+## Batch 2 — scans170–179
+
+Fresh full rendered-page visual / structural review completed for:
+
+- global scans — **170–179 / 10**
+- local pages — **11–20 / 10**
+- reviewed records — **20/27 cumulative**
+- reviewed pages passing — **10/10**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+
+## Structural inventory — Batch 2
+
+| Scan | Printed | Structural result |
+|---:|:---:|---|
+| 170 | 154 | chapter19 body; author-line running header; dialogue / narrative sequence |
+| 171 | 155 | chapter19 body; work-title running header |
+| 172 | 156 | chapter19 body; author-line running header; terminal continuation open |
+| 173 | 157 | chapter19 close; work-title running header; opening completes scan172 continuation; three centered closing ornaments; lower blank/show-through field |
+| 174 | — | illustrated chapter20 opener; mounted-warrior illustration; displayed numeral **20**; no source-visible folio |
+| 175 | 159 | chapter20 body; work-title running header |
+| 176 | 160 | chapter20 body; author-line running header |
+| 177 | 161 | chapter20 body; work-title running header; scene transition to dawn / Paganeri |
+| 178 | 162 | chapter20 body; author-line running header |
+| 179 | 163 | chapter20 body; work-title running header; terminal direct question open to scan180 |
+
+Recurring running headers and printed folios remain structural page furniture and are not duplicated into canonical literary prose.
+
+## Batch 2 cross-page / layout states confirmed
+
+- 169→170 — chapter19 dialogue / narrative continuity — **PRESERVED / PASS**
+- 172→173 — `அதன் வாழ்வைப் / பெறப்போகிறோம்` — **PRESERVED / PASS**
+- scan173 — chapter19 close / three centered ornaments — **PASS**
+- scan173 lower blank/show-through field promoted to prose — **0**
+- scan174 — illustrated chapter20 opener / numeral20 / mounted-warrior illustration / no source-visible folio — **PASS**
+- scan174 illustration detail promoted to prose — **0**
+- 174→175 — chapter20 continuation — **PASS**
+- 175→176 — dialogue / body continuation — **PASS**
+- 176→177 — chapter20 continuation / scene transition — **PASS**
+- 177→178 — dawn / Paganeri progression — **PASS**
+- 178→179 — dialogue setup — **PASS**
+- 179→180 — terminal direct question / answer continuation — **PRESERVED / PASS**
+- scan180 wording promoted backward into scan179 — **0**
+- running-header / folio furniture promoted to literary prose — **0**
+- invented bridge text — **0**
+
+## Cumulative Pass3 accounting through Batch 2
+
+- reviewed — **20/27**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+- all Part007 pages remain `status: "needs-review"`
+- all Part007 pages remain `visual_fidelity: "needs-review"`
+- frozen Parts001–006 body/status edits — **0**
+- Part008 leakage — **0**
+- outgoing 186→187 — **PENDING direct audit / source-limited**
+
 ## Decision
 
-**PART007 PASS 3 — ACTIVE — 10/27 REVIEWED**
+**PART007 PASS 3 — ACTIVE — 20/27 REVIEWED**
 
 ## Exact next activity
 
-**Part007 Pass3 Batch2 — scans170–179 / local pages11–20.**
+**Part007 Pass3 FINAL — scans180–186 / local pages21–27.**
 
-Perform the full rendered-page visual / structural review against Part007 source images. Check displayed-text hierarchy, paragraph/dialogue blocks, running headers, source-visible folios, illustrations, ornaments and physical continuations. Do not promote canonical or visual status during Pass3.
+Perform the full rendered-page visual / structural review against Part007 source images. Recheck 179→180, 183→184 and 184→185 continuations, scan186 chapter20 close / printed170 / three ornaments, and all running-header / folio / page-furniture states. Do not promote canonical or visual status during Pass3.
