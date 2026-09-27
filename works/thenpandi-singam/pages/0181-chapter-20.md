@@ -15,7 +15,7 @@ transcription_method: "direct source-image transcription; Part007 Pass1 FINAL sc
 
 ## Source transcription
 
-“பார்த்திபனூரில் வெள்ளையர்கள் பட்டபாடு! அடடா! அந்த வெல்ஷ் துரையே வெலவெலத்துப் போய், தனது படைகளோடு பின்வாங்கிவிட்டான் அண்ணா!”
+“பார்த்திபனூரில் வெள்ளையர்கள் பட்டபாடு! அடடா! அந்த வெல்ஷ் துரையே வெலவெலத்துப் போய், தனது படைகளோடு பின்வாங்கி விட்டான் அண்ணா!”
 
 “பின் வாங்குவது ஆங்கிலேயர்களுக்குக் கைவந்த கலை! அதையே போர்த் தந்திரம் என்பார்கள்! பார்த்திபனூரில் இருந்து இப்போது அவர்கள் எங்கே போயிருக்கிறார்கள்!”
 
@@ -33,5 +33,15 @@ transcription_method: "direct source-image transcription; Part007 Pass1 FINAL sc
 - direct-dialogue sequence preserved in source order;
 - political/historical claims remain source transcription only;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part007 Pass 2A review
+
+- strict direct-source reread completed against rendered Part007 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections: **1**;
+- correction: `பின்வாங்கிவிட்டான்` → source-visible `பின்வாங்கி விட்டான்`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 181; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 165; PASS 1 TEXT-COMPLETE / needs-review -->
