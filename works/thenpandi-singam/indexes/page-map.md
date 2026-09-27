@@ -167,7 +167,17 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 006 | 24 | 156 | 140 | chapter18 continuation; completes `அறை முழுவதும் / காலியாகவில்லையென்றாலும்`; Pass1 text-complete; Pass2A reviewed / **1 correction**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 textual corrections / visual-structural PASS** | verified | `pages/0156-chapter-18.md` |
 | 006 | 25 | 157 | 141 | chapter18 continuation / dialogue / internal imagined speech; Pass1 text-complete; Pass2A reviewed / **2 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 textual corrections / visual-structural PASS** | verified | `pages/0157-chapter-18.md` |
 | 006 | 26 | 158 | 142 | chapter18 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 textual corrections / visual-structural PASS** | verified | `pages/0158-chapter-18.md` |
-| 006 | 27 | 159 | 143 | Part006 terminal chapter18 continuation; no chapter-closing ornament; outgoing 159→160 pending/source-limited; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 textual corrections / visual-structural PASS** | verified | `pages/0159-chapter-18.md` |
+| 006 | 27 | 159 | 143 | Part006 terminal chapter18 continuation; no chapter-closing ornament; outgoing 159→160 **GENUINE CONTINUATION / AUDITED** after Part007 intake; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 textual corrections / visual-structural PASS** | verified | `pages/0159-chapter-18.md` |
+| 007 | 1 | 160 | 144 | chapter18 continuation; direct 159→160 boundary witness / **GENUINE CONTINUATION / AUDITED**; Pass1 text-complete | needs-review | `pages/0160-chapter-18.md` |
+| 007 | 2 | 161 | 145 | chapter18 continuation; Pass1 text-complete | needs-review | `pages/0161-chapter-18.md` |
+| 007 | 3 | 162 | 146 | chapter18 dialogue continuation; Pass1 text-complete | needs-review | `pages/0162-chapter-18.md` |
+| 007 | 4 | 163 | 147 | chapter18 close; three centered closing ornaments; Pass1 text-complete | needs-review | `pages/0163-chapter-18.md` |
+| 007 | 5 | 164 | — | illustrated chapter19 opener; displayed numeral19; no visible folio; Pass1 text-complete | needs-review | `pages/0164-chapter-19.md` |
+| 007 | 6 | 165 | 149 | chapter19 continuation; Pass1 text-complete | needs-review | `pages/0165-chapter-19.md` |
+| 007 | 7 | 166 | 150 | chapter19 continuation; terminal `புரிந்து` open to scan167; Pass1 text-complete | needs-review | `pages/0166-chapter-19.md` |
+| 007 | 8 | 167 | 151 | completes `புரிந்து / கொண்டாள்!`; chapter19 continuation; Pass1 text-complete | needs-review | `pages/0167-chapter-19.md` |
+| 007 | 9 | 168 | 152 | chapter19 continuation; terminal `எடுத்து வந்து` open to scan169; Pass1 text-complete | needs-review | `pages/0168-chapter-19.md` |
+| 007 | 10 | 169 | 153 | completes `எடுத்து வந்து / நீட்டினாள்.`; chapter19 continuation; Pass1 text-complete | needs-review | `pages/0169-chapter-19.md` |
 
 ## Intake observations
 
