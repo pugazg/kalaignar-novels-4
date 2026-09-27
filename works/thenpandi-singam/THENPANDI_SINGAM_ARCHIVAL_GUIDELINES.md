@@ -1757,22 +1757,23 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 <!-- PART007_PASS2A_CURRENT_START -->
 ## Part007 Pass2A — current authoritative state
 
-**PART007 PASS2A — ACTIVE — 10/27 REVIEWED.**
+**PART007 PASS2A — ACTIVE — 20/27 REVIEWED.**
 
-- reviewed scans — **160–169 / local pages1–10**
-- reviewed pages passing — **10/10**
-- source-text corrections — **5 occurrences / scans164,165,167**
-- zero-correction scans — **160,161,162,163,166,168,169**
+- reviewed scans — **160–179 / local pages1–20**
+- reviewed pages passing — **20/20**
+- cumulative source-text corrections — **9 occurrences / scans164,165,167,177,178,179**
+- Batch2 corrections — **4 occurrences / scans177,178,179**
+- cumulative zero-correction reviewed scans — **14**
 - unresolved Pass2A questions — **0**
 - status / visual fidelity — **needs-review / needs-review on 27/27**
 - status promotions — **0**
 - incoming **159→160 — GENUINE CONTINUATION / AUDITED**
-- scan163 — **chapter18 close / ornaments PASS**
-- scan164 — **illustrated chapter19 opener / no visible folio PASS**
-- 166→167 — **`புரிந்து / கொண்டாள்!` PASS**
-- 168→169 — **`எடுத்து வந்து / நீட்டினாள்.` PASS**
+- scan163 / 173 — **chapter18 / chapter19 closes PASS**
+- scan164 / 174 — **illustrated chapter19 / chapter20 openers PASS**
+- 166→167 / 168→169 / 172→173 — **PASS**
+- 179→180 — **direct dialogue continuity PASS**
 - frozen Parts001–006 body edits — **0**
 - Part008 leakage — **0**
-- exact next activity — **Part007 Pass2A Batch2 scans170–179 / local pages11–20**
+- exact next activity — **Part007 Pass2A FINAL scans180–186 / local pages21–27**
 - durable progress — `works/thenpandi-singam/PART_007_PASS2A_PROGRESS.md`
 <!-- PART007_PASS2A_CURRENT_END -->
