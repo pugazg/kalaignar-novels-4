@@ -63,3 +63,21 @@ No theological, textual-history or external historical explanation was added.
 ## Exact next gate
 
 **E24 draft + source-check — section29 / scans155–159.**
+
+## Post-source-check whole-Part glossary reconciliation
+
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- E23 English source-form repairs — **1 occurrence**
+- affected scan — **154**
+- repair — **ceremonial gifts → seer-varisai**
+- repair class — recurring source-term consistency for `சீர்வரிசை` / `சீர் வரிசை`
+- literary/display block count after repair — **49 / unchanged**
+- provenance comments — **7 / 7 unchanged**
+- scan148 letter/signature hierarchy — **unchanged**
+- scan150 devotional-verse hierarchy — **unchanged**
+- unresolved E23 glossary conflicts — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–005 English edits — **0**
+- Part007 leakage — **0**
+- durable reconciliation — `PART_006_GLOSSARY_RECONCILIATION.md`
+- exact next gate — **Part006 English editorial review across E21–E24 / scans133–159**
