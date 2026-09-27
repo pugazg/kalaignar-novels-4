@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 assembled Tamil construction + audit**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 English translation planning/setup**
 
 ## Work
 
@@ -1827,3 +1827,28 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - planned assembled inventory — **4 files / section orders 26–29**
 - durable checkpoint — `works/thenpandi-singam/PART_006_TAMIL_ARCHIVAL_READY.md`
 <!-- PART006_TAMIL_ARCHIVAL_READY_CURRENT_END -->
+
+<!-- PART006_ASSEMBLED_TAMIL_CURRENT_START -->
+## Part006 assembled Tamil — current authoritative state
+
+**PART006 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 4/4 VERIFIED.**
+
+- source scans — **133–159 / 27**
+- canonical Tamil / visual fidelity — **27/27 verified / 27/27 verified**
+- assembled files — **4/4 VERIFIED**
+- inventory — `26-chapter-15-part006.md`, `27-chapter-16.md`, `28-chapter-17.md`, `29-chapter-18-part006.md`
+- canonical source-transcription records represented — **27/27**
+- exact regeneration checks — **4/4 PASS**
+- omissions / duplicates / unsupported Tamil insertion / audit-note leakage — **0 / 0 / 0 / 0**
+- displayed headings **16 / 17 / 18** — **source-supported / retained**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- canonical page mutations caused by assembly — **0**
+- canonical Tamil wording/status changes — **0 / 0**
+- frozen Parts001–005 assembled Tamil changes — **0**
+- Part007 leakage — **0**
+- unresolved assembly blockers — **0**
+- exact next activity — **Part006 English translation planning/setup**
+- next non-colliding candidate range — **E21–E24 / section orders 26–29**
+- durable validation — `works/thenpandi-singam/PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
+<!-- PART006_ASSEMBLED_TAMIL_CURRENT_END -->
