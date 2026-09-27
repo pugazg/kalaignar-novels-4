@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 documentation synchronization**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 Tamil archival-ready checkpoint**
 
 ## Work
 
@@ -15,7 +15,7 @@
 - supplied-source design: **18 split PDF files**, each <= **50 MB**
 - split basis: **file size; per-Part page counts may vary**
 - source family / archive identifier: **TVA_BOK_0065559**
-- total physical scan count: **132 registered through Part005; Parts006–018 pending**
+- total physical scan count: **159 registered through Part006; Parts007–018 pending**
 - source PDFs remain outside Git
 
 ## Canonical numbering rule
@@ -53,7 +53,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 ## Current state
 
 - repository controls — **INITIALIZED / SYNCHRONIZED**
-- registered Parts — **5/18**
+- registered Parts — **6/18**
 - Part001 source intake — **COMPLETE / PASS**
 - Part001 canonical page records — **26/26 — scans1–26**
 - Part001 Pass1 — **COMPLETE / PASS — 26/26 TEXT-COMPLETE**
@@ -102,7 +102,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - release-ready synchronization — **PASS / CLOSED**
 - final closure — **PASS / CLOSED / FROZEN**
 - final-closed Parts — **2**
-- active transcription Part — **Part004**
+- active Part — **Part006 — documentation synchronization PASS / COMPLETE; Tamil archival-ready next**
 - Part002 source intake — **COMPLETE / PASS**
 - Part002 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_002_pages_27-53.pdf`
 - Part002 bytes — **48,679,196**
@@ -114,7 +114,9 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 — **FINAL CLOSED / FROZEN — 27/27 VERIFIED**
 - Part003 — **FINAL CLOSED / FROZEN**
 - Part004 — **ACTIVE / Pass1 COMPLETE / Pass2A COMPLETE / Pass2B COMPLETE / Pass3 COMPLETE / whole-Part audit PASS / final status sync PASS / documentation sync PASS / Tamil archival-ready PASS / assembled Tamil PASS / English planning PASS / E13–E16 SOURCE-CHECKED / GLOSSARY RECONCILED / EDITORIAL REVIEW PASS / BILINGUAL REVIEW NEXT**
-- Parts005–018 — **not registered**
+- Part005 — **FINAL CLOSED / FROZEN**
+- Part006 — **DOCUMENTATION SYNCHRONIZATION PASS / COMPLETE — TAMIL ARCHIVAL-READY NEXT**
+- Parts007–018 — **not registered**
 - Part002 canonical records — **27/27**
 - Part002 Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — scans27–53**
 - Part002 Pass2A corrections / unresolved — **1 / 0**
@@ -1767,3 +1769,32 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - exact next activity — **Part006 documentation synchronization**
 - durable sync — `works/thenpandi-singam/PART_006_FINAL_STATUS_SYNC.md`
 
+<!-- PART006_DOCUMENTATION_SYNC_CURRENT_START -->
+## Part006 documentation synchronization — current authoritative state
+
+- documentation synchronization — **PASS / COMPLETE**
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf`
+- source bytes / SHA-256 — **48,442,743** / `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346`
+- scans / local pages — **133–159 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
+- correction totals — **5 Pass1 / 17 Pass2A / 2 Pass2B / 0 Pass3**
+- historical-glyph corrections — **0**
+- Pass2A supersessions during Pass2B — **2 / scans145,150**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- canonical Part006 page-file changes caused by documentation sync — **0**
+- canonical Tamil/body changes caused by documentation sync — **0**
+- verified status-field changes caused by documentation sync — **0**
+- frozen Parts001–005 body/status changes caused by documentation sync — **0**
+- Part007 leakage — **0**
+- historical lifecycle `needs-review` blocks remain gate evidence; live canonical frontmatter and the live page-map are authoritative for current status
+- exact next activity — **Part006 Tamil archival-ready checkpoint**
+- durable documentation sync — `works/thenpandi-singam/PART_006_DOCUMENTATION_SYNC.md`
+<!-- PART006_DOCUMENTATION_SYNC_CURRENT_END -->
