@@ -2208,3 +2208,28 @@ Historical Pass1 / Pass2A / Pass2B / Pass3 / audit records that say `needs-revie
 - Part008 leakage — **0**
 - exact next activity — **E26 draft + source-check — section31 / scans164–173**
 <!-- PART007_ENGLISH_E25_CURRENT_END -->
+
+<!-- PART007_ENGLISH_E26_CURRENT_START -->
+## Part007 English E26 — current authoritative state
+
+**E26 — SOURCE-CHECKED / COMPLETE — section31 / scans164–173.**
+
+- maintained English — `works/thenpandi-singam/translations/en/sections/31-chapter-19.md`
+- durable source-check — `works/thenpandi-singam/translations/en/E26_SOURCE_CHECK.md`
+- normalized Tamil / English literary-display blocks — **70 / 70**
+- provenance comments — **9 / 9**
+- source-visible chapter heading **19** — **retained exactly once**
+- cumulative Part007 translated/source-checked — **2/3 / 2/3**
+- 166→167 / 168→169 / 172→173 continuations — **3/3 preserved**
+- scan173 chapter19 close — **preserved**
+- E25 / scan163 duplication — **0**
+- E27 / scan174 leakage — **0**
+- omissions / duplicate literary blocks / unsupported English insertion — **0 / 0 / 0**
+- review/audit-note leakage — **0**
+- unresolved E26 holds — **0**
+- canonical / assembled Tamil edits caused by E26 — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- E25 maintained English edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **E27 draft + source-check — section32 / scans174–186**
+<!-- PART007_ENGLISH_E26_CURRENT_END -->

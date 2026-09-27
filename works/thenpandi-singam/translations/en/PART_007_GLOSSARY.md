@@ -202,3 +202,44 @@ E25 accounting:
 ## Exact next gate
 
 **E26 draft + source-check — section31 / scans164–173.**
+
+## E26 source-check term state
+
+**E26 — SOURCE-CHECKED / COMPLETE — scans164–173.**
+
+Established frozen / Part007 forms retained by source occurrence, including **Vaalukku Veli / Vaalukkuveli**, **Vadivu / Vadivambal**, **Sundari / Sundarambal**, **Kalyani Nachiyar**, **Lalithangi**, **Nathamuni**, **Paganeri** and **Ambalakkarar**.
+
+E26-local source-facing additions:
+
+- `வாளுக்குவேலித் தேவர்` → **Vaalukkuveli Thevar**
+- `பாளையக் காரங்க` → **palayakkarars**
+- `ஆப்பம்` → **appam**
+- `அதிரசம்` → **adhirasam**
+- `தாம்பூலப் படிகம்` → **betel spittoon**
+- `தாம்பூலம்` → **taamboolam**
+- `முப்பால் / பால்` wordplay → retain **paal / three paals** without explanatory expansion
+- `யாழ்` → **yaazh**
+- `விரதம்` → **vow**
+- `விரகதாபம்` → **anguish of separation**
+
+Display handling:
+
+- Tamil assembled section31 contains both plain `19` and canonical `# 19`, representing the same one source-visible chapter numeral;
+- E26 English renders **one `# 19`** only;
+- canonical / assembled Tamil changes for this normalization — **0 / 0**.
+
+E26 accounting:
+
+- normalized Tamil / English literary-display blocks — **70 / 70**
+- provenance comments — **9 / 9**
+- translated/source-checked — **2/3 / 2/3 cumulative**
+- unresolved E26 glossary/source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- E25 edits — **0**
+- E27 / scan174 leakage — **0**
+- Part008 leakage — **0**
+
+## Exact next gate
+
+**E27 draft + source-check — section32 / scans174–186.**

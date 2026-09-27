@@ -75,7 +75,7 @@ Part007 contains three verified maintained Tamil sections:
 | Batch | Tamil authority | Planned English file | Scans | Planning state |
 |---|---|---|---:|---|
 | **E25** | section30 — chapter18 Part007 continuation/close | `translations/en/sections/30-chapter-18-part007.md` | 160–163 | **SOURCE-CHECKED / COMPLETE** |
-| **E26** | section31 — chapter19 | `translations/en/sections/31-chapter-19.md` | 164–173 | **RESERVED / NOT DRAFTED** |
+| **E26** | section31 — chapter19 | `translations/en/sections/31-chapter-19.md` | 164–173 | **SOURCE-CHECKED / COMPLETE** |
 | **E27** | section32 — chapter20 | `translations/en/sections/32-chapter-20.md` | 174–186 | **RESERVED / NOT DRAFTED** |
 
 Each batch must close **draft + source-check** before the next batch is considered closed.
@@ -210,3 +210,28 @@ Outgoing:
 ## Exact next gate
 
 **E26 draft + source-check — section31 / scans164–173.**
+
+## E26 execution result
+
+**E26 — SOURCE-CHECKED / COMPLETE — scans164–173.**
+
+- maintained English file — `translations/en/sections/31-chapter-19.md`
+- source-check control — `translations/en/E26_SOURCE_CHECK.md`
+- normalized Tamil / English literary-display blocks — **70 / 70**
+- provenance comments — **9 / 9**
+- source-visible heading **19** — **retained exactly once**
+- 166→167 / 168→169 / 172→173 continuations — **3/3 preserved**
+- scan173 chapter close preserved — **PASS**
+- E25 / scan163 duplication — **0**
+- E27 / scan174 leakage — **0**
+- omissions / duplicated literary blocks / unsupported insertion — **0 / 0 / 0**
+- unresolved E26 holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- E25 maintained English edits — **0**
+- Part008 leakage — **0**
+- cumulative translated/source-checked — **2/3 / 2/3**
+
+## Exact next gate
+
+**E27 draft + source-check — section32 / scans174–186.**
