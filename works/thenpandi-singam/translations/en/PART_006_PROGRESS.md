@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT**
+**FINAL CLOSED / FROZEN — PART007 SOURCE INTAKE NEXT**
 
 Tamil authority is closed through assembled Tamil:
 
@@ -206,3 +206,30 @@ Outgoing:
 - exact next activity — **Part006 release/readiness report**
 - durable review — `PART_006_BILINGUAL_REVIEW.md`
 <!-- PART006_ENGLISH_BILINGUAL_REVIEW_CURRENT_END -->
+
+<!-- PART006_FINAL_CLOSURE_CURRENT_START -->
+## Part006 final closure — current authoritative state
+
+**PART006 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- source scans — **133–159 / 27**
+- canonical Tamil / visual fidelity — **27/27 / 27/27 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- literary/display blocks / provenance comments — **166/166 / 25/25**
+- editorial repairs / bilingual fidelity corrections — **55 / 16**
+- unresolved closure blockers — **0**
+- body changes after release/readiness — **0 canonical / 0 assembled / 0 maintained English**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited / preserved**
+- Part007 leakage — **0**
+- final-closed Parts — **6**
+- Part007 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part007 source intake when supplied**
+- durable closure — `../../PART_006_FINAL_CLOSURE.md`
+<!-- PART006_FINAL_CLOSURE_CURRENT_END -->
