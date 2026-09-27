@@ -12,7 +12,7 @@ This ledger records the user's **18 split source PDFs**.
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN — PART007 SOURCE INTAKE NEXT** |
-| 007 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf` | 27 | 160–186 | 48,308,828 | `989b28ee437602c4c197c8dbcd00af7823098b9c42e907e8e3e04511b0d35021` | **COMPLETE / PASS** | **PASS1 COMPLETE / PASS — PASS2A NEXT** |
+| 007 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf` | 27 | 160–186 | 48,308,828 | `989b28ee437602c4c197c8dbcd00af7823098b9c42e907e8e3e04511b0d35021` | **COMPLETE / PASS** | **ACTIVE — PASS2A 10/27 REVIEWED** |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
 | 010 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1913,3 +1913,26 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - exact next activity — **Part007 Pass2A Batch1 scans160–169 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_007_PASS1_PROGRESS.md`
 <!-- PART007_PASS1_CURRENT_END -->
+
+<!-- PART007_PASS2A_CURRENT_START -->
+## Part007 Pass2A — current authoritative state
+
+**PART007 PASS2A — ACTIVE — 10/27 REVIEWED.**
+
+- reviewed scans — **160–169 / local pages1–10**
+- reviewed pages passing — **10/10**
+- source-text corrections — **5 occurrences / scans164,165,167**
+- zero-correction scans — **160,161,162,163,166,168,169**
+- unresolved Pass2A questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- scan163 — **chapter18 close / ornaments PASS**
+- scan164 — **illustrated chapter19 opener / no visible folio PASS**
+- 166→167 — **`புரிந்து / கொண்டாள்!` PASS**
+- 168→169 — **`எடுத்து வந்து / நீட்டினாள்.` PASS**
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass2A Batch2 scans170–179 / local pages11–20**
+- durable progress — `works/thenpandi-singam/PART_007_PASS2A_PROGRESS.md`
+<!-- PART007_PASS2A_CURRENT_END -->
