@@ -176,3 +176,22 @@ Part007 is now the active transcription Part.
 - Part008 leakage — **0**
 - exact next activity — **Part007 Pass1 Batch2 scans170–179 / local pages11–20**
 - durable progress — `PART_007_PASS1_PROGRESS.md`
+
+## Part007 Pass1 Batch2 downstream state
+
+- Part007 Pass1 — **ACTIVE — 20/27 TEXT-COMPLETE**
+- completed scans — **160–179 / local pages1–20**
+- canonical Part007 records — **20/27**
+- cumulative canonical repository records — **179**
+- needs-review Tamil / visual — **20/20 / 20/20**
+- Batch2 final direct-source reread corrections — **0**
+- cumulative Pass1 corrections — **0**
+- unresolved Pass1 holds — **0**
+- 172→173 — `அதன் வாழ்வைப் / பெறப்போகிறோம்`
+- scan173 — chapter19 close / three centered ornaments
+- scan174 — illustrated chapter20 opener / no visible folio
+- 179→180 — direct dialogue continuity verified
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass1 FINAL scans180–186 / local pages21–27**
+- durable progress — `PART_007_PASS1_PROGRESS.md`
