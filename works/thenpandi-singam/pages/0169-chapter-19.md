@@ -64,4 +64,17 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
+## Formal Part007 Pass 3 review
+
+- full rendered-page visual / structural review completed against Part007 source image;
+- displayed-text hierarchy, dialogue sequence, reading order, source-visible pagination, running header and opening continuation checked;
+- Pass3 textual corrections: **0**;
+- visual / structural findings: **PASS**;
+- printed folio **153** visible at top-right; work-title running header visible at top-left and excluded from literary prose;
+- 168→169 `எடுத்து வந்து / நீட்டினாள்.` continuation visually **PRESERVED / PASS**;
+- source-visible dialogue sequence through the bottom margin — **PASS**;
+- unresolved Pass3 visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass3.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 169; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 10; அச்சுப் பக்கம்: 153; PASS 1 TEXT-COMPLETE / needs-review -->

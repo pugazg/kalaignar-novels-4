@@ -52,4 +52,17 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
+## Formal Part007 Pass 3 review
+
+- full rendered-page visual / structural review completed against Part007 source image;
+- illustration hierarchy, displayed chapter numeral, reading order and absence of source-visible folio checked;
+- Pass3 textual corrections: **0**;
+- visual / structural findings: **PASS**;
+- illustrated chapter19 opener / mounted-warrior illustration / displayed numeral **19** — **PASS**;
+- no source-visible printed folio or running header on this opener;
+- illustration detail promoted to literary prose — **0**;
+- unresolved Pass3 visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass3.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 164; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: SOURCE-NOT-VISIBLE; PASS 1 TEXT-COMPLETE / needs-review -->

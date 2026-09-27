@@ -1812,3 +1812,29 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - exact next activity — **Part007 Pass3 Batch1 scans160–169 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_007_PASS2B_PROGRESS.md`
 <!-- PART007_PASS2B_CURRENT_END -->
+
+<!-- PART007_PASS3_CURRENT_START -->
+## Part007 Pass3 — current authoritative state
+
+**PART007 PASS3 — ACTIVE — 10/27 REVIEWED.**
+
+- reviewed — **scans160–169 / local pages1–10**
+- reviewed pages passing — **10/10**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+- all Part007 pages remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED / PASS**
+- scan163 — **chapter18 close / three centered ornaments — PASS**
+- scan163 lower blank/show-through field promoted to prose — **0**
+- scan164 — **illustrated chapter19 opener / displayed numeral19 / mounted-warrior illustration / no source-visible folio — PASS**
+- scan164 illustration detail promoted to prose — **0**
+- 166→167 — **`புரிந்து / கொண்டாள்!` — PRESERVED / PASS**
+- 168→169 — **`எடுத்து வந்து / நீட்டினாள்.` — PRESERVED / PASS**
+- recurring running-header / folio furniture promoted to literary prose — **0**
+- frozen Parts001–006 body/status edits — **0**
+- Part008 leakage — **0**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- exact next activity — **Part007 Pass3 Batch2 scans170–179 / local pages11–20**
+- durable progress — `works/thenpandi-singam/PART_007_PASS3_PROGRESS.md`
+<!-- PART007_PASS3_CURRENT_END -->
