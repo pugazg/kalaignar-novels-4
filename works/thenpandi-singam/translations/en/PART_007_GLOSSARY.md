@@ -173,3 +173,32 @@ Outgoing:
 ## Exact next gate
 
 **E25 draft + source-check — section30 / scans160–163.**
+
+## E25 source-check term state
+
+**E25 — SOURCE-CHECKED / COMPLETE — scans160–163.**
+
+Established frozen forms retained by source occurrence, including **Vaalukku Veli / Vaalukkuveli**, **Vadivu / Vadivambal**, **Sundari / Sundarambal**, **Kalyani Nachiyar**, **Lalithangi**, **Nathamuni**, **Kaadai**, **Kolari**, **Paganeri**, **Tirukkottiyur**, **Ambalakkarar**, **seer-varisai** and **box carriage**.
+
+E25-local source-facing additions:
+
+- `பன்னீர்ச் செம்பு` → **rosewater vessel**
+- `சந்தனக் கிண்ணம்` → **bowl of sandal paste**
+- `கால் சதங்கை` → **anklet bells**
+- `இரத்தினக் கம்பளம்` → **rich carpet**
+
+These are translation choices derived from E25 Tamil context only; no outside textual authority or historical gloss was used.
+
+E25 accounting:
+
+- translated/source-checked — **1/3 / 1/3 cumulative**
+- E25 literary blocks/comments — **24/24 / 4/4**
+- unresolved E25 glossary/source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- scan164 / E26 leakage — **0**
+- Part008 leakage — **0**
+
+## Exact next gate
+
+**E26 draft + source-check — section31 / scans164–173.**

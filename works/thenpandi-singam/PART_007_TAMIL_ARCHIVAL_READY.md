@@ -218,3 +218,21 @@ Planning/setup must recheck live collision state before reserving E-batch number
 ## Exact next activity
 
 **E25 draft + source-check — section30 / scans160–163.**
+
+## Part007 E25 English downstream state
+
+**E25 — SOURCE-CHECKED / COMPLETE — section30 / scans160–163.**
+
+- maintained English — `translations/en/sections/30-chapter-18-part007.md`
+- source-check — `translations/en/E25_SOURCE_CHECK.md`
+- cumulative Part007 translated/source-checked — **1/3 / 1/3**
+- Tamil / English literary blocks — **24 / 24**
+- provenance comments — **4 / 4**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- repeated chapter18 heading — **0**
+- frozen Parts001–006 English body edits — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- scan164 / E26 leakage — **0**
+- Part008 leakage — **0**
+- unresolved E25 holds — **0**
+- exact next activity — **E26 draft + source-check — section31 / scans164–173**
