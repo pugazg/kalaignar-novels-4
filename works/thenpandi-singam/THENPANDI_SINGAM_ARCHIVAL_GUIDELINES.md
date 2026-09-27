@@ -1446,3 +1446,32 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - exact next activity — **Part006 documentation synchronization**
 - durable sync — `PART_006_FINAL_STATUS_SYNC.md`
 
+<!-- PART006_DOCUMENTATION_SYNC_CURRENT_START -->
+## Part006 documentation synchronization — current authoritative state
+
+- documentation synchronization — **PASS / COMPLETE**
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf`
+- source bytes / SHA-256 — **48,442,743** / `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346`
+- scans / local pages — **133–159 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
+- correction totals — **5 Pass1 / 17 Pass2A / 2 Pass2B / 0 Pass3**
+- historical-glyph corrections — **0**
+- Pass2A supersessions during Pass2B — **2 / scans145,150**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- canonical Part006 page-file changes caused by documentation sync — **0**
+- canonical Tamil/body changes caused by documentation sync — **0**
+- verified status-field changes caused by documentation sync — **0**
+- frozen Parts001–005 body/status changes caused by documentation sync — **0**
+- Part007 leakage — **0**
+- historical lifecycle `needs-review` blocks remain gate evidence; live canonical frontmatter and the live page-map are authoritative for current status
+- exact next activity — **Part006 Tamil archival-ready checkpoint**
+- durable documentation sync — `works/thenpandi-singam/PART_006_DOCUMENTATION_SYNC.md`
+<!-- PART006_DOCUMENTATION_SYNC_CURRENT_END -->
