@@ -19,7 +19,7 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 
 அப்போது நாதமுனியின் குரல் கீழிருந்து ஒலித்தது; “லலிதாங்கி! வா வா! அய்யர் வந்தாச்சு!”
 
-வடிவு, கொதிப்பை அடக்கிக் கொண்டு நின்றாள், லலிதாங்கி, மாடிப்படிகளில் இறங்கிக் கீழே ஓடினாள். வடிவாம்பாளும் உயிரற்ற உடலொன்று நடந்து வரும் விதம் எவ்வாறிருக்குமென்று அந்தப் படிகளில் மெல்ல நடந்து காட்டினாள்.
+வடிவு, கொதிப்பை அடக்கிக் கொண்டு நின்றாள், லலிதாங்கி, மாடிப்படிகளில் இறங்கிக் கீழே ஓடினாள். வடிவாம்பாளும் உயிரற்ற உடலொன்று நடந்திடும் விதம் எவ்வாறிருக்குமென்று அந்தப் படிகளில் மெல்ல நடந்து காட்டினாள்.
 
 வீட்டின் வரவேற்புக் கூடத்தில் அழகிய ரோஜா மாலையொன்றுடன் நின்று கொண்டிருந்த சுந்தராம்பாள், உள்ளே நுழைந்த வாளுக்கு வேலியின் கழுத்தில் அதனை அணிவித்து அவன் காலைத் தொட்டுக் கும்பிட்டு நின்றாள். நாதமுனியும், லலிதாங்கியும் தெரிவித்த வணக்கத்திற்குப் பதில் வணக்கம் கூறிக் கொண்டே அங்கிருந்த ஊஞ்சலில் வாளுக்கு வேலி அமர்ந்தான்.
 
@@ -37,5 +37,15 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 - opening `கொண்டாள்!` directly completes scan166's terminal sentence;
 - dialogue/paragraph order preserved;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part007 Pass 2A review
+
+- strict direct-source reread completed against rendered Part007 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections: **1 occurrence**;
+- correction: `நடந்து வரும் விதம்` → source `நடந்திடும் விதம்`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 167; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 151; PASS 1 TEXT-COMPLETE / needs-review -->
