@@ -2005,3 +2005,36 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - exact next activity — **Part007 whole-Part audit**
 - durable progress — `works/thenpandi-singam/PART_007_PASS3_PROGRESS.md`
 <!-- PART007_PASS3_CURRENT_END -->
+
+<!-- PART007_AUDIT_CURRENT_START -->
+## Part007 whole-Part audit — current authoritative state
+
+**PART007 WHOLE-PART AUDIT — PASS / COMPLETE.**
+
+- canonical records — **27/27**
+- scan coverage — **160–186 continuous**
+- local pages — **1–27 continuous**
+- Pass1 / Pass2A / Pass2B / Pass3 evidence — **27/27 each**
+- duplicate / omitted canonical scans — **0 / 0**
+- duplicate non-empty source-transcription bodies — **0**
+- review-note leakage into source transcription — **0**
+- Pass1 source-backed reread corrections — **2**
+- Pass2A source-text corrections — **14**
+- Pass2A interim drift reversions excluded from correction total — **4**
+- Pass2B lexical / spacing / punctuation corrections — **7**
+- historical-glyph corrections — **0**
+- Pass2A supersessions during Pass2B — **7 / scans170,178,182,183,184**
+- Pass3 textual corrections — **0**
+- unresolved Tamil / glyph / visual / structural questions — **0**
+- page-map Part007 rows / Pass3 evidence — **27 / 27**
+- page-map status — **needs-review 27/27**
+- source PDFs in active Git tree — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- page-status promotions during audit — **0**
+- canonical Tamil body edits during audit — **0**
+- frozen Parts001–006 body/status edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 final metadata/status synchronization — scans160–186 / 27 pages**
+- durable audit — `works/thenpandi-singam/PART_007_AUDIT.md`
+<!-- PART007_AUDIT_CURRENT_END -->

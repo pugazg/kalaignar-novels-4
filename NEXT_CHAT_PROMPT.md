@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 whole-Part audit
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 final metadata/status synchronization
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–006 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to audit Part007.
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to synchronize Part007 status.
 
 ## Part007 source
 
@@ -17,34 +17,43 @@ Do not reopen their canonical Tamil, assembled Tamil or maintained English merel
 - local pages — **27**
 - global scans — **160–186**
 - source intake — **COMPLETE / PASS**
-- rendered source images are controlling
 - source PDF remains outside Git
 
-## Part007 closed gate state
+## Part007 closed evidence state
 
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- Pass1 source-backed reread corrections — **2**
 - Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
-- Pass2A source-text corrections — **14 occurrences**
+- Pass2A source-text corrections — **14**
+- Pass2A interim drift reversions excluded from correction total — **4**
 - Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
-- Pass2B lexical / spacing / punctuation corrections — **7 occurrences**
-- Pass2B historical-glyph corrections — **0**
-- Pass2A supersessions during Pass2B — **7 occurrences**
+- Pass2B lexical / spacing / punctuation corrections — **7**
+- historical-glyph corrections — **0**
+- Pass2A supersessions during Pass2B — **7 / scans170,178,182,183,184**
 - Pass3 — **COMPLETE / PASS — 27/27 REVIEWED**
 - Pass3 textual corrections — **0**
+- whole-Part audit — **PASS / COMPLETE**
 - unresolved Tamil / glyph / visual / structural questions — **0**
-- status promotions through Pass3 — **0**
-- all Part007 pages remain `needs-review / needs-review`
+- canonical records — **27/27**
+- page-map Part007 rows / Pass3 evidence — **27 / 27**
+- source PDFs in active Git tree — **0**
+
+Current status before synchronization:
+
+- canonical Tamil `status: "needs-review"` — **27/27**
+- `visual_fidelity: "needs-review"` — **27/27**
+- page-map status — **needs-review 27/27**
 
 Structural locks:
 
 - incoming **159→160 = GENUINE CONTINUATION / AUDITED**
 - scan163 — chapter18 close / three ornaments
-- scan164 — illustrated chapter19 opener / displayed numeral19 / no visible folio
+- scan164 — illustrated chapter19 opener / numeral19 / no visible folio
 - 166→167 — `புரிந்து / கொண்டாள்!`
 - 168→169 — `எடுத்து வந்து / நீட்டினாள்.`
 - 172→173 — `அதன் வாழ்வைப் / பெறப்போகிறோம்`
 - scan173 — chapter19 close / three ornaments
-- scan174 — illustrated chapter20 opener / displayed numeral20 / no visible folio
+- scan174 — illustrated chapter20 opener / numeral20 / no visible folio
 - 179→180 — direct question/answer continuity
 - 183→184 — direct-speech continuation
 - 184→185 — `இன்னொரு / நாள்...`
@@ -52,31 +61,28 @@ Structural locks:
 - outgoing **186→187 = PENDING direct audit / source-limited**
 - Part008 leakage — **0**
 
-Durable Pass3 progress:
+Durable audit:
 
-`works/thenpandi-singam/PART_007_PASS3_PROGRESS.md`
+`works/thenpandi-singam/PART_007_AUDIT.md`
 
 ## Exact next activity
 
-Perform **Part007 whole-Part audit** across all 27 canonical records and all Pass1 / Pass2A / Pass2B / Pass3 evidence.
+Perform **Part007 final metadata/status synchronization — scans160–186 / 27 pages**.
 
 Requirements:
 
-- confirm canonical scan coverage **160–186 continuous / 27 records**;
-- confirm local pages **1–27 continuous**;
-- confirm no duplicate or omitted canonical scans;
-- confirm Pass1 / Pass2A / Pass2B / Pass3 evidence exists for **27/27**;
-- reconcile correction counts and affected scans across all gates without altering already source-backed text;
-- check duplicate non-empty source-transcription bodies;
-- check review-note leakage into source transcription;
-- check page-map / registry consistency for Part007;
-- confirm source PDF is not committed to Git;
+- promote canonical page frontmatter `status: "needs-review"` → `status: "verified"` for exactly scans160–186;
+- promote `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"` for exactly scans160–186;
+- update exactly the 27 Part007 page-map status cells from `needs-review` to `verified`;
+- make **no canonical Tamil/source-transcription body changes**;
+- make **no review-evidence wording changes inside canonical pages** except the two authorized frontmatter status-line replacements per page;
+- page-map non-status-column changes — **0**;
+- verify 27 canonical files changed, **54 authorized frontmatter replacements**, and 27 page-map status-cell changes;
 - preserve all structural locks above;
-- unresolved Tamil / glyph / visual / structural questions must remain **0** for audit PASS;
-- status promotions — **0** during audit;
-- canonical Tamil/body edits — **0** unless a newly discovered source-backed defect requires a separately documented correction;
+- preserve **186→187 PENDING direct audit / source-limited**;
 - frozen Parts001–006 body/status changes — **0**;
-- keep **186→187 PENDING direct audit / source-limited**;
-- no Part008 / scan187 inference.
+- Part008 leakage — **0**;
+- create durable `works/thenpandi-singam/PART_007_FINAL_STATUS_SYNC.md`;
+- synchronize README, HANDOVER, workflow status, source registry, archival guidelines and next-chat prompt.
 
-If the whole-Part audit passes, create durable `works/thenpandi-singam/PART_007_AUDIT.md`, record **PASS / COMPLETE**, and set exact next activity to **Part007 final metadata/status synchronization — scans160–186 / 27 pages**.
+If synchronization passes, Part007 canonical Tamil and visual fidelity should be **27/27 verified**, whole-Part audit remains **PASS / COMPLETE**, and the exact next activity should be **Part007 documentation synchronization**.
