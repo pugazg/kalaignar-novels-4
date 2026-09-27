@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 Pass1 Batch2 — scans170–179
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 Pass1 FINAL — scans180–186
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -22,26 +22,29 @@ Do not reopen their canonical Tamil, assembled Tamil or maintained English merel
 
 ## Part007 Pass1 current state
 
-**ACTIVE — 10/27 TEXT-COMPLETE**
+**ACTIVE — 20/27 TEXT-COMPLETE**
 
 Completed:
 
-- scans **160–169 / local pages1–10**
-- canonical Part007 records — **10/27**
-- status / visual fidelity — **needs-review / needs-review on 10/10**
-- source-backed final reread corrections — **0**
+- scans **160–179 / local pages1–20**
+- canonical Part007 records — **20/27**
+- cumulative canonical records — **179**
+- status / visual fidelity — **needs-review / needs-review on 20/20**
+- source-backed Pass1 reread corrections — **0**
 - unresolved Pass1 holds — **0**
 
-Structural locks already established:
+Structural locks:
 
 - incoming **159→160 = GENUINE CONTINUATION / AUDITED**
 - scan163 — chapter18 close / three closing ornaments
-- scan164 — illustrated chapter19 opener / displayed numeral19 / no visible folio
+- scan164 — illustrated chapter19 opener / numeral19 / no visible folio
 - 166→167 — `புரிந்து / கொண்டாள்!`
 - 168→169 — `எடுத்து வந்து / நீட்டினாள்.`
-- scan173 — chapter19 close / closing ornaments
-- scan174 — illustrated chapter20 opener / displayed numeral20 / no visible folio
-- scan186 — printed170 / chapter20 close / closing ornaments
+- 172→173 — `அதன் வாழ்வைப் / பெறப்போகிறோம்`
+- scan173 — chapter19 close / three closing ornaments
+- scan174 — illustrated chapter20 opener / numeral20 / no visible folio
+- 179→180 — direct dialogue continuity verified
+- scan186 — printed170 / chapter20 close / source-visible closing ornaments
 - outgoing **186→187 = PENDING direct audit / source-limited**
 - Part008 leakage — **0**
 
@@ -51,19 +54,19 @@ Durable progress:
 
 ## Exact next activity
 
-Perform **Part007 Pass1 Batch2 — scans170–179 / local pages11–20**.
+Perform **Part007 Pass1 FINAL — scans180–186 / local pages21–27**.
 
 Requirements:
 
-- create canonical page records for scans170–179 / local pages11–20;
+- create canonical page records for scans180–186 / local pages21–27;
 - continue direct source-image transcription only;
-- set `part: 7`, correct `part_page`, chapter, and source-visible printed folio;
+- preserve the scan179→180 dialogue continuation without copying scan179 body into scan180;
+- set `part: 7`, correct local `part_page: 21–27`, chapter20, and source-visible printed folios;
 - retain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- preserve all physical cross-page continuations without invented bridge wording;
-- record scan173 chapter19 close structurally;
-- record scan174 illustrated chapter20 opener with `printed_page: null`;
-- keep running headers, folios, ornaments and illustration furniture out of literary prose;
+- record scan186 chapter20 close and closing ornaments structurally;
+- keep running headers, folios and ornaments out of literary prose;
+- perform a fresh direct-source reread of all seven pages before Pass1 closure;
 - do not infer Part008 / scan187;
 - frozen Parts001–006 body changes — **0**.
 
-After Batch2, exact next activity should be **Part007 Pass1 FINAL scans180–186 / local pages21–27**.
+If FINAL batch closes successfully, Part007 Pass1 should be **COMPLETE / PASS — 27/27 TEXT-COMPLETE**, with exact next activity **Part007 Pass2A scans160–169 / local pages1–10**.
