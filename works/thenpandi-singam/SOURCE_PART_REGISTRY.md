@@ -11,7 +11,7 @@ This ledger records the user's **18 split source PDFs**.
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **PASS3 ACTIVE — 10/27 REVIEWED** |
+| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **PASS3 ACTIVE — 20/27 REVIEWED** |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1511,5 +1511,28 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - Part007 leakage — **0**
 - outgoing 159→160 — **PENDING direct audit / source-limited**
 - exact next activity — **Part006 Pass3 scans143–152 / local pages11–20**
+- durable progress — `PART_006_PASS3_PROGRESS.md`
+
+## Part006 Pass3 Batch 2 downstream state
+
+- Part006 Pass3 — **ACTIVE — 20/27 REVIEWED**
+- reviewed — **scans133–152 / local pages1–20**
+- Batch 2 — **scans143–152 / local pages11–20 / 10/10 visual-structural PASS**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- scan146 chapter16 close / three centered ornaments — **PASS**
+- scan147 illustrated chapter17 opener / no visible folio — **PASS**
+- scan148 displayed letter/signature hierarchy — **PASS**
+- scan150 displayed devotional verses / line hierarchy — **PASS**
+- 147→148, 150→151, 151→152 continuations — **PASS**
+- scan152 terminal direct speech open to scan153 — **PASS**
+- page furniture / illustration detail promoted to literary prose — **0**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- exact next activity — **Part006 Pass3 FINAL scans153–159 / local pages21–27**
 - durable progress — `PART_006_PASS3_PROGRESS.md`
 
