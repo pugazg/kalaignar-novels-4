@@ -236,3 +236,35 @@ Fresh Pass2B reread retained these FINAL-range Pass2A source-backed readings:
 **Part007 Pass3 Batch1 — scans160–169 / local pages1–10.**
 
 Perform the full rendered-page visual / structural review against Part007 source images. Check displayed-text hierarchy, paragraph/dialogue blocks, running headers, source-visible folios, illustrations, ornaments and physical continuations. Do not promote canonical or visual status during Pass3; final metadata/status synchronization is a later gate.
+
+<!-- PART007_DOCUMENTATION_SYNC_CURRENT_START -->
+## Part007 documentation synchronization — current authoritative state
+
+- documentation synchronization — **PASS / COMPLETE**
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf`
+- source bytes / SHA-256 — **48,308,828** / `989b28ee437602c4c197c8dbcd00af7823098b9c42e907e8e3e04511b0d35021`
+- scans / local pages — **160–186 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
+- correction totals — **2 Pass1 / 14 Pass2A / 7 Pass2B / 0 Pass3**
+- Pass2A interim drift reversions excluded from correction total — **4**
+- historical-glyph corrections — **0**
+- Pass2A supersessions during Pass2B — **7 / scans170,178,182,183,184**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- canonical Part007 page-file changes caused by documentation sync — **0**
+- canonical Tamil/source-transcription changes caused by documentation sync — **0**
+- verified status-field changes caused by documentation sync — **0**
+- page-map status / non-status changes caused by documentation sync — **0 / 0**
+- frozen Parts001–006 body/status changes caused by documentation sync — **0**
+- Part008 leakage — **0**
+- historical lifecycle `needs-review` blocks above remain gate evidence; live canonical frontmatter and the live page-map are authoritative for current status
+- exact next activity — **Part007 Tamil archival-ready checkpoint**
+- durable documentation sync — `works/thenpandi-singam/PART_007_DOCUMENTATION_SYNC.md`
+<!-- PART007_DOCUMENTATION_SYNC_CURRENT_END -->
