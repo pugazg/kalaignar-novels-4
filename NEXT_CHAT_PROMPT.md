@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Pass2B scans133–142
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Pass2B scans143–152
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,69 +20,62 @@ Controlling source:
 - global scans — **133–159**
 - controlling representation — **rendered source page images**
 - source PDF — **outside Git**
+
+## Part006 closed prior gates
+
 - source intake — **COMPLETE / PASS**
-
-## Part006 Pass1 closure
-
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- canonical Part006 records — **27/27**
-- source-backed Pass1 reread corrections — **5**
-- unresolved Pass1 holds — **0**
-
-## Part006 Pass2A closure
-
 - Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
-- total Pass2A source-text corrections — **17 occurrences**
-- affected scans — **133, 134, 136, 137, 142, 143, 148, 150, 152, 154, 156, 157**
-- affected scan count — **12**
-- zero-source-text-correction scans — **15**
-- Pass1 supersessions — **1 / scan152**
-- unresolved Pass2A questions — **0**
-- status promotions — **0**
+- Pass2A source-text corrections — **17 occurrences / 12 scans**
+- Pass2A unresolved questions — **0**
+
+## Part006 Pass2B current state
+
+- Pass2B — **ACTIVE — 10/27 REVIEWED**
+- reviewed — **scans133–142 / local pages1–10**
+- lexical / spacing / punctuation corrections — **0**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **0**
+- zero-correction scans — **133–142 / 10**
+- unresolved Pass2B questions — **0**
 - status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- all six Batch 1 Pass2A corrections — **PASS / retained**
 - incoming **132→133 = GENUINE CONTINUATION / AUDITED**
 - frozen Part005 body changes — **0 / 0 / 0 canonical / assembled / English**
 - Part007 leakage — **0**
 - outgoing **159→160 = PENDING direct audit / source-limited**
 
-Durable Pass2A progress:
+Durable Pass2B progress:
 
-`works/thenpandi-singam/PART_006_PASS2A_PROGRESS.md`
-
-## Pass2A final-batch corrections locked
-
-- scan154 — `வரும்:` → `வரும்;`
-- scan156 — `மாதிரிதான்` → `மாதிரி தான்`
-- scan157 — `ஏதாவது` → `எதாவது`
-- scan157 — `கன்னவிழிப் பருகி` → `கன்னவிதழ் பருகி`
+`works/thenpandi-singam/PART_006_PASS2B_PROGRESS.md`
 
 ## Exact next activity
 
-Perform **Part006 Pass2B — scans133–142 / local pages1–10**.
+Perform **Part006 Pass2B — scans143–152 / local pages11–20**.
 
 Review requirements:
 
-- perform a fresh independent reread of canonical scans **133–142** against rendered source pixels;
-- focus on lexical segmentation, spacing, source-era forms, historical glyph identity and punctuation-sensitive reread;
+- fresh independent reread of canonical scans **143–152** against rendered source pixels;
+- focus on lexical segmentation, joining/spacing, source-era forms, historical glyph identity and punctuation-sensitive reread;
 - do not merely trust Pass2A decisions; supersede them only where fresh direct-source evidence demonstrates a defect;
-- log every lexical / spacing / punctuation correction;
-- count historical-glyph corrections separately;
-- explicitly record Pass2A supersessions, if any;
-- preserve occurrence-sensitive source spellings and name/spacing variants;
-- recheck incoming **132→133 GENUINE CONTINUATION / AUDITED** without modifying frozen Part005 body;
-- scan137 — chapter15 close / three ornaments;
-- scan138 — illustrated chapter16 opener / displayed numeral16 / no source-visible folio;
-- recheck 138→139 `விடுதலை / வீரர்கள்`;
-- recheck 139→140 `அண்ணாந்து / நோக்கினான்.`;
-- recheck 140→141 `ஆதப்பனின் / செவிகளில்`;
-- recheck 141→142 `திரும்பிப் பார்த்து / விட்டு இன்னும்...`;
+- log lexical / spacing / punctuation corrections separately from historical-glyph corrections;
+- explicitly count any Pass2A supersessions;
+- recheck scan146 chapter16 close / three source-visible ornaments;
+- recheck scan147 illustrated chapter17 opener / displayed numeral17 / no visible folio;
+- recheck 147→148 `மானா / மதுரைக்கும்`;
+- scan148 — recheck the displayed letter/signature and the Pass2A forms `காத்துக்கொண்டு` and `இருப்பீர் களென்றுதான்`;
+- scan150 — freshly verify displayed devotional verses, source line order, and Pass2A `அந்தப்பாட்டு`;
+- recheck 150→151 `பிரதட்சணமாகச் / சுற்றி வந்த`;
+- recheck 151→152 `இசை / விருந்தும்`;
+- scan152 — freshly recheck Pass2A `அந்தக் கலை நிகழ்ச்சியில்`, `நீலமணித் தோகை`, `எழுதிக் கொடுத்து` and the terminal open dialogue into scan153;
 - keep `status: "needs-review"` and `visual_fidelity: "needs-review"`; no promotion during Pass2B;
 - external-source comparison — **0**;
 - frozen Parts001–005 canonical / assembled / maintained-English body edits — **0 / 0 / 0**;
 - Part007 leakage — **0**;
 - outgoing **159→160 = PENDING direct audit / source-limited**.
 
-Create/update:
+Update:
 
 - `PART_006_PASS2B_PROGRESS.md`;
 - canonical pages only where fresh source-backed corrections are demonstrated;
@@ -93,4 +86,4 @@ Create/update:
 
 After this batch, exact next activity should be:
 
-**Part006 Pass2B scans143–152 / local pages11–20.**
+**Part006 Pass2B FINAL scans153–159 / local pages21–27.**
