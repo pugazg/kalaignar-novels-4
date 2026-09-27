@@ -127,7 +127,7 @@ Even so, could he simply say “I will come” the moment she invited him? An Am
 
 <!-- source boundary: scan 153 → scan 154 -->
 
-“Sundari! I will certainly come! But one thing! As a sign that I am coming, ceremonial gifts will reach your house before I do. Do you understand?”
+“Sundari! I will certainly come! But one thing! As a sign that I am coming, seer-varisai will reach your house before I do. Do you understand?”
 
 Hearing this, Sundari lowered her face! The earth received the sight of another moon! Her big toes scratched at the ground! No—they were writing the “alphabet-primer verse” of lessons in love!
 
