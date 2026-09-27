@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part006 Pass2B FINAL scans153–159 / local pages21–27.**
+**Part006 Pass3 scans133–142 / local pages1–10.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -1532,5 +1532,27 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - frozen Parts001–005 body edits — **0**
 - Part007 leakage — **0**
 - exact next activity — **Part006 Pass2B FINAL scans153–159 / local pages21–27**
+- durable progress — `PART_006_PASS2B_PROGRESS.md`
+
+## Part006 Pass2B FINAL downstream state
+
+- Part006 Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
+- reviewed — **scans133–159 / local pages1–27**
+- cumulative lexical / spacing / punctuation corrections — **2**
+- affected scans — **145, 150**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **2 occurrences / scans145, 150**
+- final batch corrections — **0 / scans153–159**
+- unresolved Pass2B questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- scan154 chapter17 close / three ornaments — **PASS**
+- scan155 illustrated chapter18 opener / no visible folio — **PASS**
+- 152→153 and 155→156 physical continuations — **PASS**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- exact next activity — **Part006 Pass3 scans133–142 / local pages1–10**
 - durable progress — `PART_006_PASS2B_PROGRESS.md`
 
