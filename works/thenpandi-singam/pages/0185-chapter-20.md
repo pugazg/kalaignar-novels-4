@@ -17,7 +17,7 @@ transcription_method: "direct source-image transcription; Part007 Pass1 FINAL sc
 
 நாள் நான் பார்க்கிறேன்! நாங்கள் மிக முக்கியமான ஒரு காரியத்திற்காகப் புறப்பட்டுக் கொண்டிருக்கிறோம்.”
 
-அந்தப் பதில் வடிவுக்குத் திருப்தி அளிக்காது மட்டுமல்ல; சுந்தரியைக் குறிப்பிட்டு அவள் தங்கை என்பதால்தான் தனக்குச் சிறப்பு என்பது போல வாளுக்குவேலி கூறியதை அவளால் பொறுத்துக் கொள்ள முடியவில்லை. வாளுக்குவேலியை எப்படியும் வளைத்துப் போட வேண்டுமென்று அவள் கொண்ட வஞ்சினத்தை வெளிக்காட்டிக் கொள்ளாமல் கல்யாணி நாச்சியாருடன் சிரித்துப் பேசிக் கொண்டே மாளிகைக்குள் நுழைந்தாள் தனது குழுவினருடன்.
+அந்தப் பதில் வடிவுக்குத் திருப்தி அளிக்காது மட்டுமல்ல; சுந்தரியைக் குறிப்பிட்டு அவள் தங்கை என்பதால்தான் தனக்குச் சிறப்பு என்பது போல வாளுக்கு வேலி கூறியதை அவளால் பொறுத்துக் கொள்ள முடியவில்லை. வாளுக்குவேலியை எப்படியும் வளைத்துப் போட வேண்டுமென்று அவள் கொண்ட வஞ்சினத்தை வெளிக்காட்டிக் கொள்ளாமல் கல்யாணி நாச்சியாருடன் சிரித்துப் பேசிக் கொண்டே மாளிகைக்குள் நுழைந்தாள் தனது குழுவினருடன்.
 
 வாசலில் நிறுத்தப்பட்டிருந்த கோட்டடியூர் வண்டியில் தொங்கிய திரையில் “சுந்தரி” என்று எழுதப்பட்டிருந்ததையே சிறிது நேரம் வாளுக்குவேலி பார்த்துக் கொண்டு நின்றான். அந்த வண்டியில் வந்திறங்கிய வடிவாம்பாளைப் பற்றி அவனுக்கென்ன கவலை!
 
@@ -33,5 +33,17 @@ transcription_method: "direct source-image transcription; Part007 Pass1 FINAL sc
 - opening completes scan184's terminal `இன்னொரு / நாள்...`;
 - source-visible lexical/orthographic forms retained without normalization;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part007 Pass 2A review
+
+- strict direct-source reread completed against rendered Part007 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections from the Pass1 baseline: **1**;
+- correction: first narrative occurrence `வாளுக்குவேலி கூறியதை` → source-visible `வாளுக்கு வேலி கூறியதை`;
+- later source-visible forms on this scan are retained independently, including fused `வாளுக்குவேலியை` and spaced `வாளுக்கு வேலியும்`;
+- 184→185 `இன்னொரு / நாள்...` continuation — **PASS**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 185; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 26; அச்சுப் பக்கம்: 169; PASS 1 TEXT-COMPLETE / needs-review -->

@@ -2080,23 +2080,24 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 <!-- PART007_PASS2A_CURRENT_START -->
 ## Part007 Pass2A — current authoritative state
 
-**PART007 PASS2A — ACTIVE — 20/27 REVIEWED.**
+**PART007 PASS2A — COMPLETE / PASS — 27/27 REVIEWED.**
 
-- reviewed scans — **160–179 / local pages1–20**
-- reviewed pages passing — **20/20**
-- cumulative source-text corrections — **9 occurrences / scans164,165,167,177,178,179**
-- Batch2 corrections — **4 occurrences / scans177,178,179**
-- cumulative zero-correction reviewed scans — **14**
+- reviewed scans — **160–186 / local pages1–27**
+- reviewed pages passing — **27/27**
+- final batch — **scans180–186 / local pages21–27 — 7/7 PASS**
+- FINAL source-text corrections — **5 occurrences / scans180,181,185**
+- cumulative source-text corrections — **14 occurrences / scans164,165,167,177,178,179,180,181,185**
 - unresolved Pass2A questions — **0**
-- status / visual fidelity — **needs-review / needs-review on 27/27**
 - status promotions — **0**
-- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
-- scan163 / 173 — **chapter18 / chapter19 closes PASS**
-- scan164 / 174 — **illustrated chapter19 / chapter20 openers PASS**
-- 166→167 / 168→169 / 172→173 — **PASS**
+- all Part007 pages remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - 179→180 — **direct dialogue continuity PASS**
+- 183→184 — **direct-speech continuation PASS**
+- 184→185 — **`இன்னொரு / நாள்...` continuation PASS**
+- scan186 — **chapter20 close / printed170 / three source-visible centered ornaments — PASS**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- interim unrecorded Pass2A drift on scans180/184 — **reverted to source during FINAL; not counted in the Pass1→Pass2A correction tally**
 - frozen Parts001–006 body edits — **0**
 - Part008 leakage — **0**
-- exact next activity — **Part007 Pass2A FINAL scans180–186 / local pages21–27**
+- exact next activity — **Part007 Pass2B Batch1 scans160–169 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_007_PASS2A_PROGRESS.md`
 <!-- PART007_PASS2A_CURRENT_END -->

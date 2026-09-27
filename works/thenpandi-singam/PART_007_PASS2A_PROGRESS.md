@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — ACTIVE — 20/27 REVIEWED**
+**PASS 2A — COMPLETE / PASS — 27/27 REVIEWED**
 
 Source:
 
@@ -131,12 +131,77 @@ Zero-correction scans — **170, 171, 172, 173, 174, 175, 176**.
 - Part008 leakage — **0**
 - outgoing 186→187 — **PENDING direct audit / source-limited**
 
+## FINAL — scans180–186
+
+Direct textual-fidelity review completed for:
+
+- global scans — **180–186 / 7**
+- local pages — **21–27 / 7**
+- canonical records reviewed — **27/27 cumulative**
+- reviewed pages passing — **7/7**
+- unresolved textual questions — **0**
+- status promotions — **0**
+
+Pass2A checked exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination, chapter/display structure and physical cross-page continuations against rendered source pixels.
+
+## FINAL source corrections
+
+Source-text corrections from the Pass1 baseline — **5 occurrences on 3 scans**:
+
+1. scan180 — `ஜில்லிப்பட்டிப்` → source-visible `ஜல்லிப்பட்டிப்`.
+2. scan181 — `பின்வாங்கிவிட்டான்` → source-visible `பின்வாங்கி விட்டான்`.
+3. scan181 — `எளிதான செயல் அல்ல!` → source `எளிதான செயலல்ல!`.
+4. scan181 — `போவதில்லை!` → source `போறதில்லை!`.
+5. scan185 — first narrative occurrence `வாளுக்குவேலி கூறியதை` → source-visible `வாளுக்கு வேலி கூறியதை`.
+
+Affected FINAL scans — **180, 181, 185**.
+
+Zero-correction Pass1-baseline scans — **182, 183, 184, 186**.
+
+## Interim drift cleanup during FINAL
+
+Four unrecorded interim Pass2A edits made while FINAL was in progress were rechecked against the rendered source and reverted:
+
+1. scan180 — removed the non-source comma after `சந்தித்து`.
+2. scan180 — restored source `நிலைக்கு` from interim `நிலையில்`.
+3. scan180 — restored source-visible `பட்ட மங்கலமும்` from interim `பட்டமங்கலமும்`.
+4. scan184 — restored source-visible `வாயிற் புறத்தில்` from interim `வாயிற்புறத்தில்`.
+
+These are **drift reversions**, not Pass1→Pass2A source corrections, and therefore do not increase the correction tally.
+
+## FINAL boundary / structure validation
+
+- 179→180 — direct question/answer continuity — **PASS**
+- scan179 wording copied forward — **0**
+- 183→184 — direct-speech continuation — **PASS**
+- 184→185 — `இன்னொரு / நாள்...` — **PASS**
+- scan186 — chapter20 close / printed170 / three source-visible centered ornaments — **PASS**
+- running headers / printed folios / ornaments / illustration detail promoted to literary prose — **0**
+- invented bridge text — **0**
+- outgoing 186→187 — **PENDING direct audit / source-limited**
+- Part008 / scan187 wording inferred or imported — **0**
+
+## Final Pass2A accounting
+
+- reviewed — **27/27**
+- FINAL source-text corrections — **5 occurrences**
+- FINAL affected scans — **3 / 180,181,185**
+- cumulative Pass2A source-text corrections — **14 occurrences**
+- cumulative affected scans — **9 / 164,165,167,177,178,179,180,181,185**
+- unresolved Pass2A questions — **0**
+- status promotions — **0**
+- all Part007 pages remain `status: "needs-review"`
+- all Part007 pages remain `visual_fidelity: "needs-review"`
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- outgoing 186→187 — **PENDING direct audit / source-limited**
+
 ## Decision
 
-**PART007 PASS 2A — ACTIVE — 20/27 REVIEWED**
+**PART007 PASS 2A — COMPLETE / PASS — 27/27 REVIEWED**
 
 ## Exact next activity
 
-**Part007 Pass2A FINAL — scans180–186 / local pages21–27.**
+**Part007 Pass2B Batch1 — scans160–169 / local pages1–10.**
 
-Perform the same strict source-text reread against rendered source pixels. Apply only source-backed corrections; preserve scan186 chapter20 close and keep **186→187 PENDING direct audit / source-limited**. Do not promote canonical or visual status.
+Perform a fresh independent lexical / spacing / punctuation / historical-glyph audit against the rendered Part007 source pixels. Recheck Pass2A locked sites and physical continuations independently. Apply only source-backed corrections; do not promote canonical or visual status during Pass2B.

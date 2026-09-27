@@ -39,4 +39,17 @@ transcription_method: "direct source-image transcription; Part007 Pass1 FINAL sc
 - Part008 / scan187 wording imported or inferred — **0**;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
+## Formal Part007 Pass 2A review
+
+- strict direct-source reread completed against rendered Part007 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections from the Pass1 baseline: **0**;
+- scan186 chapter20 close / printed page **170** / three source-visible centered ornaments — **PASS**;
+- ornaments remain structural/page-furniture evidence and generate no literary prose;
+- outgoing **186→187 = PENDING direct audit / source-limited**;
+- Part008 / scan187 wording imported or inferred — **0**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 186; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 170; PASS 1 TEXT-COMPLETE / needs-review -->
