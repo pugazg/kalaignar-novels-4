@@ -178,16 +178,16 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 007 | 8 | 167 | 151 | completes `புரிந்து / கொண்டாள்!`; chapter19 continuation; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0167-chapter-19.md` |
 | 007 | 9 | 168 | 152 | chapter19 continuation; terminal `எடுத்து வந்து` open to scan169; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0168-chapter-19.md` |
 | 007 | 10 | 169 | 153 | completes `எடுத்து வந்து / நீட்டினாள்.`; chapter19 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0169-chapter-19.md` |
-| 007 | 11 | 170 | 154 | chapter19 continuation; Pass1 text-complete | needs-review | `pages/0170-chapter-19.md` |
-| 007 | 12 | 171 | 155 | chapter19 continuation; Pass1 text-complete | needs-review | `pages/0171-chapter-19.md` |
-| 007 | 13 | 172 | 156 | chapter19 continuation; terminal `அதன் வாழ்வைப்` open to scan173; Pass1 text-complete | needs-review | `pages/0172-chapter-19.md` |
-| 007 | 14 | 173 | 157 | completes `அதன் வாழ்வைப் / பெறப்போகிறோம்`; chapter19 close; three centered ornaments; Pass1 text-complete | needs-review | `pages/0173-chapter-19.md` |
-| 007 | 15 | 174 | — | illustrated chapter20 opener; displayed numeral20; no visible folio; Pass1 text-complete | needs-review | `pages/0174-chapter-20.md` |
-| 007 | 16 | 175 | 159 | chapter20 continuation; Pass1 text-complete | needs-review | `pages/0175-chapter-20.md` |
-| 007 | 17 | 176 | 160 | chapter20 continuation; Pass1 text-complete | needs-review | `pages/0176-chapter-20.md` |
-| 007 | 18 | 177 | 161 | chapter20 continuation; scene transition to dawn / Paganeri; Pass1 text-complete | needs-review | `pages/0177-chapter-20.md` |
-| 007 | 19 | 178 | 162 | chapter20 continuation; Pass1 text-complete | needs-review | `pages/0178-chapter-20.md` |
-| 007 | 20 | 179 | 163 | chapter20 dialogue continuation; terminal question answered on scan180; Pass1 text-complete | needs-review | `pages/0179-chapter-20.md` |
+| 007 | 11 | 170 | 154 | chapter19 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0170-chapter-19.md` |
+| 007 | 12 | 171 | 155 | chapter19 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0171-chapter-19.md` |
+| 007 | 13 | 172 | 156 | chapter19 continuation; terminal `அதன் வாழ்வைப்` open to scan173; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0172-chapter-19.md` |
+| 007 | 14 | 173 | 157 | completes `அதன் வாழ்வைப் / பெறப்போகிறோம்`; chapter19 close; three centered ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0173-chapter-19.md` |
+| 007 | 15 | 174 | — | illustrated chapter20 opener; displayed numeral20; no visible folio; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0174-chapter-20.md` |
+| 007 | 16 | 175 | 159 | chapter20 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0175-chapter-20.md` |
+| 007 | 17 | 176 | 160 | chapter20 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0176-chapter-20.md` |
+| 007 | 18 | 177 | 161 | chapter20 continuation; scene transition to dawn / Paganeri; Pass1 text-complete; Pass2A reviewed / **1 corrections** | needs-review | `pages/0177-chapter-20.md` |
+| 007 | 19 | 178 | 162 | chapter20 continuation; Pass1 text-complete; Pass2A reviewed / **2 corrections** | needs-review | `pages/0178-chapter-20.md` |
+| 007 | 20 | 179 | 163 | chapter20 dialogue continuation; terminal question answered on scan180; Pass1 text-complete; Pass2A reviewed / **1 corrections** | needs-review | `pages/0179-chapter-20.md` |
 | 007 | 21 | 180 | 164 | directly answers scan179 terminal question; chapter20 continuation; Pass1 text-complete | needs-review | `pages/0180-chapter-20.md` |
 | 007 | 22 | 181 | 165 | chapter20 military/political dialogue continuation; Pass1 text-complete | needs-review | `pages/0181-chapter-20.md` |
 | 007 | 23 | 182 | 166 | chapter20 dialogue continuation / Kalyani enters; Pass1 text-complete | needs-review | `pages/0182-chapter-20.md` |
