@@ -2033,11 +2033,11 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 <!-- PART007_PASS3_CURRENT_START -->
 ## Part007 Pass3 — current authoritative state
 
-**PART007 PASS3 — ACTIVE — 20/27 REVIEWED.**
+**PART007 PASS3 — COMPLETE / PASS — 27/27 REVIEWED.**
 
-- reviewed — **scans160–179 / local pages1–20**
-- reviewed pages passing — **20/20**
-- Batch2 — **scans170–179 / local pages11–20 — 10/10 PASS**
+- reviewed — **scans160–186 / local pages1–27**
+- reviewed pages passing — **27/27**
+- FINAL — **scans180–186 / local pages21–27 — 7/7 PASS**
 - Pass3 textual corrections — **0**
 - unresolved visual / structural questions — **0**
 - status promotions — **0**
@@ -2051,11 +2051,14 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - scan173 — **chapter19 close / three centered ornaments — PASS**
 - scan174 — **illustrated chapter20 opener / displayed numeral20 / mounted-warrior illustration / no source-visible folio — PASS**
 - 179→180 — **direct question/answer continuation — PRESERVED / PASS**
-- scan180 wording promoted backward — **0**
+- 183→184 — **direct-speech continuation — PRESERVED / PASS**
+- 184→185 — **`இன்னொரு / நாள்...` — PRESERVED / PASS**
+- scan186 — **chapter20 close / printed170 / three centered ornaments — PASS**
 - recurring running-header / folio furniture promoted to literary prose — **0**
+- ornaments / illustration detail promoted to literary prose — **0**
 - frozen Parts001–006 body/status edits — **0**
 - Part008 leakage — **0**
 - outgoing **186→187 — PENDING direct audit / source-limited**
-- exact next activity — **Part007 Pass3 FINAL scans180–186 / local pages21–27**
+- exact next activity — **Part007 whole-Part audit**
 - durable progress — `works/thenpandi-singam/PART_007_PASS3_PROGRESS.md`
 <!-- PART007_PASS3_CURRENT_END -->

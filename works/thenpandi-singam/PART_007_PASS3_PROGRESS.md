@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — ACTIVE — 20/27 REVIEWED**
+**PASS 3 — COMPLETE / PASS — 27/27 REVIEWED**
 
 Prerequisites:
 
@@ -135,12 +135,67 @@ Recurring running headers and printed folios remain structural page furniture an
 - Part008 leakage — **0**
 - outgoing 186→187 — **PENDING direct audit / source-limited**
 
+## FINAL — scans180–186
+
+Fresh full rendered-page visual / structural review completed for:
+
+- global scans — **180–186 / 7**
+- local pages — **21–27 / 7**
+- reviewed records — **27/27 cumulative**
+- reviewed pages passing — **7/7**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+
+## Structural inventory — FINAL
+
+| Scan | Printed | Structural result |
+|---:|:---:|---|
+| 180 | 164 | chapter20 body; author-line running header; opening answers scan179 terminal question |
+| 181 | 165 | chapter20 body; work-title running header; direct-dialogue sequence |
+| 182 | 166 | chapter20 body; author-line running header |
+| 183 | 167 | chapter20 body; work-title running header; terminal direct speech open |
+| 184 | 168 | chapter20 body; author-line running header; opening completes scan183 speech; terminal `இன்னொரு` open |
+| 185 | 169 | chapter20 body; work-title running header; opening completes scan184 continuation |
+| 186 | 170 | chapter20 close; author-line running header; three centered closing ornaments; lower blank/show-through field; terminal supplied Part007 scan |
+
+Recurring running headers and printed folios remain structural page furniture and are not duplicated into canonical literary prose.
+
+## FINAL cross-page / layout states confirmed
+
+- 179→180 — terminal direct question / answer continuation — **PRESERVED / PASS**
+- scan179 wording copied forward into scan180 — **0**
+- 183→184 — direct-speech continuation — **PRESERVED / PASS**
+- 184→185 — `இன்னொரு / நாள்...` — **PRESERVED / PASS**
+- scan186 — chapter20 close / printed170 / three centered ornaments — **PASS**
+- scan186 lower blank/show-through field promoted to prose — **0**
+- running-header / folio furniture promoted to literary prose — **0**
+- ornaments promoted to literary prose — **0**
+- invented bridge text — **0**
+- outgoing 186→187 — **PENDING direct audit / source-limited**
+- Part008 / scan187 wording inferred or imported — **0**
+
+## Final Pass3 accounting
+
+- Part007 canonical records — **27/27**
+- Part007 Pass3 — **COMPLETE / PASS — 27/27 REVIEWED**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+- all Part007 pages remain `status: "needs-review"`
+- all Part007 pages remain `visual_fidelity: "needs-review"`
+- verified Part007 pages — **0**
+- frozen Parts001–006 body/status edits — **0**
+- Part008 leakage — **0**
+- incoming 159→160 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 186→187 — **PENDING direct audit / source-limited**
+
 ## Decision
 
-**PART007 PASS 3 — ACTIVE — 20/27 REVIEWED**
+**PART007 PASS 3 — COMPLETE / PASS — 27/27 REVIEWED**
 
 ## Exact next activity
 
-**Part007 Pass3 FINAL — scans180–186 / local pages21–27.**
+**Part007 whole-Part audit.**
 
-Perform the full rendered-page visual / structural review against Part007 source images. Recheck 179→180, 183→184 and 184→185 continuations, scan186 chapter20 close / printed170 / three ornaments, and all running-header / folio / page-furniture states. Do not promote canonical or visual status during Pass3.
+Audit all 27 canonical records and all Pass1 / Pass2A / Pass2B / Pass3 evidence before any metadata/status promotion.

@@ -66,4 +66,21 @@ transcription_method: "direct source-image transcription; Part007 Pass1 FINAL sc
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
+## Formal Part007 Pass 3 review
+
+- full rendered-page visual / structural review completed against Part007 source image;
+- displayed-text hierarchy, paragraph/dialogue blocks, reading order, source-visible pagination, recurring page furniture, closing ornaments and terminal-source state checked;
+- Pass3 textual corrections: **0**;
+- visual / structural findings: **PASS**;
+- printed folio **170** visible at top-left; author-line running header visible at top-right and excluded from literary prose;
+- chapter20 close / three centered source-visible closing ornaments — **PASS**;
+- lower blank/show-through field promoted to prose — **0**;
+- ornaments promoted to literary prose — **0**;
+- terminal supplied Part007 scan — **186**;
+- outgoing **186→187 = PENDING direct audit / source-limited**;
+- Part008 / scan187 wording imported or inferred — **0**;
+- unresolved Pass3 visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass3.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 186; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 170; PASS 1 TEXT-COMPLETE / needs-review -->
