@@ -358,3 +358,21 @@ Part006 is now the active transcription Part.
 - exact next activity — **Part006 Pass3 scans133–142 / local pages1–10**
 - durable progress — `PART_006_PASS2B_PROGRESS.md`
 
+## Part006 Pass3 Batch 1 downstream state
+
+- Part006 Pass3 — **ACTIVE — 10/27 REVIEWED**
+- reviewed — **scans133–142 / local pages1–10**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- scan137 chapter15 close / three centered ornaments — **PASS**
+- scan138 illustrated chapter16 opener / displayed numeral16 / no visible folio — **PASS**
+- 132→133, 134→135, 136→137, 138→139, 139→140, 140→141, 141→142 continuations — **PASS**
+- page furniture promoted to literary prose — **0**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- exact next activity — **Part006 Pass3 scans143–152 / local pages11–20**
+- durable progress — `PART_006_PASS3_PROGRESS.md`
+
