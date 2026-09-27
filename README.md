@@ -178,7 +178,7 @@ A later Part may be inspected only as an adjacent **boundary witness** until the
 
 ## Exact next activity
 
-**Part006 Pass2B scans143–152 / local pages11–20.**
+**Part006 Pass2B FINAL scans153–159 / local pages21–27.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED** with **5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved questions**. Part003 Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All Part003 records are `verified` and visual `verified`. Incoming **53→54 = GENUINE CONTINUATION / AUDITED**; outgoing **78→79 = PENDING direct audit / source-limited**. Part001 and Part002 remain **FINAL CLOSED / FROZEN**.
 
@@ -1494,5 +1494,27 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - Part007 leakage — **0**
 - outgoing 159→160 — **PENDING direct audit / source-limited**
 - exact next activity — **Part006 Pass2B scans143–152 / local pages11–20**
+- durable progress — `works/thenpandi-singam/PART_006_PASS2B_PROGRESS.md`
+
+## Part006 Pass2B Batch 2 downstream state
+
+- Part006 Pass2B — **ACTIVE — 20/27 REVIEWED**
+- reviewed — **scans133–152 / local pages1–20**
+- Batch 2 lexical / spacing / punctuation corrections — **2 occurrences / scans145, 150**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **2 occurrences / scans145, 150**
+- cumulative Pass2B corrections — **2**
+- unresolved Pass2B questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- scan146 chapter16 close / three ornaments — **PASS**
+- scan147 illustrated chapter17 opener / no visible folio — **PASS**
+- 147→148, 150→151, 151→152 continuations — **PASS**
+- scan152 terminal direct speech open to scan153 — **PASS**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- exact next activity — **Part006 Pass2B FINAL scans153–159 / local pages21–27**
 - durable progress — `works/thenpandi-singam/PART_006_PASS2B_PROGRESS.md`
 
