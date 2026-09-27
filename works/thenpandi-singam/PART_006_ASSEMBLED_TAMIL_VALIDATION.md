@@ -159,3 +159,29 @@ The source-limited 159→160 boundary remains pending by design and is preserved
 ## Exact next gate
 
 **E21 draft + source-check — section26 / scans133–137.**
+
+<!-- PART006_FINAL_CLOSURE_CURRENT_START -->
+## Part006 final closure — current authoritative state
+
+**PART006 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- source scans — **133–159 / 27**
+- canonical Tamil / visual fidelity — **27/27 / 27/27 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **4/4 / 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- literary/display blocks / provenance comments — **166/166 / 25/25**
+- unresolved closure blockers — **0**
+- canonical / assembled / maintained-English body changes after release/readiness — **0 / 0 / 0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited / preserved**
+- Part007 leakage — **0**
+- final-closed Parts — **6**
+- Part007 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part007 source intake when supplied**
+- durable closure — `works/thenpandi-singam/PART_006_FINAL_CLOSURE.md`
+<!-- PART006_FINAL_CLOSURE_CURRENT_END -->
