@@ -49,7 +49,7 @@ As Adappan scrambled swiftly down from the top of the tree—
 
 —his ears caught the hoofbeats of another horse approaching at speed. He looked in astonishment. That horse was coming with a furious pace as if determined to overtake Urangappuli’s! More astonishing still, a woman was riding it!
 
-Who was that woman? Adappan searched his memory! Yes—it was Veerammal, whom he had met that day at the Pillaiyar temple in Pattamangalam! Vallatharayan’s sister! Urangappuli’s wife!
+Who was that woman? Adappan sharpened his memory! Yes—it was Veerammal, whom he had met that day at the Pillaiyar temple in Pattamangalam! Vallatharayan’s sister! Urangappuli’s wife!
 
 Why was she chasing Urangappuli? Adappan was bewildered!
 
@@ -65,7 +65,7 @@ Veerammal’s cry made the whole forest tremble. Urangappuli looked back at her�
 
 —and kicked his horse hard with his heels to make it go even faster! Veerammal, losing patience, drew a sharp dagger from her waist, took aim at Urangappuli’s horse and threw it. The dagger struck the horse squarely in the neck. The horse stopped with a piercing cry and staggered. Urangappuli dismounted before it could fall. Veerammal too stopped her horse and jumped down.
 
-Karutha Adappan, who had followed and watched all this, halted his horse behind a large bush and observed them. Urangappuli’s unattractive face now looked grotesque as well. His burning eyes, like firebrands pulled from a blazing hearth, seemed eager to tear into her. He ground his teeth. The sound was like bamboo trunks rubbing against one another in the forest!
+Karutha Adappan, who had followed and watched all this, halted his horse behind a large bush and observed them. Urangappuli’s unattractive face now looked grotesque as well. His burning eyes, like firebrands pulled from a blazing hearth, seemed eager to peck at her. He ground his teeth. The sound was like bamboo trunks rubbing against one another in the forest!
 
 “Veeramma! How much nerve must you have to do a thing like this?”
 
@@ -101,7 +101,7 @@ Urangappuli gave a terrifying laugh. “That is fine too! One nuisance less!”
 
 Hearing his reply, Veerammal burst into tears and cried out.
 
-“Knowing your nature, did they not drive you away when you went to the Paganeri household asking for a bride? How many times did I refuse too! How many times did I beg Anna, ‘Choose a bridegroom for me within Pattamangalam nadu itself!’ Yet it seems it was my fate to become the wife of a man who betrays his own people like this!”
+“Knowing your nature, didn’t they drive you away from the Paganeri house when you went asking for a bride, telling you not even to climb its steps? How many times did I refuse too! How many times did I beg Anna, ‘Choose a bridegroom for me within Pattamangalam nadu itself!’ Yet it seems it was my fate to become the wife of a man who betrays his own people like this!”
 
 Unable to bear Veerammal’s burning words, Urangappuli struck her cheeks again and again with his iron hands.
 
@@ -113,7 +113,7 @@ Unable to bear Veerammal’s burning words, Urangappuli struck her cheeks again 
 
 <!-- source boundary: scan 144 → scan 145 -->
 
-“If even your loving wife’s tears and pleas cannot change your mind, will my request change it? Still, it is my duty, so I ask! Give me that letter you are taking to Colonel Welsh!”
+“Even when your loving wife weeps, laments, sheds tears and cries out, you will not change your mind—will my request change it? Still, it is my duty, so I ask! Give me that letter you are taking to Colonel Welsh!”
 
 Before Adappan had finished speaking, Urangappuli crashed into him! The two rolled and grappled through the black gravel and thorn-bushes on the forest floor! It did not take Adappan long to throw Urangappuli down and seize the letter from his hand. Urangappuli staggered, unable even to rise and walk. Adappan raised his hand to strike him one last time. But hearing Veerammal plead, “Ayyo! Please leave him, Adappa!” Adappan stopped at once. Then he slowly went to her and untied her from the tree.
 
