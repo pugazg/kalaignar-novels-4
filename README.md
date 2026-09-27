@@ -1954,3 +1954,26 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - exact next activity — **Part007 Pass2A Batch1 scans160–169 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_007_PASS1_PROGRESS.md`
 <!-- PART007_PASS1_CURRENT_END -->
+
+<!-- PART007_PASS2A_CURRENT_START -->
+## Part007 Pass2A — current authoritative state
+
+**PART007 PASS2A — ACTIVE — 10/27 REVIEWED.**
+
+- reviewed scans — **160–169 / local pages1–10**
+- reviewed pages passing — **10/10**
+- source-text corrections — **5 occurrences / scans164,165,167**
+- zero-correction scans — **160,161,162,163,166,168,169**
+- unresolved Pass2A questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- scan163 — **chapter18 close / ornaments PASS**
+- scan164 — **illustrated chapter19 opener / no visible folio PASS**
+- 166→167 — **`புரிந்து / கொண்டாள்!` PASS**
+- 168→169 — **`எடுத்து வந்து / நீட்டினாள்.` PASS**
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass2A Batch2 scans170–179 / local pages11–20**
+- durable progress — `works/thenpandi-singam/PART_007_PASS2A_PROGRESS.md`
+<!-- PART007_PASS2A_CURRENT_END -->
