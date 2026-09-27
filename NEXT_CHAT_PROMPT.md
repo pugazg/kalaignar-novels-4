@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 Pass2B FINAL — scans180–186
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 Pass3 Batch1 — scans160–169
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -29,44 +29,33 @@ Do not reopen their canonical Tamil, assembled Tamil or maintained English merel
 **COMPLETE / PASS — 27/27 REVIEWED**
 
 - cumulative source-text corrections — **14 occurrences**
-- affected scans — **164, 165, 167, 177, 178, 179, 180, 181, 185**
+- affected scans — **164,165,167,177,178,179,180,181,185**
 - unresolved Pass2A questions — **0**
-- status promotions — **0**
 
-## Part007 Pass2B current state
+## Part007 Pass2B closed state
 
-**ACTIVE — 20/27 REVIEWED**
+**COMPLETE / PASS — 27/27 REVIEWED**
 
-Reviewed:
-
-- scans **160–179 / local pages1–20**
-- reviewed pages passing — **20/20**
-- cumulative lexical / spacing / punctuation corrections — **3 occurrences**
-- affected scans — **170, 178**
+- cumulative lexical / spacing / punctuation corrections — **7 occurrences**
+- affected scans — **170,178,182,183,184**
 - historical-glyph corrections — **0**
-- Pass2A supersessions — **3 occurrences / scans170,178**
+- Pass2A supersessions — **7 occurrences / scans170,178,182,183,184**
 - unresolved Pass2B questions — **0**
 - status promotions — **0**
 - all Part007 pages remain `needs-review / needs-review`
 
-Batch2 corrections:
+Pass2B FINAL corrections:
 
-1. scan170 — `அடுத்தளைப்` → `அடுக்களைப்`
-2. scan170 — `நீட்டிக் கொண்டு` → `நீட்டிக்கொண்டு`
-3. scan178 — `அன்று அங்குச் சென்றுவிட்ட` → `அன்றிரவு அங்குச் சென்றுவிட்ட`
-
-Batch2 Pass2A locked readings retained:
-
-- scan177 — `மஞ்சம்-மல்லிகைக் குவியல் - ஊதுவத்தியின்`
-- scan178 — `அங்குச் சென்றுவிட்ட`
-- scan178 — this occurrence `வாளுக்கு வேலி`
-- scan179 — `போட்டுக் கொண்டு விட்டார்களே`
+1. scan182 — `முடியும்?....` → `முடியும்?...`
+2. scan183 — `அன்று மலர்ந்த` → `அன்றலர்ந்த`
+3. scan184 — `கவனிக்காதது போல` → `கவனிக்காதது போல்`
+4. scan184 — `நடன ஆசிரியையை` → `நடன ஆசிரியை`
 
 Structural locks:
 
 - incoming **159→160 = GENUINE CONTINUATION / AUDITED**
 - scan163 — chapter18 close / three ornaments
-- scan164 — illustrated chapter19 opener / no visible folio
+- scan164 — illustrated chapter19 opener / displayed numeral19 / no visible folio
 - 166→167 — `புரிந்து / கொண்டாள்!`
 - 168→169 — `எடுத்து வந்து / நீட்டினாள்.`
 - 172→173 — `அதன் வாழ்வைப் / பெறப்போகிறோம்`
@@ -85,22 +74,21 @@ Durable Pass2B progress:
 
 ## Exact next activity
 
-Perform **Part007 Pass2B FINAL — scans180–186 / local pages21–27**.
+Perform **Part007 Pass3 Batch1 — scans160–169 / local pages1–10**.
 
 Requirements:
 
-- fresh independent lexical / spacing / punctuation / historical-glyph audit against rendered source pixels;
-- independently recheck all Pass2A locked sites in the FINAL range;
-- check exact lexical forms, source-visible word joining/spacing, punctuation, dialogue/quotation structure, source-era forms, historical glyph identity, printed folios, physical continuations and chapter/display structure;
-- apply only source-backed corrections;
-- record any Pass2A readings superseded by fresh Pass2B evidence explicitly;
-- preserve 179→180 direct question/answer continuity without copying scan179 wording forward;
-- preserve 183→184 direct-speech continuation and 184→185 `இன்னொரு / நாள்...`;
-- preserve scan186 chapter20 close / printed170 / three ornaments;
+- full rendered-page visual / structural review against Part007 source images;
+- verify displayed-text hierarchy, paragraph/dialogue blocks, reading order, running headers, source-visible folios, illustrations, ornaments and physical continuations;
+- independently recheck scan163 chapter18 close / three ornaments;
+- independently recheck scan164 illustrated chapter19 opener / displayed numeral19 / no source-visible folio;
+- preserve 166→167 and 168→169 physical continuations;
+- do not normalize or rewrite already source-verified Tamil merely for style;
+- record any visual/structural defect or source-backed textual correction explicitly;
 - retain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 - status promotions — **0**;
-- frozen Parts001–006 body changes — **0**;
+- frozen Parts001–006 body/status changes — **0**;
 - keep **186→187 PENDING direct audit / source-limited**;
 - no Part008 / scan187 inference.
 
-If FINAL closes successfully, Part007 Pass2B should be **COMPLETE / PASS — 27/27 REVIEWED**, with exact next activity **Part007 Pass3 Batch1 scans160–169 / local pages1–10**.
+If Batch1 closes successfully, Part007 Pass3 should be **ACTIVE — 10/27 REVIEWED**, with exact next activity **Part007 Pass3 Batch2 scans170–179 / local pages11–20**.

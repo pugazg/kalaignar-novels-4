@@ -1942,29 +1942,33 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 <!-- PART007_PASS2B_CURRENT_START -->
 ## Part007 Pass2B — current authoritative state
 
-**PART007 PASS2B — ACTIVE — 20/27 REVIEWED.**
+**PART007 PASS2B — COMPLETE / PASS — 27/27 REVIEWED.**
 
-- reviewed — **scans160–179 / local pages1–20**
-- reviewed pages passing — **20/20**
-- Batch 2 — **scans170–179 / local pages11–20 — 10/10 PASS**
-- Batch 2 lexical / spacing / punctuation corrections — **3 occurrences / scans170,178**
-- cumulative Pass2B corrections — **3**
+- reviewed — **scans160–186 / local pages1–27**
+- reviewed pages passing — **27/27**
+- FINAL — **scans180–186 / local pages21–27 — 7/7 PASS**
+- FINAL lexical / spacing / punctuation corrections — **4 occurrences / scans182,183,184**
+- cumulative Pass2B corrections — **7 occurrences / scans170,178,182,183,184**
 - historical-glyph corrections — **0**
-- Pass2A supersessions — **3 occurrences / scans170,178**
-- Batch 2 zero-correction scans — **171,172,173,174,175,176,177,179**
-- Pass2A locked readings retained in Batch 2 — **4 / scans177,178,179**
+- Pass2A supersessions — **7 occurrences / scans170,178,182,183,184**
 - unresolved Pass2B questions — **0**
 - status promotions — **0**
 - all Part007 pages remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - incoming **159→160 — GENUINE CONTINUATION / AUDITED / PASS**
+- scan163 — **chapter18 close / three centered ornaments — PASS**
+- scan164 — **illustrated chapter19 opener / displayed numeral19 / no source-visible folio — PASS**
+- 166→167 — **`புரிந்து / கொண்டாள்!` — PASS**
+- 168→169 — **`எடுத்து வந்து / நீட்டினாள்.` — PASS**
 - 172→173 — **`அதன் வாழ்வைப் / பெறப்போகிறோம்` — PASS**
 - scan173 — **chapter19 close / three centered ornaments — PASS**
 - scan174 — **illustrated chapter20 opener / displayed numeral20 / no source-visible folio — PASS**
 - 179→180 — **direct question/answer continuity — PASS**
-- scan180 wording copied backward — **0**
+- 183→184 — **direct-speech continuation — PASS**
+- 184→185 — **`இன்னொரு / நாள்...` — PASS**
+- scan186 — **chapter20 close / printed170 / three centered ornaments — PASS**
 - outgoing **186→187 — PENDING direct audit / source-limited**
 - frozen Parts001–006 body edits — **0**
 - Part008 leakage — **0**
-- exact next activity — **Part007 Pass2B FINAL scans180–186 / local pages21–27**
+- exact next activity — **Part007 Pass3 Batch1 scans160–169 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_007_PASS2B_PROGRESS.md`
 <!-- PART007_PASS2B_CURRENT_END -->

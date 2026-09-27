@@ -21,7 +21,7 @@ transcription_method: "direct source-image transcription; Part007 Pass1 FINAL sc
 
 அவர்கள் பேசிக்கொண்டிருக்கும்போதே வாயிற் புறத்தில் வண்டியொன்று வந்து நின்றது. அதிலிருந்து வடிவாம்பாளும், லலிதாங்கியும், நாதமுனியும் வந்து இறங்கினார்கள். வாயிற்புறம் நடந்தவாறு பேசிக் கொண்டே வந்து கொண்டிருந்த வாளுக்குவேலி, ஆதப்பன், மேகநாதன், கல்யாணி ஆகிய நால்வரையும், வடிவாம்பாள் குழுவினர் வணங்கி மரியாதை செலுத்தினர்.
 
-வடிவாம்பாள் தனது விழிகளைத் தூண்டில் முள்ளாக்கி வாளுக்குவேலியின் மீது வீசினாள். அதைக் கவனித்தும் கவனிக்காதது போல இருந்து விட்ட வாளுக்குவேலி, தனது தங்கையை நோக்கி “என்னம்மா! நடன ஆசிரியையை வந்துவிட்டாற் போலிருக்கிறதே! உம், நடக்கட்டும்! நாங்கள் போய் விட்டு விரைவில் திரும்புகிறோம்” என்றான் புன்னகையுடன்!
+வடிவாம்பாள் தனது விழிகளைத் தூண்டில் முள்ளாக்கி வாளுக்குவேலியின் மீது வீசினாள். அதைக் கவனித்தும் கவனிக்காதது போல் இருந்து விட்ட வாளுக்குவேலி, தனது தங்கையை நோக்கி “என்னம்மா! நடன ஆசிரியை வந்துவிட்டாற் போலிருக்கிறதே! உம், நடக்கட்டும்! நாங்கள் போய் விட்டு விரைவில் திரும்புகிறோம்” என்றான் புன்னகையுடன்!
 
 மேலாடையைச் சற்றே சரியவிட்டு-அவன் கண்டதும் காந்தமெனக் கண்களை இழுத்துக்கொள்ள வேண்டுமென்ற தந்திரத்துடன் - வடிவாம்பாள் வாளுக்கு வேலியிடம் கேட்டாள்: “ஏன்? நீங்கள் இருந்து நடனப் பயிற்சி நன்றாக இருக்கிறதா எனப் பார்க்கலாமே” என்று.
 
@@ -45,5 +45,19 @@ transcription_method: "direct source-image transcription; Part007 Pass1 FINAL sc
 - unresolved textual questions: **0**;
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+## Formal Part007 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part007 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **2**;
+- corrections: `கவனிக்காதது போல` → source `கவனிக்காதது போல்`; `நடன ஆசிரியையை` → source `நடன ஆசிரியை`;
+- historical-glyph corrections: **0**;
+- Pass2A readings superseded: **2 occurrences / this scan**;
+- Pass2A source-visible `வாயிற் புறத்தில்` independently rechecked / **PASS / retained**;
+- 183→184 direct-speech continuation independently rechecked / **PASS**;
+- terminal `இன்னொரு` remains physically open to scan185 / **PASS**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 184; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 168; PASS 1 TEXT-COMPLETE / needs-review -->

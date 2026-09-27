@@ -19,7 +19,7 @@ transcription_method: "direct source-image transcription; Part007 Pass1 FINAL sc
 
 “உறங்காப்புலி உன்னிடம் நல்லவனைப் போல அந்தக் கடிதத்தைக் கொடுத்துவிட்டு, ஆங்கிலேயக் கர்னல்களிடம் போய் நம்மைப் பற்றி ஏதாவது கலகம் செய்து விடுவானேயானால்... நமது இரகசிய ஏற்பாடுகள் அனைத்தும் நாசமாகி விடுமே!”
 
-“அவன் அப்படிச் செய்ய மாட்டான் என்று நம்புகிறேன்! ஒருவேளை அதுவும் நடந்தால் என்ன செய்ய முடியும்?....”
+“அவன் அப்படிச் செய்ய மாட்டான் என்று நம்புகிறேன்! ஒருவேளை அதுவும் நடந்தால் என்ன செய்ய முடியும்?...”
 
 “நடக்காது! நடக்க வேண்டாம்! நல்லதையே நினைப்போம்!”
 
@@ -49,5 +49,16 @@ transcription_method: "direct source-image transcription; Part007 Pass1 FINAL sc
 - unresolved textual questions: **0**;
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+## Formal Part007 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part007 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **1**;
+- correction: `முடியும்?....` → source-visible `முடியும்?...` — removes one excess period after the question mark;
+- historical-glyph corrections: **0**;
+- Pass2A readings superseded: **1 occurrence / this scan**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 182; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 23; அச்சுப் பக்கம்: 166; PASS 1 TEXT-COMPLETE / needs-review -->

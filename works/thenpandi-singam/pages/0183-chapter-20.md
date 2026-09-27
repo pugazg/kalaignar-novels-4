@@ -15,7 +15,7 @@ transcription_method: "direct source-image transcription; Part007 Pass1 FINAL sc
 
 ## Source transcription
 
-“வேண்டாம் கல்யாணி!” என்று வாளுக்குவேலி தடுத்திட, எதுவும் பேச முடியாமல் தடுமாறிய நிலையில் கறுத்த ஆதப்பன் அங்கேயே நின்று கொண்டிருந்தான்... இருவருக்கும் செல்லமான தங்கை என்பதால் கல்யாணி நாச்சியார் அவர்களுக்கு ஆரத்தி சுற்றினாள் அகமும் முகமும் அன்று மலர்ந்த செந்தாமரையாக!
+“வேண்டாம் கல்யாணி!” என்று வாளுக்குவேலி தடுத்திட, எதுவும் பேச முடியாமல் தடுமாறிய நிலையில் கறுத்த ஆதப்பன் அங்கேயே நின்று கொண்டிருந்தான்... இருவருக்கும் செல்லமான தங்கை என்பதால் கல்யாணி நாச்சியார் அவர்களுக்கு ஆரத்தி சுற்றினாள் அகமும் முகமும் அன்றலர்ந்த செந்தாமரையாக!
 
 அப்போது அங்கு வந்த மேகநாதனைப் பார்த்து வாளுக்குவேலி, “ஏதாவது புதிய செய்திகள் உண்டா?” என்று கேட்டான்.
 
@@ -42,5 +42,17 @@ transcription_method: "direct source-image transcription; Part007 Pass1 FINAL sc
 - unresolved textual questions: **0**;
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+## Formal Part007 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part007 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **1**;
+- correction: `அன்று மலர்ந்த` → source-visible `அன்றலர்ந்த`;
+- historical-glyph corrections: **0**;
+- Pass2A readings superseded: **1 occurrence / this scan**;
+- terminal direct speech remains physically open to scan184 / **PASS**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 183; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 167; PASS 1 TEXT-COMPLETE / needs-review -->

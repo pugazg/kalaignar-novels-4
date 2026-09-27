@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — ACTIVE — 20/27 REVIEWED**
+**PASS 2B — COMPLETE / PASS — 27/27 REVIEWED**
 
 Source:
 
@@ -155,12 +155,84 @@ Pass2A decisions reversed — **3 occurrences / scans170,178**, limited to sourc
 - Part008 leakage — **0**
 - outgoing 186→187 — **PENDING direct audit / source-limited**
 
+## FINAL — scans180–186
+
+Fresh independent lexical / spacing / punctuation / historical-glyph audit completed for:
+
+- global scans — **180–186 / 7**
+- local pages — **21–27 / 7**
+- canonical records reviewed — **27/27 cumulative**
+- reviewed pages passing — **7/7**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+
+Pass2B independently checked source-visible lexical forms, word joining / spacing, punctuation, dialogue / quotation structure, source-era forms, historical glyph identity, printed folios, physical continuations and chapter-close structure against rendered source pixels.
+
+## FINAL corrections
+
+Lexical / spacing / punctuation corrections — **4 occurrences on 3 scans**:
+
+1. scan182 — `முடியும்?....` → source-visible `முடியும்?...`.
+2. scan183 — `அன்று மலர்ந்த` → source-visible `அன்றலர்ந்த`.
+3. scan184 — `கவனிக்காதது போல` → source `கவனிக்காதது போல்`.
+4. scan184 — `நடன ஆசிரியையை` → source `நடன ஆசிரியை`.
+
+Affected FINAL scans — **182, 183, 184**.
+
+Zero-correction FINAL scans — **180, 181, 185, 186**.
+
+Historical-glyph corrections — **0**.
+
+Pass2A readings superseded by fresh Pass2B evidence — **4 occurrences / scans182,183,184**.
+
+## FINAL Pass2A locked-site recheck
+
+Fresh Pass2B reread retained these FINAL-range Pass2A source-backed readings:
+
+- scan180 — `ஜல்லிப்பட்டிப்` — **PASS / retained**
+- scan181 — `பின்வாங்கி விட்டான்` — **PASS / retained**
+- scan181 — `எளிதான செயலல்ல!` — **PASS / retained**
+- scan181 — `போறதில்லை!` — **PASS / retained**
+- scan184 — source-visible `வாயிற் புறத்தில்` — **PASS / retained**
+- scan185 — first narrative occurrence `வாளுக்கு வேலி கூறியதை` — **PASS / retained**
+
+## FINAL boundary / structure validation
+
+- 179→180 — direct question/answer continuity — **PASS**
+- scan179 wording copied forward — **0**
+- 183→184 — direct-speech continuation — **PASS**
+- 184→185 — `இன்னொரு / நாள்...` — **PASS**
+- scan186 — chapter20 close / printed170 / three source-visible centered ornaments — **PASS**
+- running headers / printed folios / ornaments promoted to literary prose — **0**
+- invented bridge text — **0**
+- outgoing 186→187 — **PENDING direct audit / source-limited**
+- Part008 / scan187 wording inferred or imported — **0**
+
+## Final Pass2B accounting
+
+- Part007 canonical records reviewed — **27/27**
+- Part007 Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
+- cumulative lexical / spacing / punctuation corrections — **7**
+- affected scans — **170, 178, 182, 183, 184**
+- affected scans count — **5**
+- zero-correction scans — **22**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **7 occurrences / scans170,178,182,183,184**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+- all Part007 pages remain `status: "needs-review"`
+- all Part007 pages remain `visual_fidelity: "needs-review"`
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- incoming 159→160 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 186→187 — **PENDING direct audit / source-limited**
+
 ## Decision
 
-**PART007 PASS 2B — ACTIVE — 20/27 REVIEWED**
+**PART007 PASS 2B — COMPLETE / PASS — 27/27 REVIEWED**
 
 ## Exact next activity
 
-**Part007 Pass2B FINAL — scans180–186 / local pages21–27.**
+**Part007 Pass3 Batch1 — scans160–169 / local pages1–10.**
 
-Perform the same fresh independent lexical / spacing / punctuation / historical-glyph audit against rendered Part007 source pixels. Recheck Pass2A locked sites and physical continuations independently. Apply only source-backed corrections; preserve scan186 chapter20 close and keep **186→187 PENDING direct audit / source-limited**. Do not promote canonical or visual status during Pass2B.
+Perform the full rendered-page visual / structural review against Part007 source images. Check displayed-text hierarchy, paragraph/dialogue blocks, running headers, source-visible folios, illustrations, ornaments and physical continuations. Do not promote canonical or visual status during Pass3; final metadata/status synchronization is a later gate.
