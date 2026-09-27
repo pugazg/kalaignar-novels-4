@@ -25,12 +25,22 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 
 “ஆம்! அண்ணா!” என்று ஆதப்பன் சொன்னானே தவிர, உறங்காப்புலியின் உண்மை உருவத்தைத் தோலுரித்துக் காட்ட அவன் விரும்பவில்லை. காரணம்; வீரம்மாளிடம் அளித்த வாக்கை நிறைவேற்ற வேண்டும் என்பதிலே அவன் உறுதியாக இருந்தான்.
 
-“வல்லத்தரையன், வைரமுத்தன் இவர்களிருவரையும் வளைக்க முடியவில்லையென்று தெரிந்ததும் கர்னல்கள் அக்னியுவும் வெல்ஷூவும் எப்படியோ இந்த உறங்காப்புலியைத் தமது பைக்குள் போட்டுக் கொண்டுவிட்டார்களே! நல்ல வேளை. அந்த உறங்காப்புலி, பாகனேரிக்கு மாப்பிள்ளையாக வேண்டியவன்-இப்போது பட்டமங்கலத்தார் பெயரைக் கெடுக்கப் போய்ச் சேர்ந்திருக்கிறான்! அதிருக்கட்டும், ஆதப்பா! கர்னல் அக்னியு, வெல்ஷ் துரைக்கு எழுதிய கடிதத்தை என்ன செய்தாய்? யாரிடம் சேர்த்தாய்? அது ஏதாவது பயன்பட்டதா?”
+“வல்லத்தரையன், வைரமுத்தன் இவர்களிருவரையும் வளைக்க முடியவில்லையென்று தெரிந்ததும் கர்னல்கள் அக்னியுவும் வெல்ஷூவும் எப்படியோ இந்த உறங்காப்புலியைத் தமது பைக்குள் போட்டுக் கொண்டு விட்டார்களே! நல்ல வேளை. அந்த உறங்காப்புலி, பாகனேரிக்கு மாப்பிள்ளையாக வேண்டியவன்-இப்போது பட்டமங்கலத்தார் பெயரைக் கெடுக்கப் போய்ச் சேர்ந்திருக்கிறான்! அதிருக்கட்டும், ஆதப்பா! கர்னல் அக்னியு, வெல்ஷ் துரைக்கு எழுதிய கடிதத்தை என்ன செய்தாய்? யாரிடம் சேர்த்தாய்? அது ஏதாவது பயன்பட்டதா?”
 
 ## Pass 1 notes
 
 - chapter20 continuation; printed page **163**;
 - terminal direct question continues as dialogue into scan180; no bridge wording is imported into this record;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part007 Pass 2A review
+
+- strict direct-source reread completed against rendered Part007 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections: **1**;
+- correction: `போட்டுக் கொண்டுவிட்டார்களே` → source-visible `போட்டுக் கொண்டு விட்டார்களே`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 179; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 163; PASS 1 TEXT-COMPLETE / needs-review -->
