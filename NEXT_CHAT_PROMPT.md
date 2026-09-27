@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 Pass3 FINAL scans153–159
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 whole-Part audit
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–005 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to review Part006.
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to audit Part006.
 
 ## Part006 source
 
@@ -21,69 +21,95 @@ Controlling source:
 - controlling representation — **rendered source page images**
 - source PDF — **outside Git**
 
-## Closed prior gates
+## Closed Part006 gates
 
 - source intake — **COMPLETE / PASS**
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 27/27 REVIEWED — 17 source-text corrections**
-- Pass2B — **COMPLETE / PASS — 27/27 REVIEWED — 2 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 2 Pass2A supersessions**
-- unresolved Pass2A / Pass2B questions — **0 / 0**
-
-## Part006 Pass3 current state
-
-- Pass3 — **ACTIVE — 20/27 REVIEWED**
-- reviewed — **scans133–152 / local pages1–20**
+- Pass1 source-backed reread corrections — **5**
+- Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
+- Pass2A source-text corrections — **17 occurrences / 12 scans**
+- Pass2A unresolved questions — **0**
+- Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
+- Pass2B lexical / spacing / punctuation corrections — **2 occurrences / scans145, 150**
+- Pass2B historical-glyph corrections — **0**
+- Pass2B Pass2A supersessions — **2 occurrences / scans145, 150**
+- Pass2B unresolved questions — **0**
+- Pass3 — **COMPLETE / PASS — 27/27 REVIEWED**
 - Pass3 textual corrections — **0**
-- unresolved visual / structural questions — **0**
-- status / visual fidelity — **needs-review / needs-review on 27/27**
-- status promotions — **0**
-- scan137 / 146 — chapter15 / chapter16 closes with three ornaments — **PASS**
-- scan138 / 147 — illustrated chapter16 / chapter17 openers — **PASS**
-- scan148 displayed letter/signature hierarchy — **PASS**
-- scan150 displayed devotional verses / line hierarchy — **PASS**
-- physical continuations through scan152 — **PASS**
-- scan152 terminal direct speech remains open to scan153 — **PASS**
-- page furniture / illustration detail promoted to literary prose — **0**
-- incoming **132→133 = GENUINE CONTINUATION / AUDITED**
-- frozen Parts001–005 body edits — **0**
-- Part007 leakage — **0**
-- outgoing **159→160 = PENDING direct audit / source-limited**
+- Pass3 unresolved visual / structural questions — **0**
+- canonical status — **needs-review 27/27**
+- visual fidelity — **needs-review 27/27**
+- status promotions so far — **0**
 
 Durable Pass3 progress:
 
 `works/thenpandi-singam/PART_006_PASS3_PROGRESS.md`
 
+## Boundary / structural state
+
+- incoming **132→133 = GENUINE CONTINUATION / AUDITED**
+- scan137 — chapter15 close / three centered ornaments
+- scan138 — illustrated chapter16 opener / displayed numeral16 / no visible folio
+- scan146 — chapter16 close / three centered ornaments
+- scan147 — illustrated chapter17 opener / displayed numeral17 / no visible folio
+- scan154 — chapter17 close / three centered ornaments
+- scan155 — illustrated chapter18 opener / displayed numeral18 / no visible folio
+- scan159 / printed143 — supplied Part006 terminal chapter18 body / no chapter-closing ornament
+- outgoing **159→160 = PENDING direct audit / source-limited**
+- Part007 / scan160 wording inferred or imported — **0**
+- frozen Parts001–005 canonical / assembled / maintained-English body edits — **0 / 0 / 0**
+
 ## Exact next activity
 
-Perform **Part006 Pass3 FINAL — scans153–159 / local pages21–27**.
+Perform **Part006 whole-Part audit** across all **27 canonical records / scans133–159**.
 
-Review requirements:
+Create:
 
-- perform full rendered-page visual / structural review against source images for scans **153–159**;
-- verify displayed-text hierarchy, paragraph/dialogue block structure, reading order, printed pagination, recurring running headers / page furniture and physical annotations;
-- verify **152→153** open direct-speech continuation;
-- scan154 — verify chapter17 close / three centered source-visible ornaments;
-- scan155 — verify illustrated chapter18 opener / mounted-warrior illustration / displayed numeral18 / no source-visible folio;
-- verify 155→156 `அறை முழுவதும் / காலியாகவில்லையென்றாலும்`;
-- verify scans156–159 paragraph/dialogue reading order and alternating page furniture;
-- scan159 / printed143 — verify Part006 terminal page structure and absence of source-visible chapter-closing ornament;
-- outgoing **159→160 = PENDING direct audit / source-limited**; do not infer scan160 / Part007;
-- correct canonical text only if a fresh rendered-page structural review demonstrates a genuine textual defect;
-- log Pass3 textual corrections separately from visual / structural findings;
-- keep `status: "needs-review"` and `visual_fidelity: "needs-review"`; no promotion during Pass3;
+`works/thenpandi-singam/PART_006_AUDIT.md`
+
+Audit requirements:
+
+- verify canonical records — **27/27 present**;
+- verify continuous scan coverage — **133–159** with no duplicates or omissions;
+- verify `part: 6` on **27/27**;
+- verify `part_page: 1–27` continuous;
+- verify source filename consistency **27/27**;
+- verify Pass1 / Pass2A / Pass2B / Pass3 evidence present on every canonical record;
+- verify no audit/review-note leakage inside `## Source transcription`;
+- verify no exact duplicated non-empty canonical source-transcription bodies;
+- verify canonical statuses entering audit remain `needs-review` / visual `needs-review` on **27/27**;
+- audit printed-page / no-folio mapping and structural inventory;
+- reconcile all **5 Pass1**, **17 Pass2A**, **2 Pass2B**, **0 Pass3** textual-correction totals;
+- reconcile **0 historical-glyph corrections**;
+- reconcile **2 Pass2A supersessions during Pass2B / scans145,150**;
+- verify illustrated opener / closing-ornament structure at scans138,147,155 and scans137,146,154;
+- verify displayed letter/signature on scan148 and displayed devotional verses on scan150;
+- verify all documented physical continuations and chapter transitions;
+- verify incoming **132→133 GENUINE CONTINUATION / AUDITED**;
+- preserve outgoing **159→160 PENDING direct audit / source-limited**;
+- verify page-map has exactly **27 Part006 rows**, continuous local/global mapping, canonical filename linkage and Pass3 evidence **27/27**;
+- verify source PDF remains outside Git;
 - external-source comparison — **0**;
-- frozen Parts001–005 canonical / assembled / maintained-English body edits — **0 / 0 / 0**;
-- Part007 leakage — **0**.
+- frozen Parts001–005 body edits — **0**;
+- Part007 leakage — **0**;
+- page-status promotions during audit — **0**;
+- canonical Tamil body edits during audit — **0**, unless a genuine audit-level inconsistency is demonstrated from the supplied source/evidence.
 
 Update:
 
-- `PART_006_PASS3_PROGRESS.md`;
-- canonical pages only where fresh source-backed corrections are demonstrated;
-- `indexes/page-map.md`;
 - source registry / source-intake downstream state;
+- Pass1 / Pass2A / Pass2B / Pass3 downstream controls;
+- page map only if an audit reconciliation defect is found;
 - lifecycle/control documents;
 - `NEXT_CHAT_PROMPT.md`.
 
-If Pass3 closes **COMPLETE / PASS — 27/27 REVIEWED**, exact next activity should be:
+If the whole-Part audit closes **PASS / COMPLETE**, exact next activity should be:
 
-**Part006 whole-Part audit.**
+**Part006 final metadata/status synchronization — scans133–159 / 27 pages.**
+
+Authorized mutation at that later gate only:
+
+- `status: "needs-review"` → `status: "verified"`
+- `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
+
+Do not promote status during the audit itself.
