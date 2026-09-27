@@ -1,6 +1,6 @@
 # Part 006 — English Translation Plan — தென்பாண்டிச் சிங்கம்
 
-Status: **ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+Status: **E21–E24 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This is the control plan for the project-created English translation of **Part006 only**.
 
@@ -186,6 +186,30 @@ Outgoing:
 
 **PART006 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
 
+## E21–E24 execution closure
+
+**PART006 E21–E24 — SOURCE-CHECKED / COMPLETE — 4/4.**
+
+- E21 — section26 / scans133–137 — **SOURCE-CHECKED / COMPLETE**
+- E22 — section27 / scans138–146 — **SOURCE-CHECKED / COMPLETE**
+- E23 — section28 / scans147–154 — **SOURCE-CHECKED / COMPLETE**
+- E24 — section29 / scans155–159 — **SOURCE-CHECKED / COMPLETE**
+- cumulative maintained English — **4/4**
+- cumulative translated/source-checked — **4/4 / 4/4**
+- physical source coverage — **scans133–159 / 27 of 27**
+- Tamil / English literary-display blocks — **166 / 166**
+- provenance comments — **25 / 25**
+- omitted / duplicated literary blocks — **0 / 0**
+- unresolved E21–E24 source-check holds — **0**
+- scan148 displayed letter/signature hierarchy — **preserved**
+- scan150 devotional-verse stanza / line hierarchy — **preserved**
+- canonical / assembled Tamil edits caused by English work — **0 / 0**
+- frozen Parts001–005 English body edits — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- Part007 leakage — **0**
+- durable checks — `E21_SOURCE_CHECK.md` through `E24_SOURCE_CHECK.md`
+
 ## Exact next gate
 
-**E21 draft + source-check — section26 / scans133–137.**
+**Part006 whole-Part English glossary reconciliation across E21–E24 / scans133–159.**
