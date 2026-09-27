@@ -123,17 +123,35 @@ This checkpoint introduced:
 
 Part006 canonical Tamil is archival-ready for the supplied scans133–159.
 
+## Part006 assembled Tamil downstream state
+
+**PART006 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 4/4 VERIFIED.**
+
+- assembled files — **4/4**
+- inventory — `sections/26-chapter-15-part006.md`, `sections/27-chapter-16.md`, `sections/28-chapter-17.md`, `sections/29-chapter-18-part006.md`
+- physical source coverage — **scans133–159 / 27**
+- canonical source-transcription records represented — **27/27**
+- exact canonical-text regeneration checks — **4/4 PASS**
+- omissions / duplicates / unsupported Tamil insertion / audit-note leakage — **0 / 0 / 0 / 0**
+- source-supported displayed chapter numerals **16 / 17 / 18** retained as reading-layer headings
+- canonical page mutations caused by assembly — **0**
+- canonical Tamil wording/status changes — **0 / 0**
+- frozen Parts001–005 assembled Tamil changes — **0**
+- Part007 leakage — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- unresolved assembly blockers — **0**
+- durable validation — `PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
+
 ## Exact next activity
 
-Perform **Part006 assembled Tamil construction + audit**.
+Perform **Part006 English translation planning/setup**.
 
-Planned non-colliding section inventory:
+Live collision state at assembly closure:
 
-1. `sections/26-chapter-15-part006.md` — scans133–137
-2. `sections/27-chapter-16.md` — scans138–146
-3. `sections/28-chapter-17.md` — scans147–154
-4. `sections/29-chapter-18-part006.md` — scans155–159
+- existing English source-check batches — **E1–E20**
+- existing maintained English section orders — **00–25**
+- next non-colliding candidate range — **E21–E24**
+- Part006 Tamil section orders — **26–29**
 
-Assembly must derive only from verified Part006 canonical source-transcription bodies, preserve exact source order and verified Tamil, keep boundary evidence non-rendering, avoid page-furniture/audit-note leakage, stop exactly at scan159, and make **0 canonical page mutations**.
-
-Do not begin English until assembled Tamil construction and audit close.
+Planning/setup must complete before drafting Part006 English literary prose.
