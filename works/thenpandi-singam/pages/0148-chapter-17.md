@@ -54,4 +54,18 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
+## Formal Part006 Pass 3 review
+
+- full rendered-page visual / structural review completed against Part006 source image;
+- displayed-text hierarchy, paragraph/dialogue block structure, reading order, printed pagination, running header / page furniture and physical annotations checked;
+- Pass3 textual corrections: **0**;
+- visual / structural findings: **PASS**;
+- printed folio **132** visible at top-left;
+- running header **கலைஞர் மு. கருணாநிதி** visible at top-right and correctly excluded from literary prose;
+- displayed letter continuation and signature block **தங்கள் தம்பி / கறுத்த ஆதப்பன்** visually **PASS**;
+- transition from letter close into narration visually **PASS**;
+- unresolved Pass3 visual / structural questions: **0**;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass3.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 148; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 132; PASS 1 TEXT-COMPLETE / needs-review -->
