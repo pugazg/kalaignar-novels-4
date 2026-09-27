@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 final metadata/status synchronization — scans133–159 / 27 pages**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 documentation synchronization**
 
 ## Work
 
@@ -1747,4 +1747,23 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - Part007 leakage — **0**
 - exact next activity — **Part006 final metadata/status synchronization — scans133–159 / 27 pages**
 - durable audit — `works/thenpandi-singam/PART_006_AUDIT.md`
+
+## Part006 final metadata/status synchronization downstream state
+
+- Part006 final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- whole-Part audit — **PASS / COMPLETE**
+- canonical Part006 page files changed by status sync — **27**
+- authorized frontmatter status-line replacements — **54**
+- canonical Tamil/body changes caused by status sync — **0**
+- page-map non-status-column changes — **0**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- frozen Parts001–005 body/status changes — **0**
+- Part007 leakage — **0**
+- exact next activity — **Part006 documentation synchronization**
+- durable sync — `works/thenpandi-singam/PART_006_FINAL_STATUS_SYNC.md`
 
