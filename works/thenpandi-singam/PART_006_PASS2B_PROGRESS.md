@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — ACTIVE — 20/27 REVIEWED**
+**PASS 2B — COMPLETE / PASS — 27/27 REVIEWED**
 
 Source:
 
@@ -145,8 +145,71 @@ Pass2A readings superseded by fresh Pass2B evidence — **2 occurrences / scans1
 - Part007 leakage — **0**
 - outgoing 159→160 — **PENDING direct audit / source-limited**
 
-## Exact next activity — UPDATED
+## Batch 3 — FINAL — scans153–159
 
-**Part006 Pass2B FINAL — scans153–159 / local pages21–27.**
+Fresh independent lexical / spacing / punctuation / historical-glyph audit completed for:
 
-Perform a fresh independent lexical / spacing / punctuation / historical-glyph audit against rendered source pixels. Keep canonical and visual status at `needs-review`; no promotion during Pass2B. Preserve the scan154 chapter17 close, scan155 illustrated chapter18 opener and outgoing **159→160 PENDING direct audit / source-limited**.
+- global scans — **153–159 / 7**
+- local pages — **21–27 / 7**
+- canonical records reviewed — **27/27 cumulative**
+- reviewed pages passing — **7/7**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+
+## Final-batch corrections
+
+Lexical / spacing / punctuation corrections — **0**.
+
+Affected final-batch scans — **0**.
+
+Zero-correction final-batch scans — **153, 154, 155, 156, 157, 158, 159**.
+
+Historical-glyph corrections — **0**.
+
+Pass2A readings superseded by fresh Pass2B evidence — **0**.
+
+## Final-batch locked-site / structure validation
+
+- 152→153 — open direct-speech continuation — **PASS**
+- scan154 Pass2A punctuation `வரும்;` — **PASS / retained**
+- scan154 — chapter17 close / three source-visible closing ornaments — **PASS**
+- scan155 — illustrated chapter18 opener / displayed numeral18 / no source-visible folio — **PASS**
+- 155→156 — `அறை முழுவதும் / காலியாகவில்லையென்றாலும்` — **PASS**
+- scan156 Pass2A `மாதிரி தான்` — **PASS / retained**
+- scan157 Pass2A `எதாவது` — **PASS / retained**
+- scan157 Pass2A `கன்னவிதழ் பருகி` — **PASS / retained**
+- scans158–159 lexical / spacing / punctuation sequence — **PASS**
+- scan159 — supplied Part006 terminal / printed143 / no source-visible chapter-closing ornament — **PASS**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- scan160 / Part007 wording inferred or imported — **0**
+- invented bridge text — **0**
+
+## Final Pass2B accounting
+
+- Part006 canonical records — **27/27**
+- Part006 Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
+- cumulative lexical / spacing / punctuation corrections — **2**
+- affected scans — **145, 150**
+- affected scans count — **2**
+- zero-correction scans — **25**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **2 occurrences / scans145, 150**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+- all Part006 pages remain `status: "needs-review"`
+- all Part006 pages remain `visual_fidelity: "needs-review"`
+- verified Part006 pages — **0**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+
+## Decision
+
+**PART006 PASS 2B — COMPLETE / PASS — 27/27 REVIEWED**
+
+## Exact next activity
+
+**Part006 Pass3 — scans133–142 / local pages1–10.**
+
+Perform the full rendered-page visual / structural review against Part006 source images. Do not promote canonical or visual status during Pass3; final metadata/status synchronization is a later gate.
