@@ -1633,3 +1633,31 @@ A frozen Part changes only when a genuine source/evidence defect is demonstrated
 - exact next activity — **Part006 whole-Part bilingual review across E21–E24 / scans133–159**
 - durable review — `works/thenpandi-singam/translations/en/PART_006_EDITORIAL_REVIEW.md`
 <!-- PART006_ENGLISH_EDITORIAL_REVIEW_CURRENT_END -->
+
+<!-- PART006_ENGLISH_BILINGUAL_REVIEW_CURRENT_START -->
+## Part006 whole-Part bilingual review — current authoritative state
+
+**PART006 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+
+- scope — **E21–E24 / scans133–159**
+- Tamil-English pairs — **4/4 PASS**
+- physical source coverage — **27/27 scans**
+- literary/display blocks — **166 Tamil / 166 English**
+- provenance comments — **25 / 25**
+- editorial repair sites rechecked — **55/55**
+- further English-only fidelity corrections — **16**
+- E21 / E22 / E23 / E24 bilingual corrections — **4 / 4 / 4 / 4**
+- maintained English files changed by bilingual review — **4/4**
+- unresolved bilingual holds — **0**
+- glossary/source-form conflicts — **0**
+- comparable Vaalukku source-form blocks — **28 / 0 mismatches**
+- scan148 letter/signature hierarchy — **preserved**
+- scan150 devotional-verse hierarchy — **preserved**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–005 English body edits — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- Part007 leakage — **0**
+- exact next activity — **Part006 release/readiness report**
+- durable review — `works/thenpandi-singam/translations/en/PART_006_BILINGUAL_REVIEW.md`
+<!-- PART006_ENGLISH_BILINGUAL_REVIEW_CURRENT_END -->
