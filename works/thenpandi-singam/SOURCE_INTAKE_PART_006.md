@@ -292,3 +292,25 @@ Part006 is now the active transcription Part.
 - exact next activity — **Part006 Pass2B scans133–142 / local pages1–10**
 - durable progress — `PART_006_PASS2A_PROGRESS.md`
 
+## Part006 Pass2B Batch 1 downstream state
+
+- Part006 Pass2B — **ACTIVE — 10/27 REVIEWED**
+- reviewed — **scans133–142 / local pages1–10**
+- lexical / spacing / punctuation corrections — **0**
+- historical-glyph corrections — **0**
+- Pass2A supersessions — **0**
+- zero-correction scans — **133–142 / 10**
+- unresolved Pass2B questions — **0**
+- status / visual fidelity — **needs-review / needs-review on 27/27**
+- status promotions — **0**
+- all six Batch 1 Pass2A corrections — **PASS / retained**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- scan137 chapter15 close / three ornaments — **PASS**
+- scan138 illustrated chapter16 opener / no visible folio — **PASS**
+- 138→139, 139→140, 140→141, 141→142 continuations — **PASS**
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- exact next activity — **Part006 Pass2B scans143–152 / local pages11–20**
+- durable progress — `PART_006_PASS2B_PROGRESS.md`
+
