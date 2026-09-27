@@ -1,6 +1,6 @@
 # Part 006 — English Translation Glossary — தென்பாண்டிச் சிங்கம்
 
-Status: **PLANNING / SETUP COMPLETE / PASS — E21 NEXT**
+Status: **E21–E24 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This glossary is derived only from verified Part006 Tamil, the closed Part006 assembled Tamil reading layer, and already source-checked project forms from frozen Parts001–005.
 
@@ -160,6 +160,59 @@ Rules:
 - frozen Parts001–005 English body edits — **0**
 - Part007 leakage — **0**
 
+## E21–E24 source-check term state
+
+**E21–E24 — SOURCE-CHECKED / COMPLETE.**
+
+E21 source-facing additions:
+
+- `பிரதட்சணம்` → **pradakshina**
+- `அப்பிரதட்சணம்` → **apradakshina**
+- `பிரகாரம்` → **prakaram**
+- `பூஜை` → **puja**
+- `பிரசாதம்` → **prasadam**
+
+E22 source-facing additions:
+
+- `மணலூர்` → **Manalur**
+- `சுரண்டைக்காடு` → **Surandaikkadu**
+- `வீரம்மாள்` → **Veerammal**
+- `பிள்ளையார்` → **Pillaiyar**
+- `தாலி` → **thaali**
+
+E23 source-facing additions / display locks:
+
+- `கைவளரி` → **kaivalari**
+- `ஆழ்வார்` → **Azhwar**
+- `பாசுரம்` → **pasuram**
+- `திருமொழி` → **Tirumozhi**
+- `பெரியாழ்வார்` → **Periyazhwar**
+- `திருமங்கை யாழ்வார்` → **Tirumangai Azhwar**
+- `பேயாழ்வார்` → **Peyazhwar**
+- `பூதத்தாழ்வார்` → **Bhoothathazhwar**
+- `திருமழிசை ஆழ்வார்` → **Tirumazhisai Azhwar**
+- `திருப்பாற்கடல்` → **Thirupparkadal**
+- `இராஜ கோபுரம்` → **Raja Gopuram**
+- scan148 letter/signature — **display hierarchy preserved**
+- scan150 devotional verse — **stanza / line hierarchy preserved**
+
+E24 source-facing additions:
+
+- `சீர்வரிசை` → **seer-varisai**
+- `காந்தர்வ மணம்` → **Gandharva marriage**
+- `நாச்சியாரம்மா` → **Nachiyaramma**
+- `பரதநாட்டியம்` → **Bharatanatyam**
+
+Execution accounting:
+
+- maintained/source-checked English — **4/4 / 4/4**
+- unresolved batch glossary/source-check holds — **0**
+- external textual authority used — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–005 English edits — **0**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- Part007 leakage — **0**
+
 ## Exact next gate
 
-**E21 draft + source-check — section26 / scans133–137.**
+**Part006 whole-Part English glossary reconciliation across E21–E24 / scans133–159.**
