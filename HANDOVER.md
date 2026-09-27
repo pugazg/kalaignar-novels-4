@@ -6,7 +6,7 @@
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
 - active work: `works/thenpandi-singam/`
-- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 Tamil archival-ready checkpoint**
+- next-chat continuation control: `NEXT_CHAT_PROMPT.md` — **SYNCHRONIZED to Part006 assembled Tamil construction + audit**
 
 ## Work
 
@@ -1798,3 +1798,32 @@ Part003 Pass2A remains **COMPLETE / PASS — 25/25 REVIEWED**. Part003 Pass2B is
 - exact next activity — **Part006 Tamil archival-ready checkpoint**
 - durable documentation sync — `works/thenpandi-singam/PART_006_DOCUMENTATION_SYNC.md`
 <!-- PART006_DOCUMENTATION_SYNC_CURRENT_END -->
+
+<!-- PART006_TAMIL_ARCHIVAL_READY_CURRENT_START -->
+## Part006 Tamil archival-ready — current authoritative state
+
+- Tamil archival-ready checkpoint — **PASS / CLOSED**
+- supplied Part006 extent — **scans133–159 / 27**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- source intake / Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- correction totals locked — **5 Pass1 / 17 Pass2A / 2 Pass2B / 0 Pass3**
+- historical-glyph corrections — **0**
+- Pass2A supersessions during Pass2B — **2 / scans145,150**
+- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- canonical Part006 page-file changes caused by checkpoint — **0**
+- canonical Tamil/body changes caused by checkpoint — **0**
+- verified status-field changes caused by checkpoint — **0**
+- frozen Parts001–005 body/status changes caused by checkpoint — **0**
+- Part007 leakage — **0**
+- exact next activity — **Part006 assembled Tamil construction + audit**
+- planned assembled inventory — **4 files / section orders 26–29**
+- durable checkpoint — `works/thenpandi-singam/PART_006_TAMIL_ARCHIVAL_READY.md`
+<!-- PART006_TAMIL_ARCHIVAL_READY_CURRENT_END -->
