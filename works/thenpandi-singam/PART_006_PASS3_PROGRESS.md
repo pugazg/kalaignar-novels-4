@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — ACTIVE — 10/27 REVIEWED**
+**PASS 3 — ACTIVE — 20/27 REVIEWED**
 
 Prerequisites:
 
@@ -78,8 +78,64 @@ Recurring running headers and printed folios are structural page furniture and a
 - Part007 leakage — **0**
 - outgoing 159→160 — **PENDING direct audit / source-limited**
 
-## Exact next activity
+## Batch 2 — scans143–152
 
-**Part006 Pass3 — scans143–152 / local pages11–20.**
+Fresh full rendered-page visual / structural review completed for:
 
-Perform fresh full rendered-page visual / structural review against Part006 source images. Keep canonical and visual status at `needs-review`; no promotion during Pass3.
+- global scans — **143–152 / 10**
+- local pages — **11–20 / 10**
+- reviewed records — **20/27 cumulative**
+- reviewed pages passing — **10/10**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+
+## Structural inventory — Batch 2
+
+| Scan | Printed | Structural result |
+|---:|:---:|---|
+| 143 | 127 | chapter16 body; work-title running header |
+| 144 | 128 | chapter16 body; author-line running header |
+| 145 | 129 | chapter16 body; work-title running header |
+| 146 | 130 | chapter16 close; author-line running header; three centered closing ornaments; large lower blank/show-through field |
+| 147 | — | illustrated chapter17 opener; mounted-warrior illustration; displayed numeral **17**; no source-visible folio |
+| 148 | 132 | chapter17 body; author-line running header; displayed letter continuation + signature block |
+| 149 | 133 | chapter17 body; work-title running header; dialogue sequence |
+| 150 | 134 | chapter17 body; author-line running header; displayed devotional verses |
+| 151 | 135 | chapter17 body; work-title running header; dance-sequence continuation |
+| 152 | 136 | chapter17 body; author-line running header; terminal direct speech remains open |
+
+Recurring running headers and printed folios remain structural page furniture and are not duplicated into canonical literary prose.
+
+## Batch 2 cross-page / layout states confirmed
+
+- scan146 — chapter16 close / three centered ornaments — **PASS**
+- scan146 lower blank/show-through field promoted to prose — **0**
+- scan147 — illustrated chapter17 opener / numeral17 / mounted-warrior illustration / no visible folio — **PASS**
+- 147→148 — `மானா / மதுரைக்கும்` — **PRESERVED / PASS**
+- scan148 — displayed letter continuation + signature **தங்கள் தம்பி / கறுத்த ஆதப்பன்** — **PASS**
+- 148→149 — letter close / temple-dialogue transition — **PASS**
+- scan150 — displayed devotional verses / source stanza and line hierarchy — **PASS**
+- 150→151 — `பிரதட்சணமாகச் / சுற்றி வந்த` — **PRESERVED / PASS**
+- 151→152 — `இசை / விருந்தும்` — **PRESERVED / PASS**
+- scan152 terminal direct speech — **PRESERVED / PASS**
+- scan153 wording promoted backward into scan152 — **0**
+- page furniture / illustration detail promoted to literary prose — **0**
+
+## Cumulative Pass3 accounting through Batch 2
+
+- reviewed — **20/27**
+- Pass3 textual corrections — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+- all Part006 pages remain `status: "needs-review"`
+- all Part006 pages remain `visual_fidelity: "needs-review"`
+- frozen Parts001–005 body edits — **0**
+- Part007 leakage — **0**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+
+## Exact next activity — UPDATED
+
+**Part006 Pass3 FINAL — scans153–159 / local pages21–27.**
+
+Perform fresh full rendered-page visual / structural review against Part006 source images. Keep canonical and visual status at `needs-review`; no promotion during Pass3. Preserve scan154 chapter17 close, scan155 illustrated chapter18 opener, and outgoing **159→160 PENDING direct audit / source-limited**.
