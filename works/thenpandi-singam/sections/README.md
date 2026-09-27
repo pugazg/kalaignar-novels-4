@@ -532,3 +532,31 @@ Durable validation: `../PART_005_ASSEMBLED_TAMIL_VALIDATION.md`.
 - Part006 leakage — **0**
 - exact next gate — **Part005 whole-Part English glossary reconciliation across E17–E20**
 - durable checks — `translations/en/E17_SOURCE_CHECK.md` through `translations/en/E20_SOURCE_CHECK.md`
+
+<!-- PART006_ASSEMBLED_TAMIL_CURRENT_START -->
+## Part006 assembled Tamil — current authoritative state
+
+**PART006 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 4/4 VERIFIED.**
+
+- canonical Tamil / visual fidelity — **27/27 verified / 27/27 verified**
+- source scans — **133–159 / 27**
+- assembled files — **4/4 VERIFIED**
+- inventory — `26-chapter-15-part006.md`, `27-chapter-16.md`, `28-chapter-17.md`, `29-chapter-18-part006.md`
+- canonical source-transcription records accounted — **27/27**
+- non-empty canonical source-transcription bodies represented — **27/27**
+- exact regeneration checks — **4/4 PASS**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit/review/workflow-note leakage — **0**
+- source-supported displayed headings — **16 / 17 / 18 preserved**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED / non-rendering provenance**
+- outgoing **159→160 — PENDING direct audit / source-limited / non-rendering provenance**
+- canonical page mutations caused by assembly — **0**
+- canonical Tamil wording/status changes caused by assembly — **0 / 0**
+- frozen Parts001–005 assembled Tamil changes — **0**
+- Part007 leakage — **0**
+- unresolved assembly blockers — **0**
+- exact next activity — **Part006 English translation planning/setup**
+- next non-colliding English range to validate/reserve — **E21–E24 / section orders 26–29**
+- durable validation — `works/thenpandi-singam/PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
+<!-- PART006_ASSEMBLED_TAMIL_CURRENT_END -->
