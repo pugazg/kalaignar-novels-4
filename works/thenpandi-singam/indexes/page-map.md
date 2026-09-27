@@ -188,6 +188,13 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 007 | 18 | 177 | 161 | chapter20 continuation; scene transition to dawn / Paganeri; Pass1 text-complete | needs-review | `pages/0177-chapter-20.md` |
 | 007 | 19 | 178 | 162 | chapter20 continuation; Pass1 text-complete | needs-review | `pages/0178-chapter-20.md` |
 | 007 | 20 | 179 | 163 | chapter20 dialogue continuation; terminal question answered on scan180; Pass1 text-complete | needs-review | `pages/0179-chapter-20.md` |
+| 007 | 21 | 180 | 164 | directly answers scan179 terminal question; chapter20 continuation; Pass1 text-complete | needs-review | `pages/0180-chapter-20.md` |
+| 007 | 22 | 181 | 165 | chapter20 military/political dialogue continuation; Pass1 text-complete | needs-review | `pages/0181-chapter-20.md` |
+| 007 | 23 | 182 | 166 | chapter20 dialogue continuation / Kalyani enters; Pass1 text-complete | needs-review | `pages/0182-chapter-20.md` |
+| 007 | 24 | 183 | 167 | chapter20 continuation; terminal speech open to scan184; Pass1 text-complete; reread correction **1** | needs-review | `pages/0183-chapter-20.md` |
+| 007 | 25 | 184 | 168 | completes scan183 speech; terminal `இன்னொரு` open to scan185; Pass1 text-complete; reread correction **1** | needs-review | `pages/0184-chapter-20.md` |
+| 007 | 26 | 185 | 169 | completes `இன்னொரு / நாள்...`; chapter20 continuation; Pass1 text-complete | needs-review | `pages/0185-chapter-20.md` |
+| 007 | 27 | 186 | 170 | chapter20 close; three centered closing ornaments; terminal supplied Part007 scan; outgoing 186→187 pending/source-limited; Pass1 text-complete | needs-review | `pages/0186-chapter-20.md` |
 
 ## Intake observations
 
