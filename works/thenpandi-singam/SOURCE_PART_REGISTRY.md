@@ -11,7 +11,7 @@ This ledger records the user's **18 split source PDFs**.
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **TAMIL ARCHIVAL-READY PASS / CLOSED — ASSEMBLED TAMIL NEXT** |
+| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **ASSEMBLED TAMIL PASS / CLOSED — ENGLISH PLANNING NEXT** |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1656,3 +1656,31 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - planned assembled inventory — **4 files / section orders 26–29**
 - durable checkpoint — `works/thenpandi-singam/PART_006_TAMIL_ARCHIVAL_READY.md`
 <!-- PART006_TAMIL_ARCHIVAL_READY_CURRENT_END -->
+
+<!-- PART006_ASSEMBLED_TAMIL_CURRENT_START -->
+## Part006 assembled Tamil — current authoritative state
+
+**PART006 ASSEMBLED TAMIL — COMPLETE / PASS / CLOSED — 4/4 VERIFIED.**
+
+- canonical Tamil / visual fidelity — **27/27 verified / 27/27 verified**
+- source scans — **133–159 / 27**
+- assembled files — **4/4 VERIFIED**
+- inventory — `26-chapter-15-part006.md`, `27-chapter-16.md`, `28-chapter-17.md`, `29-chapter-18-part006.md`
+- canonical source-transcription records accounted — **27/27**
+- non-empty canonical source-transcription bodies represented — **27/27**
+- exact regeneration checks — **4/4 PASS**
+- omissions / duplicates — **0 / 0**
+- unsupported Tamil body insertion — **0**
+- audit/review/workflow-note leakage — **0**
+- source-supported displayed headings — **16 / 17 / 18 preserved**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED / non-rendering provenance**
+- outgoing **159→160 — PENDING direct audit / source-limited / non-rendering provenance**
+- canonical page mutations caused by assembly — **0**
+- canonical Tamil wording/status changes caused by assembly — **0 / 0**
+- frozen Parts001–005 assembled Tamil changes — **0**
+- Part007 leakage — **0**
+- unresolved assembly blockers — **0**
+- exact next activity — **Part006 English translation planning/setup**
+- next non-colliding English range to validate/reserve — **E21–E24 / section orders 26–29**
+- durable validation — `works/thenpandi-singam/PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
+<!-- PART006_ASSEMBLED_TAMIL_CURRENT_END -->
