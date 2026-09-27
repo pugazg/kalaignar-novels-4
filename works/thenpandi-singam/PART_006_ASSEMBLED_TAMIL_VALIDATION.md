@@ -139,15 +139,23 @@ Part006 assembled Tamil is now:
 
 The source-limited 159→160 boundary remains pending by design and is preserved without importing later text.
 
+## Part006 English planning downstream state
+
+**PART006 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
+
+- live collision recheck — **PASS**
+- reserved batches — **E21–E24**
+- planned maintained English files — **4 / section orders26–29**
+- translated/source-checked — **0/4 / 0/4**
+- English literary prose drafted in planning — **0**
+- unresolved planning / glossary holds — **0**
+- canonical / assembled Tamil changes — **0 / 0**
+- frozen Parts001–005 English body changes — **0**
+- Part007 leakage — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- durable controls — `translations/en/PART_006_TRANSLATION_PLAN.md`, `translations/en/PART_006_GLOSSARY.md`, `translations/en/PART_006_PROGRESS.md`
+
 ## Exact next gate
 
-**Part006 English translation planning/setup.**
-
-Live collision check at assembly closure:
-
-- existing English source-check batches — **E1–E20**
-- existing maintained English section orders — **00–25**
-- next non-colliding batch range to validate/reserve — **E21–E24**
-- Tamil section mapping — **26–29**
-
-Planning/setup must close **COMPLETE / PASS** before Part006 English literary prose is drafted.
+**E21 draft + source-check — section26 / scans133–137.**
