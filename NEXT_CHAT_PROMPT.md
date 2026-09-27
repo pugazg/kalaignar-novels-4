@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 whole-Part English glossary reconciliation — E21–E24 / scans133–159
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 English editorial review — E21–E24 / scans133–159
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,83 +6,66 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–005 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to reconcile Part006 English.
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to editorially review Part006 English.
 
-## Part006 Tamil authority
+## Part006 authority / current state
 
-- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf`
-- scans — **133–159 / 27**
+Tamil:
 - canonical Tamil — **27/27 verified**
 - visual fidelity — **27/27 verified**
 - assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- scans — **133–159 / 27**
 - incoming **132→133 = GENUINE CONTINUATION / AUDITED**
 - outgoing **159→160 = PENDING direct audit / source-limited**
-- Part007 leakage — **0**
 
-## Part006 English current state
-
-**E21–E24 — SOURCE-CHECKED / COMPLETE — 4/4**
-
-Maintained English:
-
-1. `translations/en/sections/26-chapter-15-part006.md` — E21 — scans133–137
-2. `translations/en/sections/27-chapter-16.md` — E22 — scans138–146
-3. `translations/en/sections/28-chapter-17.md` — E23 — scans147–154
-4. `translations/en/sections/29-chapter-18-part006.md` — E24 — scans155–159
-
-Source-check records:
-
-- `translations/en/E21_SOURCE_CHECK.md`
-- `translations/en/E22_SOURCE_CHECK.md`
-- `translations/en/E23_SOURCE_CHECK.md`
-- `translations/en/E24_SOURCE_CHECK.md`
-
-Coverage/accounting:
-
-- translated/source-checked — **4/4 / 4/4**
-- source scans — **133–159 / 27 of 27**
-- Tamil / English literary-display blocks — **166 / 166**
+English:
+- E21–E24 — **SOURCE-CHECKED / COMPLETE — 4/4**
+- maintained English — **4/4**
+- source coverage — **133–159 / 27 scans**
+- literary/display blocks — **166 Tamil / 166 English**
 - provenance comments — **25 / 25**
-- omitted / duplicated literary blocks — **0 / 0**
-- unresolved E21–E24 source-check holds — **0**
-- canonical / assembled Tamil edits caused by English work — **0 / 0**
-- frozen Parts001–005 English body edits — **0**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- glossary repair count — **1 occurrence**
+- repair — **E23 scan154: ceremonial gifts → seer-varisai**
+- remaining Vaalukku spaced/closed mismatches — **0**
+- unresolved glossary conflicts — **0**
 - Part007 leakage — **0**
 
-Structural locks:
+Maintained English files:
+1. `works/thenpandi-singam/translations/en/sections/26-chapter-15-part006.md`
+2. `works/thenpandi-singam/translations/en/sections/27-chapter-16.md`
+3. `works/thenpandi-singam/translations/en/sections/28-chapter-17.md`
+4. `works/thenpandi-singam/translations/en/sections/29-chapter-18-part006.md`
 
-- E21 continues frozen E20 at **132→133** without duplicating scan132 English
-- E21 has no invented repeated chapter15 heading
-- E22 retains chapter numeral **16**
-- E23 retains chapter numeral **17**
-- scan148 displayed letter/signature hierarchy — **preserved**
-- scan150 devotional-verse stanza / line hierarchy — **preserved**
-- E24 retains chapter numeral **18**
-- E24 stops exactly at scan159
-- **159→160 remains PENDING direct audit / source-limited**
+Durable reconciliation:
+`works/thenpandi-singam/translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
 
 ## Exact next activity
 
-Perform **Part006 whole-Part English glossary reconciliation across E21–E24 / scans133–159**.
+Perform **Part006 English editorial review across E21–E24 / 4 maintained English files / scans133–159**.
 
-Reconciliation requirements:
+Create:
+`works/thenpandi-singam/translations/en/PART_006_EDITORIAL_REVIEW.md`
 
-- inspect all four maintained English files against `PART_006_GLOSSARY.md`, frozen prior-Part glossary locks, and the four source-check records;
-- reconcile recurring source-form variants consistently while preserving deliberate Tamil distinctions, especially **Vaalukku Veli / Vaalukkuveli**;
-- recheck newly established Part006 forms including **Manalur, Surandaikkadu, Veerammal, kaivalari, Azhwar/pasuram forms, seer-varisai, Gandharva marriage**;
-- preserve scan148 letter/signature structure and scan150 devotional-verse line hierarchy;
-- do not normalize away source-visible distinctions merely for stylistic uniformity;
-- English-only repairs are allowed when needed for glossary/source-form consistency;
+Editorial review requirements:
+- review all four maintained English files for grammar, readability, idiomatic flow, punctuation, continuity and dialogue clarity;
+- preserve source meaning, agency, chronology, rhetorical force and information-release order;
+- preserve deliberate glossary/source-form distinctions, especially **Vaalukku Veli / Vaalukkuveli**;
+- preserve **seer-varisai** at the reconciled Part006 sites;
+- preserve E21’s incoming **132→133** continuation without modifying frozen Part005 E20;
+- preserve E21’s no-repeated-chapter15-heading rule;
+- preserve chapter numerals **16 / 17 / 18**;
+- preserve scan148 displayed letter/signature hierarchy;
+- preserve scan150 devotional-verse stanza/line hierarchy and do not rewrite it into explanatory prose;
+- preserve E24’s open end at scan159 and **159→160 PENDING direct audit / source-limited**;
+- do not add outside historical, political, religious, literary or biographical explanation;
 - canonical Tamil edits — **0**;
 - assembled Tamil edits — **0**;
 - frozen Parts001–005 English edits — **0**;
-- Part007 leakage — **0**;
-- outgoing **159→160 PENDING direct audit / source-limited** must remain unchanged.
+- Part007 leakage — **0**.
 
-Create:
+English-only editorial repairs are allowed when they preserve the above locks.
 
-`works/thenpandi-singam/translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
+If editorial review closes **PASS / CLOSED**, exact next activity should be:
 
-If reconciliation closes **RECONCILED / PASS**, exact next activity should be:
-
-**Part006 English editorial review across E21–E24.**
+**Part006 whole-Part bilingual review across E21–E24 / scans133–159.**
