@@ -13,17 +13,17 @@ status: "source-checked"
 
 # 17
 
-Just as Vaalukkuveli was about to enter the Tirukkottiyur temple, Meganathan appeared before him in a way he had not expected at all. “What is it, Meganathan! What news? Why so suddenly?” Vaalukkuveli asked in great agitation.
+Just as Vaalukkuveli was about to enter the Tirukkottiyur temple, Meganathan appeared before him unexpectedly. “What is it, Meganathan! What news? Why so suddenly?” Vaalukkuveli asked in great agitation.
 
-“Nothing is wrong! It is all good news! They say the task Karutha Adappan went on was successful! Here—Adappan sent this letter-cover and told me to deliver it to you!”
+“Nothing is wrong! It is all good news! They say the task Karutha Adappan went on was successful! Here—Adappan sent this envelope and told me to deliver it to you!”
 
 Vaalukkuveli took the cover Meganathan handed him, tore it open, and slowly began to read in the evening light.
 
-“To my beloved elder brother, Adappan’s greetings. I met Urangappuli on the way while he was carrying Agniyu’s letter to Welsh Durai. I explained the circumstances. Urangappuli understood our feelings and gave the letter to me. The letter came into my hands without any quarrel at all between him and me. Some of the Englishmen’s war secrets are caught in the letter. I will meet one of the commanders of the Maruthu force camped with thousands of fighters between Mana—
+“To my beloved elder brother, Adappan’s greetings. I met Urangappuli on the way while he was carrying Agniyu’s letter to Welsh Durai. I explained the circumstances. Urangappuli understood our feelings and gave the letter to me. I got the letter without any quarrel between us. The letter contains some of the Englishmen’s war secrets. I will meet one of the commanders of the Maruthu force camped with thousands of fighters between Mana—
 
 <!-- source boundary: scan 147 → scan 148 -->
 
-—madurai and Parthibanur, explain the route by which the English force is coming as shown in Agniyu’s letter, hand the letter over to them as well, and return to town at once. I wrote and sent this letter because I know you will be waiting for me anxiously. I will return soon with the news that the Parangi troops at Parthibanur have been trapped and shattered.
+—madurai and Parthibanur, explain the route the English force is to take, as revealed by Agniyu’s letter, hand the letter over to them as well, and return to town at once. I wrote and sent this letter because I know you will be waiting for me anxiously. I will return soon with the news that the Parangi troops at Parthibanur have been trapped and shattered.
 
 Your younger brother,  
 Karutha Adappan”
@@ -32,13 +32,13 @@ Overwhelmed with boundless joy, Vaalukkuveli gripped Meganathan’s shoulder and
 
 “Tirukkottiyurappa! The moment I reached the entrance of your temple I received news that cooled my heart! Grant, Perumane, that these tidings of victory may continue!”
 
-With folded hands, Vaalukkuveli entered and, as he had first planned, began to go around the temple prakaram in apradakshina. He had gone expecting Sundarambal to approach from the opposite direction, but instead Vellai Ayyar stood before his eyes. In his hands were temple offerings such as coconuts and fruit.
+With folded hands, Vaalukkuveli entered and, as he had first planned, began to go around the temple prakaram in apradakshina. He had gone expecting Sundarambal to approach from the opposite direction, but instead Vellai Ayyar stood before him. In his hands were temple offerings such as coconuts and fruit.
 
 <!-- source boundary: scan 148 → scan 149 -->
 
 “Ah! Ayyarvaal! What brings you this far?”
 
-“This is what they call a blind question! I am going around the temple prakaram in pradakshina, and you ask what brings me this far! You spoke all sorts of things like this to that Sundarambal too and created a pointless clash! Unnecessarily—with a dancer!”
+“This is what they call a blind question! I am going around the temple prakaram in pradakshina, and you ask what brings me this far! You spoke all sorts of things like this to that Sundarambal too and caused a pointless clash—with a dancer, of all people!”
 
 “What, Ayyare! Even you are bubbling with anger! Has the quarrel between Sundarambal and me spread that far?”
 
@@ -54,11 +54,11 @@ With folded hands, Vaalukkuveli entered and, as he had first planned, began to g
 
 Vaalukkuveli’s moustache quivered! His face reddened! In that evening light it seemed as though there were two suns! “I have no knowledge of art?” he growled.
 
-Vellai Ayyar said wearily, “Leave it! Is something you never had going to appear now?”
+Vellai Ayyar said wearily, “Leave it! What you never had is not going to appear now!”
 
 <!-- source boundary: scan 149 → scan 150 -->
 
-“I have no knowledge of art? Listen, Ayyare, listen!” Vaalukkuveli hurled the words like explosions and suddenly began to sing. The song was formed as a garland of pasurams sung by the Azhwars about Tirukkottiyur!
+“I have no knowledge of art? Listen, Ayyare, listen!” Vaalukkuveli hurled the words like explosions and suddenly began to sing. The song became a medley of pasurams sung by the Azhwars about Tirukkottiyur!
 
 “Bring a staff! Bring a staff!” Vaalukkuveli sang loudly, and Vellai Ayyar actually became frightened! Only then did he understand that it was a Tirumozhi sung by Periyazhwar.
 
@@ -87,9 +87,9 @@ Vaalukkuveli, singing, and Sundarambal, savouring the music, came close to one a
 
 When he finished the Tirumangai Azhwar pasuram and caught sight of Sundarambal, Vaalukkuveli turned to Vellai Ayyar and asked in the tone of a challenge, “Is there anyone who can dance Bharatanatyam to my singing?”
 
-The moment she heard those words, Sundarambal said, “May I be granted such a blessing!” Showing the mudras of Bharata art in her fingers, its life in the light of her eyes, its grace in her lips and waist, she let her feet float over the ground in rhythmic time.
+The moment she heard those words, Sundarambal said, “May I be granted such a blessing!” Showing the mudras of Bharata art with her fingers, its life in the light of her eyes, and its grace in her lips and waist, she let her feet float over the ground in rhythmic time.
 
-Vaalukkuveli began to sing again. The lyrics meant for dance themselves seemed to dance upon his tongue! Sundari, dancing to his song, played across his eyes and slowly began to dance in the courtyard of his heart as well.
+Vaalukkuveli began to sing again. The lyrics meant for dance themselves seemed to dance upon his tongue! Sundari, dancing to his song, danced before his eyes and slowly began to dance in the courtyard of his heart as well.
 
 From the time the Tirukkottiyur temple first arose—even in the eras of the Chola kings, the Pandya kings and the Vijayanagara emperors—could there ever have been such a feast of music—
 
@@ -111,7 +111,7 @@ Suddenly Sundari fell at his feet. “Forgive me! You are a treasure-house of ar
 
 “I am the ignorant one who judged you wrongly!” she said in distress.
 
-“Do not worry, Sundari!” Vaalukku Veli said, touching her hand and raising her. Having somehow known in advance that he was about to touch her and lift her, Vellai Ayyar vanished from the place as if by magic.
+“Do not worry, Sundari!” Vaalukku Veli said, touching her hand and raising her. As though he had known in advance that Vaalukku Veli was about to touch her and lift her, Vellai Ayyar vanished from the place as if by magic.
 
 “As a sign that you have forgiven me, you must come to my house... and have some refreshments before you leave,” Sundari coaxed.
 
@@ -123,7 +123,7 @@ How many hardships there were in his life! A hot wind blew ceaselessly through h
 
 Amid all this, Sundari’s invitation was to Vaalukku Veli like a cool tree under which to rest in summer—like deep shade, like the comfort of shade grown rich and dense!
 
-Even so, could he simply say “I will come” the moment she invited him? An Ambalakkarar had certain ranks and formalities to maintain!
+Even so, could he simply say “I will come” the moment she invited him? An Ambalakkarar had a certain status and certain proprieties to maintain!
 
 <!-- source boundary: scan 153 → scan 154 -->
 
@@ -131,4 +131,4 @@ Even so, could he simply say “I will come” the moment she invited him? An Am
 
 Hearing this, Sundari lowered her face! The earth received the sight of another moon! Her big toes scratched at the ground! No—they were writing the “alphabet-primer verse” of lessons in love!
 
-Vaalukkuveli stood drinking in that beautiful form with both his eyes! Then he took a reluctant leave and went away! Thinking of him all the while, Vadivambal continued giving dance training to his younger sister Kalyani Nachiyar!
+Vaalukkuveli stood drinking in that beautiful form with his eyes! Then he took a reluctant leave and went away! Thinking of him all the while, Vadivambal continued giving dance training to his younger sister Kalyani Nachiyar!
