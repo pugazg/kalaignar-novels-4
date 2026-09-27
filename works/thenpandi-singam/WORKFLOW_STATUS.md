@@ -96,7 +96,7 @@ Part002 source intake is **COMPLETE / PASS**:
 
 ## Exact next action
 
-**Part006 final metadata/status synchronization — scans133–159 / 27 pages.**
+**Part006 documentation synchronization.**
 
 Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 unresolved**. Part003 Pass2B is **COMPLETE / PASS — 25/25 REVIEWED — 5 lexical/spacing/punctuation corrections / 0 historical-glyph corrections / 0 unresolved**. Pass3 is **COMPLETE / PASS — 25/25 REVIEWED — 0 textual corrections / 0 unresolved visual-structural questions**. All canonical records are `verified` / visual `verified`. Part001 and Part002 remain frozen; outgoing 78→79 remains source-limited pending Part004.
 
@@ -1643,4 +1643,23 @@ Part003 Pass2A is **COMPLETE / PASS — 25/25 REVIEWED — 19 corrections / 0 un
 - Part007 leakage — **0**
 - exact next activity — **Part006 final metadata/status synchronization — scans133–159 / 27 pages**
 - durable audit — `PART_006_AUDIT.md`
+
+## Part006 final metadata/status synchronization downstream state
+
+- Part006 final metadata/status synchronization — **PASS / CLOSED**
+- canonical Tamil — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- page-map verified rows — **27/27**
+- needs-review Tamil / visual pages — **0 / 0**
+- whole-Part audit — **PASS / COMPLETE**
+- canonical Part006 page files changed by status sync — **27**
+- authorized frontmatter status-line replacements — **54**
+- canonical Tamil/body changes caused by status sync — **0**
+- page-map non-status-column changes — **0**
+- incoming 132→133 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 159→160 — **PENDING direct audit / source-limited**
+- frozen Parts001–005 body/status changes — **0**
+- Part007 leakage — **0**
+- exact next activity — **Part006 documentation synchronization**
+- durable sync — `PART_006_FINAL_STATUS_SYNC.md`
 
