@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 assembled Tamil construction + audit
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 English translation planning/setup
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,9 +6,9 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–005 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to assemble Part006.
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to plan Part006 English.
 
-## Part006 authoritative state
+## Part006 authoritative Tamil state
 
 Source:
 
@@ -22,25 +22,30 @@ Source:
 Closed Tamil gates:
 
 - source intake — **COMPLETE / PASS**
-- Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 27/27 REVIEWED**
-- Pass2B — **COMPLETE / PASS — 27/27 REVIEWED**
-- Pass3 — **COMPLETE / PASS — 27/27 REVIEWED**
+- Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
 - whole-Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
+- assembled Tamil — **COMPLETE / PASS / CLOSED — 4/4 VERIFIED**
 
-Current canonical state:
+Current canonical / assembled state:
 
 - canonical Tamil — **27/27 verified**
 - visual fidelity — **27/27 verified**
-- page-map Part006 rows — **27/27 verified**
-- needs-review Tamil / visual pages — **0 / 0**
-- unresolved Tamil / glyph / visual / structural / documentation blockers — **0**
-- correction totals — **5 Pass1 / 17 Pass2A / 2 Pass2B / 0 Pass3**
-- historical-glyph corrections — **0**
-- Pass2A supersessions during Pass2B — **2 / scans145,150**
+- assembled Tamil files — **4/4 verified**
+- assembled scan coverage — **133–159 / 27**
+- omissions / duplicates / unsupported insertion / audit-note leakage — **0 / 0 / 0 / 0**
+- canonical page mutations caused by assembly — **0**
+- frozen Parts001–005 assembled Tamil changes — **0**
+- Part007 leakage — **0**
+
+Part006 assembled inventory:
+
+1. `works/thenpandi-singam/sections/26-chapter-15-part006.md` — scans **133–137**
+2. `works/thenpandi-singam/sections/27-chapter-16.md` — scans **138–146**
+3. `works/thenpandi-singam/sections/28-chapter-17.md` — scans **147–154**
+4. `works/thenpandi-singam/sections/29-chapter-18-part006.md` — scans **155–159**
 
 Boundary state:
 
@@ -48,46 +53,50 @@ Boundary state:
 - outgoing **159→160 = PENDING direct audit / source-limited**
 - Part007 / scan160 inferred or imported — **0**
 
-Durable records:
+Durable Tamil records:
 
-- `works/thenpandi-singam/PART_006_AUDIT.md`
-- `works/thenpandi-singam/PART_006_FINAL_STATUS_SYNC.md`
-- `works/thenpandi-singam/PART_006_DOCUMENTATION_SYNC.md`
 - `works/thenpandi-singam/PART_006_TAMIL_ARCHIVAL_READY.md`
+- `works/thenpandi-singam/PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
+
+## English collision state at assembly closure
+
+- existing English source-check batches — **E1–E20**
+- existing maintained English section orders — **00–25**
+- no maintained English section orders **26–29** existed at assembly closure
+- next non-colliding candidate batch range — **E21–E24**
 
 ## Exact next activity
 
-Perform **Part006 assembled Tamil construction + audit**.
+Perform **Part006 English translation planning/setup**.
 
-Create and verify these non-colliding maintained Tamil sections:
+First recheck live `main` for collisions. If still clear, reserve:
 
-1. `works/thenpandi-singam/sections/26-chapter-15-part006.md` — scans **133–137** — chapter15 continuation from frozen Part005 and close.
-2. `works/thenpandi-singam/sections/27-chapter-16.md` — scans **138–146** — complete chapter16.
-3. `works/thenpandi-singam/sections/28-chapter-17.md` — scans **147–154** — complete chapter17.
-4. `works/thenpandi-singam/sections/29-chapter-18-part006.md` — scans **155–159** — Part006-owned partial chapter18 extent; stop exactly at scan159.
+- **E21** → Tamil section26 / chapter15 Part006 / scans133–137
+- **E22** → Tamil section27 / chapter16 / scans138–146
+- **E23** → Tamil section28 / chapter17 / scans147–154
+- **E24** → Tamil section29 / chapter18 Part006 / scans155–159
 
 Create:
 
-`works/thenpandi-singam/PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
+- `works/thenpandi-singam/translations/en/PART_006_TRANSLATION_PLAN.md`
+- `works/thenpandi-singam/translations/en/PART_006_GLOSSARY.md`
+- `works/thenpandi-singam/translations/en/PART_006_PROGRESS.md`
 
-Assembly requirements:
+Planning requirements:
 
-- derive literary text only from verified Part006 canonical `pages/` `## Source transcription` bodies;
-- preserve source order and exact verified Tamil wording;
-- preserve source-supported displayed chapter numerals **16 / 17 / 18** as reading-layer headings;
-- chapter15 section starts only with Part006 scan133 and must not duplicate or mutate frozen Part005 section25;
-- preserve audited **132→133** only as non-rendering provenance at the Part006 incoming boundary;
-- omit recurring running headers, folios, ornaments, illustration detail, review/audit notes and other page furniture from literary prose;
-- preserve scan148 displayed letter/signature hierarchy and scan150 displayed devotional-verse line hierarchy;
-- preserve chapter closes at scans137,146,154 without promoting ornaments into prose;
-- chapter18 remains partial at scan159;
-- preserve **159→160 PENDING direct audit / source-limited** only as a non-rendering outgoing provenance note;
-- canonical page mutations caused by assembly — **0**;
-- canonical Tamil wording/status changes — **0**;
-- frozen Parts001–005 assembled Tamil changes — **0**;
+- use the **verified assembled Tamil 26–29** as maintained Tamil authority, with canonical `pages/` available for source/provenance checks;
+- draft **no English literary prose** during planning/setup;
+- define four maintained English targets corresponding one-to-one with Tamil sections26–29;
+- preserve the incoming **132→133 GENUINE CONTINUATION / AUDITED** only as provenance; do not alter frozen Part005 English;
+- preserve the outgoing **159→160 PENDING direct audit / source-limited** condition; do not infer Part007 wording;
+- carry forward established names, titles, places and source-form conventions from frozen prior-Part English/glossary records unless Part006 source evidence requires a documented distinction;
+- preserve scan148 letter/signature structure and scan150 displayed devotional-verse hierarchy in the translation plan;
+- canonical Tamil changes caused by planning — **0**;
+- assembled Tamil changes caused by planning — **0**;
+- frozen Parts001–005 English body changes — **0**;
 - Part007 leakage — **0**;
-- omissions / duplicates / unsupported Tamil insertion / audit-note leakage — **0 / 0 / 0 / 0**.
+- translated / source-checked at planning closure — **0/4 / 0/4**.
 
-If assembled Tamil construction and audit close **PASS / CLOSED**, exact next activity should be:
+If planning/setup closes **COMPLETE / PASS**, exact next activity should be:
 
-**Part006 English translation planning/setup.**
+**E21 draft + source-check — section26 / scans133–137.**
