@@ -19,7 +19,7 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 
 தெரு வாயில்புறம் வரையில் வந்து நின்று அவனை வழியனுப்பி வைத்தாள் சுந்தராம்பாள்! கதவைத் தாளிட்டுவிட்டு, கூடத்தில் இருந்த ஊஞ்சலிலேயே முழங்காலையைத் தலையணையாக வைத்துக் கொண்டு படுத்துவிட்டாள்!
 
-முதலில் அவளுக்கு ஏற்பட்ட சலனம் போல ஊஞ்சல் சிறிது நேரம் ஆடி அதன் பிறகு அவளுக்கு அமைதி மலர்ந்துவிட்டது என்பதற்கு அடையாளமாக நின்று விட்டது! மாடியில் மஞ்சம்-மல்லிகைக் குவியல்-ஊதுவத்தியின் ஒய்யாரம்-எல்லாமே ஆணவமடங்கிக் கேட்பாரற்றுப் போயின!
+முதலில் அவளுக்கு ஏற்பட்ட சலனம் போல ஊஞ்சல் சிறிது நேரம் ஆடி அதன் பிறகு அவளுக்கு அமைதி மலர்ந்துவிட்டது என்பதற்கு அடையாளமாக நின்று விட்டது! மாடியில் மஞ்சம்-மல்லிகைக் குவியல் - ஊதுவத்தியின் ஒய்யாரம்-எல்லாமே ஆணவமடங்கிக் கேட்பாரற்றுப் போயின!
 
 வேதனையில் புரளும் ஆரணங்குகள்-விரகதாபத்தில் நெளியும் ஆடவர்கள் - இரண்டுக்குமிடமின்றி இன்ப லோகத்தில் விளையாடி மகிழும் காதல் ஜோடிகள் - அனைவரையும் மூடியிருந்த திரையை விலக்கி, ஆதவன் கீழ்வானத்தில் செம்பருத்திப் பூவாக முளைத்தான்! உதயக் கதிரை வாழ்த்தியவாறு வாளுக்கு வேலி, மதகுப்பட்டியில் இருந்து பாகனேரி நோக்கி வந்து கொண்டிருந்தான்!
 
@@ -30,5 +30,15 @@ transcription_method: "direct source-image transcription; Part007 Pass1 batch sc
 - chapter20 continuation; printed page **161**;
 - scene shifts from Sundarambal's house to dawn / Paganeri while remaining within chapter20;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part007 Pass 2A review
+
+- strict direct-source reread completed against rendered Part007 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections: **1**;
+- correction: `மஞ்சம்-மல்லிகைக் குவியல்-ஊதுவத்தியின்` → source-visible `மஞ்சம்-மல்லிகைக் குவியல் - ஊதுவத்தியின்`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 177; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 18; அச்சுப் பக்கம்: 161; PASS 1 TEXT-COMPLETE / needs-review -->
