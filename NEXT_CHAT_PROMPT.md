@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 E21 draft + source-check — section26 / scans133–137
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part006 whole-Part English glossary reconciliation — E21–E24 / scans133–159
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,77 +6,83 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–005 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to execute Part006 E21.
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to reconcile Part006 English.
 
 ## Part006 Tamil authority
 
-Source:
-
-`TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf`
-
-- bytes — **48,442,743**
-- SHA-256 — `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346`
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf`
 - scans — **133–159 / 27**
 - canonical Tamil — **27/27 verified**
 - visual fidelity — **27/27 verified**
 - assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
-- Part006 Tamil section26 — `works/thenpandi-singam/sections/26-chapter-15-part006.md`
-- section26 scans — **133–137**
 - incoming **132→133 = GENUINE CONTINUATION / AUDITED**
 - outgoing **159→160 = PENDING direct audit / source-limited**
 - Part007 leakage — **0**
 
-## English planning state
+## Part006 English current state
 
-**PART006 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+**E21–E24 — SOURCE-CHECKED / COMPLETE — 4/4**
 
-Reserved batches:
+Maintained English:
 
-- **E21** → section26 / chapter15 Part006 continuation + close / scans133–137
-- **E22** → section27 / chapter16 / scans138–146
-- **E23** → section28 / chapter17 / scans147–154
-- **E24** → section29 / chapter18 Part006 portion / scans155–159
+1. `translations/en/sections/26-chapter-15-part006.md` — E21 — scans133–137
+2. `translations/en/sections/27-chapter-16.md` — E22 — scans138–146
+3. `translations/en/sections/28-chapter-17.md` — E23 — scans147–154
+4. `translations/en/sections/29-chapter-18-part006.md` — E24 — scans155–159
 
-Planning controls:
+Source-check records:
 
-- `works/thenpandi-singam/translations/en/PART_006_TRANSLATION_PLAN.md`
-- `works/thenpandi-singam/translations/en/PART_006_GLOSSARY.md`
-- `works/thenpandi-singam/translations/en/PART_006_PROGRESS.md`
+- `translations/en/E21_SOURCE_CHECK.md`
+- `translations/en/E22_SOURCE_CHECK.md`
+- `translations/en/E23_SOURCE_CHECK.md`
+- `translations/en/E24_SOURCE_CHECK.md`
 
-Planning closure accounting:
+Coverage/accounting:
 
-- translated/source-checked — **0/4 / 0/4**
-- English literary prose drafted during planning — **0**
-- unresolved planning / glossary holds — **0**
-- canonical / assembled Tamil changes — **0 / 0**
-- frozen Parts001–005 English body changes — **0**
+- translated/source-checked — **4/4 / 4/4**
+- source scans — **133–159 / 27 of 27**
+- Tamil / English literary-display blocks — **166 / 166**
+- provenance comments — **25 / 25**
+- omitted / duplicated literary blocks — **0 / 0**
+- unresolved E21–E24 source-check holds — **0**
+- canonical / assembled Tamil edits caused by English work — **0 / 0**
+- frozen Parts001–005 English body edits — **0**
 - Part007 leakage — **0**
+
+Structural locks:
+
+- E21 continues frozen E20 at **132→133** without duplicating scan132 English
+- E21 has no invented repeated chapter15 heading
+- E22 retains chapter numeral **16**
+- E23 retains chapter numeral **17**
+- scan148 displayed letter/signature hierarchy — **preserved**
+- scan150 devotional-verse stanza / line hierarchy — **preserved**
+- E24 retains chapter numeral **18**
+- E24 stops exactly at scan159
+- **159→160 remains PENDING direct audit / source-limited**
 
 ## Exact next activity
 
-Perform **E21 draft + source-check — section26 / scans133–137**.
+Perform **Part006 whole-Part English glossary reconciliation across E21–E24 / scans133–159**.
+
+Reconciliation requirements:
+
+- inspect all four maintained English files against `PART_006_GLOSSARY.md`, frozen prior-Part glossary locks, and the four source-check records;
+- reconcile recurring source-form variants consistently while preserving deliberate Tamil distinctions, especially **Vaalukku Veli / Vaalukkuveli**;
+- recheck newly established Part006 forms including **Manalur, Surandaikkadu, Veerammal, kaivalari, Azhwar/pasuram forms, seer-varisai, Gandharva marriage**;
+- preserve scan148 letter/signature structure and scan150 devotional-verse line hierarchy;
+- do not normalize away source-visible distinctions merely for stylistic uniformity;
+- English-only repairs are allowed when needed for glossary/source-form consistency;
+- canonical Tamil edits — **0**;
+- assembled Tamil edits — **0**;
+- frozen Parts001–005 English edits — **0**;
+- Part007 leakage — **0**;
+- outgoing **159→160 PENDING direct audit / source-limited** must remain unchanged.
 
 Create:
 
-- `works/thenpandi-singam/translations/en/sections/26-chapter-15-part006.md`
-- `works/thenpandi-singam/translations/en/E21_SOURCE_CHECK.md`
+`works/thenpandi-singam/translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
 
-E21 requirements:
+If reconciliation closes **RECONCILED / PASS**, exact next activity should be:
 
-- translate only verified maintained Tamil section26 / scans133–137;
-- continue the open chapter15 sentence/dialogue from frozen E20 without duplicating or rewriting frozen scan132 English;
-- preserve **132→133 GENUINE CONTINUATION / AUDITED** as non-rendering provenance;
-- do **not** invent a repeated chapter15 heading in E21;
-- preserve established source-facing name/place/title forms where the same Tamil form recurs;
-- document any genuinely new Part006-local name/title rendering in the Part006 glossary/source-check record;
-- preserve paragraph/dialogue sequence and rhetorical force;
-- source-visible closing ornaments on scan137 generate **0 English prose**;
-- canonical Tamil changes — **0**;
-- assembled Tamil changes — **0**;
-- frozen Parts001–005 English changes — **0**;
-- Part007 leakage — **0**;
-- E21 must close **SOURCE-CHECKED / COMPLETE** before E22 starts.
-
-If E21 closes successfully, exact next activity should be:
-
-**E22 draft + source-check — section27 / scans138–146.**
+**Part006 English editorial review across E21–E24.**
