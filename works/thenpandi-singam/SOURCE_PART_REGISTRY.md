@@ -11,7 +11,7 @@ This ledger records the user's **18 split source PDFs**.
 | 003 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_003_pages_54-78.pdf` | 25 | 54–78 | 48,354,306 | `952d8d2c0a06e65d13ecae6968b5475c01f7fe1d589b731a969c86d30495971d` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **ENGLISH PLANNING COMPLETE / PASS — E21 NEXT** |
+| 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **E21–E24 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT** |
 | 007 | pending | pending | pending | pending | pending | blocked | not started |
 | 008 | pending | pending | pending | pending | pending | blocked | not started |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
@@ -1710,3 +1710,30 @@ Part001 starts the global sequence. Each later Part begins immediately after the
 - exact next activity — **E21 draft + source-check — section26 / scans133–137**
 - durable controls — `PART_006_TRANSLATION_PLAN.md`, `PART_006_GLOSSARY.md`, `PART_006_PROGRESS.md`
 <!-- PART006_ENGLISH_PLANNING_CURRENT_END -->
+
+<!-- PART006_ENGLISH_E21_E24_CURRENT_START -->
+## Part006 English E21–E24 — current authoritative state
+
+**PART006 E21–E24 — SOURCE-CHECKED / COMPLETE — 4/4.**
+
+- maintained English files — **4/4**
+- E21 — section26 / scans133–137 — **SOURCE-CHECKED / COMPLETE**
+- E22 — section27 / scans138–146 — **SOURCE-CHECKED / COMPLETE**
+- E23 — section28 / scans147–154 — **SOURCE-CHECKED / COMPLETE**
+- E24 — section29 / scans155–159 — **SOURCE-CHECKED / COMPLETE**
+- cumulative translated/source-checked — **4/4 / 4/4**
+- physical source coverage — **scans133–159 / 27 of 27**
+- Tamil / English literary-display blocks — **166 / 166**
+- provenance comments — **25 / 25**
+- omitted / duplicated literary blocks — **0 / 0**
+- unresolved E21–E24 source-check holds — **0**
+- scan148 displayed letter/signature hierarchy — **preserved**
+- scan150 devotional-verse stanza / line hierarchy — **preserved**
+- canonical / assembled Tamil edits caused by English work — **0 / 0**
+- frozen Parts001–005 English body edits — **0**
+- incoming **132→133 — GENUINE CONTINUATION / AUDITED**
+- outgoing **159→160 — PENDING direct audit / source-limited**
+- Part007 leakage — **0**
+- exact next activity — **Part006 whole-Part English glossary reconciliation across E21–E24 / scans133–159**
+- durable source-checks — `works/thenpandi-singam/translations/en/E21_SOURCE_CHECK.md` through `E24_SOURCE_CHECK.md`
+<!-- PART006_ENGLISH_E21_E24_CURRENT_END -->
