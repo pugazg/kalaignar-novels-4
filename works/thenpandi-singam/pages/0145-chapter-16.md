@@ -21,7 +21,7 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 
 “பட்டமங்கலத்தில் இப்படியொரு காட்டிக் கொடுக்கும் துரோகி, அம்பலக்காரின் மாளிகையிலேயே இருப்பது பட்டமங்கலத்துக்கே அவமானம்! இதை நான் உடனடியாக வல்லத்தரையிடம் சொல்லப் போகிறேன்!”
 
-“வேண்டாம் தம்பி ஆதப்பா! இப்படியொரு சம்பவம் நடந்ததையே மறந்துவிடு! என் தாலி நிலைப்பதற்காகவாவது என் வேண்டுகோளைக் கேள்! நான் இவரை எப்படியும் திருத்தி, பட்டமங்கலத்துப் பெருமையைக் காப்பாற்றுகிறேன்!”
+“வேண்டாம் தம்பி வேண்டாம்! ஆதப்பா! இப்படியொரு சம்பவம் நடந்ததையே மறந்துவிடு! என் தாலி நிலைப்பதற்காகவாவது என் வேண்டுகோளைக் கேள்! நான் இவரை எப்படியும் திருத்தி, பட்டமங்கலத்துப் பெருமையைக் காப்பாற்றுகிறேன்!”
 
 ## Pass 1 notes
 
@@ -37,5 +37,16 @@ transcription_method: "direct source-image transcription; Part006 Pass1 batch sc
 - unresolved textual questions: **0**;
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+## Formal Part006 Pass 2B review
+
+- fresh lexical / spacing / punctuation / historical-glyph audit completed directly against rendered Part006 source pixels, independently of Pass2A conclusions;
+- lexical / spacing / punctuation corrections: **1**;
+- correction: `வேண்டாம் தம்பி ஆதப்பா!` → source `வேண்டாம் தம்பி வேண்டாம்! ஆதப்பா!` — restores source-visible repeated `வேண்டாம்!`;
+- historical-glyph corrections: **0**;
+- Pass2A readings superseded: **1 occurrence / this scan**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 145; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 129; PASS 1 TEXT-COMPLETE / needs-review -->
