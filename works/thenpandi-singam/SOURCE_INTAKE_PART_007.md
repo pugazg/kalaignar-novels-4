@@ -158,3 +158,21 @@ Pass1 must:
 Part007 is now the active transcription Part.
 
 **Exact next activity: Part007 Pass1 scans160–169 / local pages1–10.**
+
+## Part007 Pass1 Batch1 downstream state
+
+- Part007 Pass1 — **ACTIVE — 10/27 TEXT-COMPLETE**
+- completed scans — **160–169 / local pages1–10**
+- canonical Part007 records — **10/27**
+- cumulative canonical repository records — **169**
+- needs-review Tamil / visual — **10/10 / 10/10**
+- final direct-source reread corrections — **0**
+- unresolved Pass1 holds — **0**
+- scan163 — chapter18 close / three centered ornaments
+- scan164 — illustrated chapter19 opener / no visible folio
+- 166→167 — `புரிந்து / கொண்டாள்!`
+- 168→169 — `எடுத்து வந்து / நீட்டினாள்.`
+- frozen Parts001–006 body edits — **0**
+- Part008 leakage — **0**
+- exact next activity — **Part007 Pass1 Batch2 scans170–179 / local pages11–20**
+- durable progress — `PART_007_PASS1_PROGRESS.md`
