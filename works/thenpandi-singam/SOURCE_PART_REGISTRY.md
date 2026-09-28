@@ -2339,3 +2339,33 @@ Historical Pass1 / Pass2A / Pass2B / Pass3 / audit records that say `needs-revie
 - exact next activity — **Part007 release/readiness report**
 - durable review — `works/thenpandi-singam/translations/en/PART_007_BILINGUAL_REVIEW.md`
 <!-- PART007_BILINGUAL_REVIEW_CURRENT_END -->
+
+<!-- PART007_RELEASE_READINESS_CURRENT_START -->
+## Part007 release/readiness — current authoritative state
+
+**PART007 RELEASE/READINESS — PASS / CLOSED.**
+
+- scope — **Part007 / scans160–186 / 27**
+- canonical Tamil / visual fidelity — **27/27 / 27/27 verified**
+- page-map Part007 rows — **27/27 verified**
+- assembled Tamil — **3/3 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **3/3 / 3/3**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- editorial repairs / bilingual fidelity corrections — **68 / 12**
+- literary/display blocks — **174 Tamil / 174 English**
+- provenance comments — **26 / 26**
+- chapter-heading locks — **19 once / 20 once / repeated 18 = 0**
+- locked internal continuations — **6/6 preserved**
+- Vaalukku spaced/closed occurrences — **14/14 + 23/23 / 0 mismatches**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited / non-blocking**
+- English literary text after outgoing provenance — **0**
+- unresolved release/readiness blockers — **0**
+- canonical / assembled / maintained-English body edits in readiness gate — **0 / 0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- Part008 edits / leakage — **0 / 0**
+- exact next activity — **Part007 release-ready synchronization / final closure**
+- durable report — `works/thenpandi-singam/translations/en/PART_007_RELEASE_REPORT.md`
+<!-- PART007_RELEASE_READINESS_CURRENT_END -->

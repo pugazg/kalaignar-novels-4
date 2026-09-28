@@ -139,3 +139,33 @@ The “turned into corpses” correction remains only inside translated characte
 Perform **Part007 release/readiness report**.
 
 That gate is a closure/readiness gate: it must validate the closed Tamil and English Part007 layers and their durable controls without stylistic reopening. Canonical Tamil, assembled Tamil and maintained English body changes should be **0 / 0 / 0** unless a separately evidenced defect is discovered.
+
+<!-- PART007_RELEASE_READINESS_CURRENT_START -->
+## Part007 release/readiness — current authoritative state
+
+**PART007 RELEASE/READINESS — PASS / CLOSED.**
+
+- scope — **Part007 / scans160–186 / 27**
+- canonical Tamil / visual fidelity — **27/27 / 27/27 verified**
+- page-map Part007 rows — **27/27 verified**
+- assembled Tamil — **3/3 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **3/3 / 3/3**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- editorial repairs / bilingual fidelity corrections — **68 / 12**
+- literary/display blocks — **174 Tamil / 174 English**
+- provenance comments — **26 / 26**
+- chapter-heading locks — **19 once / 20 once / repeated 18 = 0**
+- locked internal continuations — **6/6 preserved**
+- Vaalukku spaced/closed occurrences — **14/14 + 23/23 / 0 mismatches**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited / non-blocking**
+- English literary text after outgoing provenance — **0**
+- unresolved release/readiness blockers — **0**
+- canonical / assembled / maintained-English body edits in readiness gate — **0 / 0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- Part008 edits / leakage — **0 / 0**
+- exact next activity — **Part007 release-ready synchronization / final closure**
+- durable report — `works/thenpandi-singam/translations/en/PART_007_RELEASE_REPORT.md`
+<!-- PART007_RELEASE_READINESS_CURRENT_END -->

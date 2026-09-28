@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 release/readiness report
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 release-ready synchronization / final closure
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,81 +8,88 @@ Parts **001–006 are FINAL CLOSED / FROZEN**.
 
 Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to close Part007.
 
-## Part007 Tamil authority
+## Part007 authoritative closed chain
 
+Tamil:
+
+- source intake — **COMPLETE / PASS**
 - canonical Tamil / visual fidelity — **27/27 verified / 27/27 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **all COMPLETE / PASS**
+- whole-Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **3/3 VERIFIED / PASS / CLOSED**
-- source scans — **160–186 / 27**
-- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
-- outgoing **186→187 — PENDING direct audit / source-limited**
-- Part008 leakage — **0**
 
-## Part007 English authority
+English:
 
 - E25–E27 — **3/3 SOURCE-CHECKED / COMPLETE**
-- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED**
 - editorial repairs — **68**
 - whole-Part bilingual review — **PASS / CLOSED**
-- editorial repair sites rechecked — **68/68**
-- further bilingual fidelity corrections — **12**
-- E25 / E26 / E27 bilingual corrections — **2 / 6 / 4**
-- maintained English files — **3/3**
+- bilingual fidelity corrections — **12**
 - literary/display blocks — **174 Tamil / 174 English**
 - provenance comments — **26 / 26**
 - glossary/source-form conflicts — **0**
-- unresolved bilingual holds — **0**
-- canonical / assembled Tamil edits caused by bilingual review — **0 / 0**
-- frozen Parts001–006 English body edits — **0**
+
+Release:
+
+- release/readiness report — **PASS / CLOSED**
+- durable report — `works/thenpandi-singam/translations/en/PART_007_RELEASE_REPORT.md`
+- unresolved release/readiness blockers — **0**
+
+Boundaries:
+
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited / non-blocking**
 - Part008 leakage — **0**
-
-Durable bilingual authority:
-
-`works/thenpandi-singam/translations/en/PART_007_BILINGUAL_REVIEW.md`
 
 ## Exact next activity
 
-Perform **Part007 release/readiness report**.
+Perform **Part007 release-ready synchronization / final closure**.
+
+### A. Release-ready synchronization
 
 Create durable:
 
-`works/thenpandi-singam/translations/en/PART_007_RELEASE_REPORT.md`
+`works/thenpandi-singam/PART_007_RELEASE_READY_SYNC.md`
 
-## Required release/readiness verification
+Verify that the release/readiness gate introduced no body drift:
 
-Recheck, without stylistic reopening:
+- canonical `pages/` body changes — **0**
+- assembled Tamil `sections/` body changes — **0**
+- maintained English `translations/en/sections/` body changes — **0**
+- frozen Parts001–006 body changes — **0**
+- Part008 body changes/leakage — **0 / 0**
 
-- canonical Tamil — **27/27 verified**
+Synchronize lifecycle/current controls to record:
+
+**PART007 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED**
+
+### B. Final closure
+
+After release-ready synchronization passes, create durable:
+
+`works/thenpandi-singam/PART_007_FINAL_CLOSURE.md`
+
+Require:
+
+- complete Tamil chain — **PASS / CLOSED**
 - assembled Tamil — **3/3 VERIFIED / PASS / CLOSED**
-- maintained English — **3/3 source-checked**
-- glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- bilingual review — **PASS / CLOSED**
-- editorial repairs / bilingual corrections — **68 / 12**
-- literary/display blocks — **174 / 174**
-- provenance comments — **26 / 26**
-- chapter-heading locks — **19 once / 20 once / no repeated 18**
-- six locked internal continuations — **6/6 preserved**
-- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
-- outgoing **186→187 — PENDING direct audit / source-limited**
-- English literary text after outgoing provenance — **0**
-- Vaalukku occurrence-sensitive forms — **14/14 spaced + 23/23 closed / 0 mismatches**
-- unresolved Tamil / English / glossary / boundary blockers — **0**
+- maintained/source-checked English — **3/3**
+- glossary / editorial / bilingual — **PASS**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved final-closure blockers — **0**
+- canonical / assembled / maintained-English body changes after release/readiness — **0 / 0 / 0**
+- outgoing **186→187 — PENDING direct audit / source-limited / preserved**
 - Part008 leakage — **0**
 
-## Mutation lock
+If all conditions hold, set:
 
-This is a readiness/closure gate.
+**PART007 FINAL CLOSURE — PASS / CLOSED / FROZEN**
 
-Unless a separately evidenced defect is found:
+Freeze Part007 against routine stylistic reopening. Future change is allowed only for a genuinely demonstrated source/provenance/fidelity defect or boundary-only evidence completion when Part008 supplies scan187.
 
-- canonical Tamil edits — **0**
-- assembled Tamil edits — **0**
-- maintained English body edits — **0**
-- frozen Parts001–006 English body edits — **0**
-- Part008 edits — **0**
-
-Synchronize release/readiness state across progress, translation plan, English README, root/current controls and `NEXT_CHAT_PROMPT.md`.
-
-If release/readiness passes, set the exact next activity to **Part007 release-ready synchronization / final closure**.
+If Part008 has not been supplied, set the exact next activity to **Part008 source intake when supplied**.
