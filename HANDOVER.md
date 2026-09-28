@@ -2423,3 +2423,28 @@ Historical Pass1 / Pass2A / Pass2B / Pass3 / audit records that say `needs-revie
 - E25/E26 maintained English edits — **0**
 - exact next activity — **Part007 whole-Part English glossary reconciliation across E25–E27 / scans160–186**
 <!-- PART007_ENGLISH_E27_CURRENT_END -->
+
+<!-- PART007_ENGLISH_GLOSSARY_RECON_CURRENT_START -->
+## Part007 whole-Part English glossary reconciliation — current authoritative state
+
+**PART007 WHOLE-PART ENGLISH GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- scope — **E25–E27 / scans160–186**
+- maintained English — **3/3 source-checked**
+- normalized literary/display blocks — **174 Tamil / 174 English**
+- provenance comments — **26 / 26**
+- block-count / provenance-order mismatches — **0 / 0**
+- Vaalukku spaced/closed occurrences — **14/14 + 23/23 / 0 mismatches**
+- recurring name/title/place/source-term conflicts — **0**
+- English body files changed by reconciliation — **0 / 3**
+- English body occurrences corrected — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- E25/E26/E27 source-check state — **3/3 preserved**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- Part008 leakage — **0**
+- unresolved reconciliation holds — **0**
+- exact next activity — **Part007 English editorial review across E25–E27 / 3 maintained English files / scans160–186**
+- durable reconciliation — `works/thenpandi-singam/translations/en/PART_007_GLOSSARY_RECONCILIATION.md`
+<!-- PART007_ENGLISH_GLOSSARY_RECON_CURRENT_END -->

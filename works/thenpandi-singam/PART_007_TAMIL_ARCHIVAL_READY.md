@@ -276,3 +276,22 @@ Planning/setup must recheck live collision state before reserving E-batch number
 - Part008 leakage — **0**
 - unresolved E27 / batch-level holds — **0**
 - exact next activity — **Part007 whole-Part English glossary reconciliation across E25–E27 / scans160–186**
+
+## Part007 English glossary reconciliation downstream state
+
+**PART007 WHOLE-PART ENGLISH GLOSSARY RECONCILIATION — RECONCILED / PASS.**
+
+- scope — **E25–E27 / scans160–186**
+- maintained English/source-checked — **3/3**
+- normalized literary/display blocks — **174 Tamil / 174 English**
+- provenance comments — **26 / 26**
+- Vaalukku spaced/closed source-form mismatches — **0**
+- other recurring glossary/name/title/place conflicts — **0**
+- English body files changed by reconciliation — **0 / 3**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- Part008 leakage — **0**
+- unresolved reconciliation holds — **0**
+- exact next activity — **Part007 English editorial review across E25–E27 / 3 maintained English files / scans160–186**
