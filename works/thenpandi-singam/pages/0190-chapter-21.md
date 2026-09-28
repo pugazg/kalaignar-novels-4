@@ -15,7 +15,7 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch1 s
 
 ## Source transcription
 
-காளையின் வெறி பிடித்த வேகம்-குதிரையின் பாய்ச்சல்-எப்படியும் பாகனேரி எல்லைக்குள் காளை நுழைவதற்குள் அதைத் தடுத்து நிறுத்த வேண்டுமென்ற வைரமுத்தனின் துடிப்பு-இதற்கிடையே கல்யாணி நாச்சியாரை ஏற்றி வந்த பெட்டி வண்டி, பாகனேரி எல்லையில் உள்ள குறுகிய சாலையில் வந்து குறுக்கே நிறுத்தப்பட்டு விட்டது.
+காளையின் வெறி பிடித்த வேகம்-குதிரையின் பாய்ச்சல்-எப்படியும் பாகனேரி எல்லைக்குள் காளை நுழைவதற்குள் அதைத் தடுத்து நிறுத்த வேண்டுமென்ற வைரமுத்தனின் துடிப்பு-இதற்கிடையே கல்யாணி நாச்சியாரை ஏற்றி வந்த பெட்டிவண்டி, பாகனேரி எல்லையில் உள்ள குறுகிய சாலையில் வந்து குறுக்கே நிறுத்தப்பட்டு விட்டது.
 
 கண்களில் பொறி பறக்கக் கல்யாணி நாச்சியார் வண்டியிலிருந்து இறங்கி, அங்கிருந்த ஒரு கற்பாறையின் மீது ஏறிக் கொண்டாள். வண்டிக்காரனும், கொளாரியும் நடுங்கியவாறு கற்பாறைக்குப் பின்னால் மறைந்து நின்று கொண்டனர்.
 
@@ -31,5 +31,15 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch1 s
 - chapter21 action continuation;
 - running header / folio excluded from literary prose;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part008 Pass 2A review
+
+- strict direct-source reread completed against rendered Part008 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections: **1 occurrence**;
+- correction: `ஏற்றி வந்த பெட்டி வண்டி,` → source `ஏற்றி வந்த பெட்டிவண்டி,`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 190; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 174; PASS 1 TEXT-COMPLETE / needs-review -->

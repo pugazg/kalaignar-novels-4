@@ -17,7 +17,7 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch1 s
 
 நோக்கிப் புறப்பட்டான்! பகை வளர்க்க வேண்டுமே! பரங்கியனிடம் வாங்கிய பவுன் காசுகளுக்குப் பணிபுரிந்திட வேண்டுமே!
 
-இதற்கிடையே மாவலிக்கண்மாய் சுதந்திர வீரர்கள் கூட்டத்தில் கலந்து கொண்டிருந்த வாளுக்குவேலிக்கும், ஆதப்பனுக்கும் - பட்டமங்கலம் காளையின் அட்டூழியங்களும் - அது பாகனேரிக்குள் விரட்டப்பட்டிருக்கும் செய்தியும் எப்படியோ எட்டி விட்டது!
+இதற்கிடையே மாவலிக்கண்மாய் சுதந்திர வீரர்கள் கூட்டத்தில் கலந்து கொண்டிருந்த வாளுக்குவேலிக்கும், ஆதப்பனுக்கும் - பட்டமங்கலம் காளையின் அட்டூழியங்களும் -அது பாகனேரிக்குள் விரட்டப்பட்டிருக்கும் செய்தியும் எப்படியோ எட்டி விட்டது!
 
 ஆதப்பன் அங்கிருந்த ஒரு வீரனின் குதிரையைக் கேட்டுப் பெற்றுப் பாகனேரி நோக்கிக் குதிரையைத் தட்டி விட்டான்! ஜல்லிக்கட்டுக் காளையை வைரமுத்தன் திருப்பி அனுப்பியதும்-ஆனால் உறங்காப்புலி அந்தக் காளையுடன் மீண்டும் பாகனேரி நோக்கி வருவதும் கறுத்த ஆதப்பனுக்குத் தெரியாது!
 
@@ -32,5 +32,16 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch1 s
 - chapter21 body continuation;
 - running header / folio excluded from literary prose;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part008 Pass 2A review
+
+- strict direct-source reread completed against rendered Part008 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections: **1 occurrence**;
+- correction: `அட்டூழியங்களும் - அது பாகனேரிக்குள்` → source `அட்டூழியங்களும் -அது பாகனேரிக்குள்`;
+- opening `நோக்கிப் புறப்பட்டான்!` directly completes scan194 `பாகனேரி / நோக்கிப் புறப்பட்டான்!` / **PASS**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 195; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: 179; PASS 1 TEXT-COMPLETE / needs-review -->

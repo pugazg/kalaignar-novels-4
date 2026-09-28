@@ -34,4 +34,15 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch1 s
 - ornaments remain structural/page-furniture evidence and generate no literary prose;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
+## Formal Part008 Pass 2A review
+
+- strict direct-source reread completed against rendered Part008 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections: **0**;
+- chapter21 close / three source-visible centered ornaments independently rechecked / **PASS**;
+- closing ornaments promoted to literary prose — **0**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 196; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 10; அச்சுப் பக்கம்: 180; PASS 1 TEXT-COMPLETE / needs-review -->
