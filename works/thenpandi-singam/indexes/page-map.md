@@ -194,7 +194,18 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 007 | 24 | 183 | 167 | chapter20 continuation; terminal speech open to scan184; Pass1 text-complete / reread **1 correction**; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **1 correction / 0 historical-glyph corrections / 1 Pass2A supersession**; Pass3 reviewed / **0 textual corrections / visual-structural PASS** | verified | `pages/0183-chapter-20.md` |
 | 007 | 25 | 184 | 168 | completes scan183 speech; Vadivambal arrival; terminal `இன்னொரு` open to scan185; Pass1 text-complete / reread **1 correction**; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **2 corrections / 0 historical-glyph corrections / 2 Pass2A supersessions**; Pass3 reviewed / **0 textual corrections / visual-structural PASS** | verified | `pages/0184-chapter-20.md` |
 | 007 | 26 | 185 | 169 | completes `இன்னொரு / நாள்...`; chapter20 continuation; Pass1 text-complete; Pass2A reviewed / **1 correction**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 textual corrections / visual-structural PASS** | verified | `pages/0185-chapter-20.md` |
-| 007 | 27 | 186 | 170 | chapter20 close; three centered closing ornaments; terminal supplied Part007 scan; outgoing 186→187 **PENDING direct audit / source-limited**; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 textual corrections / visual-structural PASS** | verified | `pages/0186-chapter-20.md` |
+| 007 | 27 | 186 | 170 | chapter20 close; three centered closing ornaments; terminal Part007 scan; outgoing 186→187 **CLEAN CHAPTER BOUNDARY / AUDITED** after Part008 intake; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 textual corrections / visual-structural PASS** | verified | `pages/0186-chapter-20.md` |
+
+| 008 | 1 | 187 | — | illustrated chapter21 opener; displayed numeral21; incoming 186→187 **CLEAN CHAPTER BOUNDARY / AUDITED**; Pass1 text-complete | needs-review | `pages/0187-chapter-21.md` |
+| 008 | 2 | 188 | 172 | chapter21 body continuation; Pass1 text-complete | needs-review | `pages/0188-chapter-21.md` |
+| 008 | 3 | 189 | 173 | chapter21 body continuation; Pass1 text-complete | needs-review | `pages/0189-chapter-21.md` |
+| 008 | 4 | 190 | 174 | chapter21 bull/action continuation; Pass1 text-complete | needs-review | `pages/0190-chapter-21.md` |
+| 008 | 5 | 191 | 175 | chapter21 dialogue continuation; terminal quote open to scan192; Pass1 text-complete | needs-review | `pages/0191-chapter-21.md` |
+| 008 | 6 | 192 | 176 | completes scan191 quote; terminal `முடிந்த` open to scan193; Pass1 text-complete | needs-review | `pages/0192-chapter-21.md` |
+| 008 | 7 | 193 | 177 | completes `முடிந்த / அவளால்`; chapter21 continuation; Pass1 text-complete | needs-review | `pages/0193-chapter-21.md` |
+| 008 | 8 | 194 | 178 | chapter21 continuation; terminal `பாகனேரி` open to scan195; Pass1 text-complete | needs-review | `pages/0194-chapter-21.md` |
+| 008 | 9 | 195 | 179 | completes `பாகனேரி / நோக்கிப் புறப்பட்டான்!`; chapter21 continuation; Pass1 text-complete | needs-review | `pages/0195-chapter-21.md` |
+| 008 | 10 | 196 | 180 | chapter21 close; three centered closing ornaments; Pass1 text-complete | needs-review | `pages/0196-chapter-21.md` |
 
 ## Intake observations
 
@@ -1202,3 +1213,30 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - exact next activity — **Part007 source intake when supplied**
 - durable closure — `works/thenpandi-singam/PART_006_FINAL_CLOSURE.md`
 <!-- PART006_FINAL_CLOSURE_CURRENT_END -->
+
+<!-- PART008_PASS1_BATCH1_CURRENT_START -->
+## Part008 Pass1 Batch1 — current authoritative state
+
+**PART008 PASS1 — ACTIVE — 10/28 TEXT-COMPLETE.**
+
+- Batch1 — **scans187–196 / local pages1–10 — COMPLETE / PASS**
+- canonical Part008 records — **10/28**
+- created files — **10**
+- status / visual fidelity — **needs-review / needs-review on 10/10**
+- verified promotions — **0**
+- chapter21 opener — **scan187 / numeral21 / no source-visible folio**
+- printed folios — **172–180 / scans188–196**
+- 191→192 quoted continuation — **preserved**
+- 192→193 `முடிந்த / அவளால்` — **preserved**
+- 194→195 `பாகனேரி / நோக்கிப் புறப்பட்டான்!` — **preserved**
+- scan196 — **chapter21 close / three centered ornaments**
+- ornaments promoted to prose — **0**
+- incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
+- unresolved Pass1 holds — **0**
+- frozen Parts001–007 body edits — **0**
+- Part009 leakage — **0**
+- cumulative canonical repository records — **196**
+- exact next activity — **Part008 Pass1 Batch2 scans197–206 / local pages11–20**
+- durable progress — `works/thenpandi-singam/PART_008_PASS1_PROGRESS.md`
+<!-- PART008_PASS1_BATCH1_CURRENT_END -->
