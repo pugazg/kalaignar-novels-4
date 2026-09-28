@@ -247,3 +247,22 @@ No Part008 metadata or wording is guessed.
 - exact next activity — **Part008 source intake when supplied**
 
 **STOP here. Part007 is FINAL CLOSED / FROZEN.**
+
+## Post-freeze Part008 boundary evidence completion
+
+Part008 has now been supplied and registered:
+
+- source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_008_pages_187-214.pdf`
+- local physical pages — **28**
+- global scans — **187–214**
+- first scan — **scan187 / chapter21 illustrated opener / displayed numeral21 / no source-visible folio**
+- frozen Part007 scan186 — **chapter20 close / printed170 / three centered closing ornaments**
+- direct adjacent comparison — **186→187 = CLEAN CHAPTER BOUNDARY / AUDITED**
+- prose continuation across boundary — **0**
+- frozen Part007 canonical / assembled / maintained-English body changes — **0 / 0 / 0**
+- inferred bridge text — **0**
+- Part007 remains — **FINAL CLOSED / FROZEN**
+- Part008 source intake — **COMPLETE / PASS**
+- Part008 outgoing **214→215 — PENDING direct audit / source-limited**
+- exact next activity — **Part008 Pass1 scans187–196 / local pages1–10**
+

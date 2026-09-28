@@ -12,8 +12,8 @@ This ledger records the user's **18 split source PDFs**.
 | 004 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_004_pages_79-105.pdf` | 27 | 79–105 | 49,851,018 | `bf2aa8429a00493f3257566a6c4d77fa447ae7ccf8501a5e0bab96cce8afed41` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN — PART007 SOURCE INTAKE NEXT** |
-| 007 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf` | 27 | 160–186 | 48,308,828 | `989b28ee437602c4c197c8dbcd00af7823098b9c42e907e8e3e04511b0d35021` | **COMPLETE / PASS** | **ACTIVE — PASS2A 20/27 REVIEWED** |
-| 008 | pending | pending | pending | pending | pending | blocked | not started |
+| 007 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf` | 27 | 160–186 | 48,308,828 | `989b28ee437602c4c197c8dbcd00af7823098b9c42e907e8e3e04511b0d35021` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
+| 008 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_008_pages_187-214.pdf` | 28 | 187–214 | 49,870,379 | `2db94850a7d03caadd8e59dc6a8b100cda2cbbe9ec5ffc339eda9cc9b609c1fb` | **COMPLETE / PASS** | **ACTIVE — PASS1 NEXT** |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
 | 010 | pending | pending | pending | pending | pending | blocked | not started |
 | 011 | pending | pending | pending | pending | pending | blocked | not started |
@@ -68,6 +68,27 @@ This ledger records the user's **18 split source PDFs**.
 - outgoing 78→79 — **PENDING direct audit / source-limited**
 - canonical Part003 page records — **25/25**
 - exact intake record — `SOURCE_INTAKE_PART_003.md`
+
+## Part008 registered source facts
+
+- source family / archive identifier: **TVA_BOK_0065559**
+- exact source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_008_pages_187-214.pdf`
+- local pages — **28**
+- global scans — **187–214**
+- byte size — **49,870,379**
+- SHA-256 — `2db94850a7d03caadd8e59dc6a8b100cda2cbbe9ec5ffc339eda9cc9b609c1fb`
+- no usable embedded/parsed text layer
+- rendered source page images are controlling
+- scan187 — illustrated chapter21 opening / displayed numeral21 / no source-visible folio
+- scan196 / printed180 — chapter21 close / three ornaments
+- scan197 — illustrated chapter22 opening / displayed numeral22 / no source-visible folio
+- scan206 / printed190 — chapter22 close / three ornaments
+- scan207 — illustrated chapter23 opening / displayed numeral23 / no source-visible folio
+- scan214 / printed198 — chapter23 continuation / terminal supplied Part008 scan
+- incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
+- canonical Part008 page records — **0/28**
+- exact intake record — `SOURCE_INTAKE_PART_008.md`
 
 ## Registration rules
 
@@ -2417,3 +2438,25 @@ Historical Pass1 / Pass2A / Pass2B / Pass3 / audit records that say `needs-revie
 - exact next activity — **Part008 source intake when supplied**
 - durable closure — `works/thenpandi-singam/PART_007_FINAL_CLOSURE.md`
 <!-- PART007_FINAL_CLOSURE_CURRENT_END -->
+
+<!-- PART008_SOURCE_INTAKE_CURRENT_START -->
+## Part008 source intake — current authoritative state
+
+**PART008 SOURCE INTAKE — COMPLETE / PASS.**
+
+- registered Parts — **8 / 18**
+- registered physical scans — **214**
+- canonical page records — **186**
+- final-closed Parts — **7**
+- active transcription Part — **Part008**
+- Part008 source intake — **COMPLETE / PASS**
+- Part008 source — `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_008_pages_187-214.pdf`
+- Part008 source bytes / SHA-256 — **49,870,379** / `2db94850a7d03caadd8e59dc6a8b100cda2cbbe9ec5ffc339eda9cc9b609c1fb`
+- Part008 local pages / scans — **28 / 187–214**
+- Part008 canonical records — **0/28**
+- incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
+- frozen Parts001–007 body edits — **0**
+- exact next activity — **Part008 Pass1 scans187–196 / local pages1–10**
+- durable intake — `works/thenpandi-singam/SOURCE_INTAKE_PART_008.md`
+<!-- PART008_SOURCE_INTAKE_CURRENT_END -->
