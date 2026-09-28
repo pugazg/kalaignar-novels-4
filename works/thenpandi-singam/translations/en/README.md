@@ -1360,3 +1360,29 @@ Exact next gate: **Part004 whole-Part English glossary reconciliation across E13
 - exact next activity — **Part007 final closure — PASS / CLOSED / FROZEN**
 - durable synchronization — `works/thenpandi-singam/PART_007_RELEASE_READY_SYNC.md`
 <!-- PART007_RELEASE_READY_SYNC_CURRENT_END -->
+
+<!-- PART007_FINAL_CLOSURE_CURRENT_START -->
+## Part007 final closure — current authoritative state
+
+**PART007 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- source scans — **160–186 / 27**
+- canonical Tamil / visual fidelity — **27/27 / 27/27 verified**
+- assembled Tamil — **3/3 VERIFIED / PASS / CLOSED**
+- maintained/source-checked English — **3/3 / 3/3**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- literary/display blocks / provenance comments — **174/174 / 26/26**
+- unresolved closure blockers — **0**
+- canonical / assembled / maintained-English body changes after release/readiness — **0 / 0 / 0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited / preserved**
+- Part008 leakage — **0**
+- final-closed Parts — **7**
+- Part008 — **NEXT / AWAITING SOURCE INTAKE / NOT REGISTERED**
+- exact next activity — **Part008 source intake when supplied**
+- durable closure — `works/thenpandi-singam/PART_007_FINAL_CLOSURE.md`
+<!-- PART007_FINAL_CLOSURE_CURRENT_END -->
