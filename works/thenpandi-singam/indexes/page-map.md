@@ -206,16 +206,16 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 008 | 8 | 194 | 178 | chapter21 continuation; terminal `பாகனேரி` open to scan195; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0194-chapter-21.md` |
 | 008 | 9 | 195 | 179 | completes `பாகனேரி / நோக்கிப் புறப்பட்டான்!`; chapter21 continuation; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0195-chapter-21.md` |
 | 008 | 10 | 196 | 180 | chapter21 close; three centered closing ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0196-chapter-21.md` |
-| 008 | 11 | 197 | — | illustrated chapter22 opener; displayed numeral22; Pass1 text-complete | needs-review | `pages/0197-chapter-22.md` |
-| 008 | 12 | 198 | 182 | chapter22 bull-fight continuation; Pass1 text-complete / reread **1 correction**; source-visible `கொண்டது மல்லாமல்` retained | needs-review | `pages/0198-chapter-22.md` |
-| 008 | 13 | 199 | 183 | chapter22 bull-fight / gathering transition; Pass1 text-complete | needs-review | `pages/0199-chapter-22.md` |
-| 008 | 14 | 200 | 184 | chapter22 confrontation; terminal quoted speech open to scan201; Pass1 text-complete | needs-review | `pages/0200-chapter-22.md` |
-| 008 | 15 | 201 | 185 | completes scan200 quoted speech; confrontation/dialogue; Pass1 text-complete | needs-review | `pages/0201-chapter-22.md` |
-| 008 | 16 | 202 | 186 | chapter22 sword confrontation; terminal `வைர` open to scan203; Pass1 text-complete | needs-review | `pages/0202-chapter-22.md` |
-| 008 | 17 | 203 | 187 | completes `வைர / முத்தன்`; aftermath; terminal `கவனிக்கப்` open to scan204; Pass1 text-complete | needs-review | `pages/0203-chapter-22.md` |
-| 008 | 18 | 204 | 188 | completes scan203 continuation; night sequence; terminal `காளை` open to scan205; Pass1 text-complete | needs-review | `pages/0204-chapter-22.md` |
-| 008 | 19 | 205 | 189 | completes `காளை / மாட்டின் கதறலும்`; stable confrontation; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0205-chapter-22.md` |
-| 008 | 20 | 206 | 190 | completes scan205 quoted acclamation; chapter22 close; three centered ornaments; Pass1 text-complete | needs-review | `pages/0206-chapter-22.md` |
+| 008 | 11 | 197 | — | illustrated chapter22 opener; displayed numeral22; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0197-chapter-22.md` |
+| 008 | 12 | 198 | 182 | chapter22 bull-fight continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** / reread **1 correction**; source-visible `கொண்டது மல்லாமல்` retained | needs-review | `pages/0198-chapter-22.md` |
+| 008 | 13 | 199 | 183 | chapter22 bull-fight / gathering transition; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0199-chapter-22.md` |
+| 008 | 14 | 200 | 184 | chapter22 confrontation; terminal quoted speech open to scan201; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0200-chapter-22.md` |
+| 008 | 15 | 201 | 185 | completes scan200 quoted speech; confrontation/dialogue; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0201-chapter-22.md` |
+| 008 | 16 | 202 | 186 | chapter22 sword confrontation; terminal `வைர` open to scan203; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0202-chapter-22.md` |
+| 008 | 17 | 203 | 187 | completes `வைர / முத்தன்`; aftermath; terminal `கவனிக்கப்` open to scan204; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0203-chapter-22.md` |
+| 008 | 18 | 204 | 188 | completes scan203 continuation; night sequence; terminal `காளை` open to scan205; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0204-chapter-22.md` |
+| 008 | 19 | 205 | 189 | completes `காளை / மாட்டின் கதறலும்`; stable confrontation; Pass1 text-complete; Pass2A reviewed / **0 corrections** / reread **1 correction** | needs-review | `pages/0205-chapter-22.md` |
+| 008 | 20 | 206 | 190 | completes scan205 quoted acclamation; chapter22 close; three centered ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0206-chapter-22.md` |
 | 008 | 21 | 207 | — | illustrated chapter23 opener; displayed numeral23; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0207-chapter-23.md` |
 | 008 | 22 | 208 | 192 | chapter23 Sundarambal scene; Pass1 text-complete | needs-review | `pages/0208-chapter-23.md` |
 | 008 | 23 | 209 | 193 | chapter23 song/dance scene; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0209-chapter-23.md` |
@@ -1343,3 +1343,32 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - exact next activity — **Part008 Pass2A Batch2 scans197–206 / local pages11–20**
 - durable progress — `works/thenpandi-singam/PART_008_PASS2A_PROGRESS.md`
 <!-- PART008_PASS2A_BATCH1_CURRENT_END -->
+
+<!-- PART008_PASS2A_BATCH2_CURRENT_START -->
+## Part008 Pass2A Batch2 — current authoritative state
+
+**PART008 PASS2A — ACTIVE — 20/28 REVIEWED.**
+
+- Batch2 — **scans197–206 / local pages11–20 — REVIEWED / PASS**
+- cumulative reviewed — **20/28**
+- Batch2 source-text corrections — **3 occurrences / scans200,202,203**
+- cumulative Pass2A corrections — **7**
+- Batch2 zero-correction scans — **7**
+- unresolved Pass2A questions — **0**
+- status promotions — **0**
+- reviewed status / visual fidelity — **needs-review / needs-review**
+- scan197 chapter22 opener — **PASS**
+- scan198 `கொண்டது மல்லாமல்` — **retained exactly**
+- 200→201 quoted continuation — **PASS**
+- 202→203 `வைர / முத்தன்` — **PASS**
+- 203→204 `கவனிக்கப் / போவதில்லை!` — **PASS**
+- 204→205 `காளை / மாட்டின் கதறலும்` — **PASS**
+- 205→206 quoted continuation — **PASS**
+- scan206 chapter22 close / three ornaments — **PASS**
+- incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
+- frozen Parts001–007 body edits — **0**
+- Part009 leakage — **0**
+- exact next activity — **Part008 Pass2A Batch3 FINAL scans207–214 / local pages21–28**
+- durable progress — `works/thenpandi-singam/PART_008_PASS2A_PROGRESS.md`
+<!-- PART008_PASS2A_BATCH2_CURRENT_END -->

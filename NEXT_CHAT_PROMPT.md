@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part008 Pass2A Batch2 — scans197–206
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part008 Pass2A Batch3 FINAL — scans207–214
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,19 +30,20 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 
 ## Part008 Pass2A state
 
-Batch1 is **REVIEWED / PASS — 10/10**.
+Batch1 and Batch2 are **REVIEWED / PASS**.
 
-- reviewed — **scans187–196 / local pages1–10**
-- cumulative Pass2A reviewed — **10/28**
-- Batch1 source-text corrections — **4 occurrences / scans188,190,195**
-- zero-correction Batch1 scans — **7**
+- reviewed — **scans187–206 / local pages1–20**
+- cumulative Pass2A reviewed — **20/28**
+- Batch1 corrections — **4 occurrences / scans188,190,195**
+- Batch2 corrections — **3 occurrences / scans200,202,203**
+- cumulative Pass2A corrections — **7**
+- zero-correction reviewed scans — **14**
 - unresolved Pass2A questions — **0**
 - status promotions — **0**
-- scan187 chapter21 opener — **PASS**
-- 191→192 quoted continuation — **PASS**
-- 192→193 `முடிந்த / அவளால்` — **PASS**
-- 194→195 `பாகனேரி / நோக்கிப் புறப்பட்டான்!` — **PASS**
-- scan196 chapter21 close / three ornaments — **PASS**
+- scan187 chapter21 opener / scan196 close — **PASS / PASS**
+- scan197 chapter22 opener / scan206 close — **PASS / PASS**
+- scan198 source-visible `கொண்டது மல்லாமல்` — **retained**
+- locked cross-page continuations through scan206 — **PASS**
 - incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
 - outgoing **214→215 — PENDING direct audit / source-limited**
 - frozen Parts001–007 body edits — **0**
@@ -54,24 +55,22 @@ Durable Pass2A progress:
 
 ## Exact next activity
 
-Perform **Part008 Pass2A Batch2 — scans197–206 / local pages11–20**.
+Perform **Part008 Pass2A Batch3 FINAL — scans207–214 / local pages21–28**.
 
 ### Pass2A rules
 
-For exactly scans197–206:
+For exactly scans207–214:
 
 - reread every canonical source-transcription line directly against rendered source pixels;
 - check exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure and paragraph order;
 - apply only source-backed Tamil corrections;
 - preserve source-visible colloquial / orthographic forms; do not normalize from general usage;
-- preserve scan197 illustrated chapter22 opener / displayed numeral22 / no source-visible folio;
-- preserve scan206 chapter22 close / three centered closing ornaments as structural evidence only;
-- recheck 200→201 quoted continuation;
-- recheck 202→203 `வைர / முத்தன்`;
-- recheck 203→204 `கவனிக்கப் / போவதில்லை!`;
-- recheck 204→205 `காளை / மாட்டின் கதறலும்`;
-- recheck 205→206 quoted continuation into `என்றவாறு`;
-- retain source-visible scan198 `கொண்டது மல்லாமல்` unless the rendered pixels directly contradict it;
+- preserve scan207 illustrated chapter23 opener / displayed numeral23 / no source-visible folio;
+- recheck scan207–208 narrative continuity;
+- recheck all chapter23 dialogue and paragraph boundaries;
+- recheck 213→214 `வாளுக்கு / வேலி` exactly;
+- preserve scan214 terminal source fragment `அம்பலக்காரராகப் பதவியேற்கும் வாய்ப்பே இல்லாமற்` without semantic completion;
+- outgoing **214→215 — PENDING direct audit / source-limited**;
 - retain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 - status promotions — **0** at Pass2A;
 - frozen Parts001–007 body edits — **0**;
@@ -79,4 +78,4 @@ For exactly scans197–206:
 
 Update Part008 Pass2A progress, page map and current controls.
 
-If Batch2 passes, exact next activity is **Part008 Pass2A Batch3 FINAL — scans207–214 / local pages21–28**.
+If Batch3 passes, close **Part008 Pass2A — COMPLETE / PASS — 28/28 REVIEWED** and set exact next activity to **Part008 Pass2B Batch1 — scans187–196 / local pages1–10**.

@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch2 s
 
 “முட்டாளே! என்ன காரியமடா செய்தாய்?” என்று தம்பியைக் கடிந்து கொண்ட அவன், வல்லத்தரையனிடம் சென்று அவனைத் தழுவிக் கொண்டு தழுதழுத்த மொழியில் “அம்பலக்காரரே! இது பட்டமங்கலத்திற்கு மட்டுமல்ல; பாகனேரிக்கும் ஏற்பட்ட அவமானமாக நான் கருதுகிறேன்” என்றான்.
 
-வல்லத்தரையன் பதில் பேசவில்லை! மெளனம்! பூமி திடீரெனப் பிளந்து போன்ற ஒரு ஒலி கிளம்பியது அவன் வாயிலிருந்து! கைவாளைக் கறுத்த ஆதப்பனின் கழுத்துக்குச் சரியாக வீசினான். அந்த வீச்சில் வாழைத் தண்டு வெட்டுண்டு விழுவதுபோல ஆதப்பனின் தலை உருண்டிருக்க வேண்டும்; ஆனால் அதற்குள்- வைர
+வல்லத்தரையன் பதில் பேசவில்லை! மெளனம்! பூமி திடீரெனப் பிளந்தது போன்ற ஒரு ஒலி கிளம்பியது அவன் வாயிலிருந்து! கைவாளைக் கறுத்த ஆதப்பனின் கழுத்துக்குச் சரியாக வீசினான். அந்த வீச்சில் வாழைத் தண்டு வெட்டுண்டு விழுவதுபோல ஆதப்பனின் தலை உருண்டிருக்க வேண்டும்; ஆனால் அதற்குள்- வைர
 
 ## Pass 1 notes
 
@@ -32,5 +32,16 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch2 s
 - terminal `வைர` continues directly into scan203's opening `முத்தன்`;
 - running header / folio excluded from literary prose;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part008 Pass 2A review
+
+- strict direct-source reread completed against rendered Part008 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections: **1 occurrence**;
+- correction: `பூமி திடீரெனப் பிளந்து போன்ற ஒரு ஒலி` → source `பூமி திடீரெனப் பிளந்தது போன்ற ஒரு ஒலி`;
+- terminal `வைர` remains open to scan203 / **PASS**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 202; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 186; PASS 1 TEXT-COMPLETE / needs-review -->

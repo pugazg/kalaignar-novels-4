@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — ACTIVE — 10/28 REVIEWED**
+**PASS 2A — ACTIVE — 20/28 REVIEWED**
 
 Source:
 
@@ -28,7 +28,7 @@ Direct textual-fidelity review completed for:
 
 Pass2A checked exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination, chapter/display structure and physical cross-page continuations against rendered source pixels.
 
-## Corrections
+### Batch 1 corrections
 
 Corrections — **4 occurrences on 3 scans**:
 
@@ -41,44 +41,82 @@ Affected scans — **188, 190, 195**.
 
 Zero-correction scans — **187, 189, 191, 192, 193, 194, 196**.
 
-## Boundary / structure validation
+### Batch 1 boundary / structure validation
 
 - incoming **186→187 = CLEAN CHAPTER BOUNDARY / AUDITED** — **PASS**
 - scan187 — illustrated chapter21 opener / displayed numeral21 / no source-visible folio — **PASS**
-- 187→188 — chapter21 narrative continuation / no source-supported word split — **PASS**
-- 188→189 — chapter21 narrative continuation — **PASS**
-- 189→190 — action progression — **PASS**
-- 190→191 — bull/action scene continuity — **PASS**
-- 191→192 — quoted colloquial reply continuation after `உபத்திரவங்களைப் போக்குவதற்கு` — **PASS**
+- 191→192 — quoted colloquial reply continuation — **PASS**
 - 192→193 — `முடிந்த / அவளால்` — **PASS**
-- 193→194 — chapter21 scene progression — **PASS**
 - 194→195 — `பாகனேரி / நோக்கிப் புறப்பட்டான்!` — **PASS**
-- 195→196 — chapter21 action/dialogue progression — **PASS**
 - scan196 — chapter21 close / three source-visible centered ornaments — **PASS**
+- running headers / folios / ornaments / illustration detail promoted to literary prose — **0**
+- invented bridge text — **0**
+
+## Batch 2 — scans197–206
+
+Direct textual-fidelity review completed for:
+
+- global scans — **197–206 / 10**
+- local pages — **11–20 / 10**
+- canonical records reviewed — **20/28 cumulative**
+- reviewed pages passing — **10/10**
+- unresolved textual questions — **0**
+- status promotions — **0**
+
+Pass2A again checked exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination, chapter/display structure and physical cross-page continuations against rendered source pixels.
+
+### Batch 2 corrections
+
+Corrections — **3 occurrences on 3 scans**:
+
+1. scan200 — `பட்டமங்கலத்தின் கௌரவமே பட்டுப்போயிற்று` → source `பட்டமங்கலத்தின் கௌரவமே பட்டொழிந்தது`.
+2. scan202 — `பூமி திடீரெனப் பிளந்து போன்ற ஒரு ஒலி` → source `பூமி திடீரெனப் பிளந்தது போன்ற ஒரு ஒலி`.
+3. scan203 — `நடந்தது நடந்துவிட்டது!` → source-visible `நடந்தது நடந்து விட்டது!`.
+
+Affected Batch2 scans — **200, 202, 203**.
+
+Zero-correction Batch2 scans — **197, 198, 199, 201, 204, 205, 206**.
+
+Source-visible scan198 `கொண்டது மல்லாமல்` was directly rechecked and retained exactly; it is not normalized.
+
+### Batch 2 boundary / structure validation
+
+- scan197 — illustrated chapter22 opener / displayed numeral22 / no source-visible folio — **PASS**
+- 197→198 — chapter22 narrative continuation — **PASS**
+- 198→199 — bull-fight progression — **PASS**
+- 199→200 — transition to Vallaraiyan arrival/confrontation — **PASS**
+- 200→201 — quoted speech continuation after `என் காளையையும்` — **PASS**
+- 201→202 — confrontation continuity — **PASS**
+- 202→203 — `வைர / முத்தன்` — **PASS**
+- 203→204 — `கவனிக்கப் / போவதில்லை!` — **PASS**
+- 204→205 — `காளை / மாட்டின் கதறலும்` — **PASS**
+- 205→206 — quoted acclamation continues into `என்றவாறு` — **PASS**
+- scan206 — chapter22 close / three source-visible centered ornaments — **PASS**
 - running headers / printed folios / ornaments / illustration detail promoted to literary prose — **0**
 - invented bridge text — **0**
 
-## Pass2A Batch 1 accounting
+## Pass2A cumulative accounting
 
-- reviewed — **10/28**
-- source-text correction occurrences — **4**
-- affected scans — **3 / 188, 190, 195**
-- zero-correction scans — **7 / 187, 189, 191, 192, 193, 194, 196**
-- cumulative Pass2A corrections — **4**
+- reviewed — **20/28**
+- Batch1 source-text corrections — **4**
+- Batch2 source-text corrections — **3**
+- cumulative Pass2A corrections — **7**
+- affected reviewed scans — **6 / 188, 190, 195, 200, 202, 203**
+- zero-correction reviewed scans — **14**
 - unresolved Pass2A questions — **0**
 - status promotions — **0**
-- reviewed pages remain `status: "needs-review"`
-- reviewed pages remain `visual_fidelity: "needs-review"`
+- all reviewed pages remain `status: "needs-review"`
+- all reviewed pages remain `visual_fidelity: "needs-review"`
 - frozen Parts001–007 body edits — **0**
 - Part009 leakage — **0**
 - outgoing **214→215 — PENDING direct audit / source-limited**
 
 ## Decision
 
-**PART008 PASS 2A — ACTIVE — 10/28 REVIEWED**
+**PART008 PASS 2A — ACTIVE — 20/28 REVIEWED**
 
 ## Exact next activity
 
-Perform **Part008 Pass2A Batch2 — scans197–206 / local pages11–20**.
+Perform **Part008 Pass2A Batch3 FINAL — scans207–214 / local pages21–28**.
 
-Batch2 must conduct the same strict direct-source textual reread, apply only source-backed corrections, preserve the chapter22 opener/close structure and all known cross-page continuations, keep status/visual-fidelity at needs-review, and keep frozen Parts001–007 and Part009 excluded.
+Batch3 must conduct the same strict direct-source textual reread, preserve scan207's illustrated chapter23 opener, directly recheck the 213→214 `வாளுக்கு / வேலி` continuation and scan214's source-open terminal fragment, apply only source-backed corrections, keep all statuses at needs-review, and keep Part009 excluded.
