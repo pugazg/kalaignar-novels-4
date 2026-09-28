@@ -271,3 +271,25 @@ Whole-Part glossary reconciliation caused:
 Perform **Part007 English editorial review across E25–E27 / 3 maintained English files / scans160–186**.
 
 Editorial review may improve English readability/grammar only where source fidelity is preserved. It must not normalize deliberate source-visible variants, alter chapter-heading/boundary structure, add outside historical/political/religious/literary interpretation, alter Tamil authority, or cross the pending 186→187 boundary.
+
+## Part007 English editorial review downstream state
+
+**PART007 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- scope — **E25–E27 / scans160–186**
+- reviewed maintained English — **3/3**
+- English-only editorial repairs — **68**
+- E25 / E26 / E27 repairs — **12 / 20 / 36**
+- literary/display blocks — **174 Tamil / 174 English**
+- provenance comments — **26 / 26**
+- provenance comments changed — **0**
+- glossary/source-form breakages — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- Part008 leakage — **0**
+- unresolved editorial holds — **0**
+- durable review — `PART_007_EDITORIAL_REVIEW.md`
+- exact next activity — **Part007 whole-Part bilingual review across E25–E27 / scans160–186**
+

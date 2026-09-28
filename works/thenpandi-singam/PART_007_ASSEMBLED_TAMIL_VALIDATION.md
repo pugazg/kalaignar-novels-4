@@ -258,3 +258,22 @@ Planning/setup must recheck live English batch and section collisions before res
 - Part008 leakage — **0**
 - unresolved reconciliation holds — **0**
 - exact next activity — **Part007 English editorial review across E25–E27 / 3 maintained English files / scans160–186**
+
+## Part007 English editorial review downstream state
+
+**PART007 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- scope — **E25–E27 / scans160–186**
+- reviewed maintained English — **3/3**
+- English-only editorial repairs — **68**
+- E25 / E26 / E27 repairs — **12 / 20 / 36**
+- literary/display blocks — **174 Tamil / 174 English**
+- provenance comments — **26 / 26**
+- glossary/source-form breakages — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- Part008 leakage — **0**
+- unresolved editorial holds — **0**
+- exact next activity — **Part007 whole-Part bilingual review across E25–E27 / scans160–186**

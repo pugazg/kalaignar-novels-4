@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 English editorial review — E25–E27 / scans160–186
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part007 whole-Part bilingual review — E25–E27 / scans160–186
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–006 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to edit Part007 English.
+Do not reopen their canonical Tamil, assembled Tamil or maintained English merely to review Part007.
 
 ## Part007 Tamil authority
 
@@ -18,15 +18,19 @@ Do not reopen their canonical Tamil, assembled Tamil or maintained English merel
 - outgoing **186→187 — PENDING direct audit / source-limited**
 - Part008 leakage — **0**
 
-## Part007 English authority before editorial review
+## Part007 English state before bilingual review
 
-English planning/setup — **COMPLETE / PASS**
-
-Source-checked batches:
-
-1. **E25** — section30 / scans160–163 — **SOURCE-CHECKED / COMPLETE**
-2. **E26** — section31 / scans164–173 — **SOURCE-CHECKED / COMPLETE**
-3. **E27** — section32 / scans174–186 — **SOURCE-CHECKED / COMPLETE**
+- E25–E27 — **3/3 SOURCE-CHECKED / COMPLETE**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- editorial repairs — **68**
+- E25 / E26 / E27 repairs — **12 / 20 / 36**
+- normalized literary/display blocks — **174 Tamil / 174 English**
+- provenance comments — **26 / 26**
+- glossary/source-form breakages after editorial review — **0**
+- canonical / assembled Tamil edits caused by English work — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- Part008 leakage — **0**
 
 Maintained English:
 
@@ -34,139 +38,92 @@ Maintained English:
 - `works/thenpandi-singam/translations/en/sections/31-chapter-19.md`
 - `works/thenpandi-singam/translations/en/sections/32-chapter-20.md`
 
-Whole-Part glossary reconciliation:
+Durable controls:
 
-**RECONCILED / PASS**
-
-- normalized literary/display blocks — **174 Tamil / 174 English**
-- provenance comments — **26 / 26**
-- recurring glossary/name/title/place conflicts — **0**
-- Vaalukku spaced/closed source-form mismatches — **0**
-- English body files changed by reconciliation — **0 / 3**
-- unresolved reconciliation holds — **0**
-
-Durable reconciliation:
-
-`works/thenpandi-singam/translations/en/PART_007_GLOSSARY_RECONCILIATION.md`
+- `works/thenpandi-singam/translations/en/PART_007_GLOSSARY_RECONCILIATION.md`
+- `works/thenpandi-singam/translations/en/PART_007_EDITORIAL_REVIEW.md`
 
 ## Exact next activity
 
-Perform **Part007 English editorial review across E25–E27 / 3 maintained English files / scans160–186**.
+Perform **Part007 whole-Part bilingual review across E25–E27 / scans160–186**.
 
 Create durable:
 
-`works/thenpandi-singam/translations/en/PART_007_EDITORIAL_REVIEW.md`
+`works/thenpandi-singam/translations/en/PART_007_BILINGUAL_REVIEW.md`
 
-## Editorial objective
+## Authority
 
-Improve project-created English readability, grammar, idiomatic flow, punctuation and dialogue clarity only where source fidelity is preserved.
+1. verified canonical Tamil `pages/`;
+2. verified assembled Tamil `sections/`;
+3. maintained English as derived layer.
 
-Do **not**:
+No external translation, web source, historical correction, political interpretation, religious explanation or general-knowledge normalization is textual authority.
 
-- change canonical or assembled Tamil;
-- alter literary/display block count or order;
-- alter provenance comment text/order;
-- normalize deliberate source-facing variants such as **Vaalukku Veli / Vaalukkuveli**;
-- change source-facing names/titles/places merely for style;
-- add outside historical, political, religious, biographical, literary or cultural interpretation;
-- fact-correct source narration/dialogue from outside sources;
-- sanitize or intensify sensual, sarcastic, violent, political or rhetorical content beyond the Tamil;
-- cross the outgoing **186→187 PENDING direct audit / source-limited** boundary;
-- import or infer Part008 / scan187 wording.
+## Required bilingual review
 
-## Protected structures
+Recheck all three Tamil-English pairs paragraph-by-paragraph after the **68 editorial repairs**.
+
+Recheck:
+
+- every editorial repair site — **68/68**
+- narrator/speaker agency;
+- chronology and information-release order;
+- rhetorical questions, repetition, sarcasm, jealousy, sensual imagery, insult, threat and political/military rhetoric;
+- source-visible chapter/display structure;
+- reconciled names/titles/places/source terms;
+- physical source-boundary provenance comments;
+- all locked cross-page continuations;
+- Part boundaries.
+
+If an editorial repair softened, expanded, over-interpreted or shifted source meaning, correct maintained English only and record the exact occurrence.
+
+## Structural locks
 
 E25:
 
-- begins at scan160 only;
-- chapter18 repeated heading — **0**
-- incoming **159→160 GENUINE CONTINUATION / AUDITED** provenance preserved;
-- frozen Part006 scan159 English duplicated — **0**
-- scan163 chapter close / ornaments remain non-literary.
+- literary/display blocks — **24 / 24**
+- provenance comments — **4 / 4**
+- repeated chapter18 heading — **0**
+- incoming **159→160 GENUINE CONTINUATION / AUDITED**
+- frozen scan159 English duplicated — **0**
 
 E26:
 
-- heading **19** retained exactly once;
-- 166→167, 168→169, 172→173 continuations preserved;
-- scan173 chapter close / ornaments remain non-literary.
+- literary/display blocks — **70 / 70**
+- provenance comments — **9 / 9**
+- heading **19** — **exactly once**
+- 166→167 / 168→169 / 172→173 — **preserved**
+- scan173 chapter close / ornaments non-literary.
 
 E27:
 
-- heading **20** retained exactly once;
-- 179→180, 183→184, 184→185 continuations preserved;
-- scan186 chapter close / ornaments remain non-literary;
-- outgoing 186→187 provenance comment preserved exactly;
-- English literary text after outgoing provenance — **0**.
+- literary/display blocks — **80 / 80**
+- provenance comments — **13 / 13**
+- heading **20** — **exactly once**
+- 179→180 / 183→184 / 184→185 — **preserved**
+- scan186 chapter close / ornaments non-literary
+- outgoing **186→187 PENDING direct audit / source-limited**
+- English literary text after outgoing provenance — **0**
+- Part008 / scan187 wording imported or inferred — **0**.
 
 ## Glossary/source-form locks
 
-Preserve the reconciled forms, including:
+Preserve occurrence-sensitive **Vaalukku Veli / Vaalukkuveli** handling and the reconciled Part007 glossary forms. Re-run aligned-block source-form checks after any bilingual corrections.
 
-- **Vaalukku Veli / Vaalukkuveli**
-- **Vadivu / Vadivambal**
-- **Sundari / Sundarambal**
-- **Kalyani Nachiyar**
-- **Karutha Adappan / Adappan**
-- **Meganathan**
-- **Urangappuli**
-- **Veerammal**
-- **Vallatharayan**
-- **Vairamuthan**
-- **Agniyu**
-- **Welsh / Welsh Durai**
-- **Gopal Nayakkar**
-- **Maruthu Pandiyars**
-- **Paganeri**
-- **Pattamangalam**
-- **Tirukkottiyur**
-- **Viruppatchi**
-- **Jallipatti**
-- **Manamadurai**
-- **Parthibanur**
-- **Kallar nadus**
-- **seer-varisai**
-- **box carriage**
-- **rosewater vessel**
-- **bowl of sandal paste**
-- **anklet bells**
-- **rich carpet**
-- **palayakkarars**
-- **appam**
-- **adhirasam**
-- **betel spittoon**
-- **taamboolam**
-- **paal / three paals**
-- **yaazh**
-- **vow**
-- **anguish of separation**
-- **Madagupatti**
-- **tiger-claw pendant**
-- **tiger-thali chain**
-- **Parangiyar / Parangiyars**
-- **Paramakudi**
-- **Ramanathapuram**
-- **Vattakottai Nadu**
-- **Kottadiyur**
-- **Mavali Kanmai**
-- **aarathi**
-- **saarat carriage**
-- **jallikattu bull**
-- **Chinnayya**
-- **dagger**
+## Political / historical source discipline
 
-## Required review method
+E27 military/political passages remain translated source narration/dialogue.
 
-Review all three maintained English files paragraph-by-paragraph against the Tamil authorities.
+Do not:
 
-For every English-only edit:
+- independently verify or fact-correct the source during this gate;
+- add historical explanation or political interpretation;
+- adopt source rhetoric as editorial voice;
+- normalize source-attributed claims into assistant assertions.
 
-- preserve source meaning, agency, chronology and rhetorical force;
-- preserve paragraph/dialogue hierarchy;
-- preserve glossary/source-form locks;
-- do not alter provenance comments;
-- do not add/delete/reorder literary blocks.
+## Required closure accounting
 
-After edits, re-run structural accounting and require:
+After bilingual review require:
 
 | Batch | Tamil literary/display | English literary/display | Tamil provenance | English provenance |
 |---|---:|---:|---:|---:|
@@ -175,32 +132,20 @@ After edits, re-run structural accounting and require:
 | E27 | 80 | 80 | 13 | 13 |
 | **Total** | **174** | **174** | **26** | **26** |
 
-Also require:
+Record:
 
-- block-count mismatches — **0**
-- provenance-comment mismatches — **0**
-- glossary/source-form breakages — **0**
-- omitted / duplicated literary blocks — **0 / 0**
+- editorial repair sites rechecked — **68/68**
+- further English-only fidelity corrections — **N**
+- E25 / E26 / E27 bilingual corrections — **N / N / N**
+- maintained English files changed by bilingual review — **N / 3**
+- unresolved bilingual holds — **0**
+- glossary/source-form conflicts — **0**
+- block-count/provenance mismatches — **0**
 - canonical Tamil edits — **0**
 - assembled Tamil edits — **0**
 - frozen Parts001–006 English body edits — **0**
 - Part008 leakage — **0**
-- unresolved editorial holds — **0**
 
-Record:
+Synchronize `PART_007_EDITORIAL_REVIEW.md`, glossary reconciliation, glossary, progress, translation plan, `translations/en/README.md`, root/current controls and `NEXT_CHAT_PROMPT.md`.
 
-- total English-only editorial repairs — **N**
-- E25 / E26 / E27 repairs — **N / N / N**
-- maintained English files changed — **N / 3**
-
-Synchronize:
-
-- `PART_007_GLOSSARY_RECONCILIATION.md`
-- `PART_007_GLOSSARY.md`
-- `PART_007_PROGRESS.md`
-- `PART_007_TRANSLATION_PLAN.md`
-- `translations/en/README.md`
-- root/current control documents
-- `NEXT_CHAT_PROMPT.md`
-
-If editorial review passes, set exact next activity to **Part007 whole-Part bilingual review across E25–E27 / scans160–186**.
+If bilingual review passes, set exact next activity to **Part007 release/readiness report**.

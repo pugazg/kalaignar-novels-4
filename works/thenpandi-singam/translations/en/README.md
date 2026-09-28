@@ -1254,3 +1254,28 @@ Exact next gate: **Part004 whole-Part English glossary reconciliation across E13
 - exact next activity — **Part007 English editorial review across E25–E27 / 3 maintained English files / scans160–186**
 - durable reconciliation — `works/thenpandi-singam/translations/en/PART_007_GLOSSARY_RECONCILIATION.md`
 <!-- PART007_ENGLISH_GLOSSARY_RECON_CURRENT_END -->
+
+<!-- PART007_ENGLISH_EDITORIAL_REVIEW_CURRENT_START -->
+## Part007 English editorial review — current authoritative state
+
+**PART007 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- scope — **E25–E27 / scans160–186**
+- reviewed maintained English — **3/3**
+- English-only editorial repairs — **68**
+- E25 / E26 / E27 repairs — **12 / 20 / 36**
+- literary/display blocks — **174 Tamil / 174 English**
+- provenance comments — **26 / 26**
+- provenance comments changed — **0**
+- omitted / duplicate literary blocks — **0 / 0**
+- glossary/source-form breakages — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- E25/E26/E27 source-check state — **3/3 preserved**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- Part008 leakage — **0**
+- unresolved editorial holds — **0**
+- exact next activity — **Part007 whole-Part bilingual review across E25–E27 / scans160–186**
+- durable review — `works/thenpandi-singam/translations/en/PART_007_EDITORIAL_REVIEW.md`
+<!-- PART007_ENGLISH_EDITORIAL_REVIEW_CURRENT_END -->
