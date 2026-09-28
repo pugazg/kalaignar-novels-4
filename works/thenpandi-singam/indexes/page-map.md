@@ -216,6 +216,14 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 008 | 18 | 204 | 188 | completes scan203 continuation; night sequence; terminal `காளை` open to scan205; Pass1 text-complete | needs-review | `pages/0204-chapter-22.md` |
 | 008 | 19 | 205 | 189 | completes `காளை / மாட்டின் கதறலும்`; stable confrontation; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0205-chapter-22.md` |
 | 008 | 20 | 206 | 190 | completes scan205 quoted acclamation; chapter22 close; three centered ornaments; Pass1 text-complete | needs-review | `pages/0206-chapter-22.md` |
+| 008 | 21 | 207 | — | illustrated chapter23 opener; displayed numeral23; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0207-chapter-23.md` |
+| 008 | 22 | 208 | 192 | chapter23 Sundarambal scene; Pass1 text-complete | needs-review | `pages/0208-chapter-23.md` |
+| 008 | 23 | 209 | 193 | chapter23 song/dance scene; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0209-chapter-23.md` |
+| 008 | 24 | 210 | 194 | chapter23 death-news / palace scene; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0210-chapter-23.md` |
+| 008 | 25 | 211 | 195 | chapter23 grief / travel decision; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0211-chapter-23.md` |
+| 008 | 26 | 212 | 196 | chapter23 departure discussion; Pass1 text-complete | needs-review | `pages/0212-chapter-23.md` |
+| 008 | 27 | 213 | 197 | Pattamangalam mourning scene; terminal `வாளுக்கு` open to scan214; Pass1 text-complete | needs-review | `pages/0213-chapter-23.md` |
+| 008 | 28 | 214 | 198 | completes `வாளுக்கு / வேலி`; chapter23 continuation; terminal supplied Part008 scan; outgoing 214→215 **PENDING direct audit / source-limited**; Pass1 text-complete | needs-review | `pages/0214-chapter-23.md` |
 
 ## Intake observations
 
@@ -1281,3 +1289,31 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - exact next activity — **Part008 Pass1 Batch3 FINAL scans207–214 / local pages21–28**
 - durable progress — `works/thenpandi-singam/PART_008_PASS1_PROGRESS.md`
 <!-- PART008_PASS1_BATCH2_CURRENT_END -->
+
+<!-- PART008_PASS1_FINAL_CURRENT_START -->
+## Part008 Pass1 FINAL — current authoritative state
+
+**PART008 PASS1 — COMPLETE / PASS — 28/28 TEXT-COMPLETE.**
+
+- source coverage — **scans187–214 / local pages1–28**
+- canonical Part008 records — **28/28**
+- status / visual fidelity — **needs-review / needs-review on 28/28**
+- verified promotions — **0**
+- chapter21 opener / close — **187 / 196**
+- chapter22 opener / close — **197 / 206**
+- chapter23 opener — **207**
+- source-visible folio absent — **187 / 197 / 207**
+- Batch2 reread corrections — **2**
+- Batch3 reread corrections — **4**
+- cumulative Pass1 reread corrections — **6**
+- 213→214 `வாளுக்கு / வேலி` — **preserved**
+- scan214 terminal source fragment — **preserved open / not completed**
+- incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
+- unresolved Pass1 holds — **0**
+- frozen Parts001–007 body edits — **0**
+- Part009 leakage — **0**
+- cumulative canonical repository records — **214**
+- exact next activity — **Part008 Pass2A Batch1 scans187–196 / local pages1–10**
+- durable progress — `works/thenpandi-singam/PART_008_PASS1_PROGRESS.md`
+<!-- PART008_PASS1_FINAL_CURRENT_END -->

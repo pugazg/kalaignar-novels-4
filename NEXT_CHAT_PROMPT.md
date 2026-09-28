@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part008 Pass1 Batch3 FINAL — scans207–214
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part008 Pass2A Batch1 — scans187–196
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `wo
 
 Parts **001–007 are FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review/release records or final-closure controls merely to transcribe Part008.
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review/release records or final-closure controls merely to verify Part008.
 
 ## Part008 source authority
 
@@ -19,20 +19,21 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - controlling representation — **rendered source page images**
 - source PDF committed to Git — **0**
 
-## Part008 Pass1 state
+## Part008 Pass1 authority
 
-Batch1 and Batch2 are **COMPLETE / PASS**.
+**COMPLETE / PASS — 28/28 TEXT-COMPLETE**
 
-- completed — **scans187–206 / local pages1–20**
-- canonical Part008 records — **20/28**
-- status / visual fidelity — **needs-review / needs-review on 20/20**
+- canonical records — **28/28**
+- scans — **187–214**
+- status / visual fidelity — **needs-review / needs-review on 28/28**
 - chapter21 opener / close — **187 / 196**
 - chapter22 opener / close — **197 / 206**
-- source-visible folio absent — **scans187 and 197**
-- printed folios represented — **172–180 / 182–190**
-- Pass1 reread corrections — **2 / scans198,205**
+- chapter23 opener — **207**
+- source-visible folio absent — **187 / 197 / 207**
+- Pass1 reread corrections — **6**
 - unresolved Pass1 holds — **0**
 - incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
 - frozen Parts001–007 body edits — **0**
 - Part009 leakage — **0**
 
@@ -42,33 +43,26 @@ Durable progress:
 
 ## Exact next activity
 
-Perform **Part008 Pass1 Batch3 FINAL — scans207–214 / local pages21–28**.
+Perform **Part008 Pass2A Batch1 — scans187–196 / local pages1–10**.
 
-Create canonical Tamil page records for exactly:
+### Pass2A rules
 
-- scan207 / local21
-- scan208 / local22
-- scan209 / local23
-- scan210 / local24
-- scan211 / local25
-- scan212 / local26
-- scan213 / local27
-- scan214 / local28
+For exactly scans187–196:
 
-### Structural locks
+- reread every canonical source-transcription line directly against rendered source pixels;
+- check exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure and paragraph order;
+- apply only source-backed Tamil corrections;
+- preserve source-visible colloquial / orthographic forms; do not normalize from general usage;
+- preserve scan187 illustrated chapter21 opener / displayed numeral21 / no source-visible folio;
+- preserve scan196 chapter21 close / three centered closing ornaments as structural evidence only;
+- recheck 191→192 quoted continuation;
+- recheck 192→193 `முடிந்த / அவளால்`;
+- recheck 194→195 `பாகனேரி / நோக்கிப் புறப்பட்டான்!`;
+- retain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
+- status promotions — **0** at Pass2A;
+- frozen Parts001–007 body edits — **0**;
+- Part009 leakage — **0**.
 
-- scan207 — illustrated chapter **23** opener / displayed numeral **23** / no source-visible folio;
-- scans208–214 — printed folios **192–198**;
-- scan214 — chapter23 continuation / terminal supplied Part008 scan;
-- chapter23 remains **open** at the Part008 boundary;
-- outgoing **214→215 — PENDING direct audit / source-limited**;
-- do not infer the continuation of scan214's terminal source fragment;
-- do not modify frozen Parts001–007 body text;
-- do not import or infer Part009 content.
+Update Part008 Pass2A progress, page map and current controls.
 
-All created Part008 records remain:
-
-- `status: "needs-review"`
-- `visual_fidelity: "needs-review"`
-
-If Batch3 passes, close **Part008 Pass1 — COMPLETE / PASS — 28/28 TEXT-COMPLETE** and set exact next activity to **Part008 Pass2A Batch1 — scans187–196 / local pages1–10**.
+If Batch1 passes, exact next activity is **Part008 Pass2A Batch2 — scans197–206 / local pages11–20**.

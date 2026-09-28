@@ -2,15 +2,15 @@
 
 ## Gate
 
-**PASS 1 — ACTIVE — 20/28 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 28/28 TEXT-COMPLETE**
 
-Canonical Part008 coverage after Batch2:
+Canonical Part008 coverage:
 
-- local pages — **1–20 / 28**
-- global scans — **187–206 / 28**
-- canonical Part008 records — **20/28**
-- status — **needs-review on 20/20 created records**
-- visual fidelity — **needs-review on 20/20 created records**
+- local pages — **1–28 / 28**
+- global scans — **187–214 / 28**
+- canonical Part008 records — **28/28**
+- status — **needs-review on 28/28**
+- visual fidelity — **needs-review on 28/28**
 - verified promotions — **0**
 - unresolved Pass1 source-reading holds — **0**
 - frozen Parts001–007 body edits — **0**
@@ -42,15 +42,6 @@ Canonical Part008 coverage after Batch2:
 | 9 | 195 | 179 | 21 | completes `பாகனேரி / நோக்கிப் புறப்பட்டான்!`; body continuation | TEXT-COMPLETE |
 | 10 | 196 | 180 | 21 | chapter21 close; three centered closing ornaments | TEXT-COMPLETE |
 
-## Batch 1 structural evidence
-
-- scan187 — illustrated chapter21 opener; displayed numeral21; no source-visible folio
-- 191→192 — quoted continuation after `உபத்திரவங்களைப் போக்குவதற்கு`
-- 192→193 — `முடிந்த / அவளால்` — **PRESERVED**
-- 194→195 — `பாகனேரி / நோக்கிப் புறப்பட்டான்!` — **PRESERVED**
-- scan196 — chapter21 close / three source-visible centered ornaments
-- ornaments / running headers / folios / illustration detail promoted to literary prose — **0**
-
 ## Batch 2 — scans197–206
 
 | Local | Scan | Printed | Chapter | Structural state | Pass1 |
@@ -63,80 +54,106 @@ Canonical Part008 coverage after Batch2:
 | 16 | 202 | 186 | 22 | sword confrontation; terminal `வைர` open to scan203 | TEXT-COMPLETE |
 | 17 | 203 | 187 | 22 | completes `வைர / முத்தன்`; aftermath; terminal `கவனிக்கப்` open | TEXT-COMPLETE |
 | 18 | 204 | 188 | 22 | completes scan203 continuation; night sequence; terminal `காளை` open | TEXT-COMPLETE |
-| 19 | 205 | 189 | 22 | completes `காளை / மாட்டின்`; stable confrontation; terminal acclamation open | TEXT-COMPLETE |
+| 19 | 205 | 189 | 22 | completes `காளை / மாட்டின் கதறலும்`; stable confrontation; terminal acclamation open | TEXT-COMPLETE |
 | 20 | 206 | 190 | 22 | completes scan205 acclamation; chapter22 close; three centered ornaments | TEXT-COMPLETE |
 
-## Batch 2 cross-page / structural evidence
+## Batch 3 FINAL — scans207–214
 
-- scan197 — illustrated chapter22 opener / displayed numeral22 / no source-visible folio
-- 197→198 — chapter22 narrative continues; no source-supported word split
-- 198→199 — bull-fight progression
-- 199→200 — scene progression to Vallaraiyan arrival
-- 200→201 — quoted speech continues after `என் காளையையும் / அவமானப்படுத்தி...` — **PRESERVED**
-- 201→202 — confrontation continues
-- 202→203 — `வைர / முத்தன்` — **PRESERVED**
-- 203→204 — `கவனிக்கப் / போவதில்லை!` — **PRESERVED**
-- 204→205 — `காளை / மாட்டின் கதறலும்` — **PRESERVED**
-- 205→206 — terminal quoted acclamation continues into `என்றவாறு` — **PRESERVED**
-- scan206 — chapter22 closes with three centered source-visible ornaments
-- scan206 ornaments promoted to literary prose — **0**
-- running headers / folios / illustration detail promoted to literary prose — **0**
+| Local | Scan | Printed | Chapter | Structural state | Pass1 |
+|---:|---:|:---:|---:|---|---|
+| 21 | 207 | — | 23 | illustrated chapter23 opener; displayed numeral23; no visible folio | TEXT-COMPLETE |
+| 22 | 208 | 192 | 23 | body / Sundarambal scene | TEXT-COMPLETE |
+| 23 | 209 | 193 | 23 | song/dance / intimate dialogue scene | TEXT-COMPLETE |
+| 24 | 210 | 194 | 23 | death-news arrival / Paganeri palace scene | TEXT-COMPLETE |
+| 25 | 211 | 195 | 23 | grief / travel decision dialogue | TEXT-COMPLETE |
+| 26 | 212 | 196 | 23 | departure discussion / Kalyani concern | TEXT-COMPLETE |
+| 27 | 213 | 197 | 23 | Pattamangalam mourning scene; terminal `வாளுக்கு` open to scan214 | TEXT-COMPLETE |
+| 28 | 214 | 198 | 23 | completes `வாளுக்கு / வேலி`; chapter23 continues; terminal supplied Part008 scan | TEXT-COMPLETE |
 
-## Direct-source reread
+## Structural / cross-page evidence
 
-A fresh enlarged rendered-source reread of scans197–206 was completed during Batch2 construction.
-
-Source-backed Pass1 reread corrections before commit — **2**:
-
-1. scan198 — physical line-break draft `வெற்றிகளை யெல்லாம்` → continuous source word `வெற்றிகளையெல்லாம்`
-2. scan205 — `வளுக்கொண்ட` → source `வலுக்கொண்ட`
-
-Locked source-visible anomaly retained:
-
-- scan198 — `கொண்டது மல்லாமல்` — **retained exactly; no normalization to general usage**
-
-Accounting:
-
-- Batch2 reread corrections — **2**
-- cumulative Part008 Pass1 reread corrections — **2**
-- unresolved source-reading holds — **0**
-- status promotions — **0**
-- Batch2 remains — **10/10 TEXT-COMPLETE**
-
-## Incoming boundary / frozen-Part protection
-
-Direct adjacent evidence remains:
+Incoming:
 
 - frozen Part007 scan186 / printed170 — **chapter20 close / three centered ornaments**
-- Part008 scan187 — **illustrated chapter21 opener / displayed numeral21 / no visible folio**
+- scan187 — **chapter21 illustrated opener / numeral21 / no visible folio**
 - **186→187 = CLEAN CHAPTER BOUNDARY / AUDITED**
 - frozen Part007 canonical / assembled / maintained-English body edits — **0 / 0 / 0**
-- Part008 wording imported into frozen Part007 literary bodies — **0**
 
-## Cumulative Pass1 accounting
+Chapter21:
 
-- canonical files created — **20**
-- Part008 scans represented — **187–206**
-- Part008 local pages — **1–20 / 28**
-- Pass1 text-complete — **20/28**
-- status — **needs-review on 20/20**
-- visual fidelity — **needs-review on 20/20**
+- opener / close — **187 / 196**
+- 191→192 quoted continuation — **PRESERVED**
+- 192→193 `முடிந்த / அவளால்` — **PRESERVED**
+- 194→195 `பாகனேரி / நோக்கிப் புறப்பட்டான்!` — **PRESERVED**
+- scan196 closing ornaments promoted to literary prose — **0**
+
+Chapter22:
+
+- opener / close — **197 / 206**
+- 200→201 quoted continuation — **PRESERVED**
+- 202→203 `வைர / முத்தன்` — **PRESERVED**
+- 203→204 `கவனிக்கப் / போவதில்லை!` — **PRESERVED**
+- 204→205 `காளை / மாட்டின் கதறலும்` — **PRESERVED**
+- 205→206 quoted continuation — **PRESERVED**
+- scan206 closing ornaments promoted to literary prose — **0**
+
+Chapter23:
+
+- scan207 — illustrated opener / displayed numeral23 / no visible folio
+- 213→214 — `வாளுக்கு / வேலி` — **PRESERVED**
+- scan214 — **chapter23 remains open**
+- terminal source fragment — `அம்பலக்காரராகப் பதவியேற்கும் வாய்ப்பே இல்லாமற்`
+- semantic completion beyond scan214 — **0**
+- outgoing **214→215 = PENDING direct audit / source-limited**
+- Part009 wording imported or inferred — **0**
+
+Running headers / folios / illustration detail / ornaments promoted to literary prose — **0**.
+
+## Direct-source reread accounting
+
+Batch2 source-backed reread corrections — **2**:
+
+1. scan198 — line-break draft `வெற்றிகளை யெல்லாம்` → source `வெற்றிகளையெல்லாம்`
+2. scan205 — `வளுக்கொண்ட` → source `வலுக்கொண்ட`
+
+Batch3 source-backed reread corrections — **4**:
+
+1. scan207 — `தடையப்பட்டுப்` → source `தடைப்பட்டுப்`
+2. scan209 — `வாணனைக்கு` → source `வர்ணனைக்கு`
+3. scan210 — `பண்ணிக்கிட்டாராம்` → source `பண்ணிகிட்டாராம்`
+4. scan211 — `ஒருவனைத்` → source `ஒருவனைக்`
+
+Cumulative Pass1 reread corrections — **6**.
+
+Source-visible forms intentionally retained without normalization include:
+
+- scan198 — `கொண்டது மல்லாமல்`
+- scan208 — `சங்கீத மென்று`
+- scan210 — colloquial `பாஞ்சி`, `குத்திக்கிட்டுத்`, `பண்ணிகிட்டாராம்`, `பலிச்சிகிட்டே`
+
+Final Pass1 source-reading holds — **0**.
+
+## Pass1 final accounting
+
+- canonical files created — **28**
+- Part008 scans represented — **187–214 / 28**
+- Part008 local pages — **1–28 / 28**
+- Pass1 text-complete — **28/28**
+- status — **needs-review on 28/28**
+- visual fidelity — **needs-review on 28/28**
 - verified promotions — **0**
 - chapter21 opener / close — **187 / 196**
 - chapter22 opener / close — **197 / 206**
-- source-visible folio absent — **scans187 and 197**
-- cumulative canonical repository records — **206**
+- chapter23 opener — **207**
+- source-visible folio absent — **scans187, 197, 207**
+- cumulative canonical repository records — **214**
 - unresolved Pass1 holds — **0**
 - frozen Parts001–007 body edits — **0**
 - Part009 leakage — **0**
-- outgoing **214→215 = PENDING direct audit / source-limited**
-
-## Remaining Part008 Pass1
-
-- Batch3 FINAL — **scans207–214 / local pages21–28**
+- outgoing **214→215 — PENDING direct audit / source-limited**
 
 ## Exact next activity
 
-Perform **Part008 Pass1 Batch3 FINAL — scans207–214 / local pages21–28**.
+Perform **Part008 Pass2A Batch1 — scans187–196 / local pages1–10**.
 
-Batch3 must preserve scan207's illustrated chapter23 opener / displayed numeral23 / no source-visible folio, transcribe scans208–214 directly from rendered source pixels, preserve printed folios192–198, retain scan214's source-open terminal state, and keep outgoing **214→215 PENDING direct audit / source-limited** without importing or inferring Part009.
+Pass2A must perform a strict direct-source reread against rendered source pixels, apply only source-backed corrections, retain `status: "needs-review"` and `visual_fidelity: "needs-review"`, preserve the established chapter/boundary structure, and keep Part009 excluded.

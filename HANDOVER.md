@@ -2668,3 +2668,31 @@ Historical Pass1 / Pass2A / Pass2B / Pass3 / audit records that say `needs-revie
 - exact next activity — **Part008 Pass1 Batch3 FINAL scans207–214 / local pages21–28**
 - durable progress — `works/thenpandi-singam/PART_008_PASS1_PROGRESS.md`
 <!-- PART008_PASS1_BATCH2_CURRENT_END -->
+
+<!-- PART008_PASS1_FINAL_CURRENT_START -->
+## Part008 Pass1 FINAL — current authoritative state
+
+**PART008 PASS1 — COMPLETE / PASS — 28/28 TEXT-COMPLETE.**
+
+- source coverage — **scans187–214 / local pages1–28**
+- canonical Part008 records — **28/28**
+- status / visual fidelity — **needs-review / needs-review on 28/28**
+- verified promotions — **0**
+- chapter21 opener / close — **187 / 196**
+- chapter22 opener / close — **197 / 206**
+- chapter23 opener — **207**
+- source-visible folio absent — **187 / 197 / 207**
+- Batch2 reread corrections — **2**
+- Batch3 reread corrections — **4**
+- cumulative Pass1 reread corrections — **6**
+- 213→214 `வாளுக்கு / வேலி` — **preserved**
+- scan214 terminal source fragment — **preserved open / not completed**
+- incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
+- unresolved Pass1 holds — **0**
+- frozen Parts001–007 body edits — **0**
+- Part009 leakage — **0**
+- cumulative canonical repository records — **214**
+- exact next activity — **Part008 Pass2A Batch1 scans187–196 / local pages1–10**
+- durable progress — `works/thenpandi-singam/PART_008_PASS1_PROGRESS.md`
+<!-- PART008_PASS1_FINAL_CURRENT_END -->
