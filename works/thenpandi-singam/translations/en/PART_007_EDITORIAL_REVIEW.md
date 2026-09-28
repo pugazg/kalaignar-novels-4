@@ -197,3 +197,32 @@ Editorial review caused:
 Perform **Part007 whole-Part bilingual review across E25–E27 / scans160–186**.
 
 The bilingual review must recheck all three Tamil-English pairs for fidelity after the 68 editorial repairs, preserve all reconciled glossary/source-form locks, preserve all six locked internal continuations, retain the incoming 159→160 audited continuation, and stop exactly at the source-limited 186→187 boundary.
+
+<!-- PART007_BILINGUAL_REVIEW_CURRENT_START -->
+## Part007 whole-Part bilingual review — current authoritative state
+
+**PART007 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+
+- scope — **E25–E27 / scans160–186**
+- maintained Tamil-English pairs reviewed — **3/3 PASS**
+- editorial repair sites rechecked — **68/68**
+- further English-only fidelity corrections — **12**
+- E25 / E26 / E27 bilingual corrections — **2 / 6 / 4**
+- maintained English files changed by bilingual review — **3 / 3**
+- literary/display blocks — **174 Tamil / 174 English**
+- provenance comments — **26 / 26**
+- block-count / provenance mismatches — **0 / 0**
+- glossary/source-form conflicts — **0**
+- Vaalukku spaced/closed occurrences — **14/14 + 23/23 / 0 mismatches**
+- source-visible heading **19 / 20** — **exactly once / exactly once**
+- locked internal continuations — **6/6 preserved**
+- incoming **159→160 — GENUINE CONTINUATION / AUDITED**
+- outgoing **186→187 — PENDING direct audit / source-limited**
+- English literary text after outgoing provenance — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–006 English body edits — **0**
+- Part008 / scan187 wording imported or inferred — **0**
+- unresolved bilingual holds — **0**
+- exact next activity — **Part007 release/readiness report**
+- durable review — `works/thenpandi-singam/translations/en/PART_007_BILINGUAL_REVIEW.md`
+<!-- PART007_BILINGUAL_REVIEW_CURRENT_END -->

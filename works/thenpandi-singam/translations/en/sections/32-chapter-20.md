@@ -71,7 +71,7 @@ Though he did not like that news, he did not wish to show his feelings openly be
 
 It was early morning, before the town had fully awakened. Even Kalyani Nachiyar was still asleep from the weariness of dance practice. Vaalukku Veli alighted at the entrance of the Paganeri mansion and entered with his own lion-like stride.
 
-Thinking that something new—something astonishing—must have happened, the guards, servants, Kaadai and Kolari watched him sharply without taking their eyes off him. They looked at one another and smiled.
+With pleasant thoughts that something new—something astonishing—must have happened, the guards, servants, Kaadai and Kolari watched him sharply without taking their eyes off him. They looked at one another and smiled.
 
 “What is it, Kaadai! Kolari!” At the majestic voice of the Ambalakkarar, the two hurried over, bowing and saying, “Ayya!”
 
@@ -87,7 +87,7 @@ Thinking that something new—something astonishing—must have happened, the gu
 
 “So even Urangappuli, with feeling for his people and love of country, gave you that secret letter at once!”
 
-“Yes, Anna!” was all Adappan said. He did not want to expose Urangappuli’s disguise and reveal his true nature, because he was determined to fulfil the promise he had given Veerammal.
+“Yes, Anna!” was all Adappan said. He did not want to strip away Urangappuli’s disguise and reveal his true nature, because he was determined to fulfil the promise he had given Veerammal.
 
 “Once Colonels Agniyu and Welsh realized that they could not bend either Vallatharayan or Vairamuthan, somehow they put this Urangappuli into their own pocket! Just as well. That Urangappuli, who was supposed to become a son-in-law of Paganeri, has now gone off to bring disgrace upon the name of Pattamangalam! Leave that aside, Adappa. What did you do with the letter Colonel Agniyu wrote to Welsh Durai? Whom did you deliver it to? Was it of any use?”
 
@@ -95,7 +95,7 @@ Thinking that something new—something astonishing—must have happened, the gu
 
 “Anna! Because I informed the Maruthu forces beforehand that the white army was coming along the Vaigai bank, it became very easy to trap them! I met the commander of Palayakkarar Gopal Nayakkar of Viruppatchi Jallipatti and told him the military secrets the English had set out in Colonel Agniyu’s letter. He immediately sent that information to all the camps!”
 
-“Our men shattered and scattered the white army that came as planned by the forest route along the Vaigai bank, from Manamadurai to Parthibanur! More than ten English military officers were killed! And that is not all: about a hundred of the traitors who betrayed our land, joined them, took up arms and fought against our people were left dead! Your younger brother has the honour of having killed two Englishmen and five traitors!”
+“Our men shattered and scattered the white army that came as planned by the forest route along the Vaigai bank, from Manamadurai to Parthibanur! More than ten English military officers were killed! And that is not all: about a hundred of the traitors who betrayed our land, joined them, took up arms and fought against our people were turned into corpses! Your younger brother has the honour of having killed two Englishmen and five traitors!”
 
 “Sabash, Adappa! Sabash! Given our position, this is how we must remain hidden while helping the Maruthu forces and the Nayakkar forces. If we enter this matter openly, we will have to face the terrible opposition of the whites.”
 
@@ -161,7 +161,7 @@ Even as they were speaking, a carriage came and stopped outside the entrance. Va
 
 Vadivambal turned her eyes into fishhooks and cast them at Vaalukkuveli. Though he noticed, Vaalukkuveli acted as though he had not, and looking at his sister said with a smile, “What is this, amma! Looks as though the dance teacher has arrived! Hmm, let it go on! We will go and come back soon.”
 
-Letting her upper garment slip slightly, hoping that the instant he saw it his eyes would be drawn like iron to a magnet, Vadivambal asked Vaalukku Veli, “Why? You could stay and see whether the dance training is going well.”
+Letting her upper garment slip slightly—as a deliberate ploy to draw his eyes like iron to a magnet the instant he saw it—Vadivambal asked Vaalukku Veli, “Why? You could stay and see whether the dance training is going well.”
 
 “Do I need to give yet another testimonial to Sundari’s younger sister? Let the practice go on! Another—
 

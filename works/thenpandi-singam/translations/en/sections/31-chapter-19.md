@@ -13,7 +13,7 @@ status: "source-checked"
 
 # 19
 
-Realizing her own faltering, Vadivambal reproached herself. Thinking that her desires had turned into disappointment, just like the milk spilling from the pot rolling across the floor, she stood staring at the flowing milk and the scattered fruit.
+Realizing her own faltering, Vadivambal reproached herself. Thinking that her desires had turned into disappointments, just like the milk spilling from the pot rolling across the floor, she stood staring at the flowing milk and the scattered fruit.
 
 Her mind mocked her! “What right do you have, girl, to roll about with your dream lover in the bedchamber of your elder sister’s house? Is Sundari to blame because you were deceived and handed him over to her?”
 
@@ -39,7 +39,7 @@ Vadivambal felt that she might find a little relief if she could pour out the an
 
 “Is love alms? And would you put in a recommendation for me? Lalithangi-amma! Just watch whether I defeat the elder sister who has ruined my desire with my own charms and daring!”
 
-“Charms! Daring! With whom? Your elder sister? What kind of charms can one woman use against another woman, amma?”
+“Charms! Daring! With whom? Your elder sister? What kind of flirtation can there be between one woman and another, amma?”
 
 “I am burning in pain! Don’t make fun of me! If I do not turn the Paganeri Ambalakkarar into an ascetic doing penance in my bedchamber, my name is not Vadivambal!”
 
@@ -77,13 +77,13 @@ Delighted by these assessments, Vaalukkuveli took some areca nut from the betel 
 
 The beauty with which she folded and offered it, and the pleasure with which he took and savoured it, made Nathamuni and Lalithangi speak to each other with sidelong glances. The two slowly moved away from there.
 
-Pretending not to notice them slipping away, Sundari kept folding betel leaves for Vaalukkuveli. She did not remember how many leaves she folded. Neither did he. But how much lime she had smeared on without measure became clear only when his entire mouth began to burn! He endured it without letting on that his mouth was burning.
+Pretending not to notice them slipping away, Sundari kept folding betel leaves for Vaalukkuveli. She did not remember how many leaves she folded. Neither did he. But how much lime she had smeared on without measure became clear only when his entire mouth began to burn! He managed to keep from showing that his mouth was burning.
 
 Realizing her mistake, Sundari immediately ran off, brought the betel spittoon and
 
 <!-- source boundary: scan 168 → scan 169 -->
 
-held it out. Wasn’t Vaalukku Veli a warrior? Could he let even the slightest sign show that his mouth was burning? He gestured for her to put the spittoon down. But she refused and kept holding it in her hand near his mouth. With no other choice, he spat the taamboolam into it. His tongue, lips and gums were all burning.
+held it out. Wasn’t Vaalukku Veli a warrior? Could he let even the slightest sign of embarrassment over his burning mouth show? He gestured for her to put the spittoon down. But she refused and kept holding it in her hand near his mouth. With no other choice, he spat the taamboolam into it. His tongue, lips and gums were all burning.
 
 “Forgive me! I put on too much lime, didn’t I?” she asked in words as sweet as mango juice.
 
@@ -137,7 +137,7 @@ At last the meal came to an end. He held out his hand over the silver plate and 
 
 Vaalukku Veli rose and sat on a chair near the bed. Sundari sat on the floor opposite him, peeling fruit segments and handing them to him one by one.
 
-After putting a few segments in his hand, she pouted and insisted that she would now feed them directly into his mouth. At last he agreed. She fed him one or two pieces, then brought another to his lips; when he opened his mouth, she put it into her own and laughed, “Kuluk!”
+After putting a few segments in his hand, she pouted and insisted that she would now feed them only into his mouth. At last he agreed. She fed him one or two pieces, then brought another to his lips; when he opened his mouth, she put it into her own and laughed, “Kuluk!”
 
 He took the fruit segment from her hand and put it into her mouth. She gently bit his fingers.
 
@@ -153,7 +153,7 @@ The soft bed writhed with hunger! Eager at the thought that by satisfying its hu
 
 —for the very first time, Sundari slowly rose and put out the lamps that were burning brightly in the room. Only one small lamp remained, glowing dimly.
 
-“Aren’t you sleepy? You must be very tired! Why don’t we lie down?” she asked in a trembling voice. By then she had swallowed hard twice.
+“Aren’t you sleepy? You must be very tired! Why don’t we lie down?” she asked in a trembling voice. By then she had swallowed her saliva twice.
 
 “No, Sundari! I am leaving for Paganeri!” he said.
 

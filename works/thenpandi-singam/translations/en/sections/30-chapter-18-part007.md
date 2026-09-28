@@ -33,13 +33,13 @@ Vadivu entered Sundari’s house like the flower-scented breeze that usually dri
 
 Sundari and the servants, men and women alike, were bustling about their household work. Sundari was hanging flower garlands in the hall; a betel-leaf tray, a rosewater vessel and a bowl of sandal paste had been placed on a beautiful table decorated with ivory work.
 
-As Sundari told a maid to take the rich carpet and spread it over the swing, Vadivu entered and asked, “What is this, akka! The whole house is bustling like a festival!”
+As Sundari told a maid to take the rich carpet and spread it over the swing, Vadivu entered and asked, “What is this, akka! Why is the whole house in such a bustle?”
 
 Sundari, her face reddening with shyness, turned away and called warmly, “Come, Vadivu, come! You’re here!”
 
 By then the maids had surrounded Vadivambal, each trying to tell the news before the others, and told her that Vaalukku Veli would be coming there that night.
 
-While they were still talking, two or three box carriages arrived and stopped in front of Sundari’s house. The seer-varisai sent by Vaalukkuveli was carried from them into the house. The sight of those vessels arranged in Sundari’s hall seemed to add still more artistic beauty to the house.
+While they were still talking, two or three box carriages arrived and stopped in front of Sundari’s house. The seer-varisai sent by Vaalukkuveli was carried from them into the house. The sight of those vessels arranged in Sundari’s hall seemed to lavish still more artistic beauty on the house.
 
 <!-- source boundary: scan 161 → scan 162 -->
 
