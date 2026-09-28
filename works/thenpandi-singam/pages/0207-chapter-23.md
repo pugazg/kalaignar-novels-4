@@ -30,4 +30,14 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch3 F
 - illustration generates no invented prose;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
+## Formal Part008 Pass 2A review
+
+- strict direct-source reread completed against rendered Part008 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections: **0**;
+- illustrated chapter23 opener / displayed numeral23 / no source-visible folio — **PASS**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 207; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 21; அச்சுப் பக்கம்: SOURCE-NOT-VISIBLE; PASS 1 TEXT-COMPLETE / needs-review -->

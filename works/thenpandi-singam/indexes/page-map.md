@@ -216,14 +216,14 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 008 | 18 | 204 | 188 | completes scan203 continuation; night sequence; terminal `காளை` open to scan205; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0204-chapter-22.md` |
 | 008 | 19 | 205 | 189 | completes `காளை / மாட்டின் கதறலும்`; stable confrontation; Pass1 text-complete; Pass2A reviewed / **0 corrections** / reread **1 correction** | needs-review | `pages/0205-chapter-22.md` |
 | 008 | 20 | 206 | 190 | completes scan205 quoted acclamation; chapter22 close; three centered ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0206-chapter-22.md` |
-| 008 | 21 | 207 | — | illustrated chapter23 opener; displayed numeral23; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0207-chapter-23.md` |
-| 008 | 22 | 208 | 192 | chapter23 Sundarambal scene; Pass1 text-complete | needs-review | `pages/0208-chapter-23.md` |
-| 008 | 23 | 209 | 193 | chapter23 song/dance scene; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0209-chapter-23.md` |
-| 008 | 24 | 210 | 194 | chapter23 death-news / palace scene; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0210-chapter-23.md` |
-| 008 | 25 | 211 | 195 | chapter23 grief / travel decision; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0211-chapter-23.md` |
-| 008 | 26 | 212 | 196 | chapter23 departure discussion; Pass1 text-complete | needs-review | `pages/0212-chapter-23.md` |
-| 008 | 27 | 213 | 197 | Pattamangalam mourning scene; terminal `வாளுக்கு` open to scan214; Pass1 text-complete | needs-review | `pages/0213-chapter-23.md` |
-| 008 | 28 | 214 | 198 | completes `வாளுக்கு / வேலி`; chapter23 continuation; terminal supplied Part008 scan; outgoing 214→215 **PENDING direct audit / source-limited**; Pass1 text-complete | needs-review | `pages/0214-chapter-23.md` |
+| 008 | 21 | 207 | — | illustrated chapter23 opener; displayed numeral23; Pass1 text-complete; Pass2A reviewed / **0 corrections** / reread **1 correction** | needs-review | `pages/0207-chapter-23.md` |
+| 008 | 22 | 208 | 192 | chapter23 Sundarambal scene; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0208-chapter-23.md` |
+| 008 | 23 | 209 | 193 | chapter23 song/dance scene; Pass1 text-complete; Pass2A reviewed / **0 corrections** / reread **1 correction** | needs-review | `pages/0209-chapter-23.md` |
+| 008 | 24 | 210 | 194 | chapter23 death-news / palace scene; Pass1 text-complete; Pass2A reviewed / **0 corrections** / reread **1 correction** | needs-review | `pages/0210-chapter-23.md` |
+| 008 | 25 | 211 | 195 | chapter23 grief / travel decision; Pass1 text-complete; Pass2A reviewed / **1 correction** / reread **1 correction** | needs-review | `pages/0211-chapter-23.md` |
+| 008 | 26 | 212 | 196 | chapter23 departure discussion; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0212-chapter-23.md` |
+| 008 | 27 | 213 | 197 | Pattamangalam mourning scene; terminal `வாளுக்கு` open to scan214; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0213-chapter-23.md` |
+| 008 | 28 | 214 | 198 | completes `வாளுக்கு / வேலி`; chapter23 continuation; terminal supplied Part008 scan; outgoing 214→215 **PENDING direct audit / source-limited**; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0214-chapter-23.md` |
 
 ## Intake observations
 
@@ -1372,3 +1372,32 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - exact next activity — **Part008 Pass2A Batch3 FINAL scans207–214 / local pages21–28**
 - durable progress — `works/thenpandi-singam/PART_008_PASS2A_PROGRESS.md`
 <!-- PART008_PASS2A_BATCH2_CURRENT_END -->
+
+<!-- PART008_PASS2A_FINAL_CURRENT_START -->
+## Part008 Pass2A FINAL — current authoritative state
+
+**PART008 PASS2A — COMPLETE / PASS — 28/28 REVIEWED.**
+
+- Pass1 authority — **COMPLETE / PASS — 28/28 TEXT-COMPLETE**
+- reviewed — **scans187–214 / 28**
+- Batch1 corrections — **4**
+- Batch2 corrections — **3**
+- Batch3 corrections — **1**
+- cumulative Pass2A corrections — **8 occurrences / 7 scans**
+- affected scans — **188,190,195,200,202,203,211**
+- zero-correction scans — **21**
+- unresolved Pass2A questions — **0**
+- status promotions — **0**
+- all status / visual fidelity — **needs-review / needs-review**
+- chapter21 opener / close — **187 / 196 PASS**
+- chapter22 opener / close — **197 / 206 PASS**
+- chapter23 opener — **207 PASS**
+- 213→214 `வாளுக்கு / வேலி` — **PASS**
+- scan214 terminal source fragment — **preserved open**
+- incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
+- frozen Parts001–007 body edits — **0**
+- Part009 leakage — **0**
+- exact next activity — **Part008 Pass2B Batch1 scans187–196 / local pages1–10**
+- durable progress — `works/thenpandi-singam/PART_008_PASS2A_PROGRESS.md`
+<!-- PART008_PASS2A_FINAL_CURRENT_END -->

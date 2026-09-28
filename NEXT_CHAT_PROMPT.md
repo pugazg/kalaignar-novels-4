@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part008 Pass2A Batch3 FINAL — scans207–214
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part008 Pass2B Batch1 — scans187–196
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,63 +19,55 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - controlling representation — **rendered source page images**
 - source PDF committed to Git — **0**
 
-## Part008 Pass1 authority
+## Part008 completed authority
 
-**COMPLETE / PASS — 28/28 TEXT-COMPLETE**
+Pass1 — **COMPLETE / PASS — 28/28 TEXT-COMPLETE**
 
-- canonical records — **28/28**
-- status / visual fidelity — **needs-review / needs-review on 28/28**
-- Pass1 reread corrections — **6**
-- unresolved Pass1 holds — **0**
+Pass2A — **COMPLETE / PASS — 28/28 REVIEWED**
 
-## Part008 Pass2A state
+Pass2A accounting:
 
-Batch1 and Batch2 are **REVIEWED / PASS**.
-
-- reviewed — **scans187–206 / local pages1–20**
-- cumulative Pass2A reviewed — **20/28**
-- Batch1 corrections — **4 occurrences / scans188,190,195**
-- Batch2 corrections — **3 occurrences / scans200,202,203**
-- cumulative Pass2A corrections — **7**
-- zero-correction reviewed scans — **14**
+- Batch1 corrections — **4**
+- Batch2 corrections — **3**
+- Batch3 corrections — **1**
+- cumulative source-text corrections — **8 occurrences**
+- affected scans — **188,190,195,200,202,203,211**
+- zero-correction scans — **21**
 - unresolved Pass2A questions — **0**
 - status promotions — **0**
-- scan187 chapter21 opener / scan196 close — **PASS / PASS**
-- scan197 chapter22 opener / scan206 close — **PASS / PASS**
-- scan198 source-visible `கொண்டது மல்லாமல்` — **retained**
-- locked cross-page continuations through scan206 — **PASS**
+- all pages remain `status: "needs-review"`
+- all pages remain `visual_fidelity: "needs-review"`
 - incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
 - outgoing **214→215 — PENDING direct audit / source-limited**
 - frozen Parts001–007 body edits — **0**
 - Part009 leakage — **0**
 
-Durable Pass2A progress:
+Durable Pass2A record:
 
 `works/thenpandi-singam/PART_008_PASS2A_PROGRESS.md`
 
 ## Exact next activity
 
-Perform **Part008 Pass2A Batch3 FINAL — scans207–214 / local pages21–28**.
+Perform **Part008 Pass2B Batch1 — scans187–196 / local pages1–10**.
 
-### Pass2A rules
+### Pass2B rules
 
-For exactly scans207–214:
+For exactly scans187–196:
 
-- reread every canonical source-transcription line directly against rendered source pixels;
-- check exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure and paragraph order;
-- apply only source-backed Tamil corrections;
-- preserve source-visible colloquial / orthographic forms; do not normalize from general usage;
-- preserve scan207 illustrated chapter23 opener / displayed numeral23 / no source-visible folio;
-- recheck scan207–208 narrative continuity;
-- recheck all chapter23 dialogue and paragraph boundaries;
-- recheck 213→214 `வாளுக்கு / வேலி` exactly;
-- preserve scan214 terminal source fragment `அம்பலக்காரராகப் பதவியேற்கும் வாய்ப்பே இல்லாமற்` without semantic completion;
-- outgoing **214→215 — PENDING direct audit / source-limited**;
+- perform a fresh independent reread directly against rendered source pixels;
+- audit lexical content, source-visible spacing, punctuation and historical/typographic glyph forms independently of Pass2A conclusions;
+- record lexical / spacing / punctuation corrections separately from historical-glyph corrections;
+- explicitly record any Pass2A reading superseded by Pass2B;
+- preserve scan187 illustrated chapter21 opener / numeral21 / no source-visible folio;
+- preserve scan196 chapter21 close / three centered ornaments as structural evidence only;
+- independently recheck 191→192 quoted continuation;
+- independently recheck 192→193 `முடிந்த / அவளால்`;
+- independently recheck 194→195 `பாகனேரி / நோக்கிப் புறப்பட்டான்!`;
 - retain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- status promotions — **0** at Pass2A;
+- status promotions — **0** at Pass2B;
 - frozen Parts001–007 body edits — **0**;
 - Part009 leakage — **0**.
 
-Update Part008 Pass2A progress, page map and current controls.
+Update Part008 Pass2B progress, page map and current controls.
 
-If Batch3 passes, close **Part008 Pass2A — COMPLETE / PASS — 28/28 REVIEWED** and set exact next activity to **Part008 Pass2B Batch1 — scans187–196 / local pages1–10**.
+If Batch1 passes, exact next activity is **Part008 Pass2B Batch2 — scans197–206 / local pages11–20**.

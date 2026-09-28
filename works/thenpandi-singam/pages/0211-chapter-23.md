@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch3 F
 
 இதுவரையில் பொறுமையாக அறை வாயிலில் நின்று கொண்டிருந்த கல்யாணி நாச்சியார், தன்னை மறந்து கூடத்திற்குள் ஓடிவந்து “அண்ணா! வேண்டாம் அண்ணா! இந்தச் சமயத்தில் நீங்கள் அங்குப் போவது நல்லதல்ல! தயவு செய்து அந்த எண்ணத்தைக் கை விடுங்கள்!” என்று கண்ணீர் வழிந்திடக் கெஞ்சினாள்.
 
-“ஒரு தவறு செய்தான் உறங்காப்புலி! அதற்குப் பதிலாக ஒன்பது தவறுகளை நாம் செய்து விட்டோம்! கல்யாணி! உன் அண்ணனுக்கு என்ன நேர்ந்து விடுமென்று பயப்படுகிறாய்? அப்படியே ஏதாவது நடந்தால்தான் என்ன? உணர்ச்சி அலை வீசிக் கொண்டிருக்கும் தமிழ் இரத்தம் அம்மா! அங்கே பட்டமங்கலத்தில் சிந்தப்பட்டுள்ள அந்த மாவீரன் வல்லத்தரையன் இரத்தத்துடன் என் இரத்தமும் கலந்தால் அது தமிழ் இனத்துக்கே பெருமைதானே! உன் அண்ணனுக்கும் புகழ்தானே!”-
+“ஒரு தவறு செய்தான் உறங்காப்புலி! அதற்குப் பதிலாக ஒன்பது தவறுகளை நாம் செய்து விட்டோம்! கல்யாணி! உன் அண்ணனுக்கு என்ன நேர்ந்து விடுமென்று பயப்படுகிறாய்? அப்படியே ஏதாவது நடந்தால்தான் என்ன? உணர்ச்சி அலை வீசிக் கொண்டிருக்கும் தமிழ் இரத்தம் அம்மா! அங்கே பட்டமங்கலத்தில் சிந்தப் பட்டுள்ள அந்த மாவீரன் வல்லத்தரையன் இரத்தத்துடன் என் இரத்தமும் கலந்தால் அது தமிழ் இனத்துக்கே பெருமைதானே! உன் அண்ணனுக்கும் புகழ்தானே!”-
 
 “இல்லையண்ணா! நான் சொல்வதைக் கேளுங்கள்!” என்று அவன் கரங்களைப் பிடித்துக் கொண்டாள் கல்யாணி!
 
@@ -33,5 +33,15 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch3 F
 - chapter23 body/dialogue continuation;
 - running header / folio excluded from literary prose;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
+
+## Formal Part008 Pass 2A review
+
+- strict direct-source reread completed against rendered Part008 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections: **1 occurrence**;
+- correction: `பட்டமங்கலத்தில் சிந்தப்பட்டுள்ள அந்த மாவீரன்` → source-visible `பட்டமங்கலத்தில் சிந்தப் பட்டுள்ள அந்த மாவீரன்`;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 211; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 195; PASS 1 TEXT-COMPLETE / needs-review -->

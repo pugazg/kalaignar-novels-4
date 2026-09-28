@@ -35,4 +35,15 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch3 F
 - running header / folio excluded from literary prose;
 - Pass1 result: **TEXT-COMPLETE / needs-review**.
 
+## Formal Part008 Pass 2A review
+
+- strict direct-source reread completed against rendered Part008 source pixels;
+- exact lexical content, visible word boundaries, punctuation, dialogue/quotation structure, source-visible pagination and physical-page structure checked;
+- source-text corrections: **0**;
+- source-visible colloquial forms including `பாஞ்சி`, `குத்திக்கிட்டுத்`, `பண்ணிகிட்டாராம்`, `பலிச்சிகிட்டே` independently rechecked and retained / **PASS**;
+- source-visible occurrence `வாளுக்கு வேலி` remains spaced / **PASS**;
+- unresolved textual questions: **0**;
+- Pass2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 210; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 194; PASS 1 TEXT-COMPLETE / needs-review -->
