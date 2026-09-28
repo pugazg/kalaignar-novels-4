@@ -202,6 +202,7 @@ Source exclusion — **PASS**.
 - unresolved bilingual holds — **0**
 - unresolved release/readiness blockers — **0**
 - release-ready synchronization blockers — **0**
+- unresolved final-closure blockers — **0**
 - source PDFs in active Git tree — **0**
 - Part008 leakage — **0**
 - non-blocking source-limited boundary items — **1**
