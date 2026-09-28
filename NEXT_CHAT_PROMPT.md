@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part008 Pass1 Batch2 — scans197–206
+# NEXT CHAT PROMPT — தென்பாண்டிச் சிங்கம் / Part008 Pass1 Batch3 FINAL — scans207–214
 
 Continue directly in `pugazg/kalaignar-novels-4`, branch `main`, active work `works/thenpandi-singam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,20 +21,20 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 
 ## Part008 Pass1 state
 
-Batch1 is **COMPLETE / PASS — 10/10 TEXT-COMPLETE**.
+Batch1 and Batch2 are **COMPLETE / PASS**.
 
-- completed — **scans187–196 / local pages1–10**
-- canonical Part008 records — **10/28**
-- status / visual fidelity — **needs-review / needs-review on 10/10**
-- chapter21 opener — **scan187 / numeral21 / no visible folio**
-- scan196 — **chapter21 close / three centered ornaments**
-- 191→192 quoted continuation — **preserved**
-- 192→193 `முடிந்த / அவளால்` — **preserved**
-- 194→195 `பாகனேரி / நோக்கிப் புறப்பட்டான்!` — **preserved**
+- completed — **scans187–206 / local pages1–20**
+- canonical Part008 records — **20/28**
+- status / visual fidelity — **needs-review / needs-review on 20/20**
+- chapter21 opener / close — **187 / 196**
+- chapter22 opener / close — **197 / 206**
+- source-visible folio absent — **scans187 and 197**
+- printed folios represented — **172–180 / 182–190**
+- Pass1 reread corrections — **2 / scans198,205**
+- unresolved Pass1 holds — **0**
 - incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
 - frozen Parts001–007 body edits — **0**
 - Part009 leakage — **0**
-- unresolved Pass1 holds — **0**
 
 Durable progress:
 
@@ -42,27 +42,27 @@ Durable progress:
 
 ## Exact next activity
 
-Perform **Part008 Pass1 Batch2 — scans197–206 / local pages11–20**.
+Perform **Part008 Pass1 Batch3 FINAL — scans207–214 / local pages21–28**.
 
 Create canonical Tamil page records for exactly:
 
-- scan197 / local11
-- scan198 / local12
-- scan199 / local13
-- scan200 / local14
-- scan201 / local15
-- scan202 / local16
-- scan203 / local17
-- scan204 / local18
-- scan205 / local19
-- scan206 / local20
+- scan207 / local21
+- scan208 / local22
+- scan209 / local23
+- scan210 / local24
+- scan211 / local25
+- scan212 / local26
+- scan213 / local27
+- scan214 / local28
 
 ### Structural locks
 
-- scan197 — illustrated chapter **22** opener / displayed numeral **22** / no source-visible folio;
-- scans198–206 — printed folios **182–190**;
-- scan206 — chapter22 close / three centered closing ornaments;
-- closing ornaments generate **0** literary prose;
+- scan207 — illustrated chapter **23** opener / displayed numeral **23** / no source-visible folio;
+- scans208–214 — printed folios **192–198**;
+- scan214 — chapter23 continuation / terminal supplied Part008 scan;
+- chapter23 remains **open** at the Part008 boundary;
+- outgoing **214→215 — PENDING direct audit / source-limited**;
+- do not infer the continuation of scan214's terminal source fragment;
 - do not modify frozen Parts001–007 body text;
 - do not import or infer Part009 content.
 
@@ -71,4 +71,4 @@ All created Part008 records remain:
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
-If Batch2 passes, exact next activity is **Part008 Pass1 Batch3 FINAL — scans207–214 / local pages21–28**.
+If Batch3 passes, close **Part008 Pass1 — COMPLETE / PASS — 28/28 TEXT-COMPLETE** and set exact next activity to **Part008 Pass2A Batch1 — scans187–196 / local pages1–10**.

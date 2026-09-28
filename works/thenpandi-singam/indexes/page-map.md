@@ -206,6 +206,16 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 008 | 8 | 194 | 178 | chapter21 continuation; terminal `பாகனேரி` open to scan195; Pass1 text-complete | needs-review | `pages/0194-chapter-21.md` |
 | 008 | 9 | 195 | 179 | completes `பாகனேரி / நோக்கிப் புறப்பட்டான்!`; chapter21 continuation; Pass1 text-complete | needs-review | `pages/0195-chapter-21.md` |
 | 008 | 10 | 196 | 180 | chapter21 close; three centered closing ornaments; Pass1 text-complete | needs-review | `pages/0196-chapter-21.md` |
+| 008 | 11 | 197 | — | illustrated chapter22 opener; displayed numeral22; Pass1 text-complete | needs-review | `pages/0197-chapter-22.md` |
+| 008 | 12 | 198 | 182 | chapter22 bull-fight continuation; Pass1 text-complete / reread **1 correction**; source-visible `கொண்டது மல்லாமல்` retained | needs-review | `pages/0198-chapter-22.md` |
+| 008 | 13 | 199 | 183 | chapter22 bull-fight / gathering transition; Pass1 text-complete | needs-review | `pages/0199-chapter-22.md` |
+| 008 | 14 | 200 | 184 | chapter22 confrontation; terminal quoted speech open to scan201; Pass1 text-complete | needs-review | `pages/0200-chapter-22.md` |
+| 008 | 15 | 201 | 185 | completes scan200 quoted speech; confrontation/dialogue; Pass1 text-complete | needs-review | `pages/0201-chapter-22.md` |
+| 008 | 16 | 202 | 186 | chapter22 sword confrontation; terminal `வைர` open to scan203; Pass1 text-complete | needs-review | `pages/0202-chapter-22.md` |
+| 008 | 17 | 203 | 187 | completes `வைர / முத்தன்`; aftermath; terminal `கவனிக்கப்` open to scan204; Pass1 text-complete | needs-review | `pages/0203-chapter-22.md` |
+| 008 | 18 | 204 | 188 | completes scan203 continuation; night sequence; terminal `காளை` open to scan205; Pass1 text-complete | needs-review | `pages/0204-chapter-22.md` |
+| 008 | 19 | 205 | 189 | completes `காளை / மாட்டின் கதறலும்`; stable confrontation; Pass1 text-complete / reread **1 correction** | needs-review | `pages/0205-chapter-22.md` |
+| 008 | 20 | 206 | 190 | completes scan205 quoted acclamation; chapter22 close; three centered ornaments; Pass1 text-complete | needs-review | `pages/0206-chapter-22.md` |
 
 ## Intake observations
 
@@ -1240,3 +1250,34 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - exact next activity — **Part008 Pass1 Batch2 scans197–206 / local pages11–20**
 - durable progress — `works/thenpandi-singam/PART_008_PASS1_PROGRESS.md`
 <!-- PART008_PASS1_BATCH1_CURRENT_END -->
+
+<!-- PART008_PASS1_BATCH2_CURRENT_START -->
+## Part008 Pass1 Batch2 — current authoritative state
+
+**PART008 PASS1 — ACTIVE — 20/28 TEXT-COMPLETE.**
+
+- Batch2 — **scans197–206 / local pages11–20 — COMPLETE / PASS**
+- cumulative canonical Part008 records — **20/28**
+- Batch2 created files — **10**
+- status / visual fidelity — **needs-review / needs-review on 20/20 created records**
+- verified promotions — **0**
+- chapter22 opener — **scan197 / numeral22 / no source-visible folio**
+- printed folios — **182–190 / scans198–206**
+- 200→201 quoted continuation — **preserved**
+- 202→203 `வைர / முத்தன்` — **preserved**
+- 203→204 `கவனிக்கப் / போவதில்லை!` — **preserved**
+- 204→205 `காளை / மாட்டின் கதறலும்` — **preserved**
+- 205→206 quoted continuation — **preserved**
+- scan206 — **chapter22 close / three centered ornaments**
+- ornaments promoted to prose — **0**
+- Batch2 direct-source reread corrections — **2 / scans198,205**
+- source-visible scan198 `கொண்டது மல்லாமல்` — **retained**
+- incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
+- unresolved Pass1 holds — **0**
+- frozen Parts001–007 body edits — **0**
+- Part009 leakage — **0**
+- cumulative canonical repository records — **206**
+- exact next activity — **Part008 Pass1 Batch3 FINAL scans207–214 / local pages21–28**
+- durable progress — `works/thenpandi-singam/PART_008_PASS1_PROGRESS.md`
+<!-- PART008_PASS1_BATCH2_CURRENT_END -->

@@ -13,7 +13,7 @@ This ledger records the user's **18 split source PDFs**.
 | 005 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_005_pages_106-132.pdf` | 27 | 106–132 | 48,768,215 | `4eaeef2e68daa5082662001f8906ca10ae207e95975a4207d3cdadd52708455b` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
 | 006 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_006_pages_133-159.pdf` | 27 | 133–159 | 48,442,743 | `8a69a11c12ce849e9e6226e20239ea4a2d2512b2af06164d6975ddbdb444e346` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN — PART007 SOURCE INTAKE NEXT** |
 | 007 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_007_pages_160-186.pdf` | 27 | 160–186 | 48,308,828 | `989b28ee437602c4c197c8dbcd00af7823098b9c42e907e8e3e04511b0d35021` | **COMPLETE / PASS** | **FINAL CLOSED / FROZEN** |
-| 008 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_008_pages_187-214.pdf` | 28 | 187–214 | 49,870,379 | `2db94850a7d03caadd8e59dc6a8b100cda2cbbe9ec5ffc339eda9cc9b609c1fb` | **COMPLETE / PASS** | **ACTIVE — PASS1 10/28 TEXT-COMPLETE** |
+| 008 | `TVA_BOK_0065559_தென்பாண்டிச்_சிங்கம்_2021_part_008_pages_187-214.pdf` | 28 | 187–214 | 49,870,379 | `2db94850a7d03caadd8e59dc6a8b100cda2cbbe9ec5ffc339eda9cc9b609c1fb` | **COMPLETE / PASS** | **ACTIVE — PASS1 20/28 TEXT-COMPLETE** |
 | 009 | pending | pending | pending | pending | pending | blocked | not started |
 | 010 | pending | pending | pending | pending | pending | blocked | not started |
 | 011 | pending | pending | pending | pending | pending | blocked | not started |
@@ -2487,3 +2487,34 @@ Historical Pass1 / Pass2A / Pass2B / Pass3 / audit records that say `needs-revie
 - exact next activity — **Part008 Pass1 Batch2 scans197–206 / local pages11–20**
 - durable progress — `works/thenpandi-singam/PART_008_PASS1_PROGRESS.md`
 <!-- PART008_PASS1_BATCH1_CURRENT_END -->
+
+<!-- PART008_PASS1_BATCH2_CURRENT_START -->
+## Part008 Pass1 Batch2 — current authoritative state
+
+**PART008 PASS1 — ACTIVE — 20/28 TEXT-COMPLETE.**
+
+- Batch2 — **scans197–206 / local pages11–20 — COMPLETE / PASS**
+- cumulative canonical Part008 records — **20/28**
+- Batch2 created files — **10**
+- status / visual fidelity — **needs-review / needs-review on 20/20 created records**
+- verified promotions — **0**
+- chapter22 opener — **scan197 / numeral22 / no source-visible folio**
+- printed folios — **182–190 / scans198–206**
+- 200→201 quoted continuation — **preserved**
+- 202→203 `வைர / முத்தன்` — **preserved**
+- 203→204 `கவனிக்கப் / போவதில்லை!` — **preserved**
+- 204→205 `காளை / மாட்டின் கதறலும்` — **preserved**
+- 205→206 quoted continuation — **preserved**
+- scan206 — **chapter22 close / three centered ornaments**
+- ornaments promoted to prose — **0**
+- Batch2 direct-source reread corrections — **2 / scans198,205**
+- source-visible scan198 `கொண்டது மல்லாமல்` — **retained**
+- incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
+- unresolved Pass1 holds — **0**
+- frozen Parts001–007 body edits — **0**
+- Part009 leakage — **0**
+- cumulative canonical repository records — **206**
+- exact next activity — **Part008 Pass1 Batch3 FINAL scans207–214 / local pages21–28**
+- durable progress — `works/thenpandi-singam/PART_008_PASS1_PROGRESS.md`
+<!-- PART008_PASS1_BATCH2_CURRENT_END -->

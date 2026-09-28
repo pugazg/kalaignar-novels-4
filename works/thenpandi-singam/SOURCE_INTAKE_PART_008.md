@@ -179,3 +179,34 @@ Pass1 must start from rendered source pixels, preserve the chapter21 illustrated
 - exact next activity — **Part008 Pass1 Batch2 scans197–206 / local pages11–20**
 - durable progress — `works/thenpandi-singam/PART_008_PASS1_PROGRESS.md`
 <!-- PART008_PASS1_BATCH1_CURRENT_END -->
+
+<!-- PART008_PASS1_BATCH2_CURRENT_START -->
+## Part008 Pass1 Batch2 — current authoritative state
+
+**PART008 PASS1 — ACTIVE — 20/28 TEXT-COMPLETE.**
+
+- Batch2 — **scans197–206 / local pages11–20 — COMPLETE / PASS**
+- cumulative canonical Part008 records — **20/28**
+- Batch2 created files — **10**
+- status / visual fidelity — **needs-review / needs-review on 20/20 created records**
+- verified promotions — **0**
+- chapter22 opener — **scan197 / numeral22 / no source-visible folio**
+- printed folios — **182–190 / scans198–206**
+- 200→201 quoted continuation — **preserved**
+- 202→203 `வைர / முத்தன்` — **preserved**
+- 203→204 `கவனிக்கப் / போவதில்லை!` — **preserved**
+- 204→205 `காளை / மாட்டின் கதறலும்` — **preserved**
+- 205→206 quoted continuation — **preserved**
+- scan206 — **chapter22 close / three centered ornaments**
+- ornaments promoted to prose — **0**
+- Batch2 direct-source reread corrections — **2 / scans198,205**
+- source-visible scan198 `கொண்டது மல்லாமல்` — **retained**
+- incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
+- unresolved Pass1 holds — **0**
+- frozen Parts001–007 body edits — **0**
+- Part009 leakage — **0**
+- cumulative canonical repository records — **206**
+- exact next activity — **Part008 Pass1 Batch3 FINAL scans207–214 / local pages21–28**
+- durable progress — `works/thenpandi-singam/PART_008_PASS1_PROGRESS.md`
+<!-- PART008_PASS1_BATCH2_CURRENT_END -->
