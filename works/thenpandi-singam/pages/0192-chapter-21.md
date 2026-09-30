@@ -23,7 +23,7 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch1 s
 
 “வண்டி பழுதாகியிருக்கும். எதற்கும் என் குதிரையில் ஏறிக்கொண்டால் நானே கொண்டு போய்விட்டு விடுகிறேன்.”
 
-அவளிடமிருந்து பதிலை எதிர்பார்த்தான்-ஆனால் அவள் மெளனமாகவே நின்றாள்.
+அவளிடமிருந்து பதிலை எதிர்பார்த்தான்-ஆனால்; அவள் மெளனமாகவே நின்றாள்.
 
 “எவ்வளவு துணிச்சல் இருந்தால் எங்கள் காளையின் மீது கட்டாரியைப் பாய்ச்சிட எண்ணியிருப்பாய்?”
 
@@ -55,5 +55,20 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch1 s
 - unresolved textual questions: **0**;
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+## Formal Part008 Pass 2B review
+
+- fresh independent direct-source reread completed against rendered Part008 source pixels;
+- lexical content, source-visible spacing, punctuation and historical/typographic glyph forms audited independently of Pass2A;
+- lexical / spacing / punctuation corrections: **1**;
+- historical-glyph corrections: **0**;
+- correction: `அவளிடமிருந்து பதிலை எதிர்பார்த்தான்-ஆனால் அவள் மெளனமாகவே நின்றாள்.` → source-visible `அவளிடமிருந்து பதிலை எதிர்பார்த்தான்-ஆனால்; அவள் மெளனமாகவே நின்றாள்.`;
+- Pass2A reading superseded: **1**;
+- Pass2A accepted the no-semicolon reading after `ஆனால்`; Pass2B restores the source-visible semicolon.
+- opening directly continues scan191 quoted reply / **PASS**;
+- terminal `முடிந்த` remains open to scan193 / **PASS**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 192; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 6; அச்சுப் பக்கம்: 176; PASS 1 TEXT-COMPLETE / needs-review -->

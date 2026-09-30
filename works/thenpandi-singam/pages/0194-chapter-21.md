@@ -19,7 +19,7 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch1 s
 
 கல்யாணி நாச்சியாரின் வண்டி திரும்பி வருவதற்குள், அம்பலக்காரர்களின் வீரர்களும்-பாகனேரி மக்களும் திரண்டு வந்து, “நாங்களிருக்கும்போது நாச்சியார் எதற்காகப் போக வேண்டும்!” என்று ஆழ்ந்த கவலையுடன் கேட்டுத் தொடங்கினர்!
 
-“கடமையைச் செய்வதற்குப் பொறுப்பிலே உள்ளவர்கள் ஒரு நொடி நேரமும் காலம் தாழ்த்திடக் கூடாது!” என்று கல்யாணி பதில் அளித்து விட்டு-வைரமுத்தனின் நினைவுடனேயே மாளிகைக்குச் சென்றாள்.
+“கடமையைச் செய்வதற்குப் பொறுப்பிலே உள்ளவர்கள் ஒரு நொடி நேரமும் காலம் தாழ்த்திடக் கூடாது!” என்று கல்யாணி பதில் அளித்து விட்டு- வைரமுத்தனின் நினைவுடனேயே மாளிகைக்குச் சென்றாள்.
 
 அவளையுமறியாமல் அவள் நெஞ்சும் அந்த ஜல்லிக்கட்டுக் காளையை வாழ்த்திற்று! அது வராவிட்டால் அந்த இனிய சந்திப்பு நிகழ்ந்திருக்காதல்லவா?
 
@@ -42,5 +42,19 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch1 s
 - unresolved textual questions: **0**;
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
+
+## Formal Part008 Pass 2B review
+
+- fresh independent direct-source reread completed against rendered Part008 source pixels;
+- lexical content, source-visible spacing, punctuation and historical/typographic glyph forms audited independently of Pass2A;
+- lexical / spacing / punctuation corrections: **1**;
+- historical-glyph corrections: **0**;
+- correction: `என்று கல்யாணி பதில் அளித்து விட்டு-வைரமுத்தனின் நினைவுடனேயே` → source-visible `என்று கல்யாணி பதில் அளித்து விட்டு- வைரமுத்தனின் நினைவுடனேயே`;
+- Pass2A reading superseded: **1**;
+- Pass2A accepted `விட்டு-வைரமுத்தனின்`; Pass2B restores the source-visible space after the hyphen: `விட்டு- வைரமுத்தனின்`.
+- terminal `பாகனேரி` remains open to scan195 / **PASS**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 194; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 178; PASS 1 TEXT-COMPLETE / needs-review -->

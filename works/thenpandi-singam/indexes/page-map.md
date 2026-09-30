@@ -196,16 +196,16 @@ Part001 physical mapping and Part002 physical range are registered from direct s
 | 007 | 26 | 185 | 169 | completes `இன்னொரு / நாள்...`; chapter20 continuation; Pass1 text-complete; Pass2A reviewed / **1 correction**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 textual corrections / visual-structural PASS** | verified | `pages/0185-chapter-20.md` |
 | 007 | 27 | 186 | 170 | chapter20 close; three centered closing ornaments; terminal Part007 scan; outgoing 186→187 **CLEAN CHAPTER BOUNDARY / AUDITED** after Part008 intake; Pass1 text-complete; Pass2A reviewed / **0 corrections**; Pass2B reviewed / **0 corrections / 0 historical-glyph corrections**; Pass3 reviewed / **0 textual corrections / visual-structural PASS** | verified | `pages/0186-chapter-20.md` |
 
-| 008 | 1 | 187 | — | illustrated chapter21 opener; displayed numeral21; incoming 186→187 **CLEAN CHAPTER BOUNDARY / AUDITED**; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0187-chapter-21.md` |
-| 008 | 2 | 188 | 172 | chapter21 body continuation; Pass1 text-complete; Pass2A reviewed / **2 corrections** | needs-review | `pages/0188-chapter-21.md` |
-| 008 | 3 | 189 | 173 | chapter21 body continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0189-chapter-21.md` |
-| 008 | 4 | 190 | 174 | chapter21 bull/action continuation; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0190-chapter-21.md` |
-| 008 | 5 | 191 | 175 | chapter21 dialogue continuation; terminal quote open to scan192; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0191-chapter-21.md` |
-| 008 | 6 | 192 | 176 | completes scan191 quote; terminal `முடிந்த` open to scan193; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0192-chapter-21.md` |
-| 008 | 7 | 193 | 177 | completes `முடிந்த / அவளால்`; chapter21 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0193-chapter-21.md` |
-| 008 | 8 | 194 | 178 | chapter21 continuation; terminal `பாகனேரி` open to scan195; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0194-chapter-21.md` |
-| 008 | 9 | 195 | 179 | completes `பாகனேரி / நோக்கிப் புறப்பட்டான்!`; chapter21 continuation; Pass1 text-complete; Pass2A reviewed / **1 correction** | needs-review | `pages/0195-chapter-21.md` |
-| 008 | 10 | 196 | 180 | chapter21 close; three centered closing ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0196-chapter-21.md` |
+| 008 | 1 | 187 | — | illustrated chapter21 opener; displayed numeral21; incoming 186→187 **CLEAN CHAPTER BOUNDARY / AUDITED**; Pass1 text-complete; Pass2A reviewed / **0 corrections** ; Pass2B reviewed / **0 corrections** / **0 historical-glyph corrections** | needs-review | `pages/0187-chapter-21.md` |
+| 008 | 2 | 188 | 172 | chapter21 body continuation; Pass1 text-complete; Pass2A reviewed / **2 corrections** ; Pass2B reviewed / **1 correction** / **0 historical-glyph corrections** | needs-review | `pages/0188-chapter-21.md` |
+| 008 | 3 | 189 | 173 | chapter21 body continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** ; Pass2B reviewed / **0 corrections** / **0 historical-glyph corrections** | needs-review | `pages/0189-chapter-21.md` |
+| 008 | 4 | 190 | 174 | chapter21 bull/action continuation; Pass1 text-complete; Pass2A reviewed / **1 correction** ; Pass2B reviewed / **0 corrections** / **0 historical-glyph corrections** | needs-review | `pages/0190-chapter-21.md` |
+| 008 | 5 | 191 | 175 | chapter21 dialogue continuation; terminal quote open to scan192; Pass1 text-complete; Pass2A reviewed / **0 corrections** ; Pass2B reviewed / **0 corrections** / **0 historical-glyph corrections** | needs-review | `pages/0191-chapter-21.md` |
+| 008 | 6 | 192 | 176 | completes scan191 quote; terminal `முடிந்த` open to scan193; Pass1 text-complete; Pass2A reviewed / **0 corrections** ; Pass2B reviewed / **1 correction** / **0 historical-glyph corrections** | needs-review | `pages/0192-chapter-21.md` |
+| 008 | 7 | 193 | 177 | completes `முடிந்த / அவளால்`; chapter21 continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** ; Pass2B reviewed / **0 corrections** / **0 historical-glyph corrections** | needs-review | `pages/0193-chapter-21.md` |
+| 008 | 8 | 194 | 178 | chapter21 continuation; terminal `பாகனேரி` open to scan195; Pass1 text-complete; Pass2A reviewed / **0 corrections** ; Pass2B reviewed / **1 correction** / **0 historical-glyph corrections** | needs-review | `pages/0194-chapter-21.md` |
+| 008 | 9 | 195 | 179 | completes `பாகனேரி / நோக்கிப் புறப்பட்டான்!`; chapter21 continuation; Pass1 text-complete; Pass2A reviewed / **1 correction** ; Pass2B reviewed / **0 corrections** / **0 historical-glyph corrections** | needs-review | `pages/0195-chapter-21.md` |
+| 008 | 10 | 196 | 180 | chapter21 close; three centered closing ornaments; Pass1 text-complete; Pass2A reviewed / **0 corrections** ; Pass2B reviewed / **0 corrections** / **0 historical-glyph corrections** | needs-review | `pages/0196-chapter-21.md` |
 | 008 | 11 | 197 | — | illustrated chapter22 opener; displayed numeral22; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0197-chapter-22.md` |
 | 008 | 12 | 198 | 182 | chapter22 bull-fight continuation; Pass1 text-complete; Pass2A reviewed / **0 corrections** / reread **1 correction**; source-visible `கொண்டது மல்லாமல்` retained | needs-review | `pages/0198-chapter-22.md` |
 | 008 | 13 | 199 | 183 | chapter22 bull-fight / gathering transition; Pass1 text-complete; Pass2A reviewed / **0 corrections** | needs-review | `pages/0199-chapter-22.md` |
@@ -1401,3 +1401,31 @@ These are source-intake landmarks only; Pass1 remains responsible for canonical 
 - exact next activity — **Part008 Pass2B Batch1 scans187–196 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_008_PASS2A_PROGRESS.md`
 <!-- PART008_PASS2A_FINAL_CURRENT_END -->
+
+<!-- PART008_PASS2B_BATCH1_CURRENT_START -->
+## Part008 Pass2B Batch1 — current authoritative state
+
+**PART008 PASS2B — ACTIVE — 10/28 REVIEWED.**
+
+- Pass2A authority — **COMPLETE / PASS — 28/28 REVIEWED**
+- Batch1 — **scans187–196 / local pages1–10 — REVIEWED / PASS**
+- lexical / spacing / punctuation corrections — **3 occurrences / scans188,192,194**
+- historical-glyph corrections — **0**
+- Pass2A readings superseded — **3 occurrences / scans188,192,194**
+- Pass2A correction reversals — **0**
+- zero-correction Batch1 scans — **7**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+- reviewed status / visual fidelity — **needs-review / needs-review**
+- scan187 chapter21 opener — **PASS**
+- 191→192 quoted continuation — **PASS**
+- 192→193 `முடிந்த / அவளால்` — **PASS**
+- 194→195 `பாகனேரி / நோக்கிப் புறப்பட்டான்!` — **PASS**
+- scan196 chapter21 close / three ornaments — **PASS**
+- incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
+- frozen Parts001–007 body edits — **0**
+- Part009 leakage — **0**
+- exact next activity — **Part008 Pass2B Batch2 scans197–206 / local pages11–20**
+- durable progress — `works/thenpandi-singam/PART_008_PASS2B_PROGRESS.md`
+<!-- PART008_PASS2B_BATCH1_CURRENT_END -->

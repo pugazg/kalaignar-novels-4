@@ -2780,3 +2780,31 @@ Historical Pass1 / Pass2A / Pass2B / Pass3 / audit records that say `needs-revie
 - exact next activity — **Part008 Pass2B Batch1 scans187–196 / local pages1–10**
 - durable progress — `works/thenpandi-singam/PART_008_PASS2A_PROGRESS.md`
 <!-- PART008_PASS2A_FINAL_CURRENT_END -->
+
+<!-- PART008_PASS2B_BATCH1_CURRENT_START -->
+## Part008 Pass2B Batch1 — current authoritative state
+
+**PART008 PASS2B — ACTIVE — 10/28 REVIEWED.**
+
+- Pass2A authority — **COMPLETE / PASS — 28/28 REVIEWED**
+- Batch1 — **scans187–196 / local pages1–10 — REVIEWED / PASS**
+- lexical / spacing / punctuation corrections — **3 occurrences / scans188,192,194**
+- historical-glyph corrections — **0**
+- Pass2A readings superseded — **3 occurrences / scans188,192,194**
+- Pass2A correction reversals — **0**
+- zero-correction Batch1 scans — **7**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+- reviewed status / visual fidelity — **needs-review / needs-review**
+- scan187 chapter21 opener — **PASS**
+- 191→192 quoted continuation — **PASS**
+- 192→193 `முடிந்த / அவளால்` — **PASS**
+- 194→195 `பாகனேரி / நோக்கிப் புறப்பட்டான்!` — **PASS**
+- scan196 chapter21 close / three ornaments — **PASS**
+- incoming **186→187 — CLEAN CHAPTER BOUNDARY / AUDITED**
+- outgoing **214→215 — PENDING direct audit / source-limited**
+- frozen Parts001–007 body edits — **0**
+- Part009 leakage — **0**
+- exact next activity — **Part008 Pass2B Batch2 scans197–206 / local pages11–20**
+- durable progress — `works/thenpandi-singam/PART_008_PASS2B_PROGRESS.md`
+<!-- PART008_PASS2B_BATCH1_CURRENT_END -->

@@ -43,4 +43,16 @@ transcription_method: "direct source-image transcription; Part008 Pass1 Batch1 s
 - Pass2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2A.
 
+## Formal Part008 Pass 2B review
+
+- fresh independent direct-source reread completed against rendered Part008 source pixels;
+- lexical content, source-visible spacing, punctuation and historical/typographic glyph forms audited independently of Pass2A;
+- lexical / spacing / punctuation corrections: **0**;
+- historical-glyph corrections: **0**;
+- Pass2A readings superseded: **0**;
+- terminal quoted reply after `உபத்திரவங்களைப் போக்குவதற்கு` remains open to scan192 / **PASS**;
+- unresolved Pass2B questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is authorized at Pass2B.
+
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 191; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: 175; PASS 1 TEXT-COMPLETE / needs-review -->
